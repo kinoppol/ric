@@ -1,0 +1,1111 @@
+{
+  "version": 1,
+  "name": "[671] 31900-1002 การจัดการข้อมูลขนาดใหญ่เบื้องต้น (1-2-2) Introduction of Big Data",
+  "section": "สทส 1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomf2b8c989@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1adZD6o6Pe9HLESBPgJFYAUvcPhK2qpYLFMfg7Z0h9OqSXsTe2rslcF33Sz31UacQ3m8XsHoC",
+    "name": "[671] 31900-1002 กำรจัดการข้อมูลขนาดใหญ่เบื้องต้น (1-2-2) Introduction of Big Data สทส 1/2",
+    "openUrl": "https://drive.google.com/drive/folders/1adZD6o6Pe9HLESBPgJFYAUvcPhK2qpYLFMfg7Z0h9OqSXsTe2rslcF33Sz31UacQ3m8XsHoC"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_backtoschool.jpg",
+  "courseState": "ACTIVE",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "ปาลิตา ปูลา"
+      },
+      "emailAddress": "67319010003@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+      },
+      "emailAddress": "67319010004@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "กนกพร ผลไม้"
+      },
+      "emailAddress": "67319010002@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "หน่วยที่ 1 หลักการเบื้องต้นของข้อมูลขนาดใหญ่"
+  }, {
+    "name": "หน่วยที่ 2 เทคโนโลยีและเครื่องมือของข้อมูลขนาดใหญ่"
+  }, {
+    "name": "หน่วยที่ 3 การจัดการฐานข้อมูลด้วยภาษา SQL"
+  }, {
+    "name": "หน่วยที่ 4 ฐานข้อมูลโนเอสคิวแอล (NoSQL)"
+  }, {
+    "name": "หน่วยที่ 5 ความเสี่ยงและการออกแบบความปลอดภัยการใช้ข้อมูล"
+  }, {
+    "name": "หน่วยที่ 6 การประมวลผลแบบกระจาย"
+  }, {
+    "name": "หน่วยที่ 7 เทคโนโลยีการจัดการข้อมูลขนาดใหญ่ด้วยฮาดูป"
+  }, {
+    "name": "หลักสูตรรายวิชา"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-18T09:40:03.357Z",
+    "updateTime": "2024-06-18T09:42:02.318Z",
+    "publicationTime": "2024-06-18T09:42:02.026Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 ฐานข้อมูลโนเอสคิวแอล (NoSQL)"
+    }],
+    "courseWork": {
+      "title": "สร้างแอปพลิเคชั่นทักทายผู้ใช้",
+      "description": "สร้างแอปด้วย Appinventor กล่าวทักทายผู้ใช้งาน\nจับภาพหน้าจอขณะที่แอพกล่าวยินดีต้อนรับส่งมาเป็นรูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eสร้างแอปด้วย Appinventor กล่าวทักทายผู้ใช้งาน\u003cbr\u003eจับภาพหน้าจอขณะที่แอพกล่าวยินดีต้อนรับส่งมาเป็นรูปภาพ\u003c/div\u003e",
+      "dueTime": "2024-06-25T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1prLeGkv9IqmCNT-lH1OgWIvmMNJIxX3u",
+              "title": "สร้างแอพ.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1prLeGkv9IqmCNT-lH1OgWIvmMNJIxX3u/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNSSNVVSvLkcAIbvuHx6UkIfTFV67tZOpjI4Tf35Zv8_BrYftA7_UsiaG_7TnF4mGpowJ1ewf1P0brKjtsxU6PS5PooSlglePGkfd2LetrKuKg\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RM98ySAaVrWQ3zvJMJ8HrAJT9h1rFEZe",
+              "title": "Screenshot_20240618-164835.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1RM98ySAaVrWQ3zvJMJ8HrAJT9h1rFEZe/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM10490n7iHoqWp039GmrS0t3wL1ixgaEzWSuVtS_gQsyis3kYZiJDFQAjlSpl4k5zU488HhS_Vow1fRl6z8uj6a9m7LSkZayH6VMkw88AMiGU\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1XYEhaOF53GDsP-YYz15naQ7WrtxiRQ6Q",
+              "title": "Screenshot_20240618_174040.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1XYEhaOF53GDsP-YYz15naQ7WrtxiRQ6Q/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBORvB7n7g-fINxxpgRLO8qPWypqzpdHsJRHuQlNS9cpFVzoHwaEVGdYHVb7545bj0yV91PwJUb8a_alrkspu9fha9keI1sacq__8Nej1FF9dJ8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-18T09:10:38.288Z",
+    "updateTime": "2024-06-18T09:10:45.029Z",
+    "publicationTime": "2024-06-18T09:10:44.791Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 ฐานข้อมูลโนเอสคิวแอล (NoSQL)"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://appinventor.mit.edu/",
+        "title": "MIT App Inventor",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://appinventor.mit.edu/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Appinventor"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-11T08:40:05.991Z",
+    "updateTime": "2024-06-11T09:53:45.177Z",
+    "publicationTime": "2024-06-11T09:53:32.439Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 ฐานข้อมูลโนเอสคิวแอล (NoSQL)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1qxclY_JoApMHOaWHqE55ECiPYIarYOGFmNlt4LEMIcQ/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/D6cIakiTNKWFrKi7ow1jKldBoWKUoBXtrueQBMIP4PEaQXSbjndzIxU7hWvDqHO9a7l4nym4Tgk\u003dw90-h90-p",
+        "editId": "1qxclY_JoApMHOaWHqE55ECiPYIarYOGFmNlt4LEMIcQ"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+      "dueTime": "2024-06-18T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-11T08:23:44.585Z",
+    "updateTime": "2024-06-11T08:39:10.646Z",
+    "publicationTime": "2024-06-11T08:39:10.401Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 ฐานข้อมูลโนเอสคิวแอล (NoSQL)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1XevRF8EKMISqyV0393s0ZzSv6Vn95T72XQWI5Je1Trg/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/brXanYuTHyS8kqgW7i8jmnvN2hq5WEvcuNe3azWnqUQHcSlmQS0LSjC7nsiwsL528E8uap7fxdc\u003dw90-h90-p",
+        "editId": "1XevRF8EKMISqyV0393s0ZzSv6Vn95T72XQWI5Je1Trg"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+      "dueTime": "2024-06-12T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-11T08:22:40.576Z",
+    "updateTime": "2024-06-11T08:23:02.053Z",
+    "publicationTime": "2024-06-11T08:23:01.907Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 ฐานข้อมูลโนเอสคิวแอล (NoSQL)"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://blog.cloudhm.co.th/sql-vs-nosql/",
+        "title": "SQL vs NoSQL คืออะไร? เหมาะกับลักษณะงานแบบใด? - Cloud HM",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://blog.cloudhm.co.th/sql-vs-nosql/"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1AM-7xpufMwjpXIpRv-g4MHGiTW6EzXKgRUzvlBUxJbE",
+          "title": "หน่วยที่ 4  ฐานข้อมูล NoSQL",
+          "alternateLink": "https://docs.google.com/presentation/d/1AM-7xpufMwjpXIpRv-g4MHGiTW6EzXKgRUzvlBUxJbE/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMNhFdrTyJ5s9dFVYpnqgvxUtTuPEQ_R3X5mVoaE4aD01EthEKyz7uSYqFNXxfeRiO9YWWKmUvCQxsi9HlxrDzmeRNZRytAcpCJ6iIqwXDo4Rx42iWuIBwIB-xmZH3xnyFw7A\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "NoSQL คืออะไร"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-11T04:55:18.613Z",
+    "updateTime": "2024-06-11T04:55:23.331Z",
+    "publicationTime": "2024-06-11T04:55:23.221Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 ฐานข้อมูลโนเอสคิวแอล (NoSQL)"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "kTQLhbSk-_w",
+        "title": "EP 24. รู้จัก NoSQL ฉบับเร็วจนไฟลุก  - สาระเดฟ ใน 3 นาที",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dkTQLhbSk-_w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kTQLhbSk-_w/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "รู้จัก NoSQL"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-04T09:54:00.782Z",
+    "updateTime": "2024-06-04T09:54:14.233Z",
+    "publicationTime": "2024-06-04T09:54:13.994Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การจัดการฐานข้อมูลด้วยภาษา SQL"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.itthailand.net/download-and-install-heidisql/",
+        "title": "การดาวน์โหลดและติดตั้ง HeidiSQL - IT Thailand",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.itthailand.net/download-and-install-heidisql/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การติดตั้งโปรแกรม HeidiSQL"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-04T09:04:56.579Z",
+    "updateTime": "2024-06-04T09:05:09.765Z",
+    "publicationTime": "2024-06-04T09:05:09.566Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การจัดการฐานข้อมูลด้วยภาษา SQL"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1xW7lfyfJgDYBMQ7edywsP-ZGnVdcmlgM",
+          "title": "summary-sql-2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1xW7lfyfJgDYBMQ7edywsP-ZGnVdcmlgM/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMh1UdTYToaFwwp2GncVCEfgyf-DzrG4WT_B8WUxd64Tz7I1LeAztJJ7k3k8L1-eLJd9chGrzglMyxTKWolxPa9MvGmnliARw8VVTFKJ6wDdA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำสั่ง SQL"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-28T09:58:23.792Z",
+    "updateTime": "2024-05-28T10:00:07.522Z",
+    "publicationTime": "2024-05-28T10:00:07.229Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การจัดการฐานข้อมูลด้วยภาษา SQL"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1q2vwXNII3V0pEkdXiEuoSK76LnN82ZdF",
+          "title": "Screenshot 2024-05-28 165931.png",
+          "alternateLink": "https://drive.google.com/file/d/1q2vwXNII3V0pEkdXiEuoSK76LnN82ZdF/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOJOMuGSt6T8ipD4rds4e738scHFqXjfiAlciJm7mqsY6LAXZBwnf2oRIr7K-QpLYJHJ6bxmyAC7JpUzV3SnMX_f981u-Gu1rKZdMzb_L2XZA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้างฐานข้อมูล MyDB",
+      "description": "สร้างฐานข้อมูล MyDB และตารางชื่อ Student เพื่อเก็บข้อมูลนักศึกษาในห้อง",
+      "descriptionHtml": "\u003cdiv\u003eสร้างฐานข้อมูล MyDB และตารางชื่อ Student เพื่อเก็บข้อมูลนักศึกษาในห้อง\u003c/div\u003e",
+      "dueTime": "2024-06-04T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1cDGmS2scJYTM-RO7aRfYpp_ca7BJhOyk",
+              "title": "กนกพร.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1cDGmS2scJYTM-RO7aRfYpp_ca7BJhOyk/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO5stlwmfgllhsm_azF6njjYAl-zYQmMPjdK4KwnsHBiia7xPT1_vBMh8cCITmyPTHNhTraxkPX_UL8_saQ_WE3EBiAy-jDgGdZqnQFAxnuslI\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12DNG3H24wQqEMPhd7KTMC-NHVXVwQ1Jh",
+              "title": "จับภาพ.PNG",
+              "alternateLink": "https://drive.google.com/file/d/12DNG3H24wQqEMPhd7KTMC-NHVXVwQ1Jh/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNkgCusH1XHs2dnLKbtpf_4SAN-uR7q1LM0hqFTBm5Fk8xRiAZ8P2eHi0UsCKtS7f2DX31nVBFYqtnxtE7aS0ApGJrCWbZO9zxWBrsPHttMB4I\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1H-pbSzuPbv1-TSSiou9UqFBXSFkocJS5",
+              "title": "ปาลิตา.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1H-pbSzuPbv1-TSSiou9UqFBXSFkocJS5/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM3PsYr6gDRanP1Ai7M1jmDr_tSBFc0EUkj4KqaEYJGOcykRLxWhgNxW_wsuVei8B0SUGzMMfcJAt5sCMlm9OXLVW-jyQip9VXsXsA-zsQ2uGc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-28T08:50:59.039Z",
+    "updateTime": "2024-05-28T08:59:55.920Z",
+    "publicationTime": "2024-05-28T08:59:55.784Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การจัดการฐานข้อมูลด้วยภาษา SQL"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1gkhke_qM1qZsKSWyuojFXsonbSwtrGD0",
+          "title": "1-2018-04-07-09-49-35.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1gkhke_qM1qZsKSWyuojFXsonbSwtrGD0/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOTo9QMij-NJGA6omZwhK_JTSsVp4tbe_xNFlkqUlyC4_2WIerZsDW7W435RG3nB0u066NQtj_zSYYIfGzjc8mPAXNMqS6OVkTer8q-sQ-90Q\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ฐานข้อมูลมาเรียดีบีและภาษาเอสคิวแอล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-28T08:45:33.066Z",
+    "updateTime": "2024-05-28T08:45:47.759Z",
+    "publicationTime": "2024-05-28T08:45:47.500Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การจัดการฐานข้อมูลด้วยภาษา SQL"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.apachefriends.org/download.html",
+        "title": "Download XAMPP",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.apachefriends.org/download.html"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "โปรแกรม Xampp"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-28T05:08:00.036Z",
+    "updateTime": "2024-05-28T05:08:34.571Z",
+    "publicationTime": "2024-05-28T05:08:34.341Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การจัดการฐานข้อมูลด้วยภาษา SQL"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1QA6SPUZAt3eFtO6YTwnESkZtS1xhyGkD",
+          "title": "sql_ebook_codingthailand.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1QA6SPUZAt3eFtO6YTwnESkZtS1xhyGkD/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMXVKokxZkT6_pnaaow-qQFxEmeoiBEu0jOo9Xz3OKXHyA3dvt4egzFrFvr6U-paqlihmtRlFYOeFT4wZxEL41VwHPITzsGBLNgStz6qEV3ZA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การจัดการฐานข้อมูลเบื้องต้นด้วย SQL"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-21T02:49:10.911Z",
+    "updateTime": "2024-05-21T09:48:46.739Z",
+    "publicationTime": "2024-05-21T09:48:46.475Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 เทคโนโลยีและเครื่องมือของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1ix-A4kCA0U3XdtXtZjwLykJ3MwHfaU445A9Ha8mBJnM/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/MwqGLZa4pvuKmVTCr645FGQSamxjma0E5rnkTAO-pzZn0yD0ApwpNAklOb3IRKnhp5xY4bMEUwk\u003dw90-h90-p",
+        "editId": "1ix-A4kCA0U3XdtXtZjwLykJ3MwHfaU445A9Ha8mBJnM"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+      "dueTime": "2024-05-28T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-21T02:10:00.541Z",
+    "updateTime": "2024-05-21T05:02:09.293Z",
+    "scheduledTime": "2024-05-21T05:00:00Z",
+    "publicationTime": "2024-05-21T05:02:09.116Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 เทคโนโลยีและเครื่องมือของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/15zjNQ6XKCRhhCVM5KOCgaBO-AwUAbzKWVN5Jkxtx32k/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/Ok28QG2Wu92FBLuFB24IjFoLKhCoMOYViygAYtgna-mUAk0lQoSoMOlSqPXoo7t015HhT3EGEvE\u003dw90-h90-p",
+        "editId": "15zjNQ6XKCRhhCVM5KOCgaBO-AwUAbzKWVN5Jkxtx32k"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+      "dueTime": "2024-05-21T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-21T02:06:50.057Z",
+    "updateTime": "2024-05-21T02:06:52.889Z",
+    "publicationTime": "2024-05-21T02:06:52.646Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 เทคโนโลยีและเครื่องมือของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1P-BWvV3eLStN4McA9i2D1dIJD1ixZg05",
+          "title": "เทคโนโลยีสำหรับ Big Data.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1P-BWvV3eLStN4McA9i2D1dIJD1ixZg05/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNXzs-XEn_LdF0lORo8MGr7c6QN3ZbH1CQrdRa8hlLux8veItZA25d83uEekMAOgDCKjreuJXu_7QMx_UFmUyCuvFBlBpGUWnIso3v6cG6pRg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "เทคโนโลยีสำหรับ Big Data "
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-14T08:20:37.258Z",
+    "updateTime": "2024-05-14T10:02:10.110Z",
+    "publicationTime": "2024-05-14T10:02:09.837Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการเบื้องต้นของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/15xbV3E9joMeOvW3ihKRQo1SSCFCinr1mYY54fsoNGWs/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/Jm6JJLi7NrDbOXm98U1YH04XGiVj-jTdqHpVpUnq-Hd7hojZoCjyq8-KpTG28TeCqPGRiAjijRY\u003dw90-h90-p",
+        "editId": "15xbV3E9joMeOvW3ihKRQo1SSCFCinr1mYY54fsoNGWs"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+      "dueTime": "2024-05-20T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-14T08:19:51.575Z",
+    "updateTime": "2024-05-14T08:20:06.122Z",
+    "publicationTime": "2024-05-14T08:20:05.907Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการเบื้องต้นของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1dtB3HoUJ8OsMQJMTdvIKkrcRezjVTcB-jIKYUQvkDT4/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/r7eUU4vj83ty-c6meOyQ1uurSObwsn4n2zXY_QMyWRgJeLIzGoOnYY3c9h4frTcPhemw4g_1MtU\u003dw90-h90-p",
+        "editId": "1dtB3HoUJ8OsMQJMTdvIKkrcRezjVTcB-jIKYUQvkDT4"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "dueTime": "2024-05-14T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-14T08:18:16.314Z",
+    "updateTime": "2024-05-14T08:18:24.129Z",
+    "publicationTime": "2024-05-14T08:18:23.895Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการเบื้องต้นของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1iJT03KrU-3l0WOIJNwRMr8JeOIYcVb4m",
+          "title": "99711-1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1iJT03KrU-3l0WOIJNwRMr8JeOIYcVb4m/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM5nZsoPqtZ6R2z2unJzfgr70Ax_0V6leL08oZLnEB7V6skCaOYrI1UXuF3NLnDxvI9TUzJ2_ayorRlz1EQoBoQfhdCExWJNBMO62-j_C7J0A\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "หลักการของข้อมูลขนาดใหญ่"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-14T08:17:49.705Z",
+    "updateTime": "2024-05-14T08:17:56.021Z",
+    "publicationTime": "2024-05-14T08:17:55.780Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการเบื้องต้นของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1mtTAvnmAEvgWN1q7ixXRhMGNTIe30FOe",
+          "title": "ข้อมูลขนาดใหญ่.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1mtTAvnmAEvgWN1q7ixXRhMGNTIe30FOe/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPLFPvFApTVLTNKoSXHRsnEmDT4hxx-8kiDEiLXXirHAKJVoR8V5INvOioZW7IMLCJhNIwl1yVT29ISjOEIXeSu5K51b6TjqhnqCi5KbSqmkA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "สรุปยาว ๆ ข้อมูลขนาดใหญ่"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-14T08:17:24.096Z",
+    "updateTime": "2024-05-14T08:17:29.618Z",
+    "publicationTime": "2024-05-14T08:17:29.382Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการเบื้องต้นของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1fUeRFWpbRQZ_vCMCYv-EP4fGJcD1DntM",
+          "title": "วิชาญ 03 2560 Big Data ในภาครัฐ.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1fUeRFWpbRQZ_vCMCYv-EP4fGJcD1DntM/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM98mWnXgnOvPDlkVpdx_X10SIUQC1R0cuM1Go7IVvDws-UchB9FcyyEal0UJK7kYoCRZy39b3u91oURY_C9u2Y3lJH1L5d9gBjRWz_GiiMpQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Big Data ในภาครัฐ"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-14T08:16:45.971Z",
+    "updateTime": "2024-05-14T08:16:54.597Z",
+    "publicationTime": "2024-05-14T08:16:54.359Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการเบื้องต้นของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ae9ak41882LOSgL3VX8tYXjSmNV-GQNW",
+          "title": "big data.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ae9ak41882LOSgL3VX8tYXjSmNV-GQNW/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOwbw56SBvBEKTXDutUTEo55kVuxWqI3lIakYGCMF155ttOTsT6GAvvjLTUgKJ9EuMHXb3pmFGOOqyBQxgxcDgF1pHvACVuXFipSFtSFUY5kA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "สรุปสั้น ๆ Big Data"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-14T08:16:07.061Z",
+    "updateTime": "2024-05-14T08:16:16.369Z",
+    "publicationTime": "2024-05-14T08:16:16.167Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการเบื้องต้นของข้อมูลขนาดใหญ่"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "z_xcb__IfY8",
+        "title": "Big Data คืออะไร? มีไว้แล้วใครได้ประโยชน์🤔 | LDA เฟื่องลดา",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dz_xcb__IfY8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z_xcb__IfY8/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Big Data คืออะไร? มีไว้แล้วใครได้ประโยชน์"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T01:24:13.236Z",
+    "updateTime": "2024-05-13T01:24:24.424Z",
+    "publicationTime": "2024-05-13T01:24:24.288Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตรรายวิชา"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1XM1_FdormDTx4FOj1zdebh3IUFPCV5F3",
+          "title": "31900-1002.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1XM1_FdormDTx4FOj1zdebh3IUFPCV5F3/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPHls0PPLG5edAcK3SyqnXMkGZRD1nsYPLDjw-MoM7FcVDBWeeGABJoN9jia6E96UlK5ohKpqEEGURfEjqQ40aHFClZvdFq2cI5EqpSQG4oqw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำอธิบายรายวิชา"
+    }
+  }]
+}

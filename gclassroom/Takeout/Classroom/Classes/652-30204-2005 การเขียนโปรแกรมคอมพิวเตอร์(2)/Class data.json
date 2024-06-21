@@ -1,0 +1,4701 @@
+{
+  "version": 1,
+  "name": "652-30204-2005 การเขียนโปรแกรมคอมพิวเตอร์",
+  "section": "สคพ. 2/3",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom79fbb196@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1Siq9UqT_ePISoPfSZhguhChoJoQSwAtjfWyESLbIXu9aZtPdRSosh5HHOnStaxjfPnf7knqc",
+    "name": "สำเนาของ 652-30204-2005 การเขียนโปรแกรมคอมพิวเตอร์ สคพ. 2/3",
+    "openUrl": "https://drive.google.com/drive/folders/1Siq9UqT_ePISoPfSZhguhChoJoQSwAtjfWyESLbIXu9aZtPdRSosh5HHOnStaxjfPnf7knqc"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "นางสาวอุษา ศิริเวช"
+      },
+      "emailAddress": "64302040033@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+      },
+      "emailAddress": "64302040022@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวอริยา อาสาเสนา"
+      },
+      "emailAddress": "64302040032@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นายพงศกร วันนิจ"
+      },
+      "emailAddress": "64302040060@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+      },
+      "emailAddress": "64302040050@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวอรปรียา ทองสำนึก"
+      },
+      "emailAddress": "64302040031@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวรัชดาพร มนตรี"
+      },
+      "emailAddress": "64302040027@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวปัญจวรรณ ทดนาที"
+      },
+      "emailAddress": "64302040026@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวปนัดดา สุวรรณศรี"
+      },
+      "emailAddress": "64302040023@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวณัฐวดี คุณแสน"
+      },
+      "emailAddress": "64302040019@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นายเจษฎา น้ำจันทร์"
+      },
+      "emailAddress": "64302040017@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวจริยาพร ชื่นตา"
+      },
+      "emailAddress": "64302040016@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางสาวกมลพรรณ บุญไชย"
+      },
+      "emailAddress": "64302040015@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "แนะนำรายวิชา"
+  }, {
+    "name": "หน่วยที่ 0 ทบทวนการเขียนโปรแกรมคอมพิวเตอร์"
+  }, {
+    "name": "หน่วยที่ 1 การเขียนโปรแกรมและแนวคิดเชิงวัตถุ"
+  }, {
+    "name": "หน่วยที่ 2 การเขียนโปรแกรมด้วยภาษา PHP"
+  }, {
+    "name": "หน่วยที่ 3 เริ่มต้นการเขียนโปรแกรมด้วยภาษา PHP"
+  }, {
+    "name": "หน่วยที่ 4 ชนิดข้อมูล ตัวแปร นิพจน์และตัวดําเนินการ"
+  }, {
+    "name": "หน่วยที่ 5 คําสั่งควบคุม"
+  }, {
+    "name": "หน่วยที่ 6 คุกกี้และเซสชัน"
+  }, {
+    "name": "หน่วยที่ 7 การสร้างฟังก์ชั่น (function)"
+  }, {
+    "name": "หน่วยที่ 8 ฐานข้อมูล"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-01-23T01:44:04.593Z",
+    "updateTime": "2023-01-23T01:44:09.661Z",
+    "publicationTime": "2023-01-23T01:44:09.397Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 คุกกี้และเซสชัน"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1aDdbXzksUHgpH9bqJds7Wg0G41DHKK6F",
+          "title": "cookie.php",
+          "alternateLink": "https://drive.google.com/file/d/1aDdbXzksUHgpH9bqJds7Wg0G41DHKK6F/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPRK016S9gmHhtlJoQjhWrU9XJ83_TTbpV-ObH9I-QPXxpVxHkCE-5OfNHV047_mlIylSG-d30o3J1ddAKpyZIOqDB0tj_hu-ov2q_Y3TuojFc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้างหน้าเว็บที่มีระบบลงชื่อเข้าใช้โดยใช้",
+      "description": "สร้างหน้าเว็บที่มีระบบลงชื่อเข้าใช้โดยใช้ Cookie หรือ Session จากนั้นอัพโหลดขึ้น Server แล้วส่งมาเป็นลิงก์",
+      "descriptionHtml": "\u003cdiv\u003eสร้างหน้าเว็บที่มีระบบลงชื่อเข้าใช้โดยใช้ Cookie หรือ Session จากนั้นอัพโหลดขึ้น Server แล้วส่งมาเป็นลิงก์\u003c/div\u003e",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-01-09T02:10:20.998Z",
+    "updateTime": "2023-01-09T02:10:26.676Z",
+    "publicationTime": "2023-01-09T02:10:26.637Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 เริ่มต้นการเขียนโปรแกรมด้วยภาษา PHP"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1WndpW6OEY6he-fADNTEGTGAHO0G3XzWo",
+          "title": "ebook_php_by_Monkeywebstudio.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1WndpW6OEY6he-fADNTEGTGAHO0G3XzWo/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPtUs0uF8PcWdnakYMdLUCFq6tlfdSC10iBKjsIxKyglnNcBslP3FfWC-d6ohhQ4RveQmaUjOHkKWiTbAUpK5a4SqVPwn-6LmrjZ_nMhaYrXDc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "เริ่มต้นการเขียนโปรแกรมด้วย ภาษา PHP"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-01-09T02:08:48.810Z",
+    "updateTime": "2023-01-09T02:08:53.221Z",
+    "publicationTime": "2023-01-09T02:08:52.902Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ฐานข้อมูล"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Gk3hxR2rCypyT_IyCOxw78HFIHckuJo9",
+          "title": "u643020401.sql",
+          "alternateLink": "https://drive.google.com/file/d/1Gk3hxR2rCypyT_IyCOxw78HFIHckuJo9/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1tZ8_fSJPA1leIHF3e3kTgLvlrNZgFtqc",
+          "title": "Screenshot 2022-12-27 135804.png",
+          "alternateLink": "https://drive.google.com/file/d/1tZ8_fSJPA1leIHF3e3kTgLvlrNZgFtqc/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMHVVewLVB2-xPNlerCZufLXffG8_8tfzyJ1xxtu98iaq1a85xw051aSL0BqIMlsxvnzkgAHMf6FCsth5gnV6shyUmPIxDxoYqdUUqXzoNxqPU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้างตาราง user",
+      "description": "สร้างตาราง user หรือ import ตางรางจากไฟล์แนบแล้วจับาหน้าจอส่งมาเป็นรูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eสร้างตาราง user หรือ import ตางรางจากไฟล์แนบแล้วจับาหน้าจอส่งมาเป็นรูปภาพ\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-01-09T02:08:35.718Z",
+    "updateTime": "2023-01-09T02:08:38.745Z",
+    "publicationTime": "2023-01-09T02:08:38.706Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 การสร้างฟังก์ชั่น (function)"
+    }],
+    "courseWork": {
+      "title": "โปรแกรมคำนวนเส้นรอบวง",
+      "description": "เขียนโปรแกรมคำนวนเส้นรอบวงกลมจากสูตร 2 * pi * r",
+      "descriptionHtml": "\u003cdiv\u003eเขียนโปรแกรมคำนวนเส้นรอบวงกลมจากสูตร 2 * pi * r\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-01-09T02:08:24.841Z",
+    "updateTime": "2023-01-09T02:08:27.364Z",
+    "publicationTime": "2023-01-09T02:08:27.157Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 คุกกี้และเซสชัน"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1HbGHy0oGDtWM_nnIt6k7gnywqzFidChc",
+          "title": "cookie \u0026 session.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1HbGHy0oGDtWM_nnIt6k7gnywqzFidChc/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNJd5sntkM7rB-qQA67a7MX0hI8XMnQ8cjc2Eqp8Zh5UiPClhWoeix79k-LCIU6P0LTdcIjSIKdYfB-0HwtJ2g9MN765YU2YUOVoQBx3RbR9-U\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1F8nofWpxm7oDFyQ4m5iWrNE_EkgR-pHh",
+          "title": "CookieSession.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1F8nofWpxm7oDFyQ4m5iWrNE_EkgR-pHh/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNUBUPfhkJ_ufUH-Arm2LHMUsfI9RCeXUwwPKri3isMJ-0HkrhnJasMKJ9GcUcaGUAt4tSr53CbDn7YRIlqPkJMFrRu_z0pHapS2kln5zcyeaQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คุกกี้และเซสชัน"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-01-09T02:07:58.625Z",
+    "updateTime": "2023-01-09T02:08:03.232Z",
+    "publicationTime": "2023-01-09T02:08:02.878Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 คําสั่งควบคุม"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1rnWVajsmq_0ELGz0X3WfNGZjP-cOflsZ",
+          "title": "sr.zip",
+          "alternateLink": "https://drive.google.com/file/d/1rnWVajsmq_0ELGz0X3WfNGZjP-cOflsZ/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ตัวอย่างเมนู"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-01-09T02:07:33.380Z",
+    "updateTime": "2023-01-09T02:11:35.797Z",
+    "publicationTime": "2023-01-09T02:07:41.849Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 ชนิดข้อมูล ตัวแปร นิพจน์และตัวดําเนินการ"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1OeB4Bq7ZkpZIXqff7CNqtWMdzvWCqANj",
+          "title": "Screenshot 2022-11-29 101526.png",
+          "alternateLink": "https://drive.google.com/file/d/1OeB4Bq7ZkpZIXqff7CNqtWMdzvWCqANj/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOTPQTZ13EAqPtXiYjnUpd-MPAI96oqbbO8fO1NiNVLBoNkCvXhT9P5BX1NGglIfPUGmfDfGXErmVSRAFOC4Nkg-gUP_cv6ZEtUc49vII3fQLU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "เขียนโปรแกรม IF",
+      "description": "เขียนโปรแกรม IF (Ebook หน้า 20) แล้วอัพโหลดเข้า Server จากนั้นคัดลอกลิงก์แล้ว ส่งมาเป็นลิงก์",
+      "descriptionHtml": "\u003cdiv\u003eเขียนโปรแกรม IF (Ebook หน้า 20) แล้วอัพโหลดเข้า Server จากนั้นคัดลอกลิงก์แล้ว ส่งมาเป็นลิงก์\u003c/div\u003e",
+      "dueTime": "2023-01-16T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040016/if.php?b\u003d160"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040015/if.php?b\u003d50"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040019/if.php?b\u003d45"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040031/if.php?b\u003d50"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040027/if.php/?b\u003d100"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040050/if.php?b\u003d45"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040032/if.php?b\u003d50"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040022/if.php?b\u003d50"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040033/if.php?b\u003d40"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-01-09T02:07:08.147Z",
+    "updateTime": "2023-01-23T02:05:43.927Z",
+    "publicationTime": "2023-01-09T02:07:12.145Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 คําสั่งควบคุม"
+    }],
+    "courseWork": {
+      "title": "โปรแกรมตัดเกรด",
+      "description": "เขียนโปรแกรมตัดเกรดด้วยภาษา PHP (e-book หน้า 22) จากนั้นอัพโหลดขึ้น Server http://bc.rvc.ac.th แล้วส่งด้วยลิงก์ของโปรแกรม",
+      "descriptionHtml": "\u003cdiv\u003eเขียนโปรแกรมตัดเกรดด้วยภาษา PHP (e-book หน้า 22) จากนั้นอัพโหลดขึ้น Server http://bc.rvc.ac.th แล้วส่งด้วยลิงก์ของโปรแกรม\u003c/div\u003e",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://localhost/KMP/grade.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://localhost/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%94%E0%B8%B5/grade.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040016/grade.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://localhost/%E0%B8%AD%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2/grade.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://localhost/suparat/grade.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040032/grade.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040022/grade.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040027/grade.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://localhost/ausa/grade.php"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-28T03:49:45.992Z",
+    "updateTime": "2022-11-28T03:49:56.385Z",
+    "publicationTime": "2022-11-28T03:49:56.331Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 เริ่มต้นการเขียนโปรแกรมด้วยภาษา PHP"
+    }],
+    "courseWork": {
+      "title": "ส่งโปรแกรมนาฬิกา",
+      "description": "เขียนโปรแกรมแสดงเวลาด้วยภาษา PHP แล้วอัพโหลดขึ้น Server จากนั้นคัดลอกลิงก์เพื่อส่ง",
+      "descriptionHtml": "\u003cdiv\u003eเขียนโปรแกรมแสดงเวลาด้วยภาษา PHP แล้วอัพโหลดขึ้น Server จากนั้นคัดลอกลิงก์เพื่อส่ง\u003c/div\u003e",
+      "dueTime": "2022-12-10T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040016/clock.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040016/clock.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64320240015/clock.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040031/clock.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040050/clock.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040032/clock.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040022/clock.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040027/clock.php"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "http://bc.rvc.ac.th/~u64302040033/clock.php"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-13T14:33:39.307Z",
+    "updateTime": "2022-11-13T14:38:27.379Z",
+    "publicationTime": "2022-11-13T14:33:43.330Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การเขียนโปรแกรมด้วยภาษา PHP"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1bG6s2QYVcXQvZieGiwGwmQMrQNUPIQsOB-ZRJZxcAf4/edit",
+        "title": "สร้างหน้าโปรไฟล์",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/zDFOaBcK3o16BL0vxMMqq_spAgqKl3Vh81uiNmoaXxal3K2Kv1IKoDrHd9IG5enOFhEZASz1N_s\u003dw90-h90-p",
+        "editId": "1bG6s2QYVcXQvZieGiwGwmQMrQNUPIQsOB-ZRJZxcAf4"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้างหน้าโปรไฟล์และอัพโหลดขึ้นเซิร์ฟเวอร์",
+      "description": "ให้นักศึกษาสร้างหน้าโปรไฟล์ แล้วดำเนินการอัพโหลดขึ้นเซิร์ฟเวอร์ จากนั้นส่งลิงก์หน้าแรกในแบบทดสอบ",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาสร้างหน้าโปรไฟล์ แล้วดำเนินการอัพโหลดขึ้นเซิร์ฟเวอร์ จากนั้นส่งลิงก์หน้าแรกในแบบทดสอบ\u003c/div\u003e",
+      "dueTime": "2022-11-26T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายเจษฎา น้ำจันทร์"
+            },
+            "emailAddress": "64302040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายพงศกร วันนิจ"
+            },
+            "emailAddress": "64302040060@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-13T14:33:06.086Z",
+    "updateTime": "2022-11-13T14:33:09.089Z",
+    "publicationTime": "2022-11-13T14:33:09.052Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การเขียนโปรแกรมด้วยภาษา PHP"
+    }],
+    "materials": [{
+      "link": {
+        "url": "http://bc.rvc.ac.th/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ขั้นตอนการ Upload เว็บไซต์"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-13T14:32:49.372Z",
+    "updateTime": "2022-11-13T14:32:54.738Z",
+    "publicationTime": "2022-11-13T14:32:54.556Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การเขียนโปรแกรมด้วยภาษา PHP"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1fkX-J4UJkqx_2yQDdiDmAeh7yWcLyZHW",
+          "title": "ebook_php_by_Monkeywebstudio.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1fkX-J4UJkqx_2yQDdiDmAeh7yWcLyZHW/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPrkq3BookpmOmNzeCuzr9nu_fryU5GPUsDD17xvI9zy9BlaC24au_9Ykj9bWcAWDf2ZUwRbPkhi2C4cbF-Tz3M1XmmufdbFxbt3f0rPzHbQLk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "เริ่มต้นการเขียนโปรแกรมด้วย ภาษา PHP"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-07T03:08:52.607Z",
+    "updateTime": "2022-11-07T03:09:08.042Z",
+    "publicationTime": "2022-11-07T03:09:07.834Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การเขียนโปรแกรมด้วยภาษา PHP"
+    }],
+    "materials": [{
+      "link": {
+        "url": "http://bc.rvc.ac.th/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ลงทะเบียนขอพื้นที่เก็บเว็บไซต์"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-07T01:42:59.999Z",
+    "updateTime": "2022-11-07T03:02:59.880Z",
+    "publicationTime": "2022-11-07T03:02:59.685Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การเขียนโปรแกรมและแนวคิดเชิงวัตถุ"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1d-VBK69jeq0S79bkK2gniJpSPswnW3CAMLTMF4tuPPI/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/YdH23YkPLXOiPW0uQPXK9E1e8zRyzNjelKdiJRVAf8f-g_K4LQJILPTf2j_ChjEN86N6hSVRCrE\u003dw90-h90-p",
+        "editId": "1d-VBK69jeq0S79bkK2gniJpSPswnW3CAMLTMF4tuPPI"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+      "dueTime": "2022-11-19T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายเจษฎา น้ำจันทร์"
+            },
+            "emailAddress": "64302040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "64302040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายพงศกร วันนิจ"
+            },
+            "emailAddress": "64302040060@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปนัดดา สุวรรณศรี"
+            },
+            "emailAddress": "64302040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-06T17:20:27.629Z",
+    "updateTime": "2022-11-07T01:03:53.003Z",
+    "scheduledTime": "2022-11-07T01:00:00Z",
+    "publicationTime": "2022-11-07T01:03:52.779Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การเขียนโปรแกรมและแนวคิดเชิงวัตถุ"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1H8kH5aLHcrkJ4jFSN3VGYzNz6hPXORv_jWQtEKrZiQ0/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/msx8-W1CE-Dh026mV4WUIv7e2jTrOEHTWR4hkEhfPD4Qw5odpcSAgfb1XXsW0XATB9dJpvhC3iU\u003dw90-h90-p",
+        "editId": "1H8kH5aLHcrkJ4jFSN3VGYzNz6hPXORv_jWQtEKrZiQ0"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "dueTime": "2022-11-19T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายเจษฎา น้ำจันทร์"
+            },
+            "emailAddress": "64302040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "64302040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปนัดดา สุวรรณศรี"
+            },
+            "emailAddress": "64302040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายพงศกร วันนิจ"
+            },
+            "emailAddress": "64302040060@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-06T17:19:40.170Z",
+    "updateTime": "2022-11-06T17:20:03.289Z",
+    "publicationTime": "2022-11-06T17:20:03.256Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การเขียนโปรแกรมและแนวคิดเชิงวัตถุ"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1kQarqUufnrwpZO_ggpuxB8Fbypjii17X",
+          "title": "unit 01.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1kQarqUufnrwpZO_ggpuxB8Fbypjii17X/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOOXGWwQyYobMXFfJaGYkx-rIZswU-VVLBJBlOgxRvw7F7q8TjFjZSnSt6T_6ZF6KJQZupmCGN2b7BKTMxL37TfV2qa6stGXsl7LRnBtx46Dro\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การเขียนโปรแกรมและแนวคิดเชิงวัตถุ\n"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-01T01:09:13.534Z",
+    "updateTime": "2022-11-01T01:09:16.415Z",
+    "publicationTime": "2022-11-01T01:09:16.382Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 0 ทบทวนการเขียนโปรแกรมคอมพิวเตอร์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1lTUHLnERlOSc4V_BbMvsMuoBxIKIt1mF",
+          "title": "NDP461-KB3102436-x86-x64-AllOS-ENU.exe",
+          "alternateLink": "https://drive.google.com/file/d/1lTUHLnERlOSc4V_BbMvsMuoBxIKIt1mF/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": ".NET Framework 4.6.1 Windows 7 ต้องลงโปรแกรมตัวนี้ก่อน",
+      "description": "สำหรับ Windows 7 ต้องลงโปรแกรมตัวนี้ก่อน",
+      "descriptionHtml": "\u003cdiv\u003eสำหรับ Windows 7 ต้องลงโปรแกรมตัวนี้ก่อน\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-10-24T08:18:25.360Z",
+    "updateTime": "2022-10-24T08:18:29.551Z",
+    "publicationTime": "2022-10-24T08:18:29.296Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 0 ทบทวนการเขียนโปรแกรมคอมพิวเตอร์"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://sites.google.com/site/thaynisaycakkrupleuxd/nisay-thawpi",
+        "title": "Google Sites: Sign-in",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://sites.google.com/site/thaynisaycakkrupleuxd/nisay-thawpi"
+      }
+    }],
+    "courseWork": {
+      "title": "0.2.2 เขียนโปรแกรมทายนิสัย",
+      "description": "ให้นักศึกษาเขียนโปรแกรมทายนิสัยจากกรุ๊ปเลือด โดยเลือกมาหนึ่งเรื่อง ด้วยโปรแกรม Flowgorithm จากนั้นจับภาพหน้าจอส่งมาเป็นไฟล์รูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาเขียนโปรแกรมทายนิสัยจากกรุ๊ปเลือด โดยเลือกมาหนึ่งเรื่อง ด้วยโปรแกรม Flowgorithm จากนั้นจับภาพหน้าจอส่งมาเป็นไฟล์รูปภาพ\u003c/div\u003e",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "ความถูกต้อง",
+          "description": "เนื้อหาของงานถูกต้องครบถ้วน",
+          "rating": [{
+            "title": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "title": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }, {
+            "title": "มีบางส่วนถูกต้อง",
+            "points": 1.0
+          }, {
+            "title": "ไม่ถูกต้อง"
+          }]
+        }, {
+          "title": "ความสวยงาม",
+          "description": "จัดองค์ประกอบได้อย่างลงตัว มีความเป็นระเบียบส่วยงาม",
+          "rating": [{
+            "title": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "title": "ไม่มีความเป็นระเบียบส่วยงาม"
+          }]
+        }, {
+          "title": "ส่งตามกำหนด",
+          "rating": [{
+            "title": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "title": "ส่งล่าช้า"
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1UqygXNucabDo96HsBRveln9qRMNh5TBx",
+              "title": "อรปรียา 3.png",
+              "alternateLink": "https://drive.google.com/file/d/1UqygXNucabDo96HsBRveln9qRMNh5TBx/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNwB_D8RYdp2WmoNc5n9t6JnwPfX8fLi-giJJmrTSRdul6ePAefIOAFzYvttRq7y2zxHYx-3jxQVOhlAWW6eCm8214HJsD2qmrT62ta38fFnbQ\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1cA8bSkTpzA75nZROzWOyTw9dO7okP2Ow",
+              "title": "กมลพรรณ1.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1cA8bSkTpzA75nZROzWOyTw9dO7okP2Ow/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMJFyqRoeqaqS6JXrXEP1AL_kvM7vQB3jjVhg9hhg6P6Aol1TxA52mQ1fWC3j2YiE9Q8NGxqim4fk2OMf2nZ1nLN2UN3E5QnIQxpZJZxvxMdbQ\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18x9QcbHhbkT_Vh5oXTAo0Rq8XKPMWpiX",
+              "title": "โปรแกรมบอกนิสัย2.PNG",
+              "alternateLink": "https://drive.google.com/file/d/18x9QcbHhbkT_Vh5oXTAo0Rq8XKPMWpiX/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNZ_MI4KJA_KVQa2vuSlMlPicaUqHrcFvwu2aeoBzGEmJXDSaueT-rhxDs-ZsC29vG7V3J7aw8P5b2h_4Ob8ppfXusFvbIcOgb0uQzZmza6nMI\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "11Wik94vyMRaUqHNh3wJoI-atWdAQDsvq",
+              "title": "กรุ๊ปA.2.PNG",
+              "alternateLink": "https://drive.google.com/file/d/11Wik94vyMRaUqHNh3wJoI-atWdAQDsvq/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPtyGzexKRtpVcWdUlzzz_sH72M9VR29HSBoInswkZUF4mzcTNP2mG-5ueZsjnOphIhXtigiN4O2VIF3MnhQzXXjxIxBgbdiDP5ZkmWfFdkTq0\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1FPZIVc-8SKt313sYa6bmPfVBWRSn048u",
+              "title": "กรุ๊ปb.2.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1FPZIVc-8SKt313sYa6bmPfVBWRSn048u/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOQe8AfKEQzoA8z3v8HYcasPl9l9hZIIUuDGadcZa7wpdOEUyQrpyEFtxMJP7HfEEdiqeVyZ1GtjEzIjHfEtYm_i4NeIl1bQhrRzAVbrol2-n8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1K8yvusvzzjJI7-0FS80vXKFov37lh8LD",
+              "title": "กรุ๊ปo.2.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1K8yvusvzzjJI7-0FS80vXKFov37lh8LD/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMK5uryr7o7osTFuzpPchcGS6Ox_fmvrTEvl_z0E8UMtBo298r_WefKIHScSydeq2Iz81s_HktwHImPsLwfLClNV_-MhB1BjMk_R08u-HIJatg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "18-5cYyjGpfDaPND2tVC8vX5MMaMYhsnz",
+              "title": "กรุ๊ปab3.PNG",
+              "alternateLink": "https://drive.google.com/file/d/18-5cYyjGpfDaPND2tVC8vX5MMaMYhsnz/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOlcRK-YJxhMYd_08fUliNezyu8uaWGfKPYGx3MU4I1dLUCNo6vOFmX6cGVQiDG7xGtgHfKmDEmt3Gwoepg5IaFt7Rk2FlwuvlZNGV6HsqVSng\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1UX4b3OIzYdNz5niFSeQnib8_QNPlOKUu",
+              "title": "main2.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1UX4b3OIzYdNz5niFSeQnib8_QNPlOKUu/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNMOYRmFCSHcmn1seUKXBe-kfJ1WQlHKC4V9R21gBTOJfL0uW7sKaik72x27Mb5HcmYfJTpblFUDU--qxP9wAWjm7KGx9mu8MrqbLzhchlO6tw\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1XEI9vZ5aTGwSVQk21m5VOcS8KJ1CKOKy",
+              "title": "Screenshot (14).png",
+              "alternateLink": "https://drive.google.com/file/d/1XEI9vZ5aTGwSVQk21m5VOcS8KJ1CKOKy/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNxISWDwOd5OIM6hfA8I_U5qeOaZVodNz3ipBobpJ9mkW6oonUMia10n2bKBmlIJtGu7qcu7Pf3yXVojT2gwhRC6mKdrQoS71BKEnkV1Csj6zg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1vBCMdZwRL0QQFCHbz39c78Hgd0_B-SXh",
+              "title": "Screenshot (15).png",
+              "alternateLink": "https://drive.google.com/file/d/1vBCMdZwRL0QQFCHbz39c78Hgd0_B-SXh/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOc_HCDii2tSiTsYUC7okMUtsgZXAKoABygt0VUPNexMiTu6HVkA-Rn5drK3VN0c89mugIDTOl-jUl7pIrijgWxpEWyiEY3baVqL1ZIZdy1JvA\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปนัดดา สุวรรณศรี"
+            },
+            "emailAddress": "64302040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1mJ8JztrKGLu1YY3rP2ZcEvzD9pYs_w8f",
+              "title": "โปรแกรมทายนิสัย.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1mJ8JztrKGLu1YY3rP2ZcEvzD9pYs_w8f/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN1hGcZS2pUGoB_GqAjGv6vhAXQBMeW_LUD34jI7VXwoNdiOYmF6ji35aYVukf2lnE-ZXLOncqkNFkbSmRXNelvk1uIUN5ISQSvepxFvSRgv50\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1OkOI49OoBsEc6TOIyk8sB4dULftrfqHF",
+              "title": "กรุ๊ปa.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1OkOI49OoBsEc6TOIyk8sB4dULftrfqHF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMZIT491w4OwnkIkRMq4octLFC5pTXiAa9_adZ7pT_-2LXUxquK4-86ovCGP5J4YQZkrpjVIyao0VI_mFYI3z2pp7IofsI75RrLQA-lpMFmjYM\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1v5OoGMqrKADc7_Ovk16FDD-3Ws_UhSHV",
+              "title": "กรุ๊ปb.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1v5OoGMqrKADc7_Ovk16FDD-3Ws_UhSHV/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOyL4tB2AfntPLqePFX4Lx19Fu-aTKgrd9QJ1A8kGOjQSZcW1lJ9Apr2ruTON5dZ9fHlCx5fWCU7DDKZz913YpVf1rY3TUJA3fcBUjfOL-fBeI\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1y4IH9O19Jn_NZBXMPq8OpVW9b-bZus5J",
+              "title": "กรุ๊ปo.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1y4IH9O19Jn_NZBXMPq8OpVW9b-bZus5J/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOC0iu7m7X6sc10sR8KzGStnKrhm-aucbKVOLutsNP2Klm0vxQgrFyLXv0592lHAjLI3_cBV5q6r0C1dp0AovHWCLUWoKUD82dqzpDbQ_niSPo\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1AQfbGQrvEHRf6zvcMAi9y1YsmuTMonym",
+              "title": "กรุ๊ปab.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1AQfbGQrvEHRf6zvcMAi9y1YsmuTMonym/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPtbPr6W2kJrzPBVse7Q17h9LLNueqs85lnXlklduNwWPbhDA-gFm0xLC36jfkEpBCmkvLRfR9yNPgIxAkaen0zeLQEDMgOMljM8eLxx8QmNq0\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1w-bZP_kKxUftNMVVOsY896g8BvWzhKMr",
+              "title": "ทายนิสัย.png",
+              "alternateLink": "https://drive.google.com/file/d/1w-bZP_kKxUftNMVVOsY896g8BvWzhKMr/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNq2wHogQVn10Fo_S6uUScQPJkD7ABK0n51kvYMqdhoHrN4T6M6wYjZeeFG2nXoYegNATgZWccGjromTANWtzyxhS8Y6JpCpNHPR4a2E31YJZQ\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1F5KriTk4uxAQmgVH9SDhKutlsDvNwO07",
+              "title": "โปรแกรมทายนิสัย.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1F5KriTk4uxAQmgVH9SDhKutlsDvNwO07/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMSfVeIlE46y-1x1NN3zH_XtI-E48sq0Ps83_2_brXXLLv4eJew_tETL2pzg_P0bKYTaK3qXP73mlE8HhEl1CUJVVLgtXgT3jo9w84L5zYJZi8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "165YAW4LIdi3mrvpo3gyIkUzgezR-IJG0",
+              "title": "โปรแกรมทายนิสัย1.JPG",
+              "alternateLink": "https://drive.google.com/file/d/165YAW4LIdi3mrvpo3gyIkUzgezR-IJG0/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPGGDHIVRUpJNlquPUzisSM-kPiKDcimVvHI2lM0iMo8jHBqJBJtEGjGf2ROfxwljB4cWDZfsCN_hDV2yhgRGa592_74FfFHwxB1XIuckGyfCs\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1u2LZMEh7tmD5JtKvvvZx5VWzJMVxj_cg",
+              "title": "โปรแกรมทายนิสัย2.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1u2LZMEh7tmD5JtKvvvZx5VWzJMVxj_cg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMwZm6UqThIJ8SjH_5JrOXvRzNWkJ97fA1UlJLb9H8vj2ijQj5zRkBp0CjpFNs9ZyVuKBjmrPb-RENN3f6LBqyy9sEaOuFV3OVReIpkHS8fMaA\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1CjxgM943X_vOcV6RaTgjI_WqIIhJqBN_",
+              "title": "โปรแกรมทายนิสัย3.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1CjxgM943X_vOcV6RaTgjI_WqIIhJqBN_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNZtztGDZFa0WydTQ-yFwShnS2RzagcUa_Cr47TC2akk-tkXpjCO6qK4zPehRqGV-ygfDlDGkaF9Xr5Xx077ChmVsrJHHgMoeN3ajytfvdOYAg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1nxh_-iZE8WUW3reG1L4MJ-vvvbRuAJWM",
+              "title": "โปรแกรมทายนิสัย4.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1nxh_-iZE8WUW3reG1L4MJ-vvvbRuAJWM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOb42mxl0UbIo-VK7SU4jr7DD7NhTpP7TudY4oT4Jzw7Ek5O6UqqAo5XXDHBMdT-e54hjcC9E3hvCJxC2eDzGSM1M5dYBERmpPUqGhSc25u35Y\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1eeSi-aMTFWfvieELaZD8Yo2piLSiloMe",
+              "title": "โปรแกรมทายนิสัย5.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1eeSi-aMTFWfvieELaZD8Yo2piLSiloMe/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPulRDYlrYVndaAOMOUSYfbHL3yGtNn6UIy1DR09MYOUdzhVGfPlDlmbLmJJUK5T6e-9w5NDHmP2tDdiL6DOqH12Blx_v7lZr5hbSjHhFsqxww\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Ewh9fR3Lhpa_cKJjwP-mOLtY4aB5qCQK",
+              "title": "อริยา.png",
+              "alternateLink": "https://drive.google.com/file/d/1Ewh9fR3Lhpa_cKJjwP-mOLtY4aB5qCQK/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN3gHo7Kr1DXBfuWKyzqRk5ConyHDzo6OOeKWAG4bSj_wbxHxI4EK1wUBdDalZY2TyTPkei1YPJmPA2RyThcS7UjuE-YJIx07PlP-9Bz5Xghaw\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1YEdk9Y8OeGOpwiQw1kk2x18UmPZS9hj5",
+              "title": "กรุ๊ปเลือด.png",
+              "alternateLink": "https://drive.google.com/file/d/1YEdk9Y8OeGOpwiQw1kk2x18UmPZS9hj5/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNDv46Pb5hZLC593GZ3QOg4hf2WmSy5--NciC0zqJTuHTbgzRhsH21dF0n-TYBFHeeJIN-cKTg5S0QP4w-io1G5WMe_HYF7c92aFg7ABq5ItSA\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1v5ek4zDp60jUODJW050Z3QeC3nbawebN",
+              "title": "อุษา 1.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1v5ek4zDp60jUODJW050Z3QeC3nbawebN/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMkjGoSS33IpH9nFQfCy5anqw8rM85BaIDPWtgYVHws-WR-t8cR5vYCqqZ6OJLa8BHeagKXknEx8HyXLDHEPymbuQTqoykuINgzm5PokaGI4HQ\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-10-24T08:18:10.679Z",
+    "updateTime": "2022-10-24T08:18:15.080Z",
+    "publicationTime": "2022-10-24T08:18:14.848Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 0 ทบทวนการเขียนโปรแกรมคอมพิวเตอร์"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "SWlsz3-vGDQ",
+        "title": "ทำโปรแกรมตัดเกรด จาก Flowgorithm",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dSWlsz3-vGDQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SWlsz3-vGDQ/default.jpg"
+      }
+    }],
+    "courseWork": {
+      "title": "0.2.1 เขียนโปรแกรมตัดเกรด",
+      "description": "ให้นักศึกษาเขียนโปรแกรมตัดเกรด (ตามวีดิโอ) ด้วยโปรแกรม Flowgorithm จากนั้นจับภาพหน้าจอแล้วส่งมาเป็นไฟล์รูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาเขียนโปรแกรมตัดเกรด (ตามวีดิโอ) ด้วยโปรแกรม Flowgorithm จากนั้นจับภาพหน้าจอแล้วส่งมาเป็นไฟล์รูปภาพ\u003c/div\u003e",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "ความถูกต้อง",
+          "description": "เนื้อหาของงานถูกต้องครบถ้วน",
+          "rating": [{
+            "title": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "title": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }, {
+            "title": "มีบางส่วนถูกต้อง",
+            "points": 1.0
+          }, {
+            "title": "ไม่ถูกต้อง"
+          }]
+        }, {
+          "title": "ความสวยงาม",
+          "description": "จัดองค์ประกอบได้อย่างลงตัว มีความเป็นระเบียบส่วยงาม",
+          "rating": [{
+            "title": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "title": "ไม่มีความเป็นระเบียบส่วยงาม"
+          }]
+        }, {
+          "title": "ส่งตามกำหนด",
+          "rating": [{
+            "title": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "title": "ส่งล่าช้า"
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1fa9tlGV088OwCANflB3ufIAwvQ9a41jO",
+              "title": "อรปรียา 4.png",
+              "alternateLink": "https://drive.google.com/file/d/1fa9tlGV088OwCANflB3ufIAwvQ9a41jO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMCWHK7yCSAF_8QLKfqkk1DtMWEMVqhT3ZGAOHup18Poo6_BYERLc0woen1JJqflpELVVWvmD-YdRmh77pACUk9juFgiMlO0YCipfdCEKHOcm0\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1NNikdV0LBB-zvRCNUc8Z07REgeIsXRBv",
+              "title": "Untitled.png",
+              "alternateLink": "https://drive.google.com/file/d/1NNikdV0LBB-zvRCNUc8Z07REgeIsXRBv/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNK_TZSnkATV5C0tekaXN-QdngUxfukRYrrrPlKPdo-pSP3SUFYR-xX2Wm8TmP2ZDxX877a02_m8xCZaPU45eUBF7yVfrISYY_oZhWSCPdhKzg\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปนัดดา สุวรรณศรี"
+            },
+            "emailAddress": "64302040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1PMZd5_4SvAF_wnZeJyavt39n7aL5JMnF",
+              "title": "โปรแกรมตัดเกรด.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1PMZd5_4SvAF_wnZeJyavt39n7aL5JMnF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMVI3YEn5cVW8Nd3UZ4HR85NKJprLGTL3pqPRTwjxDpAQAiMUNTGCE6_UEO45SZU5Bm23AXXdssOhs2Vfv3P1VclGeJZZuAmFkCHGvDCqzHMY8\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "16SsamVZPSObrCLlhalus8nlRFzs1SGMi",
+              "title": "ตัดเกรด.PNG",
+              "alternateLink": "https://drive.google.com/file/d/16SsamVZPSObrCLlhalus8nlRFzs1SGMi/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP01WTdJvoKXs9wNHickevObLa9JFc2Q2-esSFVDfz_G83NLnLZ1uyinVorJ-Rsus4Ett6-dSc9RPWKRTI5OwBGfTw0SW1aIL9cpnfbNUGyn40\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1-Satha4Et9Xd4H5UbRVPnbe2O7cSwbW6",
+              "title": "ผลการรันตัดเกรด.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1-Satha4Et9Xd4H5UbRVPnbe2O7cSwbW6/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPPn9nznY-i8WDF60qWnUDrBHSwWPhtWlvn6_EDPNdRwJYhnSj2bSaSBkx5fpXNvfplSMpa6Nc08ABt1lOogYBuqgACzcbeMxynNOlXAeP8-w\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1hZV7EtE6Gt1FT1fiXRAJgd3nSietyE5d",
+              "title": "ผลการรันตัดเกรด2.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1hZV7EtE6Gt1FT1fiXRAJgd3nSietyE5d/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNKn8KoKCZmlnSKNiLmIm8s37NLItV0KLJGLnrrm-cfn0sqdxzOYr9OEb3pzU7jvq8dw7g10_BoMqtDRKgjFGPLRNkpzxs6PULywgztsvZdprE\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1btk0xaCvrKGkonV8rFuK7L6EjdWh29Ip",
+              "title": "ผลการรันตัดเกรด3.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1btk0xaCvrKGkonV8rFuK7L6EjdWh29Ip/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOWAC8R8a-doj_O59KwX4CQh09glRHBm0qo9_6h5DnISiO53gVzgi74TcES3E3i4F1a4wq8W-lWbQdL2bkGLmlRp80sPlTCx5y1yBvHzB4GjI0\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "64302040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1YTIcIjZyWFh0Cehk1E7q7Y4wH9PTS8iO",
+              "title": "0.2.1 เขียนโปรแกรมตัดเกรด (6 พ.ย. 2565 21:25)",
+              "alternateLink": "https://drive.google.com/file/d/1YTIcIjZyWFh0Cehk1E7q7Y4wH9PTS8iO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPhufgD96V_rIwhxt_rRZFEOE0n3lD5vCObWLnt_HvWhxIWWKC56J-GG1mM9jveqRxGoSWhcGj3awgZzG3qP2wvgr4XbV2Y43IdekZ3cUOI2wc\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1enVh2q6xHJj0GIeETTn2FaFpvfn7yYvG",
+              "title": "Screenshot (8).png",
+              "alternateLink": "https://drive.google.com/file/d/1enVh2q6xHJj0GIeETTn2FaFpvfn7yYvG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBObpmmIYQFZNnQ1lzuC_23KHv6Qw51FaZ4Yv9ld9CmaPg10ImlHcniCkwyhAKaMrNxGeTzUpNdOEgXJw9yv4wKeTwUOj1KDADzmmZYxgLkIArY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "10_0bNPIalmsiF6BKvvR2EQvbYjsEtYbF",
+              "title": "Screenshot (9).png",
+              "alternateLink": "https://drive.google.com/file/d/10_0bNPIalmsiF6BKvvR2EQvbYjsEtYbF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMt-faun8oOhTPdAliXCxYGIzXtcwuJoF9QEUnJJkBochAsLYTeRU_KFFdufTmyluWaVeSTR9hVzXvgg0FLhp-vD9m_xO1HLqTX6YbdOQorWbw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1HU0lYzke3GXMZyzYpaN1ZQfswXSRdGeo",
+              "title": "Screenshot (10).png",
+              "alternateLink": "https://drive.google.com/file/d/1HU0lYzke3GXMZyzYpaN1ZQfswXSRdGeo/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNX2Qtdse2kMWnl0Vgk2ObAw4FDgrFxFok2YYRCfhsCTiBUk2OoYNuA8rZS3QSvqCsZwfIBcZMXcR9268DfdvfvNfiA0dDhOISzx5Am8RBgcDk\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13_rioRyF3oc98PVbEQhjZpv8diWDann3",
+              "title": "ตัดเกรด.png",
+              "alternateLink": "https://drive.google.com/file/d/13_rioRyF3oc98PVbEQhjZpv8diWDann3/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNqyx5J0YITD8vJko01iylXRYTNjDxTE4tvhPHXMDCj4IOnNwj7P0OrzjdFUngBErAsekUYAifjeIBsE5liU8Mt5m_KeOmTvSeg6E_u7ArxKSQ\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1VBdFCjNpD-BC5fs7zMPOVciXIeWCWYoM",
+              "title": "2022-10-30 (2).png",
+              "alternateLink": "https://drive.google.com/file/d/1VBdFCjNpD-BC5fs7zMPOVciXIeWCWYoM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNW2KH203oJsarGojAs-BHyWjO3iHbtqGAg8k2xHBCASrioU0RbWtdLFqgyY0Mu45-m2wCZgsKzgdlWyY6OQ0qXIsXpEW5Vu6knNycVnZY9ZFk\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1TxRI_eC9rY36zHEMDsA7UQ8YbWsIz1S_",
+              "title": "2022-10-30 (3).png",
+              "alternateLink": "https://drive.google.com/file/d/1TxRI_eC9rY36zHEMDsA7UQ8YbWsIz1S_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMXLykrN0g6CnHxTHizK7wR5Obq62bTCv4ZOgfcQBiDTNiCFj7GxaYXoEaVdi2wDEQ_fgsJrYdCO3q7T7RYwZyjXWNvwdG-P-eHFhD4iA67pAw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1oMjeboWMtfLh8yOKtXVJiqkJ-KRR9Peu",
+              "title": "2022-10-30 (4).png",
+              "alternateLink": "https://drive.google.com/file/d/1oMjeboWMtfLh8yOKtXVJiqkJ-KRR9Peu/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNobZm7nhG6udEFzaL-5e4j7NWJ-05e5Irj8x3S03kVvBe8etqTU1L1xnDRwDHk_v4Q4jXv7b-VT9HvVH_ChMhbmWgqJNAlkGMC9ryiVBGsZcU\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1h8wAk_Vv1-cGH2YW5ZEZPjeCcFBQa326",
+              "title": "2022-10-30 (5).png",
+              "alternateLink": "https://drive.google.com/file/d/1h8wAk_Vv1-cGH2YW5ZEZPjeCcFBQa326/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNs7ueIZ_XEXsxcBD5XhCZyxOyLKGDJcOfEO6ZTHRTa3F2E9mj_xwpRyzC2cPI-PMFcLdkrS3dGmTd76lQZmq-8Zm8L39LmXPGWsXqnWsapAi8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1zuF5PoTfV6VPOF4zP_XwWkFrSjjYH2JB",
+              "title": "2022-10-30 (6).png",
+              "alternateLink": "https://drive.google.com/file/d/1zuF5PoTfV6VPOF4zP_XwWkFrSjjYH2JB/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN9L8AVom6yYjIsBWVSdzH4nLO0mDvao7NT2RXJNZB8I9BwRAP4Gpucvw65OdeiUdkzmfLxsY0bdbjLJFWl-T8HdPJ8k5LBaP2PyHqlgsmaGA8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1lvF9VQik838bKOTIpzgPihdmZFv1hlqb",
+              "title": "2022-10-30 (7).png",
+              "alternateLink": "https://drive.google.com/file/d/1lvF9VQik838bKOTIpzgPihdmZFv1hlqb/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMB1nVP3_4RSXG1_WCkR4YN9G2D-QdBcbiOuIDXB38ZcGRHkdm6SHCIYnP_wIjPV2DaQkgMGFiMTC58kEuWuSUbqHuIwoXihrda-j4D9b5_gTw\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1EJfzrJuOVatm4xXPs-rG-aQCMJTBJU5Q",
+              "title": "อริยา.1.png",
+              "alternateLink": "https://drive.google.com/file/d/1EJfzrJuOVatm4xXPs-rG-aQCMJTBJU5Q/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOzQ0V7ab_7XEKywc_R_FtNhuVD8LPvyVdBOmSqGMWqqhp-nSbN1-7p_itvQBD3wK8__MBEB2ZzDIZdG2u0tQpbkyFfwOPaMPSEDQoaC-q7X6c\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1X1DKOLain6CfbptoQB5d3ZeZTqokMBFd",
+              "title": "เกรด.png",
+              "alternateLink": "https://drive.google.com/file/d/1X1DKOLain6CfbptoQB5d3ZeZTqokMBFd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNb9NFUlSEtlYt7fbouTrsFMilGGmnQf0S81V74WraSpHa-Oc9r2U-MjjTNvPebpIHqBS1FwYIREWQtZzOgknZqUfGfdZm6gUJp2h22Cog7VKQ\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1E_oGAwuQzaynVE73OPtKAxv6yk3pQsrd",
+              "title": "1667730194024.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1E_oGAwuQzaynVE73OPtKAxv6yk3pQsrd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNV4wdQ0Y99fsFxeUe5aFtMHi5KvUC-cu1Rx9hYkyveh15xYCfkFKqq66aXpcEYVzyM0TFDrNo9J6uehG0AtqSn4KqH7IlO7ZoP1b0Ac0wtshs\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-10-24T08:17:56.442Z",
+    "updateTime": "2022-10-31T03:24:35.805Z",
+    "publicationTime": "2022-10-24T08:17:59.088Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 0 ทบทวนการเขียนโปรแกรมคอมพิวเตอร์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14L-N9wA8DKcvDVPY7MhjkrCl3OM0bdr9",
+          "title": "4-เอกสารแนะนำการออกแบบขั้นตอนวิธีด้วย-Flowgorithm.pdf",
+          "alternateLink": "https://drive.google.com/file/d/14L-N9wA8DKcvDVPY7MhjkrCl3OM0bdr9/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPWwtZq2xmo0qzgVIj4Evd-xP0L63y99sKoyxRxW9UuN5fb1w3Pg2oU-MlGkC-mhq847HFYDSuB1Zr_rrsWmS1YSnhwttxLY2vgnOfaJQo5jzM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "AJEpZubbbQM",
+        "title": "วิทยาการคำนวณ #1 สร้างผังงานด้วยโปรแกรม Flowgorithm  และส่งออกเป็นโค๊ดโปรแกรมได้ทันที",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dAJEpZubbbQM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AJEpZubbbQM/default.jpg"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1p-Pj1wJr5oGfHO2zYkFn-EdMkc3n7quw",
+          "title": "NDP461-KB3102436-x86-x64-AllOS-ENU.exe",
+          "alternateLink": "https://drive.google.com/file/d/1p-Pj1wJr5oGfHO2zYkFn-EdMkc3n7quw/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "0.2 การใช้งานโปรแกรม Flogorithm"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-10-24T08:17:40.757Z",
+    "updateTime": "2022-10-31T03:05:46.322Z",
+    "publicationTime": "2022-10-24T08:17:44.492Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 0 ทบทวนการเขียนโปรแกรมคอมพิวเตอร์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1gmyX-ty_IppybdTQXTZD14FQH-nzt88I",
+          "title": "สไลด์3-1024x576.jpg",
+          "alternateLink": "https://drive.google.com/file/d/1gmyX-ty_IppybdTQXTZD14FQH-nzt88I/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM-HU8Hz3PCU8jCNo074EE095A3hxMi6u_OgHwho2UKdvHkVE9ZnraS8V_OddUcu3HyDzqNIG_XH0MMB0r8U_BtEVf6oHiw4xZP-RSh0I2k2O0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "0.1.2 การวาดผังงานจากคำอธิบาย",
+      "description": "ให้นักศึกษาวาดผังงานจากขั้นตอนการปรุงบะหมี่กึ่งสำเร็จรูปโดยเลือกวิธีที่ 1 หรือวิธีที่ 2 มา 1 วิธี วาดด้วยโปรแกรม Microsoft Word หรือโปรแกรมอื่นก็ได้ โดยจับภาพหน้าจอแล้วส่งมาเป็นไฟล์รูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาวาดผังงานจากขั้นตอนการปรุงบะหมี่กึ่งสำเร็จรูปโดยเลือกวิธีที่ 1 หรือวิธีที่ 2 มา 1 วิธี วาดด้วยโปรแกรม Microsoft Word หรือโปรแกรมอื่นก็ได้ โดยจับภาพหน้าจอแล้วส่งมาเป็นไฟล์รูปภาพ\u003c/div\u003e",
+      "dueTime": "2022-11-06T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "ความถูกต้อง",
+          "description": "เนื้อหาของงานถูกต้องครบถ้วน",
+          "rating": [{
+            "title": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "title": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }, {
+            "title": "มีบางส่วนถูกต้อง",
+            "points": 1.0
+          }, {
+            "title": "ไม่ถูกต้อง"
+          }]
+        }, {
+          "title": "ความสวยงาม",
+          "description": "จัดองค์ประกอบได้อย่างลงตัว มีความเป็นระเบียบส่วยงาม",
+          "rating": [{
+            "title": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "title": "ไม่มีความเป็นระเบียบส่วยงาม"
+          }]
+        }, {
+          "title": "ส่งตามกำหนด",
+          "rating": [{
+            "title": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "title": "ส่งล่าช้า"
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Lv7Omido2crXJjL8qgxblDzia8lzFVfR",
+              "title": "อรปรียา 2.png",
+              "alternateLink": "https://drive.google.com/file/d/1Lv7Omido2crXJjL8qgxblDzia8lzFVfR/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM7qE0Wc9sbQz_q3Qc0HCU7Bv2m4oEWdoNcSe6q6dxffKOHDPGPFT6EpO9rXseuqlOO3Qyx_zGMspbQBJTAonnuV_dSKzjR17uJoa7lE9cmiZc\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18xgs8MgfhMladIziJ5HWifEfdCphB9Ue",
+              "title": "ต้มบะหมี่สำเร็จรูป.PNG",
+              "alternateLink": "https://drive.google.com/file/d/18xgs8MgfhMladIziJ5HWifEfdCphB9Ue/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM0zT9wfz4oFQGtpfnuNV4d1bQjgp3l-w9NuMrTb9vmLdAba94t6ZbyAo646tcoAL66G1CVFKDKChUjwhQ-bPk4qi8JU8wjZPg4zQB0x3Wl8Fg\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1b48RxS5DDcv23bqB2Ps1cFvh6VO6M6EM",
+              "title": "กมลพรรณ.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1b48RxS5DDcv23bqB2Ps1cFvh6VO6M6EM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNh0nrXpQZbq1XHLUdFYlLf8UUnN42ufROeHO8vfYT3oBIVwOOarBlBmP0n_30vU4QZArOZDhcE315k2plgGPwEvKQ4WZg4D2D3HnNP-UKwlqI\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายเจษฎา น้ำจันทร์"
+            },
+            "emailAddress": "64302040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1iaoElI-LbHf68I-9qV5xdNM4EU7X1lb7",
+              "title": "ต้มไก่.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1iaoElI-LbHf68I-9qV5xdNM4EU7X1lb7/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN7BAwHgVuK09HGSVXWn1wdXDq9ACZlQTCGrPhxhc87SEtm3PUaYXrzcaECrJ2x8g_n4csTHB9RermXVdiGeS2J7TeMY0QAzBkgFzuSd8ftlcM\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปนัดดา สุวรรณศรี"
+            },
+            "emailAddress": "64302040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1MXORJBmJjgQsS41g77pWlTS5D8P5XbcT",
+              "title": "การปรุงบะหมี่กึ่งสำเร็จรูป.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1MXORJBmJjgQsS41g77pWlTS5D8P5XbcT/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPQLNnM7XjiaI16d7MmDkHZ_dqXzUMQREiqfGZZet4_j_vQJXn2JwqlpUhlvXZpSihocErE9H1pO3-6wpCmFRpBa1qWXWODu1UXmUDGxTJyuoo\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "มีบางส่วนถูกต้อง",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "มีบางส่วนถูกต้อง",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "64302040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1n2eEdy6GPR6YXr5jZTxsWTe2usuIYBOM",
+              "title": "ปัญจวรรณ.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1n2eEdy6GPR6YXr5jZTxsWTe2usuIYBOM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNODGAtmYIkPfgOioNBcjxAJIynwD7pbAObArK5hgtfUd7cvil9ngMN0YMDghgs59yx-GjTSUECgXe9x0NT96zmfnhZyILsOo-kI0BkMde6KCg\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "นพพล อินศร"
+            },
+            "emailAddress": "noppol@rvc.ac.th"
+          },
+          "creationTime": "2022-10-31T04:42:15.123Z",
+          "updateTime": "2022-10-31T04:42:15.010Z",
+          "comment": "ต้องส่งเป็นรูปภาพครับ",
+          "commentHtml": "\u003cdiv\u003eต้องส่งเป็นรูปภาพครับ\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1CrSULWmxnXoxcPYZLV0_oyk8nxZb37C7",
+              "title": "Screenshot (13).png",
+              "alternateLink": "https://drive.google.com/file/d/1CrSULWmxnXoxcPYZLV0_oyk8nxZb37C7/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMwWIpEfRRCG_-JKaumndCS8XG8TLPpAAyhF03aKt85I1Utz7W6Mv84RyIFjMnfxxOCv6enRX-ntae32FQJRMPZ216zWtEokCtZJ-VWWgzKBO4\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1vIZ9LhsoQBmby6rX9LxEpO8BQeB-SRD7",
+              "title": "รัชดาพร.png",
+              "alternateLink": "https://drive.google.com/file/d/1vIZ9LhsoQBmby6rX9LxEpO8BQeB-SRD7/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNoXpZzY8RU1MUEa6hz048Fz56OAy6BRM1iS5cbr02F_srRvWNOCvBnD0GaDhjgmqXYtMbhj6VvT7vJBzQaa983nPe3fK_tQFa5Th1xHUbGuF0\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายพงศกร วันนิจ"
+            },
+            "emailAddress": "64302040060@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1iIwaE3a92Y6ZgPEYT7R-TUBUK0fk0vBt",
+              "title": "บะหมี่.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1iIwaE3a92Y6ZgPEYT7R-TUBUK0fk0vBt/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMD0HoCgGV9IuiDprpEz4LiRa5JCYnX9v91oebAN5T_L8qJUr4xF409SGOIFdRXv66eIHdPuKtT08_vhzNfv2mOaXR6vrH7nbU-GAHC4-_QIH8\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1fMhFsprYTs7o7l79NOvn-sOmQUtUExbr",
+              "title": "ผังงานการต้มบะหมี่.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1fMhFsprYTs7o7l79NOvn-sOmQUtUExbr/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNRg6KtOQWmxxZqHRh7_CGb84uBUReXRIN2ARNf8qOPzea8_qMitLZUTHKPj3kH2Vkn-fQH6J-TE3gK4Nh8DHOOxHJMwmpzlJSpByiMxSyc4Bo\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19BBYalwEnOs3uE0vg2gEQtvc36g0V33g",
+              "title": "อริยา.1.png",
+              "alternateLink": "https://drive.google.com/file/d/19BBYalwEnOs3uE0vg2gEQtvc36g0V33g/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOufwQUYZBcmzkOKBOPCah7Ef_8fHoChtUAKd_5_boxD9Zo3n86Hsr2j_Dq4I5c6M2CTc-rpvE4ab_j_iEgoEDX45uHEhKDzNWdRi-E4bJjipo\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "14N-ZpW9iEXm0eE3Kzrpw8k1d366oCoIp",
+              "title": "บะหมี่กึงสำเร็จรูป.png",
+              "alternateLink": "https://drive.google.com/file/d/14N-ZpW9iEXm0eE3Kzrpw8k1d366oCoIp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNHncwM9CKAcJ0KxEH4cF4fRausaAuvmwi8Zcy5bB6kfHK8CNilfwrcy2l3cXNNTZSZM3u_gwzJnq6p9QuhQLkJEKpFiFNMXoMXGSbkdEWE71A\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17L4aJuqsfWsTfMjbdsmOPlLv_sMKVm4w",
+              "title": "อุษา 1.jpg",
+              "alternateLink": "https://drive.google.com/file/d/17L4aJuqsfWsTfMjbdsmOPlLv_sMKVm4w/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPbKNAqEDGlaPvsUGpFYJxjwmO9eY9ZPkO9uj87PdOy6GNaMmqgNcyvB5JWK28SygH3guCuLQ17qKDDajbgUd1g2SKgTNCMg-szqd9GwIswdJk\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-10-24T08:17:26.348Z",
+    "updateTime": "2022-10-31T02:16:59.617Z",
+    "publicationTime": "2022-10-24T08:17:29.708Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 0 ทบทวนการเขียนโปรแกรมคอมพิวเตอร์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bh-i-bG9V7yS-VaqgjsREXAb8wFpaUXq",
+          "title": "maxresdefault.jpg",
+          "alternateLink": "https://drive.google.com/file/d/1bh-i-bG9V7yS-VaqgjsREXAb8wFpaUXq/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPW-BM_W0V25Ug4Myaw74RjX9W-5gjwNg_7kLbqbkD3yY54CaN2pvEC2MHNf-DBWGPvKsIavntA0rFJ3T3iJTkN11tycIRF0CDVCmv3mb2hEQQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "0.1.1 วาดผังงานตามที่กำหนด",
+      "description": "ให้นักศึกษาวาดผังงานการล้างจาน (ตามรูปที่แนบมาให้) ด้วยโปรแกรม Microsoft World แล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาวาดผังงานการล้างจาน (ตามรูปที่แนบมาให้) ด้วยโปรแกรม Microsoft World แล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ\u003c/div\u003e",
+      "dueTime": "2022-11-05T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "rubric": {
+        "criterion": [{
+          "title": "ความถูกต้อง",
+          "description": "เนื้อหาของงานถูกต้องครบถ้วน",
+          "rating": [{
+            "title": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "title": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }, {
+            "title": "มีบางส่วนถูกต้อง",
+            "points": 1.0
+          }, {
+            "title": "ไม่ถูกต้อง"
+          }]
+        }, {
+          "title": "ความสวยงาม",
+          "description": "จัดองค์ประกอบได้อย่างลงตัว มีความเป็นระเบียบส่วยงาม",
+          "rating": [{
+            "title": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "title": "ไม่มีความเป็นระเบียบส่วยงาม"
+          }]
+        }, {
+          "title": "ส่งตามกำหนด",
+          "rating": [{
+            "title": "ส่งทันกำหนด",
+            "points": 1.0
+          }, {
+            "title": "ส่งล่าช้า"
+          }]
+        }]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอรปรียา ทองสำนึก"
+            },
+            "emailAddress": "64302040031@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1S0HqOF5j67BV_Kfb-051xG13gAC99jUp",
+              "title": "อรปรียา.png",
+              "alternateLink": "https://drive.google.com/file/d/1S0HqOF5j67BV_Kfb-051xG13gAC99jUp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPz5qlZwSLN26-6zZUulU4_snq_ABIDLisxRW1QZbQ0dSijKVZhic2zi0rzzvYLQcV2qLiHcnf2WLVmGyGzBv-U3XSIiIx0aPwdGt9Ndo82t2U\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวกมลพรรณ บุญไชย"
+            },
+            "emailAddress": "64302040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12mdo9u7fPcbPRl44GVweyiZI--0aOzmI",
+              "title": "กมลพรรณ.jpg",
+              "alternateLink": "https://drive.google.com/file/d/12mdo9u7fPcbPRl44GVweyiZI--0aOzmI/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO1qEXfYIydNOvnrlF7cmircxAAFZQCJmq2fmhqWrsB_DxG-TUzduudsLvb8bolsZ5CVpZzTaKVoOP04UM3bP5kE_ZOitIAbDWZ9U8LExfOrC8\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวณัฐวดี คุณแสน"
+            },
+            "emailAddress": "64302040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1IJ6RSpJqaXnuVXitPP6ywXRHJulBtvfe",
+              "title": "Screenshot (11).png",
+              "alternateLink": "https://drive.google.com/file/d/1IJ6RSpJqaXnuVXitPP6ywXRHJulBtvfe/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNiMEa9nU1vvtDIAXHxxjxMOnwJBFY5pk396N30FidBGZbSljSruNJn3vcE4m-Xdcy4r72_I0bGUPqYZ6P2EFvj1kdvESuN94gLjmgG10GgDj4\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปนัดดา สุวรรณศรี"
+            },
+            "emailAddress": "64302040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1TmAsRaqhd6eyknfBspih2RiBgSeZ_pUN",
+              "title": "ล้างจาน.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1TmAsRaqhd6eyknfBspih2RiBgSeZ_pUN/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM9weFP0dcQGcr_7V6FZEHrxQZJRyynG9vn7-vBtLpvf7gsS_oaD4dDP4n2l5_FnhOgd80nT8xh2wTJfy2oklQqmq0a3lAiCasnPV29wjwX5h8\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายเจษฎา น้ำจันทร์"
+            },
+            "emailAddress": "64302040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xbSUPjzhUBZEIwpap6Qbp-niV0rIvLvJ",
+              "title": "ล้างจาน.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1xbSUPjzhUBZEIwpap6Qbp-niV0rIvLvJ/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOHKRuoX3Lcu0anZFpO1e2aqEE0vnKGrH4-kcVaFrKu3H9pQUpmiSFjpH6QggFPELHtV3gPPMbHtx2WVYKPZ8d_hBKDPMRVQvQ8OIjR_3MRjds\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวจริยาพร ชื่นตา"
+            },
+            "emailAddress": "64302040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1cwF4Zo9_EJeo3t1m5lw7g2cFx6Wc8FqD",
+              "title": "ผังงานล้างจาน.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1cwF4Zo9_EJeo3t1m5lw7g2cFx6Wc8FqD/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM5g0Ew-ETyONVXCMd-wMAx6RMJvSsBDSQDn50NUzbSvZ9agt2m5turNuVul3BHlYf-hT9fE5Riko6ipZeNBr7q0teUCf3VeEuLZgJNHVzT_vo\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวรัชดาพร มนตรี"
+            },
+            "emailAddress": "64302040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gNo1nNv6cCvix2xFXwA80EKGW3lAbrGf",
+              "title": "รัชดาพร มนตรี.png",
+              "alternateLink": "https://drive.google.com/file/d/1gNo1nNv6cCvix2xFXwA80EKGW3lAbrGf/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOIk-3nCRdX1_ABTdJN9ZRO4LtXVoQmaCuP8jk6mnHNfA6Hiu5ZNvOiQ2qNRSaFU3ypBQICWGs6GAjUmaHqB5pY3XjZANPZGqoCAMvGNeUbaaI\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวศุภรัตน์ ราชวันดี"
+            },
+            "emailAddress": "64302040050@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1U5feZkm23_K5rbPH7MKgs03rEnLF6a9r",
+              "title": "ผังงานการล้างจาน.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1U5feZkm23_K5rbPH7MKgs03rEnLF6a9r/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNaNF8JwXCHmihMl8ZiOHt3IlwV6U-O0ZKscXpnOsm4FLPof_VsLhegPvBaTU6qNHE-PfrR9ojFwzlSOu4GR_gzb49oX-b3VrxoxnEsPZ31nms\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "64302040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1AVGvjz7mcv79p_TEEsfWaYwddPxEi11_",
+              "title": "ปัญจวรรณ.png",
+              "alternateLink": "https://drive.google.com/file/d/1AVGvjz7mcv79p_TEEsfWaYwddPxEi11_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOoz9maZm19M6nfnFaoJthHfvtPJQHOlBKgujUfnxaIy0djWQX660hoYV6wzO_IuvJZRCut1q9rGGJCe2ivlkmnd1vg6ZeY-ey6ESiK_IPMSbI\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ส่วนใหญ่ถูกต้อง",
+            "points": 2.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นายพงศกร วันนิจ"
+            },
+            "emailAddress": "64302040060@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "11Tt-zzlRkce8rv0POpPmIyiWyLX5wRRn",
+              "title": "ล้างจาน.PNG",
+              "alternateLink": "https://drive.google.com/file/d/11Tt-zzlRkce8rv0POpPmIyiWyLX5wRRn/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOWfsBhHI1diWcEP4Rnq0WVTI8BIngkldTsBTA8x-ns59QprZutcbSjtrfAIcHcOzlyufDzzzm556Smg7hqa-CmrTfq0WQyysWaWETACF1Z20U\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอริยา อาสาเสนา"
+            },
+            "emailAddress": "64302040032@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17uPXraU6h7sRNuqz4-U6V-PtgNdM1oA8",
+              "title": "อริยา.png",
+              "alternateLink": "https://drive.google.com/file/d/17uPXraU6h7sRNuqz4-U6V-PtgNdM1oA8/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPZuxJvoFlLsf-sJQDVLq3Fdd16ER801PmKIflQyEdPatdtXL9LJbG9BawpmDC6yZoUUB54UgxzV8SfLPBlSqovaJ0c1qJIusdboo_wD5ry9vQ\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวนภัสภรณ์ นามรักษ์"
+            },
+            "emailAddress": "64302040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gigFLisF6cDU8dr3qRoCzyv_hR6iCeRb",
+              "title": "ผังการล้างจาน (1).png",
+              "alternateLink": "https://drive.google.com/file/d/1gigFLisF6cDU8dr3qRoCzyv_hR6iCeRb/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMFDyCXqgnEozGkajBkSRrGCcptRdcH5dAGE6FgCXPa0M3-Y5iW3cRr-J8B2A73TxhKCiv_9kxQQOhpl3zExYpHjRZveAqEqyjgTiN2h8nj9mU\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวอุษา ศิริเวช"
+            },
+            "emailAddress": "64302040033@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1L8ENBD5KnrwcKiQjZ5n2Mz9_yrKFO6OA",
+              "title": "อุษา.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1L8ENBD5KnrwcKiQjZ5n2Mz9_yrKFO6OA/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMSSWtX8EjKY-_Ki2wE_fz70UQ37PXDVvbttETgZBfUy4sxjN0gR9m8ASiOWIe7YqLt50XR2duDtQx0jERLca1Tkk9lNtLSMPzBBhrofHRlYKE\u003ds200"
+            }
+          }]
+        },
+        "draftRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        },
+        "assignedRubricScore": {
+          "criterionScore": [{
+            "criterion": "ความถูกต้อง",
+            "rating": "ถูกต้องทั้งหมด",
+            "points": 3.0
+          }, {
+            "criterion": "ความสวยงาม",
+            "rating": "เป็นระเบียบสวยงาม",
+            "points": 1.0
+          }, {
+            "criterion": "ส่งตามกำหนด",
+            "rating": "ส่งทันกำหนด",
+            "points": 1.0
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-10-24T08:17:10.889Z",
+    "updateTime": "2022-10-24T08:17:15.240Z",
+    "publicationTime": "2022-10-24T08:17:15.033Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 0 ทบทวนการเขียนโปรแกรมคอมพิวเตอร์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1kSxZvPIpzUKf2bdwKRh--xLFkkb7mFBD",
+          "title": "WorkwithFlow_190828.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1kSxZvPIpzUKf2bdwKRh--xLFkkb7mFBD/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNPhcJGSMqQGyVCHX7x6oRINiogyR2R5oNpHxYDLnl8xN1-HapfFy5Xh7XsXnX0iiDxSIkRBTvUNhy4_W8UcZWchFMXqPlMaTO6rbfmFnAIGlI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "0.1 การเขียนผังงาน"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-10-16T16:24:22.127Z",
+    "updateTime": "2022-10-16T16:24:50.413Z",
+    "publicationTime": "2022-10-16T16:24:50.374Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "แนะนำรายวิชา"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ojehDYpYxipQV4iZy_Vuxvj3wipvK1fl",
+          "title": "30204-2005.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ojehDYpYxipQV4iZy_Vuxvj3wipvK1fl/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPZ9maWnzHmOavoz1-N2Qp5C_y0gO3gWMZh3baIAGZwMvWsAwHzh4tkG2kaBAKTeNXLYT0058y5RSL2OGfnqdWyv-wh73l0r8X1D_H4lpaL8MI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "โครงการสอน"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-10-16T11:02:31.948Z",
+    "updateTime": "2022-10-16T11:03:17.075Z",
+    "publicationTime": "2022-10-16T11:03:17.036Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "แนะนำรายวิชา"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14jXvM6Uvxh4SBqjiILgGvQrz6Dyy_y6j",
+          "title": "ข้อมูลรายละเอียดวิชา 30204-2005.pdf",
+          "alternateLink": "https://drive.google.com/file/d/14jXvM6Uvxh4SBqjiILgGvQrz6Dyy_y6j/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPWQLfLVXoNZBR9IIsCKkutZAAjU9JzxGYzWkqEcfIwsxwWQub-8CKR3t6qXQGxsTrq2DxtoJFLggWRgxnN7Bh2GemnQ3z2vGNAcWNzvexYUgk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ข้อมูลรายละเอียดวิชา 30204-2005"
+    }
+  }]
+}

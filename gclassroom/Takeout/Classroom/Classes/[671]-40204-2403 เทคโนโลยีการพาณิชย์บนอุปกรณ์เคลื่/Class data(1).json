@@ -1,0 +1,3582 @@
+{
+  "version": 1,
+  "name": "[671]-40204-2403 เทคโนโลยีการพาณิชย์บนอุปกรณ์เคลื่อนที่",
+  "section": "ทล.บ.คธ.1/2",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom08fcc648@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1_c8PZ8MZsTXl_MwJzfrs5DcOHidfI9n6-te3G-Nelelup4QHqe2LyNFucD51d92y07rTxK8J",
+    "name": "[671]-40204-2403 เทคโนโลยีการพาณิชย์บนอุปกรณ์เคลื่อนที่ ทล.บ.คธ.1/2",
+    "openUrl": "https://drive.google.com/drive/folders/1_c8PZ8MZsTXl_MwJzfrs5DcOHidfI9n6-te3G-Nelelup4QHqe2LyNFucD51d92y07rTxK8J"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "courseState": "ACTIVE",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "อวัสยา ผลเจริญ"
+      },
+      "emailAddress": "b67402040027@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ศิริวรัส ทาคำมูล"
+      },
+      "emailAddress": "b67402040026@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "วรัญญา จันคูเมือง"
+      },
+      "emailAddress": "b67402040025@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "มณฑิตา อ่อนจันทร์"
+      },
+      "emailAddress": "b67402040023@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "พงศ์พีระ จัตตะวาภักดี"
+      },
+      "emailAddress": "b67402040019@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+      },
+      "emailAddress": "b67402040022@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "เปรมวดี บุตรศรี"
+      },
+      "emailAddress": "b67402040017@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "รัญชนาทิพย์ จมะลี"
+      },
+      "emailAddress": "b67402040024@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ปัญจวรรณ ทดนาที"
+      },
+      "emailAddress": "67402040016@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "พงศธร อนันตา"
+      },
+      "emailAddress": "b67402040018@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "พัฒนพงษ์ ภักดีสมัย"
+      },
+      "emailAddress": "b67402040021@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "กมลสิริ ไทยนาทม"
+      },
+      "emailAddress": "67402040015@rvc.ac.th"
+    }
+  }],
+  "invitations": [{
+    "profile": {
+      "name": {
+        "fullName": "พรชิตา จอมคำสิงห์"
+      },
+      "emailAddress": "b67402040020@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }],
+  "topics": [{
+    "name": "โครงงานย่อย"
+  }, {
+    "name": "สอบปลายภาค"
+  }, {
+    "name": "หน่วยที่ 1 หลักการและทฤษฎีเบื้องต้นของเทคโนโลยีเคลื่อนที่ไร้สาย"
+  }, {
+    "name": "หน่วยที่ 2 มาตรฐานเทคโนโลยีเคลื่อนที่ไร้สาย"
+  }, {
+    "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+  }, {
+    "name": "หน่วยที่ 4 การเข้าถึงข้อมูลในระบบเคลื่อนที่ไร้สายบรอดแบนด์"
+  }, {
+    "name": "หน่วยที่ 5 การบริหารจัดการทรัพยากรคลื่นความถี่สำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+  }, {
+    "name": "หน่วยที่ 6 การรักษาความมั่นคงปลอดภัยสำหรับเทคโนโลยีโครงข่ายเคลื่อนที่ไร้สาย"
+  }, {
+    "name": "หน่วยที่ 7 พาณิชย์อิเล็กทรอนิกส์บนอุปกรณ์เคลื่อนที่"
+  }, {
+    "name": "หลักสูตร"
+  }, {
+    "name": "Work Shop RVC Store"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-14T02:47:59.066Z",
+    "updateTime": "2024-06-14T02:52:35.145Z",
+    "publicationTime": "2024-06-14T02:50:32.986Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การเข้าถึงข้อมูลในระบบเคลื่อนที่ไร้สายบรอดแบนด์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1NQNxxuG3lJPQVzIpyeLAT4wRqI193ZKlPChqiFsjjMo",
+          "title": "userdata",
+          "alternateLink": "https://docs.google.com/spreadsheets/d/1NQNxxuG3lJPQVzIpyeLAT4wRqI193ZKlPChqiFsjjMo/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPhqrak5yA0vPIdMD_hVIY3jjgXt68ZxrKCp1b7xeXaIhNwqWCyVcBHAJleqi8hKaLM41HZcFy_RoWw7YbuTrTata28k-lonNpbzHK1vlcJ6Rzb5xL08CcjZZLRaPw7kExhCOs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "link": {
+        "url": "https://x.thunkable.com/projectPage/666baa3d1e54619729b85061",
+        "title": "Thunkable Login",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://x.thunkable.com/projectPage/666baa3d1e54619729b85061"
+      }
+    }],
+    "courseWork": {
+      "title": "แอพสมัครสมาชิก",
+      "description": "สร้างแอพแบบฟอร์มสมัครสมชิก เพื่อบันทึกข้อมูลผู้ใช้เข้า Google Sheet ที่แชร์\nจับภาพหน้าจอขณะลงทะเบียนส่งมา 1 รูป (ตรวจสอบว่ามีข้อมูลเข้า Google Sheet ด้วยหรือไม่)",
+      "descriptionHtml": "\u003cdiv\u003eสร้างแอพแบบฟอร์มสมัครสมชิก เพื่อบันทึกข้อมูลผู้ใช้เข้า Google Sheet ที่แชร์\u003cbr\u003eจับภาพหน้าจอขณะลงทะเบียนส่งมา 1 รูป (ตรวจสอบว่ามีข้อมูลเข้า Google Sheet ด้วยหรือไม่)\u003c/div\u003e",
+      "dueTime": "2024-06-21T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เปรมวดี บุตรศรี"
+            },
+            "emailAddress": "b67402040017@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1555SIzjqjtT0fXq-tSb_TVTLbOtF_Lqm",
+              "title": "Capture1.2.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1555SIzjqjtT0fXq-tSb_TVTLbOtF_Lqm/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN_-FmklS_A4gdmW3ry2EcLeU-rcOcGavkK3CTnxqEz6sPvlrtFVZFbif52HYuZ4YHwfqX8rlE9uNtYXNqImrbbvAcQKofnD-_3aa-cqO6pcKQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1FChcfZ083XWMZP_WZmVxmhFDk45V-kd8",
+              "title": "Capture1.3.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1FChcfZ083XWMZP_WZmVxmhFDk45V-kd8/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNvXpNKvJVhNPBojbQ5HiwteC9GUZvkdOKzQiSkWBgtsTk3yX8NsI7kGUhGPjwUojGNZBfUs0zXtNV9jJSUxfvctXno2_PZarsWftY1KXfnd78\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1a2u3oSnDWz54tnUl-IR1TtaV6dgNmzcg",
+              "title": "Userdata.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1a2u3oSnDWz54tnUl-IR1TtaV6dgNmzcg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM2uoXTSiKlIBntwM4j_hRPIUK7w628owdcWLYtyymBksudd9otMlPwhzjkv_7X-m4df6LBDJnPm3Btn-jqtBtPTK6sRvCbc5g2hLYg2OMYu-g\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1-KiZzNsQz658wyrrVg8jl95wp4o93uml",
+              "title": "1.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1-KiZzNsQz658wyrrVg8jl95wp4o93uml/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPcfAHS4-N4F4deC-nmEKFiSvDr44Wid1PGaDz-jObdLVkMRahVKIrsjLRu4XsCqGd2-yU_yHaQfulnQdiCB1ToJJ5iSwemfaUlVMZKw3ge710\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1kmfFav8ML8pvx1f2kRjcmKSaISEnxd-6",
+              "title": "2.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1kmfFav8ML8pvx1f2kRjcmKSaISEnxd-6/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN9VY4i6NhwBzfucTlP3H0q2i7cIU_WyhxxatYbE2Q0HLlXYp3qGDlhclkeugX95NYwLBx9v1DdqiX8TLklZQTFrbiJVXzcTBNX_sS1YxS3OLU\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรัญญา จันคูเมือง"
+            },
+            "emailAddress": "b67402040025@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dn-NHOiMPK0pZyzsb_FH5e3fHYAmy3M-",
+              "title": "mmmm.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1dn-NHOiMPK0pZyzsb_FH5e3fHYAmy3M-/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPDckfKRkB4hF8A08XrhC-trQGF4S9MfYEmuwBZlbAiG8Pd4Ud9evbGkw6XCTHUYrxP1WCbukNCkUqX99NcrpH5zTJBisjBNpXfzPZFUmE2J4Y\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1HPWmosKnu51ASMQZzub80wqw_25kdFEx",
+              "title": "oooo.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1HPWmosKnu51ASMQZzub80wqw_25kdFEx/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMZqOwWNEM246VkszMoj0gS-yJjhdPenioj3cAeeQtDTV4Rf-s0nxHlsUL2rc5BgeiOsfCUbWVubPcpwlO2VPLXM-79oln5RlyRBPTa4fLd4Uk\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1nznUvZeXq_-j30Pv9fP6qgn4MnX2sjb4",
+              "title": "Capture1111.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1nznUvZeXq_-j30Pv9fP6qgn4MnX2sjb4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPlBO0FEfGRHgfXdrytAw5lw-VlwTqVYkwxD93qhoDj2MnOAqvraMNHGQP0XK0WQplB5rqPeh8oQBL7n6IE12sGaqeSDsYJIRJXbGeE_ZABYzE\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1dta4oD3uLhpad3xbTSZy11bOYmzqH78M",
+              "title": "Capture3333.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1dta4oD3uLhpad3xbTSZy11bOYmzqH78M/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNF7w75zOb_fBpjjhLtk5rgBZrAeonnTJWkvApggGzKlwshe30TjMGowDPnWKVVRhTxkoWtb3gLp_G_GefUlFW5ewpnwa8p9SiVVEjALACwsLA\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1w_Wz6-QDUA4mu3jPha0u_kyfzdvQVl3r",
+              "title": "Capture2.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1w_Wz6-QDUA4mu3jPha0u_kyfzdvQVl3r/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMGsOV12u5Jxd0e7z3ShSvZXGh5kudpiGeEF9KrZMvk_0YWCrZSEpySvozMxl_rih6MF3OlsPiVRdE1wqUQmx5zzD4MeV9VkJmXauy-Rd--Q88\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1DzMtWuchtD8PFJDoJaBYweKX5Xeb5TcP",
+              "title": "Capture3.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1DzMtWuchtD8PFJDoJaBYweKX5Xeb5TcP/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPZ-s14606ZboECSUL_ue5ngjwlJvrNZ2CFlC96_jYjha5h_nightOQZUQfs8yByVEDshXIewqme5pMlyg1QvPw0iU01oppgVCT8oszoZu96HE\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1y0C8y3T7KUqaZGaMkFApx3dw9MAWoY7n",
+              "title": "ll.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1y0C8y3T7KUqaZGaMkFApx3dw9MAWoY7n/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOK4EuuEzMlczIVMylqKb8__t6yFDXgj-BWRTW2oeLnPv31ni-LKNEYbcmawG80ZvUU_72pkwzy-ukJlstlG0xEoLv70z7NWFCgilC7VvV4Jgs\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1BWUyhYiWNfHcOfaYNREsKwiZflXsWOT2",
+              "title": "C.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1BWUyhYiWNfHcOfaYNREsKwiZflXsWOT2/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOBLDUgWs2EvagZqpd5YB_Rb8xJ4YXa-z7tTjEEyP8SLBQ7ZucWKeajGP1wrITmAlxvpM1yK-178ww18nwWJ6YXfvJC_kKFo3vmd-AN6pfNzRg\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1p1DSY3_VRx6KwWHpWwSr6qYFOZOhecml",
+              "title": "IMG_20240614_102307_064.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1p1DSY3_VRx6KwWHpWwSr6qYFOZOhecml/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPaEvwl6A3EYSe3inD1bYS-dT2wgEeeb-_J6sbfSl2nS4IP-iJq7UZKXoYF4qGxPD0rj2_7wi44c-j127PHRCF4PX6MKrKOHkfW3GJLWLCAyGY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1R9cWmsZe9WivHid3-827nizJamvrxNXR",
+              "title": "IMG_20240614_102249_398.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1R9cWmsZe9WivHid3-827nizJamvrxNXR/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO_SvxUqyJYq1I4YeczWWuGMO9EUNQRA3h6Dibn6vt59psYe92Vx4H-EWv_srKfWjpwlHI8u7adQIv4HjD0XFD26fisK0_3LVGoB2zo-UkdPJE\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1vijHdsyvrZF3KoEcQZoQat2CtDP_SB0K",
+              "title": "Capture333.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1vijHdsyvrZF3KoEcQZoQat2CtDP_SB0K/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM8yhhb2Nf3NMh75FMd6MaOMajxjiLyK-gt9Yh8ecJwfVSb6RZQynOBhPz7zspltDcQizaohl9cKrHdGHnZfNw7ywJ6h66cSSgaa1nbW0WZj2w\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1VgVqbPGssKgAyX91HTPbMivPpyWTE1XR",
+              "title": "Capture444.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1VgVqbPGssKgAyX91HTPbMivPpyWTE1XR/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOin4JqL2YJivPGk3u4TXT0H6mRIovZeeLxu54Sn5qN9KVoN7miXkNogJY6QVmpojojBp1oAVDgSoV8WlTqrSKhNaTM4dCsjXgivDH1vX9fDkQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อวัสยา ผลเจริญ"
+            },
+            "emailAddress": "b67402040027@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1alOyllE7InceFIKkwHR9NRUuqlxvZakM",
+              "title": "Screenshot 2024-06-07 193219.png",
+              "alternateLink": "https://drive.google.com/file/d/1alOyllE7InceFIKkwHR9NRUuqlxvZakM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOED7w1Xgq9-681saZNGUb9Bh2wzqGzM0IcYolHohrcFWHtRGrG8FCqy29l0_AoJJ4gk-8LRVGn5cvZSgCJKfw-K56L1okMdqA5hT01ZO0ECPQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1pT3qhA8uRfG44XXF288mJYcZPJufXbNY",
+              "title": "Screenshot 2024-06-07 193438.png",
+              "alternateLink": "https://drive.google.com/file/d/1pT3qhA8uRfG44XXF288mJYcZPJufXbNY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPEv3Xq2KfswpmjlKjriNleY2ccgFK_ynhqjpnkpPSmXwHQ0x2tLJgyCNDB8AyjxgWrx6AGOzq6tCgwtUUc61ZuxigF5ixXQtcvXc17_TCW4zo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.456Z",
+    "updateTime": "2024-06-14T02:19:02.629Z",
+    "publicationTime": "2024-06-14T02:19:02.308Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การเข้าถึงข้อมูลในระบบเคลื่อนที่ไร้สายบรอดแบนด์"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1AXoCW4f0KTz1D_TjheOAJmMuNzGGQ8Bt4O0Oufv1_vQ/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/ZteQ6niu8Ana46eTVghvbtHUcDQ4I0EX81vjNQ-ZxFLAzBJ8h0ZolKPnuzj4CWKkHKcBIxnTcY0\u003dw90-h90-p",
+        "editId": "1AXoCW4f0KTz1D_TjheOAJmMuNzGGQ8Bt4O0Oufv1_vQ"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+      "dueTime": "2024-06-21T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.390Z",
+    "updateTime": "2024-06-14T01:18:04.281Z",
+    "publicationTime": "2024-06-14T01:18:04.016Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การเข้าถึงข้อมูลในระบบเคลื่อนที่ไร้สายบรอดแบนด์"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1At_tU3Fgx4PzNQELxkMpCp2yYZPGlC2IAApvRHioeeo/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/XgRC4E2Oi56828jF94qwCXP9-MMlWSKHkH3-LM7hjwu4AE9eWDMgsYWuyZK2o3Z8obPF9J81vbs\u003dw90-h90-p",
+        "editId": "1At_tU3Fgx4PzNQELxkMpCp2yYZPGlC2IAApvRHioeeo"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+      "dueTime": "2024-06-17T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "67402040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เปรมวดี บุตรศรี"
+            },
+            "emailAddress": "b67402040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรัญญา จันคูเมือง"
+            },
+            "emailAddress": "b67402040025@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อวัสยา ผลเจริญ"
+            },
+            "emailAddress": "b67402040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.974Z",
+    "updateTime": "2024-06-07T02:51:16.859Z",
+    "publicationTime": "2024-06-07T02:51:16.378Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1xmlxrWdcHVrZuSUCw2RkicbHnUG1_UHamNIY8fH6Eik/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/J28NL-1RJrMgjN6hwY19GhWhDySqsAObh9a6vIyY0HpOIHuTT6TCS37S_TEB2ibhaZQDQgXNwC4\u003dw90-h90-p",
+        "editId": "1xmlxrWdcHVrZuSUCw2RkicbHnUG1_UHamNIY8fH6Eik"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+      "dueTime": "2024-06-14T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "67402040016@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "รัญชนาทิพย์ จมะลี"
+            },
+            "emailAddress": "b67402040024@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-07T02:49:05.230Z",
+    "updateTime": "2024-06-07T02:50:28.933Z",
+    "publicationTime": "2024-06-07T02:50:28.518Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "courseWork": {
+      "title": "เขียนแอพแผนที่",
+      "description": "เขียนแอพแผนที่ (หน่วยที่ 3) จากนั้นเปิดที่บ้าน/ที่พักของนักศึกษา จากนั้นจับภาพหน้าจอส่งมาเป็นไฟล์รูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eเขียนแอพแผนที่ (หน่วยที่ 3) จากนั้นเปิดที่บ้าน/ที่พักของนักศึกษา จากนั้นจับภาพหน้าจอส่งมาเป็นไฟล์รูปภาพ\u003c/div\u003e",
+      "dueTime": "2024-06-14T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "11oiGLqcz3PK8A-SCz5ZBjO-XKqLvsPI5",
+              "title": "Screenshot_20240607-094410.jpg",
+              "alternateLink": "https://drive.google.com/file/d/11oiGLqcz3PK8A-SCz5ZBjO-XKqLvsPI5/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOQk10RMLT8ZZmXDD886v0n-JK8H5hPXoonw_2Snfp9bEbJ8zmQjDX8MzdVyWr-BqKqAEVsk22lZAUjAK34H_R0bNIRTxkNZE_L0qfcJ7S_3Xk\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1BWPpamZ0jzWZ3GzxUyIO_L1JiGjcxsEU",
+              "title": "Screenshot_20240613-125310.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1BWPpamZ0jzWZ3GzxUyIO_L1JiGjcxsEU/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNh5lQI4AKusVVDcFzhenYOgCImCssvgai6mtxYb0WsGoPu9KiDK5hBORUgvtZcPj56Kapdsa6wzcOD2H_9qBcPC9lTwI5A7BaRLt7uQ3CQe54\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1L6Vt9l1n9RnFkVv3Ux-Wpusv0qefsfwI",
+              "title": "เขียนแอพแผนที่ (7 มิ.ย. 2024 เวลา 11:04 น.).png",
+              "alternateLink": "https://drive.google.com/file/d/1L6Vt9l1n9RnFkVv3Ux-Wpusv0qefsfwI/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPEQxaNX8XTV9-VvmFj9M9CIzN9SoeIuVCS_giGT86Fdyv4N-JL7skezPzlcekhbYUQEbXGoywghbPkg2My5JyJM7NmJUy8HXzg_YQH2UGRx5g\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ecOXU5hQVjXYDJ90tHE6k5FfKd3SU9up",
+              "title": "Screenshot_2024-06-07-11-10-05-98_2bbfbfee96a5dfce998f962ebb8b5da3.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1ecOXU5hQVjXYDJ90tHE6k5FfKd3SU9up/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMmB9mzB7YO0eL-hOKYej_jYsc-uw5ZKdGB4b8MWfDrRGJDBFRryEx9tBj-NVX8e3Pt86MLoGnjO-n7e4stNVremWgbo1Xc9WGIvAr1YlYxijc\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เปรมวดี บุตรศรี"
+            },
+            "emailAddress": "b67402040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BL3kKIFbrprkpoQG9fPv86lsG54e-PfP",
+              "title": "S__4284419.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1BL3kKIFbrprkpoQG9fPv86lsG54e-PfP/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBORnD8M1qW3HZJBGAmWnEaSsiZ5HzKsfqc1XG83a7dLL-RLx5IhSc9IjH0lf_Llr3LoKizM5xR6giw7porWO5XDjeDgBKmh1E1svX9QL79IeRY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1_9k3SEnXGnVR-P9-KFaCA7Ggw4MyZskn",
+              "title": "ป.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1_9k3SEnXGnVR-P9-KFaCA7Ggw4MyZskn/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN1oyETskX1nPb90TT-PZXQRX7cEpDLtV9MTAQJ91qgzztt13X37veDJJwZrk8qJlzu2iYRwDKC8iqrxVfL0naRWpWDTAQF1K_Zx9HcOv530D4\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "รัญชนาทิพย์ จมะลี"
+            },
+            "emailAddress": "b67402040024@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1TLty9xQHhbU0KESWd1G3daE9ZQSVVCF1",
+              "title": "IMG_0495.png",
+              "alternateLink": "https://drive.google.com/file/d/1TLty9xQHhbU0KESWd1G3daE9ZQSVVCF1/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPJUDsl00GSplBtDzrHmoT2eSfyx6afPrx5jlK6SwfRACC0cXpoNZbZkzqUa_EgZXTkSz0i-aq3CNa2KkPBYNDe_AzHCtLx7pGaS6inQJ_1UNQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1z-Sc-yPLcMKZAAd8dnhUcl3ZBwTxmCc-",
+              "title": "IMG_0498.png",
+              "alternateLink": "https://drive.google.com/file/d/1z-Sc-yPLcMKZAAd8dnhUcl3ZBwTxmCc-/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMbBDYudm1aAQF1-NJNh8WoY6WGcsxoBI_Etk4j7SBAMIKg-bjw6tHlJILoMdL64h0kJA6G_2zXqFeboypsWr5aLPjsKkv8od8pAPrywplg8vc\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1EPs_HE-E4UE-B471pqWx68Z940gHpVlk",
+              "title": "Screenshot_2024-06-08-16-59-24-81_2bbfbfee96a5dfce998f962ebb8b5da3_090451.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1EPs_HE-E4UE-B471pqWx68Z940gHpVlk/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMqdKSHAU7RDYBEXNw8qunjOyJGhwUaPtdAU6IpSK0FsXAAnJuwnMwGg7igJXGlIox8-ALtQT7NZ-NmuZJb9Lcv4z9cNu3IaBPx5A8vg4xT3Vs\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1IkOJ7GnsRrUZsyihlbsYWaGyLnnaNKUR",
+              "title": "Mymap_Thunkable.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1IkOJ7GnsRrUZsyihlbsYWaGyLnnaNKUR/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM0_4WtT6Lo6XCPnEUPVvtW8FhNvEmlYC7GnoTKFo18cLwiQIphCMIqksmiorqQw5i2gjQo0fsxev5FKfBRv7fVHfGmstGKB7Pl7ozbrSlrS0U\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1lfe8yQAeNqim4PkTFUMBdl8GgNebNqOg",
+              "title": "เขียนแอพแผนที่ (8 มิ.ย. 2024 เวลา 21:05 น.).png",
+              "alternateLink": "https://drive.google.com/file/d/1lfe8yQAeNqim4PkTFUMBdl8GgNebNqOg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNYcwg67k3N8EZxSNNtfISKB68jwZ1cGrCyC-r0TQNFo1zaf_3Xs6Be8J9Bq8T3UEpetF5GgJYyDbIhXgp_9QsQVAEqYU7zAX7vEtZyS6DI3oc\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรัญญา จันคูเมือง"
+            },
+            "emailAddress": "b67402040025@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1f1PALTJekT4XnQdkhSDN4ogEcpOEL391",
+              "title": "1125.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1f1PALTJekT4XnQdkhSDN4ogEcpOEL391/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNw2E3BzXd93gdeLMi6n2nKzC0lF-Kmg7beM8nRY56FIW7ayZI2lhTOpdGR3UhQqLpE0Zsj3Pu3dPcjRwN_8YzgIW1MkkY3t16M8UWVOWhRk-g\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1EGdPRF4fDKROJtI2hWH444O0BMlz9ZIT",
+              "title": "3333.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1EGdPRF4fDKROJtI2hWH444O0BMlz9ZIT/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPtFArKW1VMvPE5znE9jZJ-v5pM0OV1oIOqMcggFQfnpNrGcowg7zVNhg4IvCF3hQPxAVa64S7cO41bXNW4aqcPHqq5kulKfJg4puhkZgeA3oQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HH_5Bff_56ZXVCBI-99kXB2JtyPwqqZb",
+              "title": "Screenshot_2024-06-07-10-34-28-00_2bbfbfee96a5dfce998f962ebb8b5da3.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1HH_5Bff_56ZXVCBI-99kXB2JtyPwqqZb/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPNDxlSwoLsHWu8LatVt0s9nx4uWfoXniJOndfUCBitEfexKNmPdnxDwNqrO3j6jkeS0VDJw2BbdtM2UkpS3c06i4hM3DKH-VXdQZMkTfsllSI\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อวัสยา ผลเจริญ"
+            },
+            "emailAddress": "b67402040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1_UdIJS0Lnp2Mr1VkNY2tiTdhNnksMRj4",
+              "title": "Screenshot_20240608_112550.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1_UdIJS0Lnp2Mr1VkNY2tiTdhNnksMRj4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMYZZ-wKDqFRWSxisGomILcXSxaFEY_kencgr2HiUWnihEZMsKTcss6rPZ_vcEx39cDLqWxG8lvk_UrEnNnkCYeXA5mOfuATrmwujhJgCXyKBo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.154Z",
+    "updateTime": "2024-06-07T02:24:09.342Z",
+    "publicationTime": "2024-06-07T02:24:09.040Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "11x6lXBFuamtoTnxiquqd-cyHrIBKFNIf",
+          "title": "Screenshot_2023-06-23-09-50-33-65_2bbfbfee96a5dfce998f962ebb8b5da3.jpg",
+          "alternateLink": "https://drive.google.com/file/d/11x6lXBFuamtoTnxiquqd-cyHrIBKFNIf/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOYvkzZlyYR3ShFzsuHtYr_OIuS_skr7YgV0onuOfefGyy8xgKA3_iovtB1NKjCOLr5JtOnojz76E_eJ_W5iO3XHdZ0jtm3qfTjZrQNjdXgR9E\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1pNMiVaz3_xmRpNxMfzLXyAmo4ueSLgdx",
+          "title": "Screenshot_2023-06-23-11-00-27-64_2bbfbfee96a5dfce998f962ebb8b5da3.jpg",
+          "alternateLink": "https://drive.google.com/file/d/1pNMiVaz3_xmRpNxMfzLXyAmo4ueSLgdx/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOfeGm1H6IHp7DzYkCilce6tQ8DXbhlz_EV_no4nJBXXF9b_eQAM2por_DiaiqBG-dRZAvksCCerCzM0oBC_96INTgHM88mEtHzs_seIzlHACk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1mBZAZ8KL7C5P3BW-UpFRk-O1OnfKWpr0",
+          "title": "Screenshot_2023-06-23-11-03-24-61_2bbfbfee96a5dfce998f962ebb8b5da3.jpg",
+          "alternateLink": "https://drive.google.com/file/d/1mBZAZ8KL7C5P3BW-UpFRk-O1OnfKWpr0/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNDMJAtQhCrvdO7HPICnO_pQeiTaWbiFp9AkJ0VdgSUrx52NRAEu0Op6vFBFHzZNascF_70w5nFj7twPk4cqcRVDUNlFlTLuhZixxA_yNjr1is\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1xtoIpCkIJs8vDM3FZTqS4P7QHWxYSLpw",
+          "title": "Screenshot_2023-06-23-11-04-43-32_2bbfbfee96a5dfce998f962ebb8b5da3.jpg",
+          "alternateLink": "https://drive.google.com/file/d/1xtoIpCkIJs8vDM3FZTqS4P7QHWxYSLpw/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPEnFfeS3fgzb_h_-Ux_IM1brcxqJkeSKZgpkKpug0sZWdoH7OUYG0N57HaamDnzjsQrlgg7-Kd80c8ew4upVW6gz0qgBovRsDz1fTo7KEcm10\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "GPS"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.878Z",
+    "updateTime": "2024-06-07T01:11:05.536Z",
+    "publicationTime": "2024-06-07T01:11:05.260Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1wz-itd5yhDMZfQsI9LOysI8pbCTpNW4jnZGMfdVrNOU/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/EWZ7IVkLkI-pV_71kqifUl5byVoHyMYD0C4q7S-noyqdRKCGuJHg28y3ntGhKd5gDsBKCAycgAU\u003dw90-h90-p",
+        "editId": "1wz-itd5yhDMZfQsI9LOysI8pbCTpNW4jnZGMfdVrNOU"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "รัญชนาทิพย์ จมะลี"
+            },
+            "emailAddress": "b67402040024@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เปรมวดี บุตรศรี"
+            },
+            "emailAddress": "b67402040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรัญญา จันคูเมือง"
+            },
+            "emailAddress": "b67402040025@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อวัสยา ผลเจริญ"
+            },
+            "emailAddress": "b67402040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.807Z",
+    "updateTime": "2024-05-31T03:16:12.464Z",
+    "publicationTime": "2024-05-31T03:16:12.430Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 มาตรฐานเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/10C384WYCo8UAapXRwX3vTC-CocLWAkIY4Qx8gd2v3jg/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/v_GuZp0s5g7kLhHsshFFZKyYKZHrA9eY-kTVoxct3Jx-c3pssnyvNVsUL6VW3pXawDiPemIzUyI\u003dw90-h90-p",
+        "editId": "10C384WYCo8UAapXRwX3vTC-CocLWAkIY4Qx8gd2v3jg"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+      "dueTime": "2024-06-08T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "รัญชนาทิพย์ จมะลี"
+            },
+            "emailAddress": "b67402040024@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เปรมวดี บุตรศรี"
+            },
+            "emailAddress": "b67402040017@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "67402040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรัญญา จันคูเมือง"
+            },
+            "emailAddress": "b67402040025@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อวัสยา ผลเจริญ"
+            },
+            "emailAddress": "b67402040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.740Z",
+    "updateTime": "2024-05-31T02:00:57.161Z",
+    "publicationTime": "2024-05-31T01:12:01.650Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 มาตรฐานเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/148hWPQdFcv_5nLTze-_vt_yAQVBZQS84DEeSDAWX1oo/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/sTYQRZWNPm_v-wlwnRelDKz5k_EtTmXL3CZ3sJe3aVrssv1KKiTaAw75NEpCQ00H8cJezlQBXRM\u003dw90-h90-p",
+        "editId": "148hWPQdFcv_5nLTze-_vt_yAQVBZQS84DEeSDAWX1oo"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+      "dueTime": "2024-06-07T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "67402040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "CREATED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "รัญชนาทิพย์ จมะลี"
+            },
+            "emailAddress": "b67402040024@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เปรมวดี บุตรศรี"
+            },
+            "emailAddress": "b67402040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรัญญา จันคูเมือง"
+            },
+            "emailAddress": "b67402040025@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อวัสยา ผลเจริญ"
+            },
+            "emailAddress": "b67402040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.671Z",
+    "updateTime": "2024-05-24T03:06:02.436Z",
+    "publicationTime": "2024-05-24T03:06:02.198Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการและทฤษฎีเบื้องต้นของเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1z9tBlVHs2javPmjLB2VKmjb7prqZxleWn4dlViEx06Y/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/xwCkYGoGD2sOkvmNEWELbQ4DOIhQTBhENIi_z5bQIRiUrjlUwQc7KWjv2C0uM1FfARYkUSGN0TA\u003dw90-h90-p",
+        "editId": "1z9tBlVHs2javPmjLB2VKmjb7prqZxleWn4dlViEx06Y"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+      "dueTime": "2024-06-01T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "67402040016@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "รัญชนาทิพย์ จมะลี"
+            },
+            "emailAddress": "b67402040024@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เปรมวดี บุตรศรี"
+            },
+            "emailAddress": "b67402040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรัญญา จันคูเมือง"
+            },
+            "emailAddress": "b67402040025@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อวัสยา ผลเจริญ"
+            },
+            "emailAddress": "b67402040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-24T03:02:07.920Z",
+    "updateTime": "2024-05-24T03:04:27.276Z",
+    "publicationTime": "2024-05-24T03:04:06.258Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการและทฤษฎีเบื้องต้นของเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Q8uUP3hv3MBDWjCmsG3kw7SehWXpiLiU",
+          "title": "U1.png",
+          "alternateLink": "https://drive.google.com/file/d/1Q8uUP3hv3MBDWjCmsG3kw7SehWXpiLiU/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNyLgmVYHO9kPWIQKUjB0oR3J_Z-72Mw-U30E7NBmYDK5sbb8F64uppTWp-teYtiI5UjxEybfWUEFJgwHfQuTNIwCxYuLJlJqYIWu3tAnp1Mx8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1FTwlZBkEybt59VGSLXZkbsV2XNw8wQXB",
+          "title": "U1.1.png",
+          "alternateLink": "https://drive.google.com/file/d/1FTwlZBkEybt59VGSLXZkbsV2XNw8wQXB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPLQFqMmAFI1cmfrfQAtq7VtnzfLRbK9Z65sYHRsR2wEzXRf07n8pYTQ3mv3JLbNfzu0yXWW5LN_N9RvLVoFP4GFXyJ6ssFA59kU7boc3YLG_4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้าง My Project",
+      "description": "สร้างแอปทักทายผู้ใช้ แล้วจับภาพหน้าจอเมื่อแอปแสดงข้อความตอบโต้ ส่งมาเป็นรูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eสร้างแอปทักทายผู้ใช้ แล้วจับภาพหน้าจอเมื่อแอปแสดงข้อความตอบโต้ ส่งมาเป็นรูปภาพ\u003c/div\u003e",
+      "dueTime": "2024-06-01T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1jw8u_5IRnVxahjcqJENMW3dz3t7WiHpx",
+              "title": "441555167_776759057858116_2649326052376939339_n.png",
+              "alternateLink": "https://drive.google.com/file/d/1jw8u_5IRnVxahjcqJENMW3dz3t7WiHpx/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPEq8eH0Ws5I18Oq6Hp-aW46bLj3JmTTkl1DZvuN5FDVdHR_It8sD4vOdnbMZGM86vioSBjyAbgDdzu53-TKoh56ir0WQpvF5ucGZG67uctuTs\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Y4C4WIXk22E5dE2hj4T9lftlhjH8Low0",
+              "title": "441308271_1915305795634824_1796874806558057191_n.png",
+              "alternateLink": "https://drive.google.com/file/d/1Y4C4WIXk22E5dE2hj4T9lftlhjH8Low0/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOUGA3QM-tqTYzOcYGXgYH4a9yddqo3k5qD3DmTKnLxsSJyojmhFMsbhdPTuKkxuU9ElNvaSQUzJsJQqr9RSRqviEtzjPjEQ_QCDyY9abvAioI\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "CREATED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RmyFHok8hFw4owYQlZCnFnlP3dzJRz4E",
+              "title": "Capture.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1RmyFHok8hFw4owYQlZCnFnlP3dzJRz4E/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN8_mXY-8T7sXAO9DuGAxA_6oxXOXufHe4MIqXgma_zCIdtLMIwuzCc2Ir974OxUy22CzX65KhEvAO9REAxk5yKhcSTzB7wrVxkRZKZk_LhNNQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "67402040016@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13OV8u79OKQggF2HjEV2xrikOhahQTylv",
+              "title": "ไม่มีชื่อ.png",
+              "alternateLink": "https://drive.google.com/file/d/13OV8u79OKQggF2HjEV2xrikOhahQTylv/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNYPIGaPSNBTKE8jB2vYOuW0KFu734pUkX2XOpVN8i8gkapYM3UkulhfN5C_vbbf88AlaJ2eylhINPRLBpt3WqyN1xmQqVNa25isk0P6pnsbqE\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1tAyEoPt0A552Ahv8je-e5_1RTMcyd4Wf",
+              "title": "ไม่มีชื่อ12.png",
+              "alternateLink": "https://drive.google.com/file/d/1tAyEoPt0A552Ahv8je-e5_1RTMcyd4Wf/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMEVSuWLmBckU3JCZdd1HveoTbpordAlX34oTiI2eWnhposCXqRdT9jYnDoII2s04b8VhrRgvE29bE7WPbFkGnUfodv9nNkM5K050hv7rA77Mg\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OTiYu3T8p8xRlJm5Wn4fIIIzZY13G6uv",
+              "title": "Capture1.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1OTiYu3T8p8xRlJm5Wn4fIIIzZY13G6uv/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNq9BUIkiO1Fvw-1cfPiytnLABamsT27SBlNvNmP4kFUAw4j4RplPusfp6Z3oh18voT5W2JtUMeh2F3B6FEZLIK9QzjLGU8QE7RxqieGUyAeik\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Av9ZUfPs9zbFoqFh6otxcO_tmozDZzXG",
+              "title": "Capture2.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1Av9ZUfPs9zbFoqFh6otxcO_tmozDZzXG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNuxXWslDPTcIjUbZJNWD_oarqZkijUQyfQbR7P9-POY32NyoIeIvQ4nfPTCFU49VN2ojbvFxstx9nI7X_gFSQHK60OJmi2amiLNSTFniTFkBo\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เปรมวดี บุตรศรี"
+            },
+            "emailAddress": "b67402040017@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RoVZMF-GPVghsFWRPk5uzGm1HhiV28pX",
+              "title": "2.0.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1RoVZMF-GPVghsFWRPk5uzGm1HhiV28pX/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNAoQvGd1yiHTCy6M9dfZt0pA8BhthVTduDzip1qMNQxoJKY0z5vC8wybET6Uk3W3EKvSZCfrFR8zsJ9z2jyIaxZvqfUQB5EB3nKiNgqfPI6pM\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1YFyKP8nPn4yUQmUTn9bHbDZqZOl-e2U8",
+              "title": "1.0.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1YFyKP8nPn4yUQmUTn9bHbDZqZOl-e2U8/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOcGq3XQvyLQYSU_Hu_PMQcoE7tsg3803kqOrnS9T80ny_k_Dw8l_Qh1epSsi7y5JT6TeOZTPg2vLFyEWzoF6_ji-3Q3DRiUmMwkO9wZbXlIHE\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "16Q8JbjG2lH5gtH3XafTK6MARu3UhR9ti",
+              "title": "1.1.png",
+              "alternateLink": "https://drive.google.com/file/d/16Q8JbjG2lH5gtH3XafTK6MARu3UhR9ti/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNKU1k-FkDi4blZIGf84ayhZ0ytfJeSJWmlsDENRDTmD1S9JXtFGxpgx8gapuAP8_GKJ49pOT5OBGYyFrSb-PZi-lj8OduJYDy51gG85reHFY8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1sV47kwQ_tP9aYhfjwF2YYqyLeJliBxnd",
+              "title": "1.2.png",
+              "alternateLink": "https://drive.google.com/file/d/1sV47kwQ_tP9aYhfjwF2YYqyLeJliBxnd/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMI8maUObYDFYTYOO6P-jKpw41CPaLRJqR63va2K56xow6cpEWP7aPDUx3BCLaZH4GbAIxDY2AXBUj_Fo2H4lG0h3DW92Nb-YDtau3IksDTvr0\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ZguuIm_MRniAZGQypJ-5FcK5EJpoqztk",
+              "title": "Capture.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1ZguuIm_MRniAZGQypJ-5FcK5EJpoqztk/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPVMdLS1igOs4u6x1QRP6DFtCribpkFU3wAEOu41EPh8GSZty9e5CD4lhW4-2p8M62KRmyRmEYHqvm6she6FdSsYdY3_AOXll2_L8GW51Stf8s\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1DAiJCRbyrSTlwuROXN8uBFCFO-WG0x5_",
+              "title": "1.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1DAiJCRbyrSTlwuROXN8uBFCFO-WG0x5_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMcQa7dyG2zM9Dj-40DW3IEjNYEQE5qAhExV0gd3eb3ZuNJ5HVOPLjROBqlzHDJK56hoYWeF-Vxb9TFhXqZJTzpSKIXqROaybU6sUK38vAjYLo\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรัญญา จันคูเมือง"
+            },
+            "emailAddress": "b67402040025@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1R8sWhOzAW0oFVpA9wYTGpFpDXJFv9Op2",
+              "title": "lll.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1R8sWhOzAW0oFVpA9wYTGpFpDXJFv9Op2/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOJLvOUcYqKn_PoLms6tooFQkpp3w25b77m0FucUI_ocN1td590Ani-cOp4xmACK06KJRz3Ead7GO7pCXHL_LYnvvcIzCnDNuCX55ZuZSEQXMg\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "รัญชนาทิพย์ จมะลี"
+            },
+            "emailAddress": "b67402040024@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1TBMpMdt6F5EQJ0dQY8oWkbyCTW5J6LKo",
+              "title": "งานอาจารย์นพพล.png",
+              "alternateLink": "https://drive.google.com/file/d/1TBMpMdt6F5EQJ0dQY8oWkbyCTW5J6LKo/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOgP8fC0LSJ3nGXJMOmo_VXwWX8w302_CYdx0rU7geJ0XNBJtCwqibYH0T722QeWtoFs4_JiJcC5aepzVSTqn1MAg9o1RSAH2ciCSUJBH6ejeQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "13fjGafE-UK5gxiUjte6lCmN_nEzIc-uu",
+              "title": "งานอาจารย์นพพล1.png",
+              "alternateLink": "https://drive.google.com/file/d/13fjGafE-UK5gxiUjte6lCmN_nEzIc-uu/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMf09U63jbdu3Gg-4nPV6vesoBG-peC5TNjWk7vl5S5xsqjM_SZDPlkrMrOPFqGBrNG3316JzSiGt1s8Csan_Xg57PephHnnU3iggn_DrVJFIQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12mz7JlbIagl13peajzSoKisZgliNC7BM",
+              "title": "Capture111.PNG",
+              "alternateLink": "https://drive.google.com/file/d/12mz7JlbIagl13peajzSoKisZgliNC7BM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNoVyo3ueiH8AKMn0DdFw1nGBsIGe9MX6Fp70_tcQqqdX6ye2t7mO9lkB2BM5soxLmdRipbiQeRCmE9xphm6TK_-JWvcqYOhD-F--6lUlnxvfA\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "15DtRlPsXwN1usxK6hE8C5pCZOrHjhC5D",
+              "title": "Capture2222.PNG",
+              "alternateLink": "https://drive.google.com/file/d/15DtRlPsXwN1usxK6hE8C5pCZOrHjhC5D/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNRsG2Fr6LMZrOkcZEElEXrte6nXUn6CzLxLlPR3FxN9mWs1Y2LJvy_e7DSrc7yQeYS85ZaQzlSuSAqSfJc7CM2vLRpUHX4VmE8lB3EfLcDzDk\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อวัสยา ผลเจริญ"
+            },
+            "emailAddress": "b67402040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1LYo2PPnaPodgiOdOOEO3GpWyd_RpzShz",
+              "title": "Screenshot 2024-05-24 100805.png",
+              "alternateLink": "https://drive.google.com/file/d/1LYo2PPnaPodgiOdOOEO3GpWyd_RpzShz/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNugK82v-nkqHQ7pj3bJ5poP8oHrG4EVNM8LOg_OT4afJsE2XX--Rn_nj0d1SFl_ujoH7wrFcYpqjZfA2tdvKSfPUB9rvg7M1j-AC8PgShuljA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.571Z",
+    "updateTime": "2024-05-17T02:13:19.410Z",
+    "publicationTime": "2024-05-17T02:13:19.357Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการและทฤษฎีเบื้องต้นของเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1ZaGtBFMl9Sv1MC-ZK4ybJIMbnkcQdEeidvOTPOWi0mk/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/PinFUAwH6gIVnwI8JuDY3Yh4GDDaAYcagLPV085TYZ0NYVysrdhVA4hv9MPRS-G7tbctdFhGOqg\u003dw90-h90-p",
+        "editId": "1ZaGtBFMl9Sv1MC-ZK4ybJIMbnkcQdEeidvOTPOWi0mk"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "dueTime": "2024-05-25T06:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศ์พีระ จัตตะวาภักดี"
+            },
+            "emailAddress": "b67402040019@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "รัญชนาทิพย์ จมะลี"
+            },
+            "emailAddress": "b67402040024@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปัญจวรรณ ทดนาที"
+            },
+            "emailAddress": "67402040016@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พงศธร อนันตา"
+            },
+            "emailAddress": "b67402040018@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พัฒนพงษ์ ภักดีสมัย"
+            },
+            "emailAddress": "b67402040021@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ภัณฑิรา บุญประเสริฐศรี"
+            },
+            "emailAddress": "b67402040022@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กมลสิริ ไทยนาทม"
+            },
+            "emailAddress": "67402040015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศิริวรัส ทาคำมูล"
+            },
+            "emailAddress": "b67402040026@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "มณฑิตา อ่อนจันทร์"
+            },
+            "emailAddress": "b67402040023@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เปรมวดี บุตรศรี"
+            },
+            "emailAddress": "b67402040017@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อวัสยา ผลเจริญ"
+            },
+            "emailAddress": "b67402040027@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.547Z",
+    "updateTime": "2024-05-17T01:50:14.745Z",
+    "publicationTime": "2024-05-17T01:50:14.721Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 พาณิชย์อิเล็กทรอนิกส์บนอุปกรณ์เคลื่อนที่"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1qgdPvZykmoj53vqyKSn1HIKH3yhb6ZuD",
+          "title": "บทที่8 พาณิชย์อิเล็กทรอนิกส์บนอุปกรณ์เคลื่อนที่ (Mobile commerce).pdf",
+          "alternateLink": "https://drive.google.com/file/d/1qgdPvZykmoj53vqyKSn1HIKH3yhb6ZuD/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN3UodbfzqJp5ID0sp2Xv2YAWYeJmmJ3xQv7NhSalE8TK1QCX2j55Cj5j9bB5Tlb6cMNsZpzontusBDDv0HZOJEnr31APL8bBK5Or_VLIEFQMc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "พาณิชย์อิเล็กทรอนิกส์บนอุปกรณ์เคลื่อนที่"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.523Z",
+    "updateTime": "2024-05-17T01:50:05.994Z",
+    "publicationTime": "2024-05-17T01:50:05.709Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การรักษาความมั่นคงปลอดภัยสำหรับเทคโนโลยีโครงข่ายเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1SyMualHpKiqm0zduW1pS1NaCn0lAR6to",
+          "title": "หน่วยที่ 15.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1SyMualHpKiqm0zduW1pS1NaCn0lAR6to/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP-3nU7CrhOH_wQ5Ean9fiEDHZkY3doKJpp-DAoe5JArcakyZqKz6V1hmu35JLb6aof1aNpvMG-JXj5RlLTma_OD0gjrEILoBP3DONpoyaLMlc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การรักษาความมั่นคงปลอดภัยสำหรับเทคโนโลยีโครงข่ายเคลื่อนที่ไร้สาย"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.499Z",
+    "updateTime": "2024-05-17T01:49:58.696Z",
+    "publicationTime": "2024-05-17T01:49:58.660Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การบริหารจัดการทรัพยากรคลื่นความถี่สำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "18llaKZ7sZ6tVn-MmVNzskGEA291HC0If",
+          "title": "หน่วยที่ 13.pdf",
+          "alternateLink": "https://drive.google.com/file/d/18llaKZ7sZ6tVn-MmVNzskGEA291HC0If/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNGShZUPxNeY8s9g72iN5EFlZhjOoIHN2dRJF83sRvLEURbG2c6A0_66yjCQbLQLmonJtA_xINoNAT3SvlErypb3V0RndbVqAnt5D14k9QTXhs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การบริหารจัดการทรัพยากรคลื่นความถี่สำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.476Z",
+    "updateTime": "2024-06-14T01:45:44.389Z",
+    "publicationTime": "2024-05-17T01:49:50.366Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การเข้าถึงข้อมูลในระบบเคลื่อนที่ไร้สายบรอดแบนด์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1XmD8YTvrxGsRRa_HEz2Xem3Eki0Mcw9X",
+          "title": "หน่วยที่ 12.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1XmD8YTvrxGsRRa_HEz2Xem3Eki0Mcw9X/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPle663kXEyhg4ZlS-7ioRrAGGll7NUBeVgjZ1AgHnuhp55Z1nKMA2H2AgwXkr8Wz6Xn_rFNCu0kJ15UibknWPjvLaj3CdCRHdrsKiHCCiN01g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1TheCFbaundbh4lVFTJdz3vyW5pP0RZBdyGKL1-uhr6Y",
+          "title": "หน่วยที่ 4  การเข้าถึงข้อมูลในระบบเคลื่อนที่ไร้สายบรอดแบนด์",
+          "alternateLink": "https://docs.google.com/presentation/d/1TheCFbaundbh4lVFTJdz3vyW5pP0RZBdyGKL1-uhr6Y/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPdN5tT8_YV9hMEDfH3UnnKL-YUyNy2zH1nOfqqusihTTnqnVJqyIxoKKjePFyoFEFnDfLlIyrR03z83TnQk28DNbS-7QtmARqefRwvYUAkvzOE1ttZBzfVW_CNStdXJyibkuk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การเข้าถึงข้อมูลในระบบเคลื่อนที่ไร้สายบรอดแบนด์"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.109Z",
+    "updateTime": "2024-05-17T01:49:40.085Z",
+    "publicationTime": "2024-05-17T01:49:39.807Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.intelegain.com/popular-coffee-chain-automates-its-distribution-and-financial-processes-with-microsoft-dynamics-business-central/",
+        "title": "Popular Coffee Chain automates distribution and Financial processes with Microsoft Dynamics Business Central",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.intelegain.com/popular-coffee-chain-automates-its-distribution-and-financial-processes-with-microsoft-dynamics-business-central/"
+      }
+    }, {
+      "link": {
+        "url": "https://datayolk.net/technology/10-appsheet-ideas-for-your-organisation/",
+        "title": "10 ไอเดีย หัดทำแอปพลิเคชั่นด้วย AppSheet (จากง่ายไปยาก) | Datayolk",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://datayolk.net/technology/10-appsheet-ideas-for-your-organisation/"
+      }
+    }, {
+      "link": {
+        "url": "https://www.knowledgehut.com/blog/web-development/android-project-ideas",
+        "title": "Top 40 Android Project Ideas \u0026 Topics of 2024 [Source Code]",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.knowledgehut.com/blog/web-development/android-project-ideas"
+      }
+    }, {
+      "link": {
+        "url": "https://buildfire.com/best-app-ideas/",
+        "title": "50 Best App Ideas For 2024 - BuildFire",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://buildfire.com/best-app-ideas/"
+      }
+    }, {
+      "link": {
+        "url": "https://nevonprojects.com/project-ideas/android-project-ideas/",
+        "title": "Top 300+ Android Projects and App Ideas 2023 | NevonProjects",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://nevonprojects.com/project-ideas/android-project-ideas/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "แนวคิดในการพัฒนาแอปพลิเคชัน"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.947Z",
+    "updateTime": "2024-05-17T01:49:19.570Z",
+    "publicationTime": "2024-05-17T01:49:19.194Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Uj5sN5sYPaXXNSxX9R96brIjPjd83-h8",
+          "title": "คู่มือ Thunkable.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Uj5sN5sYPaXXNSxX9R96brIjPjd83-h8/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNbglulDdlYhOJBzvzD2jXAfQdld14VYz2deK3GVlajR1BSxakOnDBMkJ4tSvyu2fQh3hEsQ5Ob0pqtvWLKoT_QrGBwu0rpUpIHLwxHfEbmARA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คู่มือ Thunkable"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.450Z",
+    "updateTime": "2024-06-06T15:25:31.196Z",
+    "publicationTime": "2024-05-17T01:49:04.381Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16rqJ2tu7MFbbizs5sLy_UQW8L_5CpDb1",
+          "title": "หน่วยที่ 10.pdf",
+          "alternateLink": "https://drive.google.com/file/d/16rqJ2tu7MFbbizs5sLy_UQW8L_5CpDb1/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPsgtiiFC_gGZiZz06FHIVbKUhtfeM7MAh1qa6RNjD__ZUWdeHjYVg1qRp8cJSpLvuosdHIpKJjTPkwcnGRBYo-o0vwDufAq6Ba259u5WXKuJo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1PXiPnh3BEJsQOZbBC_R0OMi6SEhf_UQhQ5Zrt1VuDfo",
+          "title": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย",
+          "alternateLink": "https://docs.google.com/presentation/d/1PXiPnh3BEJsQOZbBC_R0OMi6SEhf_UQhQ5Zrt1VuDfo/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMhLELs6-ztGqcZC2Mgk4g1belyO39ChV3EXX7iN-GtGzaN-zAhY6ponKiKNLm_WBAhWzlCe5-WXZJY1UPBPIufX_SEuV4VsCnGmHd1JTArUcSbZLfl-CtGKRvfbvs3B09x5f4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.427Z",
+    "updateTime": "2024-06-07T03:46:28.636Z",
+    "publicationTime": "2024-05-17T01:48:50.055Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 มาตรฐานเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1klAgCeluKT6Ybf2CicEXS0GxOSRuedvL",
+          "title": "หน่วยที่ 5.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1klAgCeluKT6Ybf2CicEXS0GxOSRuedvL/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPv9jybeIVzaQVZARDFDdbjjJ5LgMrs3zZQ43bRlzexa2geoxWDoK7kzMZKYTm7l0zpuCAYtwI4MA2_ZAn-XmRlI8YU6NsPjkDo84GPyPtva_0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1kIviOVMHX78lhtnA4kNEtrqB0pu-Y82wEah-e6e9I3c",
+          "title": "หน่วยที่ 2  มาตรฐานเทคโนโลยีเคลื่อนที่ไร้สาย",
+          "alternateLink": "https://docs.google.com/presentation/d/1kIviOVMHX78lhtnA4kNEtrqB0pu-Y82wEah-e6e9I3c/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMlCZMnLKHgg-5GhAXG1TFea4aYtCv-FhM2BkAShZQ635C8h6dRPL6xB6knPI1Hr1kVGj8sgJo3k_aOxrn7LBlmmyq9wowOpwmq1pozGf_4G3rSq453_dGr42nkM9vAoSDTnjo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "มาตรฐานเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:48.277Z",
+    "updateTime": "2024-05-17T01:48:41.806Z",
+    "publicationTime": "2024-05-17T01:48:41.628Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการและทฤษฎีเบื้องต้นของเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Y2USSyJw7pb9l_1A9Jma15A5mZu8a87q",
+          "title": "หน่วยที่ 1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Y2USSyJw7pb9l_1A9Jma15A5mZu8a87q/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNF6KD-4HU6boxlYs3zP7Vp98ALVOpJCfiac6YAEZUcqkQmeSL2tztIsnRbLhb5kYAofCbCPH48zo5aCpJNmyHELWHAq7eaY-Bl6Sn6HRxFOug\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "หลักการและทฤษฎีเบื้องต้นของเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:47.976Z",
+    "updateTime": "2024-05-17T01:48:31.677Z",
+    "publicationTime": "2024-05-17T01:48:31.306Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตร"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1DNn_UQ1S-5vvjHJ68wjkkO4PZZZWvtTU",
+          "title": "เทคโนโลยีการพาณิชย์บนอุปกรณ์เคลื่อนที่.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1DNn_UQ1S-5vvjHJ68wjkkO4PZZZWvtTU/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP5_ulEXJqFDVIJruI7EiYsWBVSdcOnh1ceOdnTnbBcni4Z2JtEauJBONFdyxswdL42ae1YcYqe599NU3K8cfnsw71D2vHXRhZjusF8gotQXr4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำอธิบายรายวิชา"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:50.080Z",
+    "updateTime": "2024-05-17T02:06:01.726Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "สอบปลายภาค"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1zugmKYNu-5_McPVJ80pamD-ueY3k9Ig4qORaFLN3a-U/edit",
+        "title": "ข้อสอบปลายภาคเรียนที่ 1/2566",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/xMrY4xN3XmBvUOadRmzSHLsaFRD0oC-vIYOfHsddnYMMbEcw1PZhQAOgV54XnaAuT4zG0PiRUtw\u003dw90-h90-p",
+        "editId": "1zugmKYNu-5_McPVJ80pamD-ueY3k9Ig4qORaFLN3a-U"
+      }
+    }],
+    "courseWork": {
+      "title": "ข้อสอบปลายภาค 1/2567",
+      "maxPoints": 70.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:50.013Z",
+    "updateTime": "2024-05-17T01:19:32.842Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "โครงงานย่อย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "13Q8WjmrsgpI3HJemKLudAA5gpUG7AXUG",
+          "title": "Screenshot 2023-09-08 090601.png",
+          "alternateLink": "https://drive.google.com/file/d/13Q8WjmrsgpI3HJemKLudAA5gpUG7AXUG/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNGEjsJstoF-iccIj3XxED0zIldp2P5xZnjbfy7T6571E9xJyqsoOIMM8aak7HBQLVKFMxuvyS0XYl9UDaAs-Zi7Te4kH9AVRXtBd94sWSN6F0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "ส่งโครงงานย่อย (นำเสนอ)",
+      "description": "1. ส่งภาพถ่ายผู้จัดทำพร้อมแอป (ตามตัวอย่าง)\n2. นำเสนอ -การใช้งาน -ปัญหาที่พบ (ถ้ามี)\nคะแนน \nแอปฯ ทำงานได้ตามที่เสนอ 10 คะแนน\nแอปฯ ทำงานได้ร้อยละ 80 ขึ้นไป 9 คะแนนแอปฯ ทำงานได้น้อยกว่าร้อยละ 80 ได้ 8 คะแนน\nแอปฯ ทำงานไม่ได้ 7 คะแนน",
+      "descriptionHtml": "\u003cdiv\u003e1. ส่งภาพถ่ายผู้จัดทำพร้อมแอป (ตามตัวอย่าง)\u003cbr\u003e2. นำเสนอ -การใช้งาน -ปัญหาที่พบ (ถ้ามี)\u003cbr\u003eคะแนน \u003cbr\u003eแอปฯ ทำงานได้ตามที่เสนอ 10 คะแนน\u003cbr\u003eแอปฯ ทำงานได้ร้อยละ 80 ขึ้นไป 9 คะแนนแอปฯ ทำงานได้น้อยกว่าร้อยละ 80 ได้ 8 คะแนน\u003cbr\u003eแอปฯ ทำงานไม่ได้ 7 คะแนน\u003c/div\u003e",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.989Z",
+    "updateTime": "2024-05-17T01:19:27.528Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "สอบปลายภาค"
+    }],
+    "courseWork": {
+      "title": "สอบวันไหนดี วันเสาร์ที่ 9 หรืออาทิตย์ที่ 10 กันยายน 2566",
+      "workType": "SHORT_ANSWER_QUESTION"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.921Z",
+    "updateTime": "2024-05-17T01:19:24.023Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 พาณิชย์อิเล็กทรอนิกส์บนอุปกรณ์เคลื่อนที่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1-T5qt5oYdTw6H-bQD9-K-9swtxtRqh94YzRpdu2EcDY/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 7",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/iO_JEL71vDYhQtQEi4ghW4fCkwGLzAalnfSIY8-9J8PEqcatEbi_ICaNoo5LXRuwQJMuMCMPtdw\u003dw90-h90-p",
+        "editId": "1-T5qt5oYdTw6H-bQD9-K-9swtxtRqh94YzRpdu2EcDY"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 7",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.851Z",
+    "updateTime": "2024-05-17T01:19:20.417Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 พาณิชย์อิเล็กทรอนิกส์บนอุปกรณ์เคลื่อนที่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1rfBdfckdpr4alCbqqiyOVIWIpVkuiI7aKPaKVUQ-JEw/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 7",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/CNHnLxsdS8ZTQFBgyS5EdWO9OWRp0bAKFusnSrWpJef1e3YaXZPBphXqsXyqrjWMnu5lDoYK4WI\u003dw90-h90-p",
+        "editId": "1rfBdfckdpr4alCbqqiyOVIWIpVkuiI7aKPaKVUQ-JEw"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 7",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.772Z",
+    "updateTime": "2024-05-17T01:19:14.874Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การรักษาความมั่นคงปลอดภัยสำหรับเทคโนโลยีโครงข่ายเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/19Kv7CmpEV8361OFO6kfC_2NPp_2PWKIVeLlChECEdgU/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 6",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/KgUXBe-_p2_2YWL_h9kq9nOwQdttwIFUOLL8w9QXchedtRn77lluBh7Tw3HLNVKaXfS-x5D1_1A\u003dw90-h90-p",
+        "editId": "19Kv7CmpEV8361OFO6kfC_2NPp_2PWKIVeLlChECEdgU"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 6",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.702Z",
+    "updateTime": "2024-05-17T01:19:09.102Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การรักษาความมั่นคงปลอดภัยสำหรับเทคโนโลยีโครงข่ายเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1iW3_xpE191URsMhvz8chGWJ79UxRiXy5ksmclala7YI/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 6",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/CcBjWfeqMkmv-ZDzoNmLfzpYgbnW0WLVinmSerAL7f9hqsKnnxAlmP_uwGIKrKfkqu1i0lI97xo\u003dw90-h90-p",
+        "editId": "1iW3_xpE191URsMhvz8chGWJ79UxRiXy5ksmclala7YI"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 6",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.596Z",
+    "updateTime": "2024-05-17T01:19:04.753Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การบริหารจัดการทรัพยากรคลื่นความถี่สำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1wtW3N5Oy1bJ0zTOw85_nuq731YhoEnou9GeSJZjyNG4/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/euIic7ji8nU3u4_-n9ifV5buo9Rs9e9JtQR0s31SqjgdX_LR0z2K1XrFhoxXGL9vJSfbwFZ4weQ\u003dw90-h90-p",
+        "editId": "1wtW3N5Oy1bJ0zTOw85_nuq731YhoEnou9GeSJZjyNG4"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.526Z",
+    "updateTime": "2024-05-17T01:19:00.268Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การบริหารจัดการทรัพยากรคลื่นความถี่สำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1-uZLGeQ58iv0yh45ZcAHBtdH4bNfoP8hohX9LLE1pMk/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/7m0ylJwPvB68ycoPpqFCeCJym8_7pwUgmhfrgUWgQind2LYpnsk-w3fe315OGt8lPIvTnYfGcvs\u003dw90-h90-p",
+        "editId": "1-uZLGeQ58iv0yh45ZcAHBtdH4bNfoP8hohX9LLE1pMk"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.314Z",
+    "updateTime": "2024-05-17T01:18:37.588Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "โครงงานย่อย"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.investree.co.th/knowledge-hub-detail/business-model-canvas",
+        "title": "Business Model Canvas คืออะไรและสำคัญกับ SME อย่างไร?",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.investree.co.th/knowledge-hub-detail/business-model-canvas"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "b3cE2fMgCBU",
+        "title": "Business Model Canvas คืออะไร | 5 Minute Biz Knowledge",
+        "alternateLink": "https://www.youtube.com/watch?v\u003db3cE2fMgCBU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b3cE2fMgCBU/default.jpg"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "11HeydCyccUR1u2A2jd-OyconOReCu8up",
+          "title": "แบบเสนอโครงงานย่อย แอพพลิเคชั่น.docx",
+          "alternateLink": "https://drive.google.com/file/d/11HeydCyccUR1u2A2jd-OyconOReCu8up/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOcuT8c7HDdlQYCz8W26VsZDUw1xUkrpT8yxSBKK_KjRUk4gdwSp4ewOKNU4evhoujsIti6Iqpt3oexSp5A2wtf2fdyyHEXQ2NvJ88vVTNbwv8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1iVloV8Bs7YDyShMjhQ4S7-k8MQTuwFHe",
+          "title": "Business-Model-Canvas-Template1.doc",
+          "alternateLink": "https://drive.google.com/file/d/1iVloV8Bs7YDyShMjhQ4S7-k8MQTuwFHe/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNmn4FefZ2-2dX_KBgPRK6CZ2v14lXgaVJ31YpmMpv6WGbjcFL8tI8VWCsGWCQiN39EAAO35gmawYiCp3iBCZdUtGCaTKZYLblNuMTrk3AEmSs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบเสนอโครงงานย่อย",
+      "description": "ให้นักศึกษาเลือกหัวข้อโครงงานย่อย โดยออกแบบธุรกิจที่จะใช้งานแอปพลิเคชั่นด้วย Business Model Canvas แล้วจัดทำเอกสารBusiness Model canvas และแบบเสนอโครงงานย่อย ส่งเป็นไฟล์ PDF",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาเลือกหัวข้อโครงงานย่อย โดยออกแบบธุรกิจที่จะใช้งานแอปพลิเคชั่นด้วย Business Model Canvas แล้วจัดทำเอกสารBusiness Model canvas และแบบเสนอโครงงานย่อย ส่งเป็นไฟล์ PDF\u003c/div\u003e",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.291Z",
+    "updateTime": "2023-06-30T04:06:07.714Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://shoutem.com/blog/app-ideas-for-beginners/",
+        "title": "21 Best Educational App Ideas for Students \u0026 Schools in 2023 | Shoutem",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://shoutem.com/blog/app-ideas-for-beginners/"
+      }
+    }, {
+      "link": {
+        "url": "https://flaviocopes.com/sample-app-ideas/",
+        "title": "A list of sample Web App Ideas",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://flaviocopes.com/sample-app-ideas/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Application Ideas"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.270Z",
+    "updateTime": "2023-06-30T04:04:24.722Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Work Shop RVC Store"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://x.thunkable.com/projectPage/649e35a3bdde578f0a9484ca",
+        "title": "Thunkable Login",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://x.thunkable.com/projectPage/649e35a3bdde578f0a9484ca"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Thunkable Link"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.247Z",
+    "updateTime": "2024-05-17T01:18:12.728Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Work Shop RVC Store"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1vfRj8pNdKVtDZTyd3q04Nhz4V8r-vbMZ",
+          "title": "bWelcome.png",
+          "alternateLink": "https://drive.google.com/file/d/1vfRj8pNdKVtDZTyd3q04Nhz4V8r-vbMZ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOvdvoevkZf1lM2cS72t4ttvQBqMGOswoIn9sN3uSKq0MYGFyqeX5VKhUhijj46l4YMIFydWtYygMvLtNlDlk2xUAvhqfV8xet_G3-TmXREA7s\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1V-xu0qbRwrRWA4tSZjcz_gdIiP5d09_5",
+          "title": "bLogin.png",
+          "alternateLink": "https://drive.google.com/file/d/1V-xu0qbRwrRWA4tSZjcz_gdIiP5d09_5/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM_fWTEhHjIobOCCGSHGLS1WMJlhwIm5fw3Iz_Lvx5Lx2bsxWIy0dqR6pXNRnLgP6XO8TbdlDTq6pvJmWCdA1OfTcWj4zK3tDuHbYZyDV645DE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1-wW_bwEgrhnAIEuBJKoJ4cD292mNAljE",
+          "title": "bLoginFunction.png",
+          "alternateLink": "https://drive.google.com/file/d/1-wW_bwEgrhnAIEuBJKoJ4cD292mNAljE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMzqxBIltBgaLsp93q2RSH8fIR222LEsYaEjKo1jXcT0WKmQHwo9_yziPym8Fa_lGrLf60uZebtG9Yfn2LGp485m3MIqQ46-WgIcmFK8eQNdoY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1nBxxNnSxQp1rwEAMd5pnVxBwkRk5t3t0",
+          "title": "bRegister.png",
+          "alternateLink": "https://drive.google.com/file/d/1nBxxNnSxQp1rwEAMd5pnVxBwkRk5t3t0/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMrSzj3UwphN04KI7h70h6eU2kJeNgbqlKi3lH3gf8kf9XsHQIVRRCZ0tGWYSrUSDa6oipkwcoZZ1oSTL2Qbn86LzyBNyn0yleszY7SrAOoJAo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1xIa4hFgyYE-dA1MzLl_Xcm6ou5i9iT2e",
+          "title": "bStore.png",
+          "alternateLink": "https://drive.google.com/file/d/1xIa4hFgyYE-dA1MzLl_Xcm6ou5i9iT2e/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMGhCpZAhrGESrzMz9-VIYJmc9L5MG6KoGKVLHpakFTC3FZS1mBwYc7ca5eSu_cWRKz0v_xsEkj6LFHxat2dN-bHPaEFPDaZFxGyRMCJ_B2AO8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Blocks"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.223Z",
+    "updateTime": "2024-05-17T01:18:01.542Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Work Shop RVC Store"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1tUZQEV_rE-5rEPafQU9JCyas5royVRPP",
+          "title": "Login_user.png",
+          "alternateLink": "https://drive.google.com/file/d/1tUZQEV_rE-5rEPafQU9JCyas5royVRPP/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMlxLRUsBL_rApZ8iXTSr4jBcavAcmAMXD_npR2rE4RI2_fauEGKDSi5T28Y5qrm2_CM-QqaunfstHgXaOZkCnlOjXrK11Ula4uIXe259bjPsw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "11wBJ1jwqDkrsCdKPxA3qunwitPJpcVOh",
+          "title": "Register_user.png",
+          "alternateLink": "https://drive.google.com/file/d/11wBJ1jwqDkrsCdKPxA3qunwitPJpcVOh/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNuV2mDOKlYbNH4Kx4OEr-NsFTBVkN4rUSr9NkbKOLp7kkA0YJOOWmUV4ALihU6BapLkMnHCT7jUGEStbEE3j1Rly_XdctnAN7Rg4rTqhT-1Zo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ฐานข้อมูล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.200Z",
+    "updateTime": "2024-05-17T01:17:42.030Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Work Shop RVC Store"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1nFt8ndwlptsqtqWfWP-etxw5T9yhnaeP",
+          "title": "Login.png",
+          "alternateLink": "https://drive.google.com/file/d/1nFt8ndwlptsqtqWfWP-etxw5T9yhnaeP/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNZ8qPlkCcMyGjLbiRww84Nm_uKNdHyigOGDf2r_Riy3DEKZwJKlSapVlZAnhHGKkuTHKqFHrDAYVf_-T-cEJTmxP9EKkaJon8tP-PwcCoOv_8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1FQzF_frBKinVBKVi2X5SfoPV5yGxYOMI",
+          "title": "Register.png",
+          "alternateLink": "https://drive.google.com/file/d/1FQzF_frBKinVBKVi2X5SfoPV5yGxYOMI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNLnesV7PXHoBGESPiKQ-ssPRaZacWXKy0i9Jy8sUc6gGG4DrwjrPITSG-ZFhPjs9cEYVbFSkBoxNYlP9EOjL3DtOWbSe5dKrokytrx3O-qu0E\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1zKQ9PFd9-uJ1uzfB0dvFz8V4pyf0vyNB",
+          "title": "Store.png",
+          "alternateLink": "https://drive.google.com/file/d/1zKQ9PFd9-uJ1uzfB0dvFz8V4pyf0vyNB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMLjh3Q6deeHjJ661Ah4nOE3QannizdmIt1OHvqHYCQZvt7r8VLDd3BDY-BSyjizDmHI3p6OH2OF_8G7tSAfTNvtjXQh2Mm0l-rX36Y2A696JA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1vYscbCAbFaKa-1n1mqAtlzy0awC-Gwod",
+          "title": "Welcome.png",
+          "alternateLink": "https://drive.google.com/file/d/1vYscbCAbFaKa-1n1mqAtlzy0awC-Gwod/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNtbNsH9IBb8on0oQ3tx3c86j3zIJ4nLAWjyQA6oJDA68Mc0U6QtTj0fQ3y7Y4CR8HMKmeqttP53uva_bgvS28YzOdzzsRHmBFLTgSGUEjfs7s\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "หน้าจอ"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.176Z",
+    "updateTime": "2024-05-17T01:17:37.283Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "190RNSzg2gPSC9RW3w3x_ce13UxHk0B9A",
+          "title": "Screenshot_2023-06-23-09-59-00-91_2bbfbfee96a5dfce998f962ebb8b5da3.jpg",
+          "alternateLink": "https://drive.google.com/file/d/190RNSzg2gPSC9RW3w3x_ce13UxHk0B9A/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPU4LV11SLmC7v41gmfaNV60DpRthv7xZcl5rxhFDhDDANncXTE7a5mPUCcBCPuKqobS4oNqPLZiqADbBXMwT4GxQdwBZNjutsaHIER8bgbBXM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "MAG"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.133Z",
+    "updateTime": "2024-05-17T01:17:11.180Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1s82vg9CncDCxppdPVyUkSfwtXJRXM1qr",
+          "title": "thunkable_technovation_kerslake_chris.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1s82vg9CncDCxppdPVyUkSfwtXJRXM1qr/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPLrAgcxthPm5KVcQet5eFuhLii0oCIy4mFmBoMJXDiustnbpIr1EaJSbGRZDugDBWdsUgSUaWlM40DxM2WuZ42cJxER_PF94u_zkSZJ2DbHk4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Thunkable Tutorial Food Court App Tutorial"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-17T01:15:49.041Z",
+    "updateTime": "2024-06-07T02:23:40.721Z",
+    "state": "DELETED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การพัฒนาโปรแกรมสำหรับเทคโนโลยีเคลื่อนที่ไร้สาย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1wKx5UF-QWjd1kQdJqhodwoYDTRAWTA_-",
+          "title": "Screenshot_2023-06-16-11-00-01-17_2bbfbfee96a5dfce998f962ebb8b5da3.jpg",
+          "alternateLink": "https://drive.google.com/file/d/1wKx5UF-QWjd1kQdJqhodwoYDTRAWTA_-/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOG-A1pSzbv9-rHYOp72IW4Ct2GuzOEs7PbGvJqhEVraTifVZDaAFrrdWKYHZhB7OXjIaJa8tIpcPpVqvKhBPzkMLvkmIctnK1dOKqEPUkj1jk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้างแอปพลิเคชั่นกล่าวต้อนรับผู้ใช้",
+      "description": "สร้างแอปพลิเคชั่นกล่าวต้อนรับผู้ใช้โดยกรอกชื่อของนักศึกษา จับภาพหน้าจอส่งมาเป็นรูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eสร้างแอปพลิเคชั่นกล่าวต้อนรับผู้ใช้โดยกรอกชื่อของนักศึกษา จับภาพหน้าจอส่งมาเป็นรูปภาพ\u003c/div\u003e",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT"
+    }
+  }]
+}

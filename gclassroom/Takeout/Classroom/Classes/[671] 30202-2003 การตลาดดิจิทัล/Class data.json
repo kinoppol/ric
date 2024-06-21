@@ -1,0 +1,707 @@
+{
+  "version": 1,
+  "name": "[671] 30202-2003 การตลาดดิจิทัล",
+  "section": "สธป. 1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomf18cef2e@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1OXAwBvFh-lHW-1xp9nfNUXphhWdFuFi5B91nUiDN4LJtpVrdg4b8iKmwRW_-G_CiqhYgEn8Z",
+    "name": "[671] 30202-2003 การตลาดดิจิทัล สธป. 1",
+    "openUrl": "https://drive.google.com/drive/folders/1OXAwBvFh-lHW-1xp9nfNUXphhWdFuFi5B91nUiDN4LJtpVrdg4b8iKmwRW_-G_CiqhYgEn8Z"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "courseState": "ACTIVE",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "ณัฐวดี ถมทอง"
+      },
+      "emailAddress": "67302110001@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อิงพร เสมอลม"
+      },
+      "emailAddress": "67302110004@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ธัญชนก การเรียบ"
+      },
+      "emailAddress": "67302110002@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "วรรณภา กลมดี"
+      },
+      "emailAddress": "67302110003@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "หน่วยที่ 1 หลักการของการตลาดดิจิทัล"
+  }, {
+    "name": "หน่วยที่ 2 สถานการณ์ทางการตลาด"
+  }, {
+    "name": "หน่วยที่ 3 การวิเคราะห์ความต้องการและพฤติกรรมผู้บริโภคยุคดิจิทัล"
+  }, {
+    "name": "หน่วยที่ 4 บทบาทของตลาดดิจิทัลกับการสื่อสาร"
+  }, {
+    "name": "หน่วยที่ 5 กลยุทธ์การตลาดดิจิทัลแบบบูรณาการ"
+  }, {
+    "name": "หน่วยที่ 6 การออกแบบและสร้างร้านค้าดิจิทัล"
+  }, {
+    "name": "หน่วยที่ 7 การบริการลูกค้าสัมพันธ์ยุคดิจิทัล"
+  }, {
+    "name": "หน่วยที่ 8 การใช้เครือข่ายสังคมออนไลน์และสื่อใหม่"
+  }, {
+    "name": "หน่วยที่ 9 จริยธรรมธุรกรรมตลาดออนไลน์"
+  }, {
+    "name": "หลักสูตรรายวิชา"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-05T18:06:00.614Z",
+    "updateTime": "2024-06-10T09:39:28.695Z",
+    "publicationTime": "2024-06-10T09:39:28.590Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 สถานการณ์ทางการตลาด"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1ZMeTaDFCxDyonzaXgjVsyL70vaskGreNM78tt6plA5c/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/kSXuTSsxKavxFGhlJWl38N_CpYPUMAT0N9QTrOwb_LaxjQk561U7e3en-5VTtSNSWxPaMh0ZTbQ\u003dw90-h90-p",
+        "editId": "1ZMeTaDFCxDyonzaXgjVsyL70vaskGreNM78tt6plA5c"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+      "dueTime": "2024-06-13T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรรณภา กลมดี"
+            },
+            "emailAddress": "67302110003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธัญชนก การเรียบ"
+            },
+            "emailAddress": "67302110002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิงพร เสมอลม"
+            },
+            "emailAddress": "67302110004@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวดี ถมทอง"
+            },
+            "emailAddress": "67302110001@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-05T17:29:06.776Z",
+    "updateTime": "2024-06-06T01:02:39.793Z",
+    "scheduledTime": "2024-06-06T01:00:00Z",
+    "publicationTime": "2024-06-06T01:02:39.581Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 สถานการณ์ทางการตลาด"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1TBfe3598XhGEMwIKzDJ61qUQb7KAYxpFCo9VKl9ovFc/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/grvX695lg4iblc3DsgUlWG7ZQTBeshHZLZVxqYvgQvpBqerdka3amTm9BSsGoRxnil791vhh6aU\u003dw90-h90-p",
+        "editId": "1TBfe3598XhGEMwIKzDJ61qUQb7KAYxpFCo9VKl9ovFc"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+      "dueTime": "2024-06-07T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธัญชนก การเรียบ"
+            },
+            "emailAddress": "67302110002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรรณภา กลมดี"
+            },
+            "emailAddress": "67302110003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวดี ถมทอง"
+            },
+            "emailAddress": "67302110001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-05T17:16:07.674Z",
+    "updateTime": "2024-06-05T17:20:43.131Z",
+    "publicationTime": "2024-06-05T17:20:43.025Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 สถานการณ์ทางการตลาด"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1BhVPfAT3MOgfxlFOqeQ1Y0n6S97UIGhG",
+          "title": "SWOT_Template.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1BhVPfAT3MOgfxlFOqeQ1Y0n6S97UIGhG/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMNn5VBVwhidGu_hVPZv66XYbnZyhD1GKyerIwIBYRG_z15-vPGbG6e1AY-wRAfhbQhbc8JJd3xVOm1QGVCWH0FyiZl-kJiYL0or6cuGE0AQgI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1mqQNTTXXMoCiqmHGh0qTvv-xkQdzb0Qz",
+          "title": "SWOT_Template.pptx",
+          "alternateLink": "https://drive.google.com/file/d/1mqQNTTXXMoCiqmHGh0qTvv-xkQdzb0Qz/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMAeiF9WKer1smXmybSP5jRCtI8lAzBiV7-rFPw71NKuSBX4YGg_07dl2O6h4kepy7OvB_2_bVzDoDxct57VpZ6uTiaLL3TFbSexl11tOA7NJQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "วิเคราะห์ SWOT",
+      "description": "ให้นักศึกษาสมมติกิจการขึ้นมา 1 กิจการโดยให้บุคคลในครอบครัวเป็นผู้ดำเนินกิจการ แล้วจินตนาการข้อมูลจุดแข็ง จุดอ่อน โอกาส อุปสรรค ลงในแบบฟอร์ม พิมพ์หรือเขียนก็ได้ แล้วส่งมาเป็นรูปภาพ \nหากพิมพ์ด้วยคอมพิวเตอร์ให้จับภาพหน้าจอ\nหากเขียนลงในกระดาษให้ถ่ายภาพมาส่ง",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาสมมติกิจการขึ้นมา 1 กิจการโดยให้บุคคลในครอบครัวเป็นผู้ดำเนินกิจการ แล้วจินตนาการข้อมูลจุดแข็ง จุดอ่อน โอกาส อุปสรรค ลงในแบบฟอร์ม พิมพ์หรือเขียนก็ได้ แล้วส่งมาเป็นรูปภาพ \u003cbr\u003eหากพิมพ์ด้วยคอมพิวเตอร์ให้จับภาพหน้าจอ\u003cbr\u003eหากเขียนลงในกระดาษให้ถ่ายภาพมาส่ง\u003c/div\u003e",
+      "dueTime": "2024-06-13T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรรณภา กลมดี"
+            },
+            "emailAddress": "67302110003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1V8FcFq8F01wGCOzUn2kRFMQWmBakQ8x9",
+              "title": "IMG_20240613_205944.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1V8FcFq8F01wGCOzUn2kRFMQWmBakQ8x9/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPB0ljLlVzdXJiQC6nWya1XRsEGiXDAftSj-jgf1aKTexReSsaZl4wQzttHwmjzKJW99aklzsTuIla5SJ2uVHbj9WG66veQ2kBUzeg_A5rSSQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธัญชนก การเรียบ"
+            },
+            "emailAddress": "67302110002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1O1ZLHWQWg6pu6V-TcUCZIrn7B_KAAlU4",
+              "title": "IMG20240612233036.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1O1ZLHWQWg6pu6V-TcUCZIrn7B_KAAlU4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMGBDZUB8GWUGu4hPFvWemogDgHYik7rVh6VoMttHgzedlafeuui4UQrqOFKLKxstBsXPoeD6bPGjYCRCnxrgOzfOoTJI5RG5nlWFM2h0V40g\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิงพร เสมอลม"
+            },
+            "emailAddress": "67302110004@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "CREATED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://www.canva.com/design/DAGISMeZmGc/QIYC-AXjSlVHsPv0Q6dm5g/edit?utm_content\u003dDAGISMeZmGc\u0026utm_campaign\u003ddesignshare\u0026utm_medium\u003dlink2\u0026utm_source\u003dsharebutton",
+              "title": "Login to your Canva account",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.canva.com/design/DAGISMeZmGc/QIYC-AXjSlVHsPv0Q6dm5g/edit?utm_content%3DDAGISMeZmGc%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink2%26utm_source%3Dsharebutton"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวดี ถมทอง"
+            },
+            "emailAddress": "67302110001@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1oRJWxo6G8D8J2k3L6ugcACY3aQ-wvu1D",
+              "title": "IMG_20240613_113000.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1oRJWxo6G8D8J2k3L6ugcACY3aQ-wvu1D/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNbeOUJ1JZ2dy-Ik0KNV1kKHV__UbdCQDSyF0n9_28Hp4-6MO4fYT3bTr97ykkEY4lMf9oT4kzfRMnT2lFWYAYoqvBOe6iLqV3wBYvnQZP9Pw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-05T17:11:31.027Z",
+    "updateTime": "2024-06-05T17:35:41.936Z",
+    "publicationTime": "2024-06-05T17:11:35.105Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 สถานการณ์ทางการตลาด"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "FkaCW00qMHk",
+        "title": "SWOT Analysis | The BizEssentials - เครื่องมือการพัฒนากลยุทธ์  EP6",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dFkaCW00qMHk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FkaCW00qMHk/default.jpg"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "112b283BNxRKtOB64YkaStkOlMjvo9GA2",
+          "title": "หน่วยที่ 2 สถานการณ์ทางการตลาด.pdf",
+          "alternateLink": "https://drive.google.com/file/d/112b283BNxRKtOB64YkaStkOlMjvo9GA2/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP1CsSG6y-bnFg8afqn9c-R_BYcXQ0yrGbd379KDyxMUgZkR2iuzRpXrrAXJHBwMLRgwbvyCS4EZ5IAu-A0hQnv5dVJMH1ADWw3R0xW4-lupaU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "สถานการณ์ทางการตลาด"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-22T15:51:58.258Z",
+    "updateTime": "2024-05-30T02:17:17.171Z",
+    "publicationTime": "2024-05-30T02:17:16.985Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการของการตลาดดิจิทัล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1at_A2xefvn7Eh4a4U-WXup-8SiCxVAbG-xNhwlAuPU0/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/Nn47FLL8B_cbQqogYq_xMbPRS2bxy8rqOdB4P5ctEe51ZNjihuuSqPZgCCpWemogxkjSGEDoXh8\u003dw90-h90-p",
+        "editId": "1at_A2xefvn7Eh4a4U-WXup-8SiCxVAbG-xNhwlAuPU0"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+      "dueTime": "2024-06-06T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธัญชนก การเรียบ"
+            },
+            "emailAddress": "67302110002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรรณภา กลมดี"
+            },
+            "emailAddress": "67302110003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวดี ถมทอง"
+            },
+            "emailAddress": "67302110001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-23T02:01:00.655Z",
+    "updateTime": "2024-05-23T02:01:00.652Z",
+    "publicationTime": "2024-05-23T02:01:00.608Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "เนื่องจากฝนตกหนัก นักศึกษาหลายคนไม่สะดวกในการเดินทางมาเรียน ขอให้นักศึกษาทำแบบทดสอบก่อนเรียนหน่วยที่ 1 และอ่านเอกสารแนบในหน่วยที่ 1 ผ่าน Google Classroom ครับ (เช็คชื่อจากการเข้าทำแบบทดสอบก่อนเรียน)",
+      "textHtml": "\u003cdiv\u003eเนื่องจากฝนตกหนัก นักศึกษาหลายคนไม่สะดวกในการเดินทางมาเรียน ขอให้นักศึกษาทำแบบทดสอบก่อนเรียนหน่วยที่ 1 และอ่านเอกสารแนบในหน่วยที่ 1 ผ่าน Google Classroom ครับ (เช็คชื่อจากการเข้าทำแบบทดสอบก่อนเรียน)\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-22T15:17:41.688Z",
+    "updateTime": "2024-05-23T01:04:47.475Z",
+    "scheduledTime": "2024-05-23T01:00:00Z",
+    "publicationTime": "2024-05-23T01:04:47.320Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการของการตลาดดิจิทัล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1pjqIpxXF-q0Q6nh61EZXbGqwzRkjhBfJlwDUMbGZ3uU/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/I0l7ybPMVaVUI8LeDQ_pZfQQRq4WzAr9APxCc0GFdSGgkVWWAK_9Iwmfk7RndQoMJyA3tH-4CE4\u003dw90-h90-p",
+        "editId": "1pjqIpxXF-q0Q6nh61EZXbGqwzRkjhBfJlwDUMbGZ3uU"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "dueTime": "2024-05-23T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วรรณภา กลมดี"
+            },
+            "emailAddress": "67302110003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธัญชนก การเรียบ"
+            },
+            "emailAddress": "67302110002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิงพร เสมอลม"
+            },
+            "emailAddress": "67302110004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวดี ถมทอง"
+            },
+            "emailAddress": "67302110001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    },
+    "comments": [{
+      "creator": {
+        "name": {
+          "fullName": "ธัญชนก การเรียบ"
+        },
+        "emailAddress": "67302110002@rvc.ac.th"
+      },
+      "creationTime": "2024-05-23T01:41:14.730Z",
+      "updateTime": "2024-05-23T01:41:14.730Z",
+      "comment": "ครูคะฝนตกค่ะไปยังไม่ได้😭",
+      "commentHtml": "\u003cdiv\u003eครูคะฝนตกค่ะไปยังไม่ได้😭\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }, {
+      "creator": {
+        "name": {
+          "fullName": "วรรณภา กลมดี"
+        },
+        "emailAddress": "67302110003@rvc.ac.th"
+      },
+      "creationTime": "2024-05-23T01:43:21.656Z",
+      "updateTime": "2024-05-23T01:43:21.656Z",
+      "comment": "ไปไม่ได้ค่าาครูฝนตก😭😭",
+      "commentHtml": "\u003cdiv\u003eไปไม่ได้ค่าาครูฝนตก😭😭\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }, {
+      "creator": {
+        "name": {
+          "fullName": "นพพล อินศร"
+        },
+        "emailAddress": "noppol@rvc.ac.th"
+      },
+      "creationTime": "2024-05-23T02:01:22.534Z",
+      "updateTime": "2024-05-23T02:01:22.534Z",
+      "comment": "ok อ่านประกาศด้วยนะครับ",
+      "commentHtml": "\u003cdiv\u003eok อ่านประกาศด้วยนะครับ\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }]
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-22T15:17:00.699Z",
+    "updateTime": "2024-05-22T15:51:31.129Z",
+    "publicationTime": "2024-05-22T15:17:05.019Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 หลักการของการตลาดดิจิทัล"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "10mKdy69NjjO6HhukA3UqXogepn51MHqt",
+          "title": "หน่วยที่ 1 หลักการของการตลาดดิจิทัล.pdf",
+          "alternateLink": "https://drive.google.com/file/d/10mKdy69NjjO6HhukA3UqXogepn51MHqt/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNfDjHnmbC6QMw8_V5NzM_sD6_gKPuWq9Wp6sDl5CJ2oqUm_Mwmxs7zwKczZsSguoJg_gw2gVVpHItKPYYtG6sMG38zU7c93sx86IlhRqC-GZg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "หลักการของการตลาดดิจิทัล"
+    },
+    "comments": [{
+      "creator": {
+        "name": {
+          "fullName": "วรรณภา กลมดี"
+        },
+        "emailAddress": "67302110003@rvc.ac.th"
+      },
+      "creationTime": "2024-05-23T00:55:02.495Z",
+      "updateTime": "2024-05-23T00:55:02.495Z",
+      "comment": "คุณครูคะขออนุญาตเข้าช้านะคะเนื่องจากฝนตกแรงยังไม่สามารถไปได้ค่ะ",
+      "commentHtml": "\u003cdiv\u003eคุณครูคะขออนุญาตเข้าช้านะคะเนื่องจากฝนตกแรงยังไม่สามารถไปได้ค่ะ\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }, {
+      "creator": {
+        "name": {
+          "fullName": "นพพล อินศร"
+        },
+        "emailAddress": "noppol@rvc.ac.th"
+      },
+      "creationTime": "2024-05-23T02:01:40.955Z",
+      "updateTime": "2024-05-23T02:01:40.955Z",
+      "comment": "ok",
+      "commentHtml": "\u003cdiv\u003eok\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }]
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T01:46:52.480Z",
+    "updateTime": "2024-05-13T01:47:28.398Z",
+    "publicationTime": "2024-05-13T01:47:28.240Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตรรายวิชา"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bPnuoZy6mU9adw0VV5lHPh6LxvjULCMA",
+          "title": "30202-2003.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1bPnuoZy6mU9adw0VV5lHPh6LxvjULCMA/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMqF5Aj_yEP4cYfbi_j_vj_paRgWGmJkObCh9ROwRR-9xa8NKQsbvb0qNojpqfIPmM0wwgng7CgGx6ETQ3WJsE8M3nnm4rzQ9Ggaivf8u5U2oI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำอธิบายรายวิชา"
+    }
+  }]
+}

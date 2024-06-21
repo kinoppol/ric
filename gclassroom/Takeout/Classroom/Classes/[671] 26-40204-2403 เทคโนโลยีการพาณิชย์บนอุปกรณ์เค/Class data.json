@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "name": "[671] 26-40204-2403 เทคโนโลยีการพาณิชย์บนอุปกรณ์เคลื่อนที่",
+  "section": "ทล.บ.คธ.1/1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom2a5c8cea@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1MWNZ1zytDGS-JzJO686H-GJMZVfIIT-B6HBq-5wwXsLty7yZx0ObE0Ljbsh9jsh5f2YFNfx3",
+    "name": "[671] 26-40204-2403",
+    "openUrl": "https://drive.google.com/drive/folders/1MWNZ1zytDGS-JzJO686H-GJMZVfIIT-B6HBq-5wwXsLty7yZx0ObE0Ljbsh9jsh5f2YFNfx3"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_graduation.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "หลักสูตรรายวิชา"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T01:43:59.866Z",
+    "updateTime": "2024-05-13T01:44:39.021Z",
+    "publicationTime": "2024-05-13T01:44:38.840Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตรรายวิชา"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1cqRGIaJ13AUStCod7NZmtUTL0Mn9lukV",
+          "title": "เทคโนโลยีการพาณิชย์บนอุปกรณ์เคลื่อนที่.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1cqRGIaJ13AUStCod7NZmtUTL0Mn9lukV/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOlKgvsWdNQSzlCoGALgGlE_ixbJXaKd-uNP26VpQrmBNUXm37RQTyputHT5DhJKj0th7grjxpFOhZoJc9TlBz27lJfn1DZ3WrKKj4sSwjnfMU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำอธิบายรายวิชา"
+    }
+  }]
+}

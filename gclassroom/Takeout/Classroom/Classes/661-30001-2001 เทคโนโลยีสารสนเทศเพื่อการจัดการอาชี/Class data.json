@@ -1,0 +1,1340 @@
+{
+  "version": 1,
+  "name": "661-30001-2001 เทคโนโลยีสารสนเทศเพื่อการจัดการอาชีพ",
+  "section": "สคท 1/2 (เทคโนโลยีสารสนเทศเพื่อการจัดการอาชีพ)",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom06902d28@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1c9IRna-i3cxpzoNq-DECVgubDf9gG9Rs6BxoWRQRH0oYEndB74dQjQiGZVIYR-mgmOmo3JFo",
+    "name": "661-30001-2001 เทคโนโลยีสารสนเทศเพื่อการจัดการอาชีพ สคท 1/2 (เทคโนโลยีสารสนเทศเพื่อการจัดการอาชีพ)",
+    "openUrl": "https://drive.google.com/drive/folders/1c9IRna-i3cxpzoNq-DECVgubDf9gG9Rs6BxoWRQRH0oYEndB74dQjQiGZVIYR-mgmOmo3JFo"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Honors.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "ณัฐวิชา สอนโกษา"
+      },
+      "emailAddress": "66304060002@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ประพจน์ วินทชัย"
+      },
+      "emailAddress": "66304060001@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "สอบปลายภาค"
+  }, {
+    "name": "หน่วยที่ 1 ความรู้เกี่ยวกับคอมพิวเตอร์และอุปกรณ์โทรคมนาคม"
+  }, {
+    "name": "หน่วยที่ 2 ระบบเครือข่ายคอมพิวเตอร์และเทคโนโลยีสารสนเทศ"
+  }, {
+    "name": "หน่วยที่ 3 การสืบค้นข้อมูลบนอินเทอร์เน็ต"
+  }, {
+    "name": "หน่วยที่ 4 การใช้งานโปรแกรม Microsoft Word"
+  }, {
+    "name": "หน่วยที่ 5 การใช้งานโปรแกรม Microsoft Excel"
+  }, {
+    "name": "หน่วยที่ 6 การใช้งานโปรแกรม Microsoft Power Point"
+  }, {
+    "name": "หลักสูตร"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-09-10T14:57:26.011Z",
+    "updateTime": "2023-09-15T06:13:50.889Z",
+    "publicationTime": "2023-09-15T06:13:50.830Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "สอบปลายภาค"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/11BnPaBIHikJH-Uvhw5jCGBA03in2gP17EdVb2WlrX1I/edit",
+        "title": "ข้อสอบปลายภาคเรียน 1/2566",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/5l1w7AZv6ScoLgzNytrSjFIFzxwfXk8oFVu4fFQKNOptdxB2W8ms_CkjGxaNTB8Hu4DWqj1MeAY\u003dw90-h90-p",
+        "editId": "11BnPaBIHikJH-Uvhw5jCGBA03in2gP17EdVb2WlrX1I"
+      }
+    }],
+    "courseWork": {
+      "title": "ข้อสอบปลายภาคเรียน 1/2566",
+      "dueTime": "2023-09-13T16:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 45.0,
+        "assignedGrade": 45.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 36.0,
+        "assignedGrade": 36.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-08-07T04:43:09.091Z",
+    "updateTime": "2023-08-07T04:43:23.377Z",
+    "state": "DRAFT",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การใช้งานโปรแกรม Microsoft Power Point"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1pnxha9WrhO_QTdYeaJGUmPyjfrcjzjzg7XX5Bf-_VkM/edit",
+        "title": "แบบทดสอหลังรียนหน่วยที่ 6",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/4MNvlFupfPR7Hdqs1c0n05vQAD21LrKi5-gdWSU5tMo12NBPwxpB7sL0HbYmMR-AKr8VXDiqLuQ\u003dw90-h90-p",
+        "editId": "1pnxha9WrhO_QTdYeaJGUmPyjfrcjzjzg7XX5Bf-_VkM"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอหลังรียนหน่วยที่ 6",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-08-07T04:15:39.037Z",
+    "updateTime": "2023-08-07T04:42:50.038Z",
+    "publicationTime": "2023-08-07T04:42:49.874Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การใช้งานโปรแกรม Microsoft Power Point"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1XhkSm3z8cp7JyUjjMApYscrmMzzH8iFj0tZ3n5LrZ-k/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 6",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/-TvYrHQAr8u5T2SKfb8CQpUpXSyhUMlKW_lsErZzitz52QzbbDGR_o9fd-3NMRiNMcUedBk-qP0\u003dw90-h90-p",
+        "editId": "1XhkSm3z8cp7JyUjjMApYscrmMzzH8iFj0tZ3n5LrZ-k"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 6",
+      "dueTime": "2023-08-08T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-08-07T04:00:30.661Z",
+    "updateTime": "2023-08-07T04:15:22.140Z",
+    "publicationTime": "2023-08-07T04:15:21.996Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การใช้งานโปรแกรม Microsoft Power Point"
+    }],
+    "courseWork": {
+      "title": "สร้างงานนำเสนอ",
+      "description": "ให้นักศึกษาสร้างงานนำเสนอด้วยโปรแกรม Powerpoint โดยเลือกเรื่องจากวิชาในสาขาวิชาของนักศึกษามา 1 เรื่อง แล้วแนบไฟล์ส่ง\n",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาสร้างงานนำเสนอด้วยโปรแกรม Powerpoint โดยเลือกเรื่องจากวิชาในสาขาวิชาของนักศึกษามา 1 เรื่อง แล้วแนบไฟล์ส่ง\u003c/div\u003e",
+      "dueTime": "2023-09-15T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1wnLN97KVZJm-eBny8_AjhvEe1h-65cVG",
+              "title": "นำเสนอ การจัดดอกไม้เบื้องต้น2.pptx",
+              "alternateLink": "https://drive.google.com/file/d/1wnLN97KVZJm-eBny8_AjhvEe1h-65cVG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBONah756Oe-bbfCpB1_elXIFSIcaBRYSeN9bYH5kECmkvSzopm9q8o6Kn_2uOv13BblZNXzzI53pEujf0b9-DmSb8zQSNfIH1hL5-n61NJhxMU\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://www.canva.com/design/DAFutoebAK8/gnkmySgAQlOez8vHS7QApg/edit?utm_content\u003dDAFutoebAK8\u0026utm_campaign\u003ddesignshare\u0026utm_medium\u003dlink2\u0026utm_source\u003dsharebutton\u0026fbclid\u003dIwAR2k-Yv_ord37U3_9Afd5HG18mx7A6dFpMdjpAU-WXurNt0g6Hhm9rL5k4k_aem_Ad0xOpfq4hVewI1jdMnDExcCD99213xVB5RhSPhZMRLoamYQamS0NnzAcKKRw6_VV7w",
+              "title": "White and Gold Elegant Diary Book Cover A4 Document - Document (A4)",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.canva.com/design/DAFutoebAK8/gnkmySgAQlOez8vHS7QApg/edit?utm_content%3DDAFutoebAK8%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink2%26utm_source%3Dsharebutton%26fbclid%3DIwAR2k-Yv_ord37U3_9Afd5HG18mx7A6dFpMdjpAU-WXurNt0g6Hhm9rL5k4k_aem_Ad0xOpfq4hVewI1jdMnDExcCD99213xVB5RhSPhZMRLoamYQamS0NnzAcKKRw6_VV7w"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-10T06:53:01.932Z",
+    "updateTime": "2023-07-17T08:30:16.027Z",
+    "publicationTime": "2023-07-17T08:30:15.937Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การใช้งานโปรแกรม Microsoft Excel"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1HfZOW5VRPlXf6Yd8Ex6FUdzFeYrXqyUw-ui1LsDUC-w/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/8PzTNV94nTeF4oNRREs_a6WWhWVf8z368F1PC9WDQllfbTHytMmasEqe_lMUEZscVLtJ7qpF5_Q\u003dw90-h90-p",
+        "editId": "1HfZOW5VRPlXf6Yd8Ex6FUdzFeYrXqyUw-ui1LsDUC-w"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-10T06:30:12.102Z",
+    "updateTime": "2023-07-10T06:52:42.801Z",
+    "publicationTime": "2023-07-10T06:52:42.710Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การใช้งานโปรแกรม Microsoft Excel"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1eKHeAMxJdK80Pmte80DgqXQsYOzBPUmmFoXPj7pyrMU/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/Y-xvevHPGbJGsCVBYES-oZ7rxqx4Mk4tmaPzgg-pXysO9htSULB9P7ff-UgPmlNwH5xXh4dLFSU\u003dw90-h90-p",
+        "editId": "1eKHeAMxJdK80Pmte80DgqXQsYOzBPUmmFoXPj7pyrMU"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+      "dueTime": "2023-07-11T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-03T02:34:42.059Z",
+    "updateTime": "2023-07-03T02:37:49.290Z",
+    "publicationTime": "2023-07-03T02:35:35.708Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การใช้งานโปรแกรม Microsoft Excel"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1NX2yVkPX2BvkPiNnlEBTXrUTBg3YP9Hs",
+          "title": "แบบฝึกปฏิบัติที่1 ตารางขายผลไม้ส่งออก.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1NX2yVkPX2BvkPiNnlEBTXrUTBg3YP9Hs/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPMtSeCB2KPkwiLx9gobP_mGvw6jpxmH-qe-FUFQnUn6nFwGCNGk1T7GDbTf0uE3jeWBlH96JFbvWSDreUFtRvS8yhEeLtmt8aq8tvU9u0yJg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "135xaeV7OGZYZcKNF0SC8OpYpFat91q-Z",
+          "title": "แบบฝึกปฏิบัติที่2 คำนวณการขายผลไม้ส่งออก.pdf",
+          "alternateLink": "https://drive.google.com/file/d/135xaeV7OGZYZcKNF0SC8OpYpFat91q-Z/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMeBGVlC-CE3CT1wZxJC-3ELcsxQt506NWvn-lvqKjHoYJ_gZ65mlNzWszwNWHF2VwiNde1djESmKb7ZM_MOGwMPo4rkdbIMuTYq45dNxs9aA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1eEZb12FXh3Y-yU9eUPSTXoWmjfCgpaY3",
+          "title": "แบบฝึกปฏิบัติที่7 ใบเสร็จรับเงิน.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1eEZb12FXh3Y-yU9eUPSTXoWmjfCgpaY3/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNwrh1p7VotRvYSOM26T8Uy4CRTQpQEdIbXz3oMOab1Kp3sGEg7PPb_n0F3vFwpvn1fyDBt0NqanF60_5Oiw40bC2CcDi8p7WmVNp7soBzQsA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบฝึกปฏิบัติ Excel",
+      "description": "ให้นักศึกษาทำแบบฝึกปฏิบัติที่ 1-2,7 แล้วบันทึกส่งมาเป็นไฟล์ (แยกแบบฝึกปฏิบัติเป็นแต่ละไฟล์)\n",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาทำแบบฝึกปฏิบัติที่ 1-2,7 แล้วบันทึกส่งมาเป็นไฟล์ (แยกแบบฝึกปฏิบัติเป็นแต่ละไฟล์)\u003c/div\u003e",
+      "dueTime": "2023-07-23T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1TH65JbwIyN7HBH61-asO4HE_qnHhr-uZ",
+              "title": "ใบงานที่2.xlsx",
+              "alternateLink": "https://drive.google.com/file/d/1TH65JbwIyN7HBH61-asO4HE_qnHhr-uZ/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP6BIX3Xhm0yXUNqSROAGXJVu_nFOc2k2HrJdGTuIQmIY93sMvxbQ5oKh3gMERf5AKad_mEF3bOsj-FbNusSmnfgzD2NSWBQdIp9LyYzfjAui0\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1CfMNDAOTABqSk-U7i8suTQ2TcGufQjy4",
+              "title": "ใบงานที่1(1).xlsx",
+              "alternateLink": "https://drive.google.com/file/d/1CfMNDAOTABqSk-U7i8suTQ2TcGufQjy4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNiInBgPpFXe8Ae6PhgJ2kcGe0gxm9xAvDpw87bIh1KRgX00L6UPAfnDKTV3u4lN7osNrgEnvc2b7N2nPczhXZ8dlb08iBDtpx_ACUO3GWEMV0\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1-BlSFncMtHkdBUMljrPp63gYo7B9UBqj",
+              "title": "ใบงานที่7.xlsx",
+              "alternateLink": "https://drive.google.com/file/d/1-BlSFncMtHkdBUMljrPp63gYo7B9UBqj/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPseZZwaS0OP2M1LqhQow6Li1vkrXDGOSmqvj7bqANUvQl2EO1m-712IIqH9vo49vQZ2AGdp4F8SzIu6aNu1SI7maEjnl-FjIvcv3SJDQ3zWDw\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1T9EkMymz3dWjDEfyA_xH8tYE-iwJzHG7",
+              "title": "ใบงานที่2 สาวแตม.xlsx",
+              "alternateLink": "https://drive.google.com/file/d/1T9EkMymz3dWjDEfyA_xH8tYE-iwJzHG7/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-udMrIWv2NH_0SA-5Bx4vnVosmYbdhB8rbdMrRIRRYMjDSLpvGC7hmQqYDBN7FEL83rVr6ooehzpN5A5ZF9-DX6Xy06UFjoiecgd8K62ETkc\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1r1UCbtD1JDktuwKFpwgTcjv6u9mqYCQg",
+              "title": "ใบงานที่7.xlsx",
+              "alternateLink": "https://drive.google.com/file/d/1r1UCbtD1JDktuwKFpwgTcjv6u9mqYCQg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNnsVZu9S6rUhXe3Sybi17rAgjMvf0z5iCz-QHCe2OvX7fpvX6fPlwJ-7bEFaEFnncQ66Eecdgrj-81BXLwkJM2Z8OmLp68K-toXrazEi_3iKg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1mapVF3YatNLgh0GwXnNesjls8RPey6B9",
+              "title": "ใบงานที่1(1).xlsx",
+              "alternateLink": "https://drive.google.com/file/d/1mapVF3YatNLgh0GwXnNesjls8RPey6B9/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPhMI1jcCMluty2-kq9j1qcR0kv4woSnHLF22R0lSCPW2FdWVyY2Sb-kvjde9BJcblRv-W5h-f-3VC_CPaPPHL3Iy_wpUrxoqMnh5lQt2JHGk\u003ds200"
+            }
+          }]
+        }
+      }]
+    },
+    "comments": [{
+      "creator": {
+        "name": {
+          "fullName": "ประพจน์ วินทชัย"
+        },
+        "emailAddress": "66304060001@rvc.ac.th"
+      },
+      "creationTime": "2023-07-03T09:23:03.034Z",
+      "updateTime": "2023-07-03T09:23:03.034Z",
+      "comment": "คุณครูครับคุณครูอยู่ไหนครับผมไปหาที่ห้องเเล้วไม่เจอเลยครับ",
+      "commentHtml": "\u003cdiv\u003eคุณครูครับคุณครูอยู่ไหนครับผมไปหาที่ห้องเเล้วไม่เจอเลยครับ\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }]
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-03T02:27:58.167Z",
+    "updateTime": "2023-07-03T02:31:01.849Z",
+    "publicationTime": "2023-07-03T02:31:01.666Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การใช้งานโปรแกรม Microsoft Word"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1oLwpX-gPS3Xx7WKhwqvqV8gSvoqWyA2R",
+          "title": "แบบฝึกปฏิบัติที่ 1 การตกแต่งเอกสาร.docx",
+          "alternateLink": "https://drive.google.com/file/d/1oLwpX-gPS3Xx7WKhwqvqV8gSvoqWyA2R/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPOiiPmnBpKFzMe6_qCBPu9c0P_lL5g_COIy-HY2qEMoZtpA5xsPvDONs3FzGV4poYTehCVLWXppN2QS2hUPrEh1J8IkcQ32aTy66t1RsYIUw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1WgJvZOGxAx-Q4IfzmkkKvmIGVvS49jMs",
+          "title": "แบบฝึกปฏิบัติที่ 2 การจัดรูปแบบเอกสาร.docx",
+          "alternateLink": "https://drive.google.com/file/d/1WgJvZOGxAx-Q4IfzmkkKvmIGVvS49jMs/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNrgSGHKVuUICL3zQckNm9k_vZseba89qOxo7Nnvp92LdXm3lXWdbk3CbLI3Xr29-ps1DoQkyqSOmD6tDSy8YJW0RNLpmrs0QfQmFxO_NsJWw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "107-8mZ3FVQBmmLNvzRk-T-elOBcKFKxX",
+          "title": "แบบฝึกปฏิบัติที่ 3 แผ่นพับ.pdf",
+          "alternateLink": "https://drive.google.com/file/d/107-8mZ3FVQBmmLNvzRk-T-elOBcKFKxX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMF0bbid2xQT9wwmwKu_9BeOJeDd8yUZ9eTR5YldmGB-M0Z5Sszi-Fq5RB3TdhaThO-izYkxYF4ei1odqhsyM-9gqzSNKoKhk1A4zmLWtylXw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบฝึกปฏิบัติ Word",
+      "description": "ให้นักศึกษาทำแบบฝึกปฏิบัติที่ 1-3 แล้วบันทึกส่งมาเป็นไฟล์ (แยกแบบฝึกปฏิบัติเป็นแต่ละไฟล์) ",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาทำแบบฝึกปฏิบัติที่ 1-3 แล้วบันทึกส่งมาเป็นไฟล์ (แยกแบบฝึกปฏิบัติเป็นแต่ละไฟล์)\u003c/div\u003e",
+      "dueTime": "2023-07-09T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1prnXjJoSwqjniB5AEM6pnHtq8OarFpIK",
+              "title": "หลักการจัดดอกไม้พื้นฐาน.docx",
+              "alternateLink": "https://drive.google.com/file/d/1prnXjJoSwqjniB5AEM6pnHtq8OarFpIK/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPNO5Gcvc9wZFe5tmUoEyuAe4T7lmyg33db8_kFBH9VjzNjQoKhG4mcVnrqdysFEAe04g-37qajtxk5RGLqTep7q1hbWzsBDXt4h6gj064iJ4M\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1dNvz9L7ZQ_2jt5SZYlEWN6YvC0DtlH1j",
+              "title": "ทายนิสัยตามวันเกิด.docx",
+              "alternateLink": "https://drive.google.com/file/d/1dNvz9L7ZQ_2jt5SZYlEWN6YvC0DtlH1j/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPUkxmIJkRbc9omLz2NoK-i2cA7erNYi8zvYrWjDj-PhRN_NFU5fD-SP5FgH1VEQcdvbSKNaNpAl2jFmCmT0rbYuSAmOtfF-r4slBZOJ1ht6ts\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1sxCO7MvF3BBeJK_KjCbDn-L7ll2Kq1hi",
+              "title": "แบบฝึกปฏิบัติที่ 3 แผ่นพับ.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1sxCO7MvF3BBeJK_KjCbDn-L7ll2Kq1hi/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPb7FALOKZL9bqXG87Y6MWcSJbIlCF_1rEGNlg59So1j3Lk5M5RDDb1BsJ54SK_XUy43x2dVonKqGEBeQP8029S4VeSzz-YVS-EygTW4j-O3Tw\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "link": {
+              "url": "https://cdn.fbsbx.com/v/t59.2708-21/372251106_3599652066917019_9156325705639478680_n.pdf/10-%E0%B9%81%E0%B8%84%E0%B8%84%E0%B8%95%E0%B8%B1%E0%B8%AA.pdf?_nc_cat\u003d111\u0026ccb\u003d1-7\u0026_nc_sid\u003d0cab14\u0026_nc_eui2\u003dAeG5ymkQRyW78dAq1CeykireDGeqrO89434MZ6qs7z3jftb8WPttiWOOfZWXBAUZjQcQ76Jb6sMU6L7Ph2Z4DPg8\u0026_nc_ohc\u003d5r95VF1bLWIAX-PvRtm\u0026_nc_ht\u003dcdn.fbsbx.com\u0026oh\u003d03_AdRBYNRHE50beXFDc1NpYL6X9cnZd6W_n6e38Fqxbyba-Q\u0026oe\u003d65098A33\u0026dl\u003d1",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://cdn.fbsbx.com/v/t59.2708-21/372251106_3599652066917019_9156325705639478680_n.pdf/10-%25E0%25B9%2581%25E0%25B8%2584%25E0%25B8%2584%25E0%25B8%2595%25E0%25B8%25B1%25E0%25B8%25AA.pdf?_nc_cat%3D111%26ccb%3D1-7%26_nc_sid%3D0cab14%26_nc_eui2%3DAeG5ymkQRyW78dAq1CeykireDGeqrO89434MZ6qs7z3jftb8WPttiWOOfZWXBAUZjQcQ76Jb6sMU6L7Ph2Z4DPg8%26_nc_ohc%3D5r95VF1bLWIAX-PvRtm%26_nc_ht%3Dcdn.fbsbx.com%26oh%3D03_AdRBYNRHE50beXFDc1NpYL6X9cnZd6W_n6e38Fqxbyba-Q%26oe%3D65098A33%26dl%3D1"
+            }
+          }, {
+            "driveFile": {
+              "id": "18u03t5KiYk_3s13TQYNUAPpmVdknE_sK",
+              "title": "7 ประโยชน์ของการออกกำลังกาย.docx",
+              "alternateLink": "https://drive.google.com/file/d/18u03t5KiYk_3s13TQYNUAPpmVdknE_sK/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPRjOTUIMaYKOukg6VBsUoG3likCbeoSQEtOMQ55jEnen_oHhsft1IbpiwpERd7a5UtGHXNmiByicQg7_T8HoDzR7jAcLjtayU6IjvWWYftHeU\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "19WOm4GlXACLtqzgakdC85mkKHJqM5hCr",
+              "title": "ดอกไม้ท้ายนิสัย.docx",
+              "alternateLink": "https://drive.google.com/file/d/19WOm4GlXACLtqzgakdC85mkKHJqM5hCr/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMxA003zFhP-Yoe77pRwwRqomApXvMpgIpHSyzHLOo-qQUgnWDBbtn-7ZcCjY8349OOkZLeH7-NN6P12DWTeWQE0AzXvC56f1qajZKvGQ5DNbc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-26T04:21:13.009Z",
+    "updateTime": "2023-06-26T08:35:54.065Z",
+    "publicationTime": "2023-06-26T08:35:53.857Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การใช้งานโปรแกรม Microsoft Word"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1w-c3T-oAUSEk528iEN0a55f40xrJrbM7PSeNERDqpoA/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/edehKuu3fKOaZXLi8CdVntP4sieeozCWS8xs00DE6OuAKQBlge8bFaK7iAuGCxxpdlszRVAXUdU\u003dw90-h90-p",
+        "editId": "1w-c3T-oAUSEk528iEN0a55f40xrJrbM7PSeNERDqpoA"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+      "dueTime": "2023-07-02T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-26T03:15:35.010Z",
+    "updateTime": "2023-06-26T05:00:45.977Z",
+    "scheduledTime": "2023-06-26T05:00:00Z",
+    "publicationTime": "2023-06-26T05:00:45.829Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การใช้งานโปรแกรม Microsoft Word"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1Y0GK210ePHVnrq97kPC2GvT-lPAk6xU_FlvQcnb0W7M/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/DPu5l-XNlOO8v2oeqzNJLSbd5xVLUdXVvNvX_omKetpdAVL8tZj3pdE3v6fxdKQqTMn91fYa0GY\u003dw90-h90-p",
+        "editId": "1Y0GK210ePHVnrq97kPC2GvT-lPAk6xU_FlvQcnb0W7M"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+      "dueTime": "2023-06-27T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-25T14:15:32.903Z",
+    "updateTime": "2023-06-25T14:16:14.746Z",
+    "publicationTime": "2023-06-25T14:16:14.616Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การใช้งานโปรแกรม Microsoft Power Point"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1MWHKn8_jCrW5PsXUvVILpLwdQaaj9zVj",
+          "title": "Power point.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1MWHKn8_jCrW5PsXUvVILpLwdQaaj9zVj/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNSe24Ra9tThzdJlAVWDoc6rqf2q-0wiF0bJBFcUqkhJ49APcar0jjm0vOhDHRyAla4HC7C9oufz1I2hxA6JuDv9KBn3GCptZ6S86BJWLED3w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การใช้งานโปรแกรม Microsoft Power Point"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-25T14:14:05.367Z",
+    "updateTime": "2023-06-25T14:16:33.707Z",
+    "publicationTime": "2023-06-25T14:14:43.458Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การใช้งานโปรแกรม Microsoft Excel"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1sNKwmOHbxhB2oXcSWjEvs5l3IaeGapZT",
+          "title": "Excel.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1sNKwmOHbxhB2oXcSWjEvs5l3IaeGapZT/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMm6uTqhjqVQWyE41RZOoLev9I3ZFyhcW_UNonrZZA7LOl9fiGVDtFIED2e8l6taGrN8lG0DvmeJsybDD6EZj4p1_cZnd6muEaz3wLWQIi1SQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การใช้งานโปรแกรม Microsoft Excel"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-25T14:13:09.085Z",
+    "updateTime": "2023-06-25T14:16:51.402Z",
+    "publicationTime": "2023-06-25T14:13:52.328Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การใช้งานโปรแกรม Microsoft Word"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "146ZhDMnE24nVl6HCXvhXwc8DuEHkBS5c",
+          "title": "Word.pdf",
+          "alternateLink": "https://drive.google.com/file/d/146ZhDMnE24nVl6HCXvhXwc8DuEHkBS5c/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPa9AHC2PAvlbAADLWweTCalZS1mF1AI6UtKxSnkdoX8l2HYBD6fCcUipyBVnEnFMp8nRuO7icASp2G6ndiaSoPIl9C-fgyJMfvie5ygvcsQQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การใช้งานโปรแกรม Microsoft Word"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-19T04:27:53.812Z",
+    "updateTime": "2023-06-19T08:39:42.312Z",
+    "publicationTime": "2023-06-19T08:39:42.168Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การสืบค้นข้อมูลบนอินเทอร์เน็ต"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1DV4p1B-BPcHhc_kCOm7ke_ZzC4BfjYTXMwKCbUnzOVk/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/DvkqxXl9-JjWTGYBlyah29oltcYA5iyIQlQ6v7Ks4_f8OzRoS3Bt-WxeObTPzpO6rNo6KUWpV9I\u003dw90-h90-p",
+        "editId": "1DV4p1B-BPcHhc_kCOm7ke_ZzC4BfjYTXMwKCbUnzOVk"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+      "dueTime": "2023-06-25T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-19T03:43:21.438Z",
+    "updateTime": "2023-06-19T06:04:26.895Z",
+    "scheduledTime": "2023-06-19T06:00:00Z",
+    "publicationTime": "2023-06-19T06:04:26.776Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การสืบค้นข้อมูลบนอินเทอร์เน็ต"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1XnFkg4brbszCM8Czp8uVYo3f1tWXmN3KS_jbJU3hHUg/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/FCA2lpJ1xD_z0NSoXfyNKnfUTWZKwB2MjnmvnU2bt2nChymXxt6Dift8RZIfGIMMNvaXeYGLO_A\u003dw90-h90-p",
+        "editId": "1XnFkg4brbszCM8Czp8uVYo3f1tWXmN3KS_jbJU3hHUg"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+      "dueTime": "2023-06-20T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-19T02:01:30.418Z",
+    "updateTime": "2023-06-19T02:02:06.556Z",
+    "publicationTime": "2023-06-19T02:02:06.476Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 การสืบค้นข้อมูลบนอินเทอร์เน็ต"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1M9vY3k5rngFHkUmsDGruqjMpYsFdpCPH",
+          "title": "เทคนิคการสืบค้น Google แบบมืออาชีพ.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1M9vY3k5rngFHkUmsDGruqjMpYsFdpCPH/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNXHwdDgnSgMXNmpgSrUh3LnXpv7n7C0Ty3bqx3isHsbFk7dgRN8s5vKugXMRV7rFS7FW4c2hP9L7Ti8N3D_DkOOXi8iuq7I4Ufs_1lR0FWFQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การสืบค้นข้อมูลบนอินเทอร์เน็ต"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-08T03:47:38.332Z",
+    "updateTime": "2023-06-19T03:45:01.495Z",
+    "publicationTime": "2023-06-15T07:14:50.834Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบเครือข่ายคอมพิวเตอร์และเทคโนโลยีสารสนเทศ"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/17CAi_QO7f3Kzv_l1jiB6ZWWN4xoYW96mEpPTNnyVSWA/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/D3SQjwcewQpJXarkcT7yuBjaZAttFWlBl3rWZx8utg_On0dHPxBH9jA7v5K7LbLW_Jmdgu28lSk\u003dw90-h90-p",
+        "editId": "17CAi_QO7f3Kzv_l1jiB6ZWWN4xoYW96mEpPTNnyVSWA"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+      "dueTime": "2023-06-19T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-08T02:40:12.103Z",
+    "updateTime": "2023-06-08T06:01:53.888Z",
+    "scheduledTime": "2023-06-08T06:00:00Z",
+    "publicationTime": "2023-06-08T06:01:53.656Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบเครือข่ายคอมพิวเตอร์และเทคโนโลยีสารสนเทศ"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1d9sqamFl1JWggAglHhxybB4Sj04_dZfjwbMUQpu_Cmk/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/NPrUJToo4k0inCQalsiUMcwnnfeZy9MZrIElOHMdJgioH_HYFSasRhxK1AJ2HzBZlsshvysDPNs\u003dw90-h90-p",
+        "editId": "1d9sqamFl1JWggAglHhxybB4Sj04_dZfjwbMUQpu_Cmk"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+      "dueTime": "2023-06-16T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-08T02:39:22.394Z",
+    "updateTime": "2023-06-08T02:39:43.760Z",
+    "publicationTime": "2023-06-08T02:39:43.593Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบเครือข่ายคอมพิวเตอร์และเทคโนโลยีสารสนเทศ"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1vd6li60Cub0WEJaBpSpVbym7294023Qf",
+          "title": "บทที่-4-ระบบเครือข่ายคอมพิวเตอร์และเทคโนโลยีสารสนเทศ-1-2562.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1vd6li60Cub0WEJaBpSpVbym7294023Qf/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPlB1elD1JfoO179rBar_OHjkfKap1PM10vgQJTYSjbZFNsDuYnZydZOgbjFdwuhxoiyvEiOTvFitoZlRiE5vl9CTAKvwoOQx436UhnMbGBIA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ระบบเครือข่ายคอมพิวเตอร์และเทคโนโลยีสารสนเทศ"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-25T05:02:23.606Z",
+    "updateTime": "2023-06-15T06:28:22.667Z",
+    "publicationTime": "2023-06-01T06:44:35.289Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 ความรู้เกี่ยวกับคอมพิวเตอร์และอุปกรณ์โทรคมนาคม"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1-H-sX28jlMEhO7w_7l25EyJLxEW4PiGHOEDPS0Dte3A/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/_o1ZOOkkkPO0DdQ-ZimN-1PZpdo-n37nvBhZ0g-NGkKojnzRYFIvK63Y--WHpNwZA5wrU37v3ws\u003dw90-h90-p",
+        "editId": "1-H-sX28jlMEhO7w_7l25EyJLxEW4PiGHOEDPS0Dte3A"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+      "dueTime": "2023-06-07T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-25T04:39:09.702Z",
+    "updateTime": "2023-05-25T05:00:53.939Z",
+    "scheduledTime": "2023-05-25T05:00:00Z",
+    "publicationTime": "2023-05-25T05:00:53.820Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 ความรู้เกี่ยวกับคอมพิวเตอร์และอุปกรณ์โทรคมนาคม"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1x9Nv_309JDDqq-gYwMCN56emXnxbqCHe79frXbAhO9U/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/FTEYJzlVAm01xlmp0qdattbTuUEVtyvuGMcqldvTtyh1uMH8c408C3_VmbV3Lyr2cKs9G4SuQQM\u003dw90-h90-p",
+        "editId": "1x9Nv_309JDDqq-gYwMCN56emXnxbqCHe79frXbAhO9U"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "dueTime": "2023-05-27T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ประพจน์ วินทชัย"
+            },
+            "emailAddress": "66304060001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐวิชา สอนโกษา"
+            },
+            "emailAddress": "66304060002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-25T04:38:20.526Z",
+    "updateTime": "2023-05-25T04:38:56.382Z",
+    "publicationTime": "2023-05-25T04:38:56.253Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 ความรู้เกี่ยวกับคอมพิวเตอร์และอุปกรณ์โทรคมนาคม"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1h4s90MxyqWTrfPCKzmWNRDM1QcVpvlwo",
+          "title": "หน่วยที่ 1 ความรู้เกี่ยวกับคอมพิวเตอร์และอุปกรณ์โทรคมนาคม - krutun5 - หน้าหนังสือ 1 - 25 _ พลิก PDF ออนไ.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1h4s90MxyqWTrfPCKzmWNRDM1QcVpvlwo/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOvkfLTxoENVqT7a3pCiwVph9j5b5efQqrI0gXJECFmPRtnynMc91QSNMsUIpzSt4efsUj5x6mjcx61FpKRz-GtcXGDnWL_nsPXDTshlu9RGA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ความรู้เกี่ยวกับคอมพิวเตอร์และอุปกรณ์โทรคมนาคม"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-17T14:49:46.210Z",
+    "updateTime": "2023-05-18T06:39:31.175Z",
+    "publicationTime": "2023-05-17T14:50:15.985Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตร"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1lJsYDtHSHv5_MyZa34QNOPfl7xv5XEwt",
+          "title": "CurriculumSchoolSubject.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1lJsYDtHSHv5_MyZa34QNOPfl7xv5XEwt/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPk1WTJ19tHwj8Nf-zHKxdpLRrq1I0mF1uU3IZ-p9J_peydwPRACBkeryFoc4sDIr1_4sief-fajs84kPUSvalMH6CxjUZ82DumxaV4SfNlow\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำอธิบายรายวิชา"
+    }
+  }]
+}

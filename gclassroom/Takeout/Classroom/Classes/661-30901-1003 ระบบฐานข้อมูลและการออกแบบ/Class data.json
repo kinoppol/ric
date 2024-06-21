@@ -1,0 +1,6323 @@
+{
+  "version": 1,
+  "name": "661-30901-1003 ระบบฐานข้อมูลและการออกแบบ",
+  "section": "สทส. 1/1 (ระบบฐานข้อมูลและการออกแบบ)",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom6816ca5d@group.calendar.google.com",
+  "courseFolder": {
+    "id": "19YVrTz5FUn48EzDWc7EXzQx196O0y_Ve973-VDH8ncMgzI9kyoWG6QhvZ8HzpZbjbGMNSf47",
+    "name": "661-30901-1003 ระบบฐานข้อมูลและการออกแบบ สทส. 1/1 (ระบบฐานข้อมูลและการออกแบบ)",
+    "openUrl": "https://drive.google.com/drive/folders/19YVrTz5FUn48EzDWc7EXzQx196O0y_Ve973-VDH8ncMgzI9kyoWG6QhvZ8HzpZbjbGMNSf47"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Biology.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "พีรพัฒน์ สอนลิลา"
+      },
+      "emailAddress": "66309010015@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อิศราพงษ์ ไชยสงคราม"
+      },
+      "emailAddress": "66309010014@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อิทธิพล เอกวงษา"
+      },
+      "emailAddress": "66309010013@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+      },
+      "emailAddress": "66309010011@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "วุฒิสิทธิ์ คำภา"
+      },
+      "emailAddress": "66309010009@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นาวิน ศุภฤกษ์"
+      },
+      "emailAddress": "66309010007@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ธานัท อนุนิวัฒน์"
+      },
+      "emailAddress": "66309010006@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+      },
+      "emailAddress": "66309010005@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ณัฐภัทร กำแก้ว"
+      },
+      "emailAddress": "66309010004@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ณัฐนนท์ มาตขาว"
+      },
+      "emailAddress": "66309010003@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "จีรพันธ์ บุญอ่อน"
+      },
+      "emailAddress": "66309010002@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+      },
+      "emailAddress": "66309010001@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "โครงงานย่อย"
+  }, {
+    "name": "สอบปลายภาค"
+  }, {
+    "name": "หน่วยที่ 10 ความปลอดภัยของฐานข้อมูล"
+  }, {
+    "name": "หน่วยที่ 1 ความรู้เบื้องต้นเกี่ยวกับฐานข้อมูล"
+  }, {
+    "name": "หน่วยที่ 2 ระบบบริหารจัดการฐานข้อมูล"
+  }, {
+    "name": "หน่วยที่ 3 แบบจำลองฐานข้อมูล"
+  }, {
+    "name": "หน่วยที่ 4 แบบจำลองฐานข้อมูลเชิงสัมพันธ์"
+  }, {
+    "name": "หน่วยที่ 5 พีชคณิตเชิงสัมพันธ์"
+  }, {
+    "name": "หน่วยที่ 6 การออกแบบฐานข้อมูลด้วยแผนภาพ E-R"
+  }, {
+    "name": "หน่วยที่ 7 การปรับบรรทัดฐานข้อมูล"
+  }, {
+    "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+  }, {
+    "name": "หน่วยที่ 9 การจัดการทรานแซคชัน และการควบคุมภาวะพร้อมกัน"
+  }, {
+    "name": "หลักสูตร"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-09-15T13:18:07.515Z",
+    "updateTime": "2023-09-18T04:31:52.401Z",
+    "scheduledTime": "2023-09-16T17:00:00Z",
+    "publicationTime": "2023-09-16T17:00:17.381Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "สอบปลายภาค"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1wnyXHlfh73Y98SxLX7kzOerOUhF-_Its7GF00jCdwTo/edit",
+        "title": "ข้อสอบปลายภาค",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/f5N1IfQ09lnCEO2kCfnoRXsuwdIpQf6f1Nd7dXN-0l8UWcdmTEwOvoahmIfMvmgMQLAojLnGpM0\u003dw90-h90-p",
+        "editId": "1wnyXHlfh73Y98SxLX7kzOerOUhF-_Its7GF00jCdwTo"
+      }
+    }],
+    "courseWork": {
+      "title": "ข้อสอบปลายภาค",
+      "dueTime": "2023-09-18T16:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 60.0,
+        "assignedGrade": 60.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 64.0,
+        "assignedGrade": 64.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 36.0,
+        "assignedGrade": 36.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 83.0,
+        "assignedGrade": 83.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 62.0,
+        "assignedGrade": 62.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 61.0,
+        "assignedGrade": 61.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 58.0,
+        "assignedGrade": 58.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 56.0,
+        "assignedGrade": 56.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 63.0,
+        "assignedGrade": 63.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 63.0,
+        "assignedGrade": 63.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 71.0,
+        "assignedGrade": 71.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 86.0,
+        "assignedGrade": 86.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-08-16T02:48:22.747Z",
+    "updateTime": "2023-08-16T02:48:46.121Z",
+    "publicationTime": "2023-08-16T02:48:45.972Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "courseWork": {
+      "title": "Username Github ของนักศึกษา",
+      "dueTime": "2023-08-16T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Npongping"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "nattapat0006"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Kasetsetr\n"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "thiraput"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Kizera"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "janpao1"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "NONAMEEG"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Atawirvc"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "tanut12345"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "Ittipol375"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "issarapong8307"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "shortAnswerSubmission": {
+          "answer": "peeraphat007"
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-08-09T02:21:53.172Z",
+    "updateTime": "2023-08-11T08:07:28.816Z",
+    "publicationTime": "2023-08-09T02:23:26.788Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "โครงงานย่อย"
+    }],
+    "courseWork": {
+      "title": "URL ของแต่ละกลุ่มคืออะไร",
+      "description": "bc.rvc.ac.th/~u663090100XX/shop66",
+      "descriptionHtml": "\u003cdiv\u003ebc.rvc.ac.th/~u663090100XX/shop66\u003c/div\u003e",
+      "dueTime": "2023-08-09T16:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "shortAnswerSubmission": {
+          "answer": "bc.rvc.ac.th/~66309010002/shop66"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "shortAnswerSubmission": {
+          "answer": "bc.rvc.ac.th/~66309010005/shop66"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "shortAnswerSubmission": {
+          "answer": "skill12"
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "shortAnswerSubmission": {
+          "answer": "bc.rvc.ac.th/~66309010013/shop66"
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-21T08:37:14.307Z",
+    "updateTime": "2023-07-21T08:38:04.981Z",
+    "publicationTime": "2023-07-21T08:38:04.872Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "โครงงานย่อย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1812UeX4ytTpI-MYDxaWB_tKNJjoNaDC1",
+          "title": "Skill.zip",
+          "alternateLink": "https://drive.google.com/file/d/1812UeX4ytTpI-MYDxaWB_tKNJjoNaDC1/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ตัวอย่างระบบฯ"
+    },
+    "comments": [{
+      "creator": {
+        "name": {
+          "fullName": "นพพล อินศร"
+        },
+        "emailAddress": "noppol@rvc.ac.th"
+      },
+      "creationTime": "2023-08-04T08:27:27.060Z",
+      "updateTime": "2023-08-04T08:27:27.060Z",
+      "comment": "skill04\nskill05\nskill06*\nskill09*\nskill10\nskill12*",
+      "commentHtml": "\u003cdiv\u003eskill04\u003cbr\u003eskill05\u003cbr\u003eskill06*\u003cbr\u003eskill09*\u003cbr\u003eskill10\u003cbr\u003eskill12*\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }]
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-21T08:21:01.580Z",
+    "updateTime": "2023-07-21T08:25:21.085Z",
+    "publicationTime": "2023-07-21T08:22:53.392Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "โครงงานย่อย"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1_3PD0pNl4kd0ArZnlQOQznGOmAfkJ41q",
+          "title": "Screenshot 2023-07-21 152141.png",
+          "alternateLink": "https://drive.google.com/file/d/1_3PD0pNl4kd0ArZnlQOQznGOmAfkJ41q/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN2ue8aE-AErCj33IzpZgZl2WCfVrUV658g9OmGJ5aUtUs9c5-YSfClsx79yIdOYDmgDJXZRGxq4f9WZJWH1mgHdwLSu-YO2t6cFtHjdN37i4Y\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "เสนอว่าขายอะไร",
+      "description": "ทำเว็บขายของ (Web E-commerce)\n1 ตกลงกันว่าขายสินค้าอะไร ระบุเป็นประเภทสินค้า (สินค้าไม่ผิดกฎหมาย)\n2 แบ่งภาระหน้าที่ \n   ใคร ออกแบบหน้าตา UI Design (เก่ง HTML)\n   ใคร ออกแบบฐานข้อมูล Database Design (SQLสร้างตารางในฐานข้อมูล)\n   ใคร โปรแกรมเมอร์ (เขียนโค๊ด เขียน PHP)\n   ใคร โปรเจคเมเนเจอร์ (ช่วยทุกคนให้ทำงานได้ PHP\u0026HTML\u0026SQL)\n3 การนำเสนอ สัปดาห์ที่ 17 ส่วนที่ 1 ฐานข้อมูล ส่วนที่ 2 เว็บ",
+      "descriptionHtml": "\u003cdiv\u003eทำเว็บขายของ (Web E-commerce)\u003cbr\u003e1 ตกลงกันว่าขายสินค้าอะไร ระบุเป็นประเภทสินค้า (สินค้าไม่ผิดกฎหมาย)\u003cbr\u003e2 แบ่งภาระหน้าที่ \u003cbr\u003e   ใคร ออกแบบหน้าตา UI Design (เก่ง HTML)\u003cbr\u003e   ใคร ออกแบบฐานข้อมูล Database Design (SQLสร้างตารางในฐานข้อมูล)\u003cbr\u003e   ใคร โปรแกรมเมอร์ (เขียนโค๊ด เขียน PHP)\u003cbr\u003e   ใคร โปรเจคเมเนเจอร์ (ช่วยทุกคนให้ทำงานได้ PHP\u0026amp;HTML\u0026amp;SQL)\u003cbr\u003e3 การนำเสนอ สัปดาห์ที่ 17 ส่วนที่ 1 ฐานข้อมูล ส่วนที่ 2 เว็บ\u003c/div\u003e",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17awg9BYvFrnFivKPIVEI3fyMHEQXHJZmeb5liHQxcL4",
+              "title": "จีรพันธ์ บุญอ่อน - เสนอว่าขายอะไร",
+              "alternateLink": "https://docs.google.com/document/d/17awg9BYvFrnFivKPIVEI3fyMHEQXHJZmeb5liHQxcL4/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOR707Fo8C7D6Ie7kfSd5Vh49wI0-PifcXVJGmrTDZRxPSKfguioiWusV3U58Jh0taq__hAklRKSYwJNThZKwpFbtvjQJjGDjIdeaeXbn-LNPKxi-SxgEbRj4v37tb-GXkCvQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-19T01:21:35.012Z",
+    "updateTime": "2023-07-19T02:45:26.679Z",
+    "publicationTime": "2023-07-19T02:45:26.424Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 10 ความปลอดภัยของฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1205rZU0uzfAHE31d4FTApOctpJHK3t5AtPI9syquWD4/edit",
+        "title": "แบบบทดสอบหลังเรียนหน่วยที่ 10",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/S0xOfsKmklZeLSKn6GQVtu3RaWKsTcStM4jAMZMtecnunRE41DGmh3MCs3RBU6btrfnZDcy8_Yw\u003dw90-h90-p",
+        "editId": "1205rZU0uzfAHE31d4FTApOctpJHK3t5AtPI9syquWD4"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบบทดสอบหลังเรียนหน่วยที่ 10",
+      "dueTime": "2023-07-21T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-19T00:32:42.706Z",
+    "updateTime": "2023-07-19T01:21:17.701Z",
+    "publicationTime": "2023-07-19T01:21:17.370Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 10 ความปลอดภัยของฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1u5dJd0Vcs2LddmQQH9jkRa0kHZaYp6davt4b2b5SKW0/edit",
+        "title": "แบบบทดสอบก่อนเรียนหน่วยที่ 10",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/dXYSYGJvLyyX7ZPU920hqW0_5JEAeKz72ZIkqE42ZRnEj5PzKFR0vgvKYt7n9PdZ9YCDe-7fO48\u003dw90-h90-p",
+        "editId": "1u5dJd0Vcs2LddmQQH9jkRa0kHZaYp6davt4b2b5SKW0"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบบทดสอบก่อนเรียนหน่วยที่ 10",
+      "dueTime": "2023-07-20T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-14T06:14:41.115Z",
+    "updateTime": "2023-07-14T08:22:16.957Z",
+    "publicationTime": "2023-07-14T08:22:16.905Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 9 การจัดการทรานแซคชัน และการควบคุมภาวะพร้อมกัน"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1vXTxUSUaxdGveVmh2l2fIOUW7ewSQW0fGvos6z5NFOY/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 9",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/ATs8VCFPuNJxqPttKfZNo35Dr_zOidyhBrm64LFD_FWmky2pcRKF6aLo_W6Wf5WIPBeWvdH3QEM\u003dw90-h90-p",
+        "editId": "1vXTxUSUaxdGveVmh2l2fIOUW7ewSQW0fGvos6z5NFOY"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 9",
+      "dueTime": "2023-07-18T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-14T05:55:26.235Z",
+    "updateTime": "2023-07-14T06:15:39.475Z",
+    "publicationTime": "2023-07-14T06:15:39.154Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 9 การจัดการทรานแซคชัน และการควบคุมภาวะพร้อมกัน"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1bZ6sRuKxoIxTGA5wljY4OZReoD_938PCPr_66tSMOGs/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 9",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/HBLUpJXlZe_NZTyIR0HT9_2yqfFw1MmSvsQaSEYzseQU6EH5FRNiuuxLRLlkOaoBVQG99OwZLJA\u003dw90-h90-p",
+        "editId": "1bZ6sRuKxoIxTGA5wljY4OZReoD_938PCPr_66tSMOGs"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 9",
+      "dueTime": "2023-07-15T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-23T00:18:02.428Z",
+    "updateTime": "2023-07-12T02:33:17.281Z",
+    "publicationTime": "2023-07-12T02:33:16.843Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1m0QnZ9Ed8m6oL5-wskxPkEl-YUXxDtitS0PJK4hUJm4/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 8",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/6lG4wRXnc5gWfeUrtE1VdWtVwBXcHQnEhI2I8G9NirSTSCK0v7jcKgicL92qvJqzdNQeLYYoMFQ\u003dw90-h90-p",
+        "editId": "1m0QnZ9Ed8m6oL5-wskxPkEl-YUXxDtitS0PJK4hUJm4"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 8",
+      "dueTime": "2023-07-14T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-05T02:31:57.730Z",
+    "updateTime": "2023-07-05T02:33:56.443Z",
+    "publicationTime": "2023-07-05T02:33:55.987Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1sCJHwHTWnsU30u-ecodG8JBOzRo2L2Ei",
+          "title": "Screenshot 2023-07-05 093318.png",
+          "alternateLink": "https://drive.google.com/file/d/1sCJHwHTWnsU30u-ecodG8JBOzRo2L2Ei/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM6jU-Qu1mgN2K7VU3Ha7bYHSus_5k4PucNwbJCBq3gb7CVl9Yi5DSuBuv3Xb4_Gkdfegk_a7nz2IEIQT-XeJh6O8b0b1GgEbN4plXRF0bzuxw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "นำเข้าไฟล์ Vehicle.sql",
+      "description": "นำเข้าไฟล์ Vehicle.sql แล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eนำเข้าไฟล์ Vehicle.sql แล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ\u003c/div\u003e",
+      "dueTime": "2023-07-06T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1CMIMEcWWzEcq5HLmx1eBEwB8SFI8XBTn",
+              "title": "0.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1CMIMEcWWzEcq5HLmx1eBEwB8SFI8XBTn/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOwyPA0vVSvrRV7oNBFWWueUAgjC0yFghtt949jS00KOs3b3KEDjXsIFgBQmDS-8t6MfCnhhOI3KH_MOf1757Bse9OA3u7QZVYqb9bf63AFRBA\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Lp69y8fvPFW4gl1MjoOrXBe6EM4svf8n",
+              "title": "Capture564.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1Lp69y8fvPFW4gl1MjoOrXBe6EM4svf8n/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNme9VUw0HYy3WocZNkxPW6iHcQiprqXKMIUmug9ZDf4LeqUrZxGNZBlICSpkpOUoBsV7gR99Sr2FS3Uk70nAvbX9GRh5cguq93vpWJG091UvM\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13NQlg8H4fhWXvrQfGh8ey1DaWQzSSbq_",
+              "title": "vehicle.png",
+              "alternateLink": "https://drive.google.com/file/d/13NQlg8H4fhWXvrQfGh8ey1DaWQzSSbq_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPnPxt_zZ834X0Uoxmo9g_NXSf5xAIvORXK0j3BZeKWSgy6CPMbJkYyCv6sZWTgQ5_fjvPNLLFg1EadpjmC2mZXUnsMLcng1I86zOHAX1NXMfA\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1S6eR32LQZXBcPZmQU7YAQ84nvEuVBUFV",
+              "title": "สกรีนช็อต 2023-07-11 200726.png",
+              "alternateLink": "https://drive.google.com/file/d/1S6eR32LQZXBcPZmQU7YAQ84nvEuVBUFV/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPOiA7Ac91opH1zUnEe1TsvM-QwdFCdJavEDBADKEO_N-SLGzkX1_XPFDkIK2oViyR7f-HwD1QnToY0MkX_hfsnRB9gVzGxY36f1H30pgYGj28\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xpzyW6TO-Vyq9eHEyCMwzLpECcF214ZK",
+              "title": "Screenshot 2023-07-05 103237.png",
+              "alternateLink": "https://drive.google.com/file/d/1xpzyW6TO-Vyq9eHEyCMwzLpECcF214ZK/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNiPD7E0MgVKssHJM7rQoWErJ4PfFFgyga4KMHjmUZS0sXzJyY1xgCvmD1SnhJiwU4wsEjrjzeR61Mb04cttdmudyg6tVBxlJ-6HY61z3rw_cE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-07-05T02:29:18.743Z",
+    "updateTime": "2023-07-05T02:31:16.481Z",
+    "publicationTime": "2023-07-05T02:31:16.185Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Q-Yf-MjJNwaSS4GSWxvWR73_Y6ILx53r",
+          "title": "vehicle.sql",
+          "alternateLink": "https://drive.google.com/file/d/1Q-Yf-MjJNwaSS4GSWxvWR73_Y6ILx53r/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ตาราง Vehicle",
+      "description": "Inner join\nSELECT student_data.student_id,name,v_type,registration FROM student_data,vehicle WHERE student_data.student_id\u003dvehicle.student_id\n\nleft joinSELECT student_data.student_id,name,v_type,registration FROM student_data left join vehicle on student_data.student_id\u003dvehicle.student_id\n\nright joinSELECT student_data.student_id,name,v_type,registration FROM student_data right join vehicle on student_data.student_id\u003dvehicle.student_id",
+      "descriptionHtml": "\u003cdiv\u003eInner join\u003cbr\u003eSELECT student_data.student_id,name,v_type,registration FROM student_data,vehicle WHERE student_data.student_id\u003dvehicle.student_id\u003cbr\u003e\u003cbr\u003eleft joinSELECT student_data.student_id,name,v_type,registration FROM student_data left join vehicle on student_data.student_id\u003dvehicle.student_id\u003cbr\u003e\u003cbr\u003eright joinSELECT student_data.student_id,name,v_type,registration FROM student_data right join vehicle on student_data.student_id\u003dvehicle.student_id\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-30T09:07:25.163Z",
+    "updateTime": "2023-06-30T09:08:35.663Z",
+    "publicationTime": "2023-06-30T09:08:35.598Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "11-Hir2bq5rqo35kNImFegUDJn_Ph7E2H",
+          "title": "Screenshot 2023-06-30 160642.png",
+          "alternateLink": "https://drive.google.com/file/d/11-Hir2bq5rqo35kNImFegUDJn_Ph7E2H/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPVTix-fGNAt7YwrLxwh4KXOzB6M3B05gXKYhv6CHsYeR2bX-qa_lWMFtm5aEUvChhtGmbQuT0NDPFoa8xzsBTXLXnzOyOhc4EifjetOdghlzQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "หาเอกลักษณ์ของตัวเองด้วยภาษา SQL",
+      "description": "หาเอกลักษณ์ของตัวเองด้วยภาษา SQL แล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eหาเอกลักษณ์ของตัวเองด้วยภาษา SQL แล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ\u003c/div\u003e",
+      "dueTime": "2023-07-04T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xPbuPaTFOykdcifhXgMJyLT6Noxa1-is",
+              "title": "Screenshot 2023-06-30 162400.png",
+              "alternateLink": "https://drive.google.com/file/d/1xPbuPaTFOykdcifhXgMJyLT6Noxa1-is/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOG93ZKGJB2gq8BZls6rA0SUYrZ5o-EkoqjFK8AHkL2uNrgt91l6kqoc2uio6pI7hRknG1wD1590pmJq5Cfd7I8oPdwWsVELlhjT1Qi9XmmzvM\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1rpvO5VCPJpYy-HBVrVJePxuNgKBbNbNl",
+              "title": "s.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1rpvO5VCPJpYy-HBVrVJePxuNgKBbNbNl/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMP6doMpEHzsjJdv3zWedTkBcmbgkeqOELTPEXwaGSlwI2LPoGWTLkTrV95Zbkbxuy5EX5lJg6j9UVZd3IqW3HgMZX74EkRpcRLr2yml0CaGqA\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1WFYQCIwL2J1N5KEjV2WxXYD1DqxgcRKV",
+              "title": "สกรีนช็อต 2023-06-30 161448.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1WFYQCIwL2J1N5KEjV2WxXYD1DqxgcRKV/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM6pX-A0VT_j5QJI0Zf5o4YysAWrgNFdTHmw2386Y_-9fE5CtWtapboyvTTSv_KNQjGbUATpJ3sJGqPj2LuXXeqrz2mknz2DMRL1fcRbCb_LNA\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "16WWMEYWMeMUog8RbmlcUZMmV_WuaV7vX",
+              "title": "Capture23.PNG",
+              "alternateLink": "https://drive.google.com/file/d/16WWMEYWMeMUog8RbmlcUZMmV_WuaV7vX/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPvp-CqCEN7_rb2gbuJxuSurrIzHUOUMfjWfw5w1UBHp4z53vJ890gjV6XrNqnVhK5qTGa8DLnfzMrmg-gxVuoaCaPfrZXvl6hz8aCdzQSDxfY\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1D5WYMwuuRuyIed0ay9rP6Pny6US2zufp",
+              "title": "Capture111.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1D5WYMwuuRuyIed0ay9rP6Pny6US2zufp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOqpnaPdVx3warz2NvQZpuZhkEiedC73TFEVp4usPbpPRCtdTuUGhF1m1gpA0OTnG21WQW9GRnoTsSEplWEt6_wbzuVHZRCVstxeTj7nBLl_1I\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ZweqVwYnfgsOO5Qo9JMcUYKxkGwFcZZz",
+              "title": "Annotation 2023-06-30 163131.png",
+              "alternateLink": "https://drive.google.com/file/d/1ZweqVwYnfgsOO5Qo9JMcUYKxkGwFcZZz/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMq3rNRojW3QAX4S4dlDUYiSzmm4FYVfEETt12k5_b_j4JEpCpieWMacySwgiRXduOqmXBF0B6HdNmgYXWvcfHhxI2EN9Y72KMwr6QQ3vf8SZk\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1HIB1ZIfDL-WrjLe5DrCXO1k9bv8GridK",
+              "title": "Screenshot 2023-06-30 162956.png",
+              "alternateLink": "https://drive.google.com/file/d/1HIB1ZIfDL-WrjLe5DrCXO1k9bv8GridK/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPaJw3o31n9xJnZhtzbl_8OpoTmkrSLD2OunaZZb3U4093LdPd8GJLI1ie_xHxevzvzQ_9xZ3HI5FmjdhwIcO7K3agARjaHkSPPs0BTid28Rlw\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1noY62PSm3YX-kE2RoVz8zUoE6Ypq0c2Y",
+              "title": "Screenshot 2023-06-30 162241.png",
+              "alternateLink": "https://drive.google.com/file/d/1noY62PSm3YX-kE2RoVz8zUoE6Ypq0c2Y/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPgsQ2GVMv0q5pEa-WIQtk21ouSQPea516Pt5QtBHcEkGucRFpnIz-yk54oTTtu9QQjpSsJnVz9QZfAANRRMZJQfLjB5pO0o7uPSin-OmmU94A\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1AwF8qJjCpfWLJHGHlm3ePyTLWukvGgfY",
+              "title": "2.png",
+              "alternateLink": "https://drive.google.com/file/d/1AwF8qJjCpfWLJHGHlm3ePyTLWukvGgfY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPzoPO3cXmCJXSi5xAiiue6x4dSAG13ZSudWlOUoCb81shDuM0VDzMcbvSi633O7BMxAL5pwLrva7NdXRSm5IFtTWHS6OohoqmT5CueyjpXLO4\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "14qiTP-5zomTWANF1hOQbwroMJtb0Xbb_",
+              "title": "งานหนึ่ง001.png",
+              "alternateLink": "https://drive.google.com/file/d/14qiTP-5zomTWANF1hOQbwroMJtb0Xbb_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM6sVunvtEk-7_gIoxpkdrJUoiWtbP23TYVNdmbOyIw57EtOOuD4QNlKemZC4DEA8ZnhawXxsWV8Ba0vm9j4I4aaML5MR6I_S2DHjkDsdDmjgM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-28T01:44:24.555Z",
+    "updateTime": "2023-06-30T08:09:01.128Z",
+    "publicationTime": "2023-06-28T01:44:39.375Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1xBFdmmsjrxd1FvmO1CDsHNzCBQgRnzB7",
+          "title": "20230628084256.xlsx",
+          "alternateLink": "https://drive.google.com/file/d/1xBFdmmsjrxd1FvmO1CDsHNzCBQgRnzB7/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOrkktY2TsQz7DDiJ0HCsuwD98QtSciLS_-P2PhGA1kPvhs3hqofelq2agDjnTwguC-5gcOUHF_T0-O5oJcyD1dL7AwHQmIwm6IjncvzHuPFcM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1gGn0NXBM2XZYhDUTG0ja5Ul59Ghpzh19",
+          "title": "sample.xlsx",
+          "alternateLink": "https://drive.google.com/file/d/1gGn0NXBM2XZYhDUTG0ja5Ul59Ghpzh19/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO04GkT7q5F1wpC9alCCVjLMHyVxLRzKEnBNEhZcwblfLOkxapzJPQjGv4h1kJcl_fgbh-zwi1BNBQT60SxJuLoE-kyPFto3FgzcRBMHVnCQNs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1inF6ekTa_7eBwFoAT1fQibu9seN7sNxM",
+          "title": "u99999999999.sql",
+          "alternateLink": "https://drive.google.com/file/d/1inF6ekTa_7eBwFoAT1fQibu9seN7sNxM/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ข้อมูล สทส. 1/2"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-23T08:59:37.184Z",
+    "updateTime": "2023-06-28T01:47:35.483Z",
+    "publicationTime": "2023-06-23T09:01:30.659Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+    }],
+    "courseWork": {
+      "title": "เพิ่มข้อมูลนักเรียนในตาราง Student",
+      "description": "เพิ่มข้อมูลนักเรียนในตาราง Student อย่างน้อย 10 ชื่อ (สมมุติข้อมูลเอง)\nแล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ",
+      "descriptionHtml": "\u003cdiv\u003eเพิ่มข้อมูลนักเรียนในตาราง Student อย่างน้อย 10 ชื่อ (สมมุติข้อมูลเอง)\u003cbr\u003eแล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ\u003c/div\u003e",
+      "dueTime": "2023-06-27T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1TxsFAx85XQ34LN6ioNYYHKYQ__QI-xD3",
+              "title": "PPapture.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1TxsFAx85XQ34LN6ioNYYHKYQ__QI-xD3/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPR-QxFf-J4mMvpK3aYztTNWBWQyPoT0WF2cn1bfXoYmGNfbO-MlsIZsFgQQ2RmNrhZhFoTM6uhfpcW9iQWLMLpY59crJtUKLDYGoXD8AazppE\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1CrT24DRZjK6SkYV2wDLxhxo3FMUFSy37",
+              "title": "DATA.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1CrT24DRZjK6SkYV2wDLxhxo3FMUFSy37/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP41IDN_Vbi7AdxupOwmeTNHVXWk7OB0DW9yFUw1j631tyRZlmmkZeKyCiEqJJDxuXKiqoBQ6SqWvB4JlIPw-uKi4q3t7gCIrgcieZlGRws1C0\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RC3lYzvIUEl4WUbrOexQjgFjZNst9ukL",
+              "title": "Capture11.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1RC3lYzvIUEl4WUbrOexQjgFjZNst9ukL/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPkYbY3LPEPBp-4ifkIOvwtI_KdS2k1KOZ98TjtKHhf53iJZkjgNw3bPY-VUUrRxidTr5em_w-Vzs00s0sMG1WJab1fr5CqRsdRq6shTCup3Bw\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1sRrn4vU_zqe4QwVIgtaamAM6MBfRDa4M",
+              "title": "Screenshot 2023-06-23 161538.png",
+              "alternateLink": "https://drive.google.com/file/d/1sRrn4vU_zqe4QwVIgtaamAM6MBfRDa4M/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPIKdi8FCRvPz75NadJ2Wi9vPgmlmK-NG1GsHW7x_X1lMmtOQ01z6_mH_pnY0-1suOo4_JCkeRYYwR6QYxBvEuwAVpjoYa18n4rS_suUJR_W9c\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BV4pAQytQ_ke3iV6jexzTW_l3t0AmarY",
+              "title": "Screenshot (21).png",
+              "alternateLink": "https://drive.google.com/file/d/1BV4pAQytQ_ke3iV6jexzTW_l3t0AmarY/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO28Tv2uux-sJcTY9n2Xa6MtiKJTezcjTX8CAxNUk6NNQI7412-YCESBSSOgBMc8AI9tM2qslmrrLT0H_NKJy7CMQnWS_-p_GDNAjpn59luXbM\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19AvQK-8Jof-S8Iyjd097MGcLNVK3N_eR",
+              "title": "Capturasde.PNG",
+              "alternateLink": "https://drive.google.com/file/d/19AvQK-8Jof-S8Iyjd097MGcLNVK3N_eR/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP9Ck7Z1-HM7D7CW2BZNc6xRIusqg-hrTsUi4e30ejvaW993droLM9yZdEGB6oxxjVqdk0vGVrDiuutkWN6MVjs7FrTNTinUV5piDr0jdGt27E\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1rkVwtPs2tsVorHdTLD1gXMn_sm3UVfkC",
+              "title": "Screenshot 2023-06-23 161110.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1rkVwtPs2tsVorHdTLD1gXMn_sm3UVfkC/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMfLE8E8rnR1yKKyMDAyWC6sxcM0lg-mCZoQ4ca_FXz86wanhaG1C-d6DhOxBdbceISpR_lQgU_e2syCzP4f82aMy6cvnnganMKa3FHMJqCUaU\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1U3dpTUsS6hOn9s1OC7QsdMPl5L3C103r",
+              "title": "Screenshot 2023-06-23 202617.png",
+              "alternateLink": "https://drive.google.com/file/d/1U3dpTUsS6hOn9s1OC7QsdMPl5L3C103r/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOT0d_Vc03_59cikjfrijH01-XgIUcZ9kLsrW3WcnKBbNK_rRNA9psthVTHm_rSVfQH_AfZil7Ct18JDv0y4-LI-FSZ32NBHj46_26LirTzHBA\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13E7a8fGLDkJmj_O-bSkWqlsjOp7k3Xni",
+              "title": "Annotation 2023-06-28 093649.png",
+              "alternateLink": "https://drive.google.com/file/d/13E7a8fGLDkJmj_O-bSkWqlsjOp7k3Xni/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPKf81Uo6rwGtaoKAVjbYoGcA0HuMxVRTsbHtaPbpfVtrpR5jtdhwIDvLhLQRyep--NvER0s-G3flt7_10UVbi7ZeO5l3NNT31I0SqebAlvTlM\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1FQ34nl-dC79Dl10CEcEJDTsfP0MX6RjF",
+              "title": "Screenshot 2023-06-23 160455.png",
+              "alternateLink": "https://drive.google.com/file/d/1FQ34nl-dC79Dl10CEcEJDTsfP0MX6RjF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPATgigm9phtqhdKUGJ1xOnie94IHNIJPA7kPtUhtCLS50E6JlL-PdTqFDYfs2WuO-3cs16P_yXfDUesPkFZRYu4qdgi93odma5P6TmcCNzRc\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1pGh_DsVuL14vBlySVXf--HI4n2A8UQOf",
+              "title": "1.png",
+              "alternateLink": "https://drive.google.com/file/d/1pGh_DsVuL14vBlySVXf--HI4n2A8UQOf/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNXxrZiHqFPB3ZQ5nWRPfPcvgObYhgvkXaRHmt4L5aa-YQYevV2SXjtlxv9503kMMY-XkILlTjRozrlE0Kt2g_sLpmRufOHAxhGRJmwVDJHAv4\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1oSYP1vTuNYe19xVYHYxGiqX77NE_azQG",
+              "title": "0144.png",
+              "alternateLink": "https://drive.google.com/file/d/1oSYP1vTuNYe19xVYHYxGiqX77NE_azQG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPg66j5aEBiI5riYXuE800HQNyzTigi0ZQRVBa6oHqfcrnWNvDsVqsZIEEUs7chUlcqVv71M_2P8Xks4T__N-O8c6I1z7gfVOqAMKfepVZrB9Q\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-23T07:46:40.894Z",
+    "updateTime": "2023-06-23T08:08:08.371Z",
+    "publicationTime": "2023-06-23T07:47:47.583Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-Antuk_CUEa6tDZIYB56AAyvhhLA1XHn",
+          "title": "Screenshot 2023-06-23 150326.png",
+          "alternateLink": "https://drive.google.com/file/d/1-Antuk_CUEa6tDZIYB56AAyvhhLA1XHn/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNqdSCDc2FMZvi0hSK8AiSUBLT8-qzvQFND6q76oEjaySwUU4cbmOIX0Kp8pelmrasus3F1lpmxzkY6j0dPr4uOVtwsxrkn8VOFiVTj1U7uUvI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้างตาราง Student ตามหน้า 180",
+      "description": "สร้างตาราง Student ตามหน้า 180 ด้วย phpMyadmin แล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ\n\nCREATE TABLE Student\n(StudentID Char(8) NOT NULL,\nName Char(120) NOT NULL,\nBirthday Date,\nClass Char(3) NOT NULL,\nAdvisor Char(120) NOT NULL,\nClub Char(120),\nCONSTRAINT Student_pk PRIMARY KEY (StudentID));",
+      "descriptionHtml": "\u003cdiv\u003eสร้างตาราง Student ตามหน้า 180 ด้วย phpMyadmin แล้วจับภาพหน้าจอส่งมาเป็นรูปภาพ\u003cbr\u003e\u003cbr\u003eCREATE TABLE Student\u003cbr\u003e(StudentID Char(8) NOT NULL,\u003cbr\u003eName Char(120) NOT NULL,\u003cbr\u003eBirthday Date,\u003cbr\u003eClass Char(3) NOT NULL,\u003cbr\u003eAdvisor Char(120) NOT NULL,\u003cbr\u003eClub Char(120),\u003cbr\u003eCONSTRAINT Student_pk PRIMARY KEY (StudentID));\u003c/div\u003e",
+      "dueTime": "2023-06-23T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "187ghkDjTCvwlu8e3XFEAML3aA1kUc_ua",
+              "title": "SQL.PNG",
+              "alternateLink": "https://drive.google.com/file/d/187ghkDjTCvwlu8e3XFEAML3aA1kUc_ua/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMk3jnvepi8MBQPQi5kdVagZUXt1zG8sLw2jXMX-ZFRbAJ7Rxuf_uuz_5PGGJFcr1cNXyNRYVoQtY1Rk2Sb9k2fb1CDH7_0KgMMIT2pCrKx2Yw\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1NejIUVHJta7m5DTB2jVJEjqguKPlnaeD",
+              "title": "Capture.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1NejIUVHJta7m5DTB2jVJEjqguKPlnaeD/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPS82__m0P0xJYqWJMsTVBXfhONG67d92c_3NdhNA8gGwN-nNHHwIejTW9ibbTy7SfqdEIOsNAnJq0abCgmNhZe9m0Fj4sR31AroWM8YwxaS50\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1O8NIpFEKGxXIsTUz4bMeG9fThd88tYRx",
+              "title": "Screenshot 2023-06-23 151418.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1O8NIpFEKGxXIsTUz4bMeG9fThd88tYRx/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOUA8uYhZsEwLQ3sYjKpn-b95O-LqDYoTHJkUcyNuG8wDoMHtkKAZ5l8rtjGvPHAnU-BndIYrEDtKKGoOOpMruyIKEzikpPVH2eB-NK-pSN7qU\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1rptk6ZRo3AbhROoToPIiaLK1iKhZiLa_",
+              "title": "Screenshot 2023-06-23 151123.png",
+              "alternateLink": "https://drive.google.com/file/d/1rptk6ZRo3AbhROoToPIiaLK1iKhZiLa_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOtylYw_BnYAaSEUyQBnNlJMZOERNIJpyuP_JK2fE0qtVMOzqysl2NfmMWVnDPT0_NhKnEsE2ogn6HJvanJkqN-RwcuGIQxq3UdFi8dj5E4N_s\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1IGXEYzv-D50-2ObYd6MTyMaRTthogp8T",
+              "title": "Capture.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1IGXEYzv-D50-2ObYd6MTyMaRTthogp8T/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMY8p0RHWjljWAGV3ndvbAWxIL8Gtkpd1whBt5g5XmzRJoiOmDf8dy-WR_xw9jD1An-KsL_sokgpDOzSV1Lywl05L3mGw5SoeFCeE3yLkp5FFg\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xw0Onn5hl9os9uP0z76H6b7ZG7XcE5Cc",
+              "title": "Screenshot (20).png",
+              "alternateLink": "https://drive.google.com/file/d/1xw0Onn5hl9os9uP0z76H6b7ZG7XcE5Cc/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN__AkVb0j-qW9aXewG_9DRKOm60SL_f-MGBIOLiH6KMeoFvzK_-sxAWLc5pj7hEcza59xCwGihQTQXiOSZ_w017xO4D3geG_cMdAT4Gw37jjQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1UkdXD9I6C2qjGnDpvxQmyqwfSWpM83qS",
+              "title": "Capture.JPG",
+              "alternateLink": "https://drive.google.com/file/d/1UkdXD9I6C2qjGnDpvxQmyqwfSWpM83qS/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOt_up7GRQw0ocfdxVjUAVaP0aotgdv9nbMvA1CR1fYCwWoQ0eqq_n7D7pP8Hi3kdWy4fE3gRmCH57za_IFhazxvvHjaaczOybBGQbmOJ_3WjQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1v2aOv2_qhnPglNzVGCZJdDBI-yJEPQU1",
+              "title": "Annotation 2023-06-23 151305.png",
+              "alternateLink": "https://drive.google.com/file/d/1v2aOv2_qhnPglNzVGCZJdDBI-yJEPQU1/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP6hdtekGWcos7KpQ_UX9B0sSHvbVycYr8mZzhyqRw_tYnyAuVCcer-b2-T8itpNaTbY87vU_8_9seD3uRdMGqFoqUhUWMuAXrM-zVHelQ686k\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1E0F1zD7obf7FrRPyOlAAbwdCZ_P2K8QA",
+              "title": "Screenshot 2023-06-23 150939.png",
+              "alternateLink": "https://drive.google.com/file/d/1E0F1zD7obf7FrRPyOlAAbwdCZ_P2K8QA/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNtiysQ1c8RyCvXuSMokFplhztHf-qe6xtz1v79WRlBR-nAAiAnyUN4RRu78WEfDpaWDXWRLjVE69omaRosjH4Mc4xEQRMLP_k6KgEbS9XsYfM\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xki4B_P-tD0PDEzRwayl7ztEVeMvQdrx",
+              "title": "Capture.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1xki4B_P-tD0PDEzRwayl7ztEVeMvQdrx/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM-B6KAAMHG4ra8sg7QfwbjDksx9dHAq0EAS02zjuOfFkQZpvjhr4DN6L7KFfIMpv-dW06DN84sh7mQ3xZWOgU7xoYMnq9mElF5omDxEUav69E\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "10oPMNMVuza2PyM5lIY7nR_SlK15AsN2l",
+              "title": "Screenshot 2023-06-23 151645.png",
+              "alternateLink": "https://drive.google.com/file/d/10oPMNMVuza2PyM5lIY7nR_SlK15AsN2l/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP0iNB6yDQHMclxvXSbZY_ieRHhkrNKfDLS9d-RqA6RHurp9vH5NBh1Kag_Gbzp-PtZK5p75dzERhk8B74x7h7emoWf7-brcWMRQgkXszQaAXM\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gCtqI3OezD-mNwhueaet2VAtBPOAT2ZR",
+              "title": "nueng2023-06-23 151156.png",
+              "alternateLink": "https://drive.google.com/file/d/1gCtqI3OezD-mNwhueaet2VAtBPOAT2ZR/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP_ByL0gFcslSG5UoleLY189bOPzeOgLEe9guW8ytqDNvw8n0N_F5RGlf4Ad9qKWUshq5FONwM3EkIzmDpOARaVZlC-Vd-IqjUjRjsiXvS_4CQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-22T23:42:28.794Z",
+    "updateTime": "2023-06-23T05:02:00.431Z",
+    "scheduledTime": "2023-06-23T05:00:00Z",
+    "publicationTime": "2023-06-23T05:02:00.397Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/13XJ-GYCDxiPWPYF1KqxWRcSTHW7TqQa23UZX_fOvPDQ/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 8",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/EdkG94S3zIRRtqA9h2EdAC_0R3qQ4pO5EnWBuANHRdMhmW0a8n3rfmCRmAWvA0kXKueRA7aNms4\u003dw90-h90-p",
+        "editId": "13XJ-GYCDxiPWPYF1KqxWRcSTHW7TqQa23UZX_fOvPDQ"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 8",
+      "dueTime": "2023-06-24T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-20T23:28:08.431Z",
+    "updateTime": "2023-06-21T02:26:49.192Z",
+    "publicationTime": "2023-06-21T02:26:22.031Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 การปรับบรรทัดฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1NXsMQJCBYLCU94MpBL151TbS0DPC83KcHGu4RDnRQ_M/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 7",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/5RH-pO0ZbchpN7Z5LeIyuOrCQC5W-m_CKOrwvtk2nX26evslVVjDQLTnKq0z1e5xT4o92QWtDWo\u003dw90-h90-p",
+        "editId": "1NXsMQJCBYLCU94MpBL151TbS0DPC83KcHGu4RDnRQ_M"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 7",
+      "dueTime": "2023-06-23T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-20T23:52:29.012Z",
+    "updateTime": "2023-06-20T23:53:13.645Z",
+    "publicationTime": "2023-06-20T23:52:41.758Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 การปรับบรรทัดฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1Oh2oMqTT7K0PFCYtJvJEI1Qiay2etRY83-V60TWJbis/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 7",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/ku9Vu-svbVnSNet8x5PInywtMddfXNF3n3XiAw_BMoxoikNxGuWP9z0hUF-UtE9mKK5XIuBfa7M\u003dw90-h90-p",
+        "editId": "1Oh2oMqTT7K0PFCYtJvJEI1Qiay2etRY83-V60TWJbis"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 7",
+      "dueTime": "2023-06-22T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-14T00:35:29.035Z",
+    "updateTime": "2023-06-16T07:33:26.450Z",
+    "publicationTime": "2023-06-16T07:33:26.264Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การออกแบบฐานข้อมูลด้วยแผนภาพ E-R"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1eZAjPXCujkBafqbVF0V64o7e9VraUVRqSDQugSCH5jI/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 6",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/hwPBa-CcsNe9u97T85fw--B6rUqCtXwapWoqg-KowmxEafCTFghnBN7oSBFOG-Uqh5wUegxFA0Q\u003dw90-h90-p",
+        "editId": "1eZAjPXCujkBafqbVF0V64o7e9VraUVRqSDQugSCH5jI"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 6",
+      "dueTime": "2023-06-20T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-14T00:15:23.169Z",
+    "updateTime": "2023-06-14T01:51:17.256Z",
+    "scheduledTime": "2023-06-14T01:00:00Z",
+    "publicationTime": "2023-06-14T01:00:07.192Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การออกแบบฐานข้อมูลด้วยแผนภาพ E-R"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1kiymCb3OeUrmUXY_Cp7P5oG7n6X_Vuw4rc4zE-5-mrU/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 6",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/NkRwXB8Y9Y7N9KIhe3JY3MPTnzWJatfJhbeLZSk2A5Vumn6kQH4R2YWkjJAGo5z9XHG84CR7WNE\u003dw90-h90-p",
+        "editId": "1kiymCb3OeUrmUXY_Cp7P5oG7n6X_Vuw4rc4zE-5-mrU"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 6",
+      "dueTime": "2023-06-15T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-09T00:18:43.991Z",
+    "updateTime": "2023-06-09T07:45:03.777Z",
+    "publicationTime": "2023-06-09T07:45:03.732Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 พีชคณิตเชิงสัมพันธ์"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1lA2rckFUsvB92UONIucy8p7Ua2C61eX1CeZ_RX_DXhQ/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/jF2BF6XG3oeakuaXDAxIUPRxDZAuyAoH7PhZPbAd4A9UpaOdAbkuuH3jHcWDO-NRmjZkD8rEzXI\u003dw90-h90-p",
+        "editId": "1lA2rckFUsvB92UONIucy8p7Ua2C61eX1CeZ_RX_DXhQ"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+      "dueTime": "2023-06-13T16:59:00Z",
+      "maxPoints": 9.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-08T23:52:41.092Z",
+    "updateTime": "2023-06-09T05:03:16.991Z",
+    "scheduledTime": "2023-06-09T05:00:00Z",
+    "publicationTime": "2023-06-09T05:03:16.772Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 พีชคณิตเชิงสัมพันธ์"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1dQK4gKGFucTbSJJI9Ol091rG8uyclcv041NiWfFlQ5w/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/c9WTNGbzBnUV3pXo-JrTv4xMNT7d0YIN5h1X1E2DPtdhoRyrSD5gTp_CoHlKiZ8z5vbGQwv21vY\u003dw90-h90-p",
+        "editId": "1dQK4gKGFucTbSJJI9Ol091rG8uyclcv041NiWfFlQ5w"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+      "maxPoints": 9.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-06T23:43:45.797Z",
+    "updateTime": "2023-06-07T02:42:20.353Z",
+    "publicationTime": "2023-06-07T02:42:20.014Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 แบบจำลองฐานข้อมูลเชิงสัมพันธ์"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/11kwSHVShgY2E33nWOfrotvw_tFPJBeB2YGuVlihU56Y/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/HO12ACb0pou3YJPyAGt6J-pMHy6E25kwgpKs597HJdfbtfH3cUQi_toDvUDJ5lFs0ve0pQ34UtE\u003dw90-h90-p",
+        "editId": "11kwSHVShgY2E33nWOfrotvw_tFPJBeB2YGuVlihU56Y"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+      "dueTime": "2023-06-13T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-06-06T23:10:23.377Z",
+    "updateTime": "2023-06-07T01:00:53.393Z",
+    "scheduledTime": "2023-06-07T01:00:00Z",
+    "publicationTime": "2023-06-07T01:00:53.353Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 แบบจำลองฐานข้อมูลเชิงสัมพันธ์"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/173metBcwHnAtchMgZKPFDWzY9XzuC-K98E-TXG88lbQ/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/a-Jrxu5oMZBXzz4VTcNRQIjoKVy0HXQVtofC3prGtkJZwV1qz-N4I9rePEg6XLKjnY8YJdVFg8w\u003dw90-h90-p",
+        "editId": "173metBcwHnAtchMgZKPFDWzY9XzuC-K98E-TXG88lbQ"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+      "dueTime": "2023-06-14T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-31T01:45:51.749Z",
+    "updateTime": "2023-06-02T08:10:23.578Z",
+    "publicationTime": "2023-06-02T08:10:23.535Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 แบบจำลองฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1SZNwGZ339KUNT7pFFfP-BmGr-ijtjmeLJ9kXQZw9w80/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/4H0RpATodynyu13cKa5X1wbLvVsycxZ0HmUDyyJNGEdDNLZAGNAMw0_AzcjU51XReCPv5rT3d_s\u003dw90-h90-p",
+        "editId": "1SZNwGZ339KUNT7pFFfP-BmGr-ijtjmeLJ9kXQZw9w80"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+      "dueTime": "2023-06-06T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-31T01:05:48.436Z",
+    "updateTime": "2023-05-31T01:45:27.824Z",
+    "publicationTime": "2023-05-31T01:45:27.379Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 แบบจำลองฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1nU7F57g_nC-RvLUTpjIrI0WOF6dein9B30sO_YzNTwQ/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/t8VapJlxj1FjEBjOOi21QcoxW7xF2Mt3GshTJNuC3K2zW4vdIiXVO2oOe4NUDR6nv2etXziXF7w\u003dw90-h90-p",
+        "editId": "1nU7F57g_nC-RvLUTpjIrI0WOF6dein9B30sO_YzNTwQ"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+      "dueTime": "2023-06-02T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 0.0,
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-26T06:24:30.587Z",
+    "updateTime": "2023-05-26T07:44:05.802Z",
+    "publicationTime": "2023-05-26T07:44:05.606Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบบริหารจัดการฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1LHlWLpeY07Eh6ZClVaS9oDvDWG-EbxAON9j50FeVLg0/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/Hk-VZxdX33-8OmD2aylTX5ekNMqkAnI0l_QOKtDrGsBj-gVLlViOQHF_3jmD3r2l90Xv4xdkExQ\u003dw90-h90-p",
+        "editId": "1LHlWLpeY07Eh6ZClVaS9oDvDWG-EbxAON9j50FeVLg0"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+      "dueTime": "2023-05-30T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-26T05:59:03.798Z",
+    "updateTime": "2023-05-26T06:34:32.352Z",
+    "scheduledTime": "2023-05-26T06:30:00Z",
+    "publicationTime": "2023-05-26T06:34:32.013Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบบริหารจัดการฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1w-7YN_UvYX_812vopV3kyO6cbW0gIujeUhJgVLGILAo/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/nE6TlnIfCWxTHi7tHPhXLEjwBCmmJUfPk9e2MR_rlJNvqkskVTmv2e5Yl3KJO-ppaMB5EVwvwZI\u003dw90-h90-p",
+        "editId": "1w-7YN_UvYX_812vopV3kyO6cbW0gIujeUhJgVLGILAo"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+      "dueTime": "2023-05-30T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T05:09:14.510Z",
+    "updateTime": "2023-05-19T11:04:26.134Z",
+    "scheduledTime": "2023-05-19T11:00:00Z",
+    "publicationTime": "2023-05-19T11:04:25.912Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 ความรู้เบื้องต้นเกี่ยวกับฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1TL5SczgaEX_bnldPJjA45W8XR-09IQIxsPvNG0Gu9L8/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/SOOcwr286MmIGc_e8tnadviyvMaVoWCkauWIrJjjouNMEdG-2rfAbwtG5AKRUjjGlISO_muVlrQ\u003dw90-h90-p",
+        "editId": "1TL5SczgaEX_bnldPJjA45W8XR-09IQIxsPvNG0Gu9L8"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+      "dueTime": "2023-05-23T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:39:08.705Z",
+    "updateTime": "2023-05-19T06:01:21.143Z",
+    "scheduledTime": "2023-05-19T06:00:00Z",
+    "publicationTime": "2023-05-19T06:01:20.960Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 ความรู้เบื้องต้นเกี่ยวกับฐานข้อมูล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/16Y9x5_fp0p3dfWfeFps3tIx29qIuFmjU05dUSY-5FlA/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/potCJXTiTHthNh4W6eaIkRXdVC3-TehbBSp4nB6IN7sxeQL64s4fFzgFkt8xMmODMxvJnBg3fxA\u003dw90-h90-p",
+        "editId": "16Y9x5_fp0p3dfWfeFps3tIx29qIuFmjU05dUSY-5FlA"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "dueTime": "2023-05-23T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วุฒิสิทธิ์ คำภา"
+            },
+            "emailAddress": "66309010009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จีรพันธ์ บุญอ่อน"
+            },
+            "emailAddress": "66309010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+            },
+            "emailAddress": "66309010001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐภัทร กำแก้ว"
+            },
+            "emailAddress": "66309010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐนนท์ มาตขาว"
+            },
+            "emailAddress": "66309010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธานัท อนุนิวัฒน์"
+            },
+            "emailAddress": "66309010006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+            },
+            "emailAddress": "66309010005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นาวิน ศุภฤกษ์"
+            },
+            "emailAddress": "66309010007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+            },
+            "emailAddress": "66309010011@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิทธิพล เอกวงษา"
+            },
+            "emailAddress": "66309010013@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "อิศราพงษ์ ไชยสงคราม"
+            },
+            "emailAddress": "66309010014@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พีรพัฒน์ สอนลิลา"
+            },
+            "emailAddress": "66309010015@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:37:04.820Z",
+    "updateTime": "2023-05-19T04:37:15.721Z",
+    "publicationTime": "2023-05-19T04:37:15.567Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 10 ความปลอดภัยของฐานข้อมูล"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1MyqdZH52fdwnO_s4ccD9rUH9Wd2VFhxG",
+          "title": "charpter10.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1MyqdZH52fdwnO_s4ccD9rUH9Wd2VFhxG/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMVAKQ2Ee9obx5uPMyg--j-Z_pnxlFjgT2UaZNxcJ-WARwT1KcCEJ7O1vFFvMn43uuzzzO0_xvT3wO7zqg6FqZFPGDp85rxH-JksQDQKEJaKzA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ความปลอดภัยของฐานข้อมูล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:36:22.920Z",
+    "updateTime": "2023-05-19T04:36:40.361Z",
+    "publicationTime": "2023-05-19T04:36:40.178Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 9 การจัดการทรานแซคชัน และการควบคุมภาวะพร้อมกัน"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1sLWWEZWiueUIZNBAZ-i-3uQx0zYyv5Zv",
+          "title": "charpter9.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1sLWWEZWiueUIZNBAZ-i-3uQx0zYyv5Zv/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMLJ3o2kqVQTw-ZiK40OoDp08b9ECSm3PzkzGZJ8FgCb6Q3sUWdMqtKc2Ic6G4K--y6nY7GOtnOIrNNQCAhV6W99m0mLtIzT7C6ZU_tstDkCp8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การจัดการทรานแซคชัน และการควบคุมภาวะพร้อมกัน"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:35:35.001Z",
+    "updateTime": "2023-05-19T04:36:06.481Z",
+    "publicationTime": "2023-05-19T04:35:45.266Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 ภาษาสอบถามเชิงโครงสร้าง"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1rRNPKltxFluV73wqmjzvKqcDEyTeTsuC",
+          "title": "charpter8.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1rRNPKltxFluV73wqmjzvKqcDEyTeTsuC/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM3tX4MSDsob1-dJMMnkVHX8BWDNGlTeth_w5ZyMU9j-QN03RIIv4dfIT_c4gOQsmge5ytg9FrxjhiSI-YGtTRDYFYJzQJYTy4WXzmr5m8S9oM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ภาษาสอบถามเชิงโครงสร้าง"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:34:56.946Z",
+    "updateTime": "2023-05-19T04:35:13.864Z",
+    "publicationTime": "2023-05-19T04:35:13.828Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 การปรับบรรทัดฐานข้อมูล"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1OxilWsZT_NYDtnRu0uvm6-d_gu9axM0J",
+          "title": "charpter7.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1OxilWsZT_NYDtnRu0uvm6-d_gu9axM0J/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOrRV4UWpxw-Tstlfk7zO2qHmusBAhYlXdn1dgJN3QZXsSg5RRYUl38vL-I4qVpeAe40mW6a83U3NE6oxKgRDritPEp25XE4sW_LSi8HazryV8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การปรับบรรทัดฐานข้อมูล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:34:24.581Z",
+    "updateTime": "2023-06-14T00:14:57.952Z",
+    "publicationTime": "2023-05-19T04:34:32.769Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การออกแบบฐานข้อมูลด้วยแผนภาพ E-R"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1UcexpELbekl-sfwiPEDoo-1Gg27D1nkI",
+          "title": "charpter6.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1UcexpELbekl-sfwiPEDoo-1Gg27D1nkI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOVKv0LIHRlFDMlhqCDvIpSPj9gitd_kMjsm4VdkwjP9adElgHBe_8bI79ZJ0WjAwE_rJoW1ts3owkoBeU2RuoUzpD90Ca9L6IWLGZdPWKwl4E\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การออกแบบฐานข้อมูลด้วยแผนภาพ E-R"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:33:32.639Z",
+    "updateTime": "2023-05-19T04:34:11.617Z",
+    "publicationTime": "2023-05-19T04:33:48.021Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 พีชคณิตเชิงสัมพันธ์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1qE01C4vpElH8oMcUdXKoTOFTL8t1UKMZ",
+          "title": "charpter5.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1qE01C4vpElH8oMcUdXKoTOFTL8t1UKMZ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOhMEXXK9yNPcJyTKplytrfdesxplX4sD47B4pKQJ5ZJvMGWHoEiBQK-rCpYwxy7doqeiFJKFZKSX0vchtyr-1A4uasqrgxaSma3cbDK8JdU9w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "พีชคณิตเชิงสัมพันธ์"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:31:22.224Z",
+    "updateTime": "2023-05-19T04:31:50.379Z",
+    "publicationTime": "2023-05-19T04:31:50.342Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 แบบจำลองฐานข้อมูลเชิงสัมพันธ์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1VL75u6cn4qrusP8Fop5WTXvuM4j5c7Tg",
+          "title": "charpter4.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1VL75u6cn4qrusP8Fop5WTXvuM4j5c7Tg/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMYBaAwdPiwhKdS8aMvI1KOkn-PIvu8zdABmWJJn_GwhO5G_URpwH3i_OudQ9tZASRfRomqD4fGYnvVbQoI3yZAvVvkLD9fsELk7YSXeEatdXw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "แบบจำลองฐานข้อมูลเชิงสัมพันธ์ "
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:30:28.184Z",
+    "updateTime": "2023-05-19T04:30:56.569Z",
+    "publicationTime": "2023-05-19T04:30:56.533Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 แบบจำลองฐานข้อมูล"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1lLxbTJrtNZLeVM0S1R4_cyfHBAR0Kkwk",
+          "title": "charpter3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1lLxbTJrtNZLeVM0S1R4_cyfHBAR0Kkwk/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMuXY4bNsa1AFZ9iOjYmLuN-TfNvpbaKNdE26VZE-0H22y5PPtQ94nNoYgugTUK6lmhwK9XQangIwy2lsjn0BylLjVN_0jDnFqs_BIf68e3C1Q\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "แบบจำลองฐานข้อมูล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:29:48.062Z",
+    "updateTime": "2023-05-19T04:30:10.821Z",
+    "publicationTime": "2023-05-19T04:29:55.554Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบบริหารจัดการฐานข้อมูล"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1H4Ep0-O--exhxRgnyFop8w4AzK_9iWmO",
+          "title": "charpter2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1H4Ep0-O--exhxRgnyFop8w4AzK_9iWmO/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN26bXTOOnCsekxjsdL7IqHoHvH0us0exczFRjDnFm8hkfAkywcfkc2Of0BgYQN5kFic6P7GImTlvYP0-woKrAR2fsA4HhTcwNLyzcAsaHBUO0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ระบบบริหารจัดการฐานข้อมูล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:28:57.433Z",
+    "updateTime": "2023-05-19T04:29:28.638Z",
+    "publicationTime": "2023-05-19T04:29:28.388Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 ความรู้เบื้องต้นเกี่ยวกับฐานข้อมูล"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1kdBzF9h4HOwMl-v6vEV6QRw73irv8r9t",
+          "title": "charpter1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1kdBzF9h4HOwMl-v6vEV6QRw73irv8r9t/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNhoSdM0FcibefNnY8-UgQFjpkVkkUmbnW1Wjzhk5W1rsYhdPd_hVzJXfQxWDKxynaZUbzV8FwEMtUals9poWm32sxwO1BQHNwAhW0gQP-ozj8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ความรู้เบื้องต้นเกี่ยวกับฐานข้อมูล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T04:10:50.198Z",
+    "updateTime": "2023-05-19T04:11:12.672Z",
+    "publicationTime": "2023-05-19T04:11:12.444Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตร"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "18mkYP99LizkyyFtKmmKGkaTC6mnd3-XD",
+          "title": "30901-1003.pdf",
+          "alternateLink": "https://drive.google.com/file/d/18mkYP99LizkyyFtKmmKGkaTC6mnd3-XD/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNw88EnlY5w7ZeAUgoTqyzIhrOO-CDKhSBfQAWqYXi4Hz7B8wxRPc7fpwnFEoVeHFDcqErg1gcr1i7vbYuzjLASex5U_UytJ54xfoXxLtOGjYs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำอธิบายรายวิชา"
+    }
+  }]
+}

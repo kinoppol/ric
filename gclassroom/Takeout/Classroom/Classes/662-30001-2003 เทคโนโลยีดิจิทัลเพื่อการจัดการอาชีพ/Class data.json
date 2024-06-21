@@ -1,0 +1,2263 @@
+{
+  "version": 1,
+  "name": "662-30001-2003 เทคโนโลยีดิจิทัลเพื่อการจัดการอาชีพ",
+  "section": "สกต. 1/5 MN",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom4fa176e7@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1CBSURo44i-8AUOkMOj6RdeC_NTOU52a6Z2b3-5yhsOd6smG4adiLZIL4VxUW-NdxPzkM7lOv",
+    "name": "662-30001-2003 เทคโนโลยีสารสนเทศเพื่อการจัดการอาชีพ",
+    "openUrl": "https://drive.google.com/drive/folders/1CBSURo44i-8AUOkMOj6RdeC_NTOU52a6Z2b3-5yhsOd6smG4adiLZIL4VxUW-NdxPzkM7lOv"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Honors.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นางดวงใจ สมภักดี"
+      },
+      "emailAddress": "kruduang2565@gmail.com"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "อัญชลี โยกันยา"
+      },
+      "emailAddress": "66302020084@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+      },
+      "emailAddress": "66302020079@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ณัฐพัชร อินทมาตย์"
+      },
+      "emailAddress": "66302020073@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ศักดิ์นรินทร์ ศรีสมบูรณ์"
+      },
+      "emailAddress": "66302020068@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "สุดารัตน์ ศรีระศาสตร์"
+      },
+      "emailAddress": "66302020062@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ธนธรณ์ ดรบุรมย์"
+      },
+      "emailAddress": "66302020065@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "สาวิตรี โมดศิริ"
+      },
+      "emailAddress": "66302020061@rvc.ac.th"
+    }
+  }],
+  "invitations": [{
+    "profile": {
+      "name": {
+        "fullName": "ปองกานต์ บำมิลา"
+      },
+      "emailAddress": "66302020083@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ธนัชญา ประเสริฐชาติ"
+      },
+      "emailAddress": "66302020082@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ปาณิสรา สัมพันธ์"
+      },
+      "emailAddress": "66302020077@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ปิยมาศ พันธัง"
+      },
+      "emailAddress": "66302020078@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ภวิตรา มาติ"
+      },
+      "emailAddress": "66302020080@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ฑิฆายุ จันทะคุณ"
+      },
+      "emailAddress": "66302020071@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นฤมล บุตรใส"
+      },
+      "emailAddress": "66302020075@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ณัฐธิดา ญาตินิยม"
+      },
+      "emailAddress": "66302020072@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ณัฐวุฒิ เขจรลาภ"
+      },
+      "emailAddress": "66302020074@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "จินตนา บุญสีทุม"
+      },
+      "emailAddress": "66302020069@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ฐิติรัตน์ เสริฐสำราญ"
+      },
+      "emailAddress": "66302020070@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อาทิตยา แวงวรรณ"
+      },
+      "emailAddress": "66302020067@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "สุรศักดิ์ อินทอง"
+      },
+      "emailAddress": "66302020066@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อภิชญา มาจันแดง"
+      },
+      "emailAddress": "66302020063@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "วริศรา สุดหล้า"
+      },
+      "emailAddress": "66302020059@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "กรรภิรมย์ บุตรชอบ"
+      },
+      "emailAddress": "66302020054@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "รัตนา อุปลา"
+      },
+      "emailAddress": "66302020060@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "กัลยา เทียมหินตั้ง"
+      },
+      "emailAddress": "66302020055@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "มินตรา พิมพ์ศักดิ์"
+      },
+      "emailAddress": "66302020058@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }],
+  "topics": [{
+    "name": "หน่วยที่ 1 การจัดการข้อมูลขนาดใหญ่ (Big Data)"
+  }, {
+    "name": "หน่วยที่ 2 การใช้เครื่องมือวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence)"
+  }, {
+    "name": "หน่วยที่ 3 อินเทอร์เน็ตทุกสรรพสิ่ง Internet of Things"
+  }, {
+    "name": "หน่วยที่ 4 การทำธุรกรรมโดยไม่ต้องผ่านบุคคลที่สาม (Blockchain)"
+  }, {
+    "name": "หน่วยที่ 5 ธุรกรรมการเงินดิจิตอล (Fintech)"
+  }, {
+    "name": "หน่วยที่ 6 สกุลเงินดิจิทัล (Cryptocurrency)"
+  }, {
+    "name": "หน่วยที่ 7 การทําธุรกิจดิจิทัลบนสื่อสังคมออนไลน์ (Online Business)"
+  }, {
+    "name": "หน่วยที่ 8 เทคโนโลยีดิจิทัลในอาชีพของการเป็นพลเมืองยุคดิจิทัล (Digital Citizenship)"
+  }, {
+    "name": "หลักสูตร"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:32:05.616Z",
+    "updateTime": "2024-02-06T04:24:39.809Z",
+    "publicationTime": "2024-02-06T04:24:39.587Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 เทคโนโลยีดิจิทัลในอาชีพของการเป็นพลเมืองยุคดิจิทัล (Digital Citizenship)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1sYNJboYheu4KKJSoE72eBDubh4TGio8A0issMLKEyT4/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 8",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/_h67HQj05k6axNbAy9Eohnwh3toz1w7hWAXXmOO4lHsv19J2Dj6nNDd1d3_kg1jWg3Ibo9v7nnQ\u003dw90-h90-p",
+        "editId": "1sYNJboYheu4KKJSoE72eBDubh4TGio8A0issMLKEyT4"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 8",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:29:54.728Z",
+    "updateTime": "2024-02-06T04:24:24.130Z",
+    "publicationTime": "2024-02-06T04:24:23.967Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 การทําธุรกิจดิจิทัลบนสื่อสังคมออนไลน์ (Online Business)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1sydgdiMnXovW2Rl9BAySaSjQLW7b00bPKmyC58oZ_5E/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 7",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/NultMA-xVwRBUwrg9HMzRDOblRLGNLG052P1yFPDh-N5Sf-zWL8TgNAytNmcf-nPVGtUMopbNSM\u003dw90-h90-p",
+        "editId": "1sydgdiMnXovW2Rl9BAySaSjQLW7b00bPKmyC58oZ_5E"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 7",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:37:09.372Z",
+    "updateTime": "2024-02-06T04:24:17.499Z",
+    "publicationTime": "2024-02-06T04:24:17.205Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 สกุลเงินดิจิทัล (Cryptocurrency)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/10sFeGmXePfLLHMpXBS5JsVqdIGaz0KaTKd3jfZi55go/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 6",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/mP34WNOxEHi7EWb6iHyvO3xyEFs5CRRzAZWfQCoI9kbPJM88uXqj5fzaQv5MA-lD4ieMWGYLh4E\u003dw90-h90-p",
+        "editId": "10sFeGmXePfLLHMpXBS5JsVqdIGaz0KaTKd3jfZi55go"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 6",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:41:34.712Z",
+    "updateTime": "2024-02-06T04:24:09.138Z",
+    "publicationTime": "2024-02-06T04:24:08.911Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 ธุรกรรมการเงินดิจิตอล (Fintech)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1FdnSHzI3MdBiQ-K-C11Nn5JsSc3eUkQgqTIUHe9QX7k/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/dH9lnKSSd0m2JqNe7EufPGAf1PkGRJKDD8OeP6FLeD7M4g5vtuWR5bZxf2VZ_ZpI0nxGdRlvGc0\u003dw90-h90-p",
+        "editId": "1FdnSHzI3MdBiQ-K-C11Nn5JsSc3eUkQgqTIUHe9QX7k"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:40:56.668Z",
+    "updateTime": "2024-02-06T04:24:01.759Z",
+    "publicationTime": "2024-02-06T04:24:01.459Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การทำธุรกรรมโดยไม่ต้องผ่านบุคคลที่สาม (Blockchain)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1kNSsZtxM4zJN2cZ1ugOSpcA7FdDFKjA3xxCKjLKRpjw/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/1n8FlV_RybIS1vTU7Y7viJSbd810fGmctH_UugH3lGyvG0memQFZbFrBOmH_62_hd-KdXoPksYw\u003dw90-h90-p",
+        "editId": "1kNSsZtxM4zJN2cZ1ugOSpcA7FdDFKjA3xxCKjLKRpjw"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนหลังหน่วยที่ 4",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:40:19.288Z",
+    "updateTime": "2024-02-06T04:23:51.782Z",
+    "publicationTime": "2024-02-06T04:23:51.558Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 อินเทอร์เน็ตทุกสรรพสิ่ง Internet of Things"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1Xs-LqK5kxLyfGJNsYszsbNic2vTRiyhPOW6kITsjk08/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/oLu4zolILSfcC0I16ciqiiqpWHz7lr6cXD1VJRAHpoWh-JW_uwF9WbuEzg-RVy7JCx5zwrhuQf4\u003dw90-h90-p",
+        "editId": "1Xs-LqK5kxLyfGJNsYszsbNic2vTRiyhPOW6kITsjk08"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:39:49.087Z",
+    "updateTime": "2024-02-06T04:23:41.832Z",
+    "publicationTime": "2024-02-06T04:23:41.611Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การใช้เครื่องมือวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1-3kJGZwAjwn8g8fSfb1beNIMU0uaPOw84dgYocNhZhc/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/sYud8XpN_964n8jZcqMvB_s1LbdAs-cHFxzTKjvGSq6M3l9yXExDR07PERo03VcP5gguj8p3ego\u003dw90-h90-p",
+        "editId": "1-3kJGZwAjwn8g8fSfb1beNIMU0uaPOw84dgYocNhZhc"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:07:41.395Z",
+    "updateTime": "2024-02-06T04:23:31.780Z",
+    "publicationTime": "2024-02-06T04:23:31.474Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การจัดการข้อมูลขนาดใหญ่ (Big Data)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/12o2UlQO9m16-DpnE2jFIZtgujQmEaYZcN6E54gFKVhk/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/yb__6zRbc9V7SfzSIqLLVqoBWH7CIzzV8naoR_7GO86rYYor5BN7qcEsdDqOVb22P2pVcH82eQc\u003dw90-h90-p",
+        "editId": "12o2UlQO9m16-DpnE2jFIZtgujQmEaYZcN6E54gFKVhk"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:30:46.207Z",
+    "updateTime": "2023-10-16T12:38:25.165Z",
+    "publicationTime": "2023-10-16T12:30:53.854Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 เทคโนโลยีดิจิทัลในอาชีพของการเป็นพลเมืองยุคดิจิทัล (Digital Citizenship)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/13WOAZicCuLmFeJi-gmfzhkUfx42kyJn0rzXjC7fPbek/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 8",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/VYeNSxkTbdn0f5410_vx9OizYbuHC_YO8WHK2GMhCpBb1lsgA82KeGduNx3yHwoSFRfm6CDGxBs\u003dw90-h90-p",
+        "editId": "13WOAZicCuLmFeJi-gmfzhkUfx42kyJn0rzXjC7fPbek"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 8",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐพัชร อินทมาตย์"
+            },
+            "emailAddress": "66302020073@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สาวิตรี โมดศิริ"
+            },
+            "emailAddress": "66302020061@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธนธรณ์ ดรบุรมย์"
+            },
+            "emailAddress": "66302020065@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:29:32.535Z",
+    "updateTime": "2023-10-16T12:37:50.147Z",
+    "publicationTime": "2023-10-16T12:29:35.234Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 การทําธุรกิจดิจิทัลบนสื่อสังคมออนไลน์ (Online Business)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1yV68uonucYWe4XgBe4VToS6cuxgxlxNfsrag9-nzTQM/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 7",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/EtAoNScMG0pn4dGtaYyPq0k7Cx47PNvMHE-E0NuUYLUtKHwd3Y2mZHNKgNtd8-0KyTl8puURkZI\u003dw90-h90-p",
+        "editId": "1yV68uonucYWe4XgBe4VToS6cuxgxlxNfsrag9-nzTQM"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 7",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐพัชร อินทมาตย์"
+            },
+            "emailAddress": "66302020073@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สาวิตรี โมดศิริ"
+            },
+            "emailAddress": "66302020061@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธนธรณ์ ดรบุรมย์"
+            },
+            "emailAddress": "66302020065@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:27:12.712Z",
+    "updateTime": "2023-10-16T12:27:33.837Z",
+    "publicationTime": "2023-10-16T12:27:33.803Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 เทคโนโลยีดิจิทัลในอาชีพของการเป็นพลเมืองยุคดิจิทัล (Digital Citizenship)"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "yL_DZgVpe3s",
+        "title": "การเป็นพลเมืองดิจิทัล : I\u0027m สมร 4.0",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dyL_DZgVpe3s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yL_DZgVpe3s/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "0B1pvOJ_chs",
+        "title": "8 ทักษะ พลเมืองดิจิทัล ที่เราต้องมี! Digital Citizenship คืออะไร | DGTH",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d0B1pvOJ_chs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0B1pvOJ_chs/default.jpg"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1mGRrA4cBvkgPdezSig7ufeqLeULknBzW",
+          "title": "พลเมืองดิจิทัล.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1mGRrA4cBvkgPdezSig7ufeqLeULknBzW/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPahBr6oozcPcaQCNV053sXY8IzbpyBPTUgZ1Ys0UNzGgQ--uY1KVuk_kyDqDOsLWfgchQl8G8oLdDLYt1kIn-xWagkwrqqpDRJdvPS4cdn9E\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "พลเมืองดิจิทัล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:24:34.622Z",
+    "updateTime": "2023-10-16T12:24:37.958Z",
+    "publicationTime": "2023-10-16T12:24:37.926Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 การทําธุรกิจดิจิทัลบนสื่อสังคมออนไลน์ (Online Business)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1oax3wmY7Al5-N-n5RTWksqJe1-MqlNna",
+          "title": "L5_DBD.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1oax3wmY7Al5-N-n5RTWksqJe1-MqlNna/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMJYF0OKiEGZ1lJSOXcKUbKSmBIS8jGS3qqLKB0EM9OE5tiSJqcx1STtDzYKUkqeZIu94hJwH2IeSipgtWWy_nkWsXGcbavKVyXa8hAinHl8EQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1xwWnSTfBZAQfdg_XeR-j2dwtFSytz2qm",
+          "title": "rkbx.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1xwWnSTfBZAQfdg_XeR-j2dwtFSytz2qm/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNsYLoVi6kpAmbfSf5kJw1_-l2N3WnHnx7PoBDjLi236AmVkk2ssXwdABbghJNWcVDhj9yA-aVracZv3EONCmfrsa4BiSZfaro-9IpbPCxtZd8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "สื่อสังคมออนไลน์กับธุรกิจดิจิทัล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:17:05.872Z",
+    "updateTime": "2023-10-16T12:36:19.499Z",
+    "publicationTime": "2023-10-16T12:17:12.192Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 สกุลเงินดิจิทัล (Cryptocurrency)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1cwEPpyH6RkY3e6i57ieSEoETygGfLwOe9L2br27caRU/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 6",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/qjKGHBSc2aqcJ7wTkoO2UMDRKJ4sE00-wSOIN9M1c69u9ZEKAEot8EAXfa-Vz42fx_UI0Cey5OU\u003dw90-h90-p",
+        "editId": "1cwEPpyH6RkY3e6i57ieSEoETygGfLwOe9L2br27caRU"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 6",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐพัชร อินทมาตย์"
+            },
+            "emailAddress": "66302020073@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สาวิตรี โมดศิริ"
+            },
+            "emailAddress": "66302020061@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธนธรณ์ ดรบุรมย์"
+            },
+            "emailAddress": "66302020065@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:16:15.063Z",
+    "updateTime": "2023-10-16T12:16:20.234Z",
+    "publicationTime": "2023-10-16T12:16:20.202Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 สกุลเงินดิจิทัล (Cryptocurrency)"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://cryptotabbrowser.com/36061892",
+        "title": "CryptoTab Browser",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://cryptotabbrowser.com/36061892"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ทดลองขุด Bitcoin"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:15:34.157Z",
+    "updateTime": "2023-10-16T12:15:40.721Z",
+    "publicationTime": "2023-10-16T12:15:40.501Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 สกุลเงินดิจิทัล (Cryptocurrency)"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "RCyn7R0ijXE",
+        "title": "ทำความรู้จักกับ \"เงินในยุคดิจิทัล\"",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dRCyn7R0ijXE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RCyn7R0ijXE/default.jpg"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1L8DSCHZCOMamHw5Gf4atb-vunaKai4qH",
+          "title": "Digital Currency.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1L8DSCHZCOMamHw5Gf4atb-vunaKai4qH/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOPNkhuRwyeVqrwBNWIJTtayIEhEx77_m3gb6Z3w8Ehsq1StuUtrZagOS5h_1FAtwKmP1QHB84glPvi-qdWOwXuSB26zNDG6QZnrke-2SiAemo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "เงินในยุคดิจิทัล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:15:05.599Z",
+    "updateTime": "2023-10-16T12:15:09.151Z",
+    "publicationTime": "2023-10-16T12:15:09.120Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 สกุลเงินดิจิทัล (Cryptocurrency)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1G0GbYGBk62wUHuUhiEakbVuZ_hzHHwl0",
+          "title": "ทำความรู้จักกับสกุลเงินดิจิทัล.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1G0GbYGBk62wUHuUhiEakbVuZ_hzHHwl0/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNgaLEb52GbZjdV7vLf1b_-15TEcjdaKnlwvMqdzlJDjltqsFPUBZvfBbt6WvFWVu4nf-zE4YsIvsIYpTvbo_zEVcJoQp-gHO0FCwkDTwErEBM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "bb71pcSor8U",
+        "title": "รู้จักกับเงินสกุลดิจิทัล Cryptocurrency l SPRiNGสรุปให้",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dbb71pcSor8U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bb71pcSor8U/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "rwqmpNNPmX4",
+        "title": "ทำความเข้าใจคริปโทเคอร์เรนซี พื้นฐานความรู้สกุลเงินดิจิทัล ฉบับอัปเดต 2022 | TODAY Bizview",
+        "alternateLink": "https://www.youtube.com/watch?v\u003drwqmpNNPmX4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rwqmpNNPmX4/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "mnCPYIzAuV8",
+        "title": "เจาะลึกโลกของเงินสกุลดิจิทัล Digital Currency 🌐",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dmnCPYIzAuV8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mnCPYIzAuV8/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "oBhgk5Atla0",
+        "title": "ห้ามพลาด !! ลงทุนใน Bitcoin ดีมั้ย ?! | Money Matters EP.110",
+        "alternateLink": "https://www.youtube.com/watch?v\u003doBhgk5Atla0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oBhgk5Atla0/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ทำความรู้จักกับสกุลเงินดิจิทัล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:14:13.383Z",
+    "updateTime": "2023-10-16T12:35:38.577Z",
+    "publicationTime": "2023-10-16T12:14:20.666Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 ธุรกรรมการเงินดิจิตอล (Fintech)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1zA-Ebd6KTktPYHNlPKiSeA3BexKeAD5utPJcdeJJUWs/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/L9imts_27GWSEpJ8fBHnV_FsI0-Do8aY0_MCkACRkh-cnYkTBJXAuFmcY0cp6OIellB1GSH36Zk\u003dw90-h90-p",
+        "editId": "1zA-Ebd6KTktPYHNlPKiSeA3BexKeAD5utPJcdeJJUWs"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐพัชร อินทมาตย์"
+            },
+            "emailAddress": "66302020073@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สาวิตรี โมดศิริ"
+            },
+            "emailAddress": "66302020061@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธนธรณ์ ดรบุรมย์"
+            },
+            "emailAddress": "66302020065@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:13:36.534Z",
+    "updateTime": "2023-10-16T12:13:56.501Z",
+    "publicationTime": "2023-10-16T12:13:56.459Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 ธุรกรรมการเงินดิจิตอล (Fintech)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1G3-Fm_CON4aM2eYbGWaAXGW9tQVonZan",
+          "title": "AttachFile_1456398364860.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1G3-Fm_CON4aM2eYbGWaAXGW9tQVonZan/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMwlMnbp-X--35-kWE7YtDv7zbHybBn3mNJYSreHRS4mDuV92zglEpCTTpbDPgrAAoRO6aFdxtOD7cskyhN2aHAwXp9EMrgTTZmFNrPGAbIrVM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "15SjqO79FqYqZw3BMbB6ej1wadZrRyu41",
+          "title": "Unit 4 Fintech.pdf",
+          "alternateLink": "https://drive.google.com/file/d/15SjqO79FqYqZw3BMbB6ej1wadZrRyu41/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNvP7iEc_d1m5V3Aj2DDQhHP8LjQRwGBqZNR0bFoQJBPLJjMpcMwwiz1hKH4BjtQ5pw7_bc-zHtngRpbG7gaWXDOHCKgkZjX4VsLRSBZyNQIFw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "link": {
+        "url": "https://blog.creditok.co/benefits-of-fintech-for-sme/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Fintech…เทคโนโลยีทางการเงินในโลกยุคดิจิตอล และประโยชน์สำหรับนักลงทุนยุคใหม่"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:12:27.990Z",
+    "updateTime": "2023-10-16T12:12:30.783Z",
+    "publicationTime": "2023-10-16T12:12:30.749Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การทำธุรกรรมโดยไม่ต้องผ่านบุคคลที่สาม (Blockchain)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1AMr3pfWv5yXeEnZxNIcmcnD1AVAhE6iH",
+          "title": "1เทคโนโลยี Blockchain.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1AMr3pfWv5yXeEnZxNIcmcnD1AVAhE6iH/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPDLUhg6A2YbMRWDHQPsl4lxTBTxuxkrAKbTpcvxnqWavwHYID-taxapVnzYgbz28snAI_Qa8j0IEwMFcKFlNRvLtp1wTiZByDQX4ubGEQiwtc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "2oaLjzx6tZY",
+        "title": "Blockchain คืออะไร บล็อกเชนทำอะไรได้บ้าง นอกจากแค่ cryptocurrency /bitcoin | DGTH",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d2oaLjzx6tZY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2oaLjzx6tZY/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "เทคโนโลยี Blockchain"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:12:12.528Z",
+    "updateTime": "2023-10-16T12:35:13.711Z",
+    "publicationTime": "2023-10-16T12:12:16.315Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การทำธุรกรรมโดยไม่ต้องผ่านบุคคลที่สาม (Blockchain)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/16LIOi37iDIf3IJTbTRAbSUqHlEA8IJg3O1JDqVLfUWY/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/p9D7SdLiMgo1Nqq0EYzAvrLhZ3r00lafDthESjxAgKrBu9NNnCaT2gGqumrxS74Lj_-jBK0aq60\u003dw90-h90-p",
+        "editId": "16LIOi37iDIf3IJTbTRAbSUqHlEA8IJg3O1JDqVLfUWY"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐพัชร อินทมาตย์"
+            },
+            "emailAddress": "66302020073@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สาวิตรี โมดศิริ"
+            },
+            "emailAddress": "66302020061@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธนธรณ์ ดรบุรมย์"
+            },
+            "emailAddress": "66302020065@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:11:50.179Z",
+    "updateTime": "2023-10-16T12:11:53.421Z",
+    "publicationTime": "2023-10-16T12:11:53.389Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 ธุรกรรมการเงินดิจิตอล (Fintech)"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "BY2-FoTnP7I",
+        "title": "ทำความรู้จักกับ FinTech - TechTime",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dBY2-FoTnP7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BY2-FoTnP7I/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "J026rpufOj0",
+        "title": "ประวัติศาสตร์ตลาดหุ้น | Point of View x StockRadars",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dJ026rpufOj0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J026rpufOj0/default.jpg"
+      }
+    }, {
+      "link": {
+        "url": "https://fb.watch/g-9Kgihw4X/",
+        "title": "Facebook",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://fb.watch/g-9Kgihw4X/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ทำความรู้จักกับ FinTech"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:11:27.053Z",
+    "updateTime": "2023-10-16T12:11:30.274Z",
+    "publicationTime": "2023-10-16T12:11:30.140Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การทำธุรกรรมโดยไม่ต้องผ่านบุคคลที่สาม (Blockchain)"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "Wd1HJ12xQbA",
+        "title": "EP.4 Blockchain นี่แหละอนาคต | เฟื่องลดา",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dWd1HJ12xQbA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Wd1HJ12xQbA/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Blockchain นี่แหละอนาคต"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:10:19.161Z",
+    "updateTime": "2023-10-16T12:10:32.202Z",
+    "publicationTime": "2023-10-16T12:10:32.155Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 อินเทอร์เน็ตทุกสรรพสิ่ง Internet of Things"
+    }],
+    "courseWork": {
+      "title": "คุยกับ IoT",
+      "description": "ให้นักศึกษาสนทนากับ Google Home Mini แล้วบันทึกวีดิโอ จากนั้นส่งมาเป็นวีดิโอ",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาสนทนากับ Google Home Mini แล้วบันทึกวีดิโอ จากนั้นส่งมาเป็นวีดิโอ\u003c/div\u003e",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:09:55.170Z",
+    "updateTime": "2023-10-16T12:34:44.044Z",
+    "publicationTime": "2023-10-16T12:10:00.853Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 อินเทอร์เน็ตทุกสรรพสิ่ง Internet of Things"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/16V8q5J7hEWcWjPTlvbgEkjGYlyOHuPA57lCmH7uG0tM/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/wuu0qE8NaV4hX1cCgdYMzIjjwfUNV7cQeXK68o_lmzizPqg2RE9qFOBmXeirawxw13k5AEjFBbE\u003dw90-h90-p",
+        "editId": "16V8q5J7hEWcWjPTlvbgEkjGYlyOHuPA57lCmH7uG0tM"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สาวิตรี โมดศิริ"
+            },
+            "emailAddress": "66302020061@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐพัชร อินทมาตย์"
+            },
+            "emailAddress": "66302020073@rvc.ac.th"
+          }
+        },
+        "draftGrade": 1.0,
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธนธรณ์ ดรบุรมย์"
+            },
+            "emailAddress": "66302020065@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:09:24.506Z",
+    "updateTime": "2023-10-16T12:09:28.208Z",
+    "publicationTime": "2023-10-16T12:09:27.997Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 อินเทอร์เน็ตทุกสรรพสิ่ง Internet of Things"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1EulRqbcz5V3b-XN35c1RkutSDGTrie6k",
+          "title": "muip.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1EulRqbcz5V3b-XN35c1RkutSDGTrie6k/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMe7a2Pvp_KRx5W83LyD_V3FyvZIeQVgAp9oWxKNlIdacjIwd9Io0erGJDzdml1u1LHpVZdRUlHHhzl16hmoED1qeC_r6Cq8asOSJmcyHWYnK0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "อินเทอร์เน็ตทุกสรรพสิ่ง คืออะไร"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:08:55.306Z",
+    "updateTime": "2023-10-16T12:09:03.048Z",
+    "publicationTime": "2023-10-16T12:09:03.014Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 อินเทอร์เน็ตทุกสรรพสิ่ง Internet of Things"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "T_kpTnvqJ1E",
+        "title": "NETPIE: Network Platform for Internet of Everything",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dT_kpTnvqJ1E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T_kpTnvqJ1E/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "9wxchUOKWXw",
+        "title": "Internet of Things(IoT) คืออะไร?",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d9wxchUOKWXw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9wxchUOKWXw/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "KymSJc238Yo",
+        "title": "IoT Platform ฟรี !! เพื่อคนไทย  โดย NETPIE | DGTH",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dKymSJc238Yo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KymSJc238Yo/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "Y7n0inEW66M",
+        "title": "รีวิว Google Nest Mini ควบคุมบ้านด้วยเสียงภาษาไทยได้?! | LDA เฟื่องลดา",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dY7n0inEW66M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Y7n0inEW66M/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "วิดีทัศน์ อินเทอร์เน็ตทุกสรรพสิ่ง Internet of Things"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:08:03.257Z",
+    "updateTime": "2023-10-16T12:08:06.838Z",
+    "publicationTime": "2023-10-16T12:08:06.810Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การใช้เครื่องมือวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1L0JbKNSL8ETadZZGvTne2EEe_JQMDOPH",
+          "title": "04_excel2_201110.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1L0JbKNSL8ETadZZGvTne2EEe_JQMDOPH/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNXgGvfZWcbogG13fIRL_f4gWLysNKK6IcmhLzvFxq7naNkCg_Ik7Zs0mv3d8p-8W35HmFZws0QNAz0x08-BJWYdnAyQbAofI8NUZt_pJOcam0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้างแผนภูมิด้วยโปรแกรม Excel",
+      "description": "ให้นักศึกษาเลือกไฟล์ข้อมูลจากข้อมูลของสำนักงานสถิติแห่งชาติมาหนึ่งหัวข้อ แล้วทดลองสรา้งแผนภูมิด้วยโปรแกรม Excel จับภาพหน้จอส่งมาเป็นไฟล์รูปภาพ และนำเสนอสิ่งที่ได้จากการวิเคราะห์แผนภูมิ",
+      "descriptionHtml": "\u003cdiv\u003eให้นักศึกษาเลือกไฟล์ข้อมูลจากข้อมูลของสำนักงานสถิติแห่งชาติมาหนึ่งหัวข้อ แล้วทดลองสรา้งแผนภูมิด้วยโปรแกรม Excel จับภาพหน้จอส่งมาเป็นไฟล์รูปภาพ และนำเสนอสิ่งที่ได้จากการวิเคราะห์แผนภูมิ\u003c/div\u003e",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15iQZzFfhRP8g0NILG14IqAnTFIgWNe2o",
+              "title": "1698928450563.png",
+              "alternateLink": "https://drive.google.com/file/d/15iQZzFfhRP8g0NILG14IqAnTFIgWNe2o/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPaXeOxqPi9E7sNU8Oowu2NTJLRBnl_adr7rvHPfteNOUW1cC1RFi5lSHySC7unMJJLdWpivQFnsYeZgqcGnyECD0J27jFj3v41NswJAcypyUs\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          },
+          "creationTime": "2023-11-02T12:37:11.643Z",
+          "updateTime": "2023-11-02T12:37:11.643Z",
+          "comment": "นางสาว สุดารัตน์ ศรีระศาสตร์ เลขที่7 สกต1/5",
+          "commentHtml": "\u003cdiv\u003eนางสาว สุดารัตน์ ศรีระศาสตร์ เลขที่7 สกต1/5\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:07:18.258Z",
+    "updateTime": "2023-10-16T12:34:13.307Z",
+    "publicationTime": "2023-10-16T12:07:22.363Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การใช้เครื่องมือวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1IgS_Nko0gt_ME3LJRs484hiAeJOyRvjS0cZqD-MguTo/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/c2qC1b4EaVc5Ja9zx7Sj53GgFCLw07QiwptoMIhE9TphEo7WsQtAzPGT79m47X0hSPCHsiKBoAc\u003dw90-h90-p",
+        "editId": "1IgS_Nko0gt_ME3LJRs484hiAeJOyRvjS0cZqD-MguTo"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "พลากร กุลลิ้มรัตน์ชัย"
+            },
+            "emailAddress": "66302020079@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สาวิตรี โมดศิริ"
+            },
+            "emailAddress": "66302020061@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐพัชร อินทมาตย์"
+            },
+            "emailAddress": "66302020073@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธนธรณ์ ดรบุรมย์"
+            },
+            "emailAddress": "66302020065@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:06:47.969Z",
+    "updateTime": "2023-10-16T12:06:54.427Z",
+    "publicationTime": "2023-10-16T12:06:54.388Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การใช้เครื่องมือวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1X-d27xWLtidcPMhaD6RrdVR93n6v4m7a",
+          "title": "BI.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1X-d27xWLtidcPMhaD6RrdVR93n6v4m7a/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOExMPoL4uNOw64Z57QTthytPBFu6EkqdLzuhZUXZ7Wz-l6dgHnu-cgvznrhTzyjJI8D1QLg9_Nj-GvC4CC-Uk4vJMpuRf3QBP4cdfEjFClA28\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1vCQHS5EITOUVGVBmJPAyzZfwAhH2-zVY",
+          "title": "JBA137SrisomrukC.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1vCQHS5EITOUVGVBmJPAyzZfwAhH2-zVY/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN7rSMfKGD1egK2kUVLZXFUCuJrbfTY1PgUu0AYul-k9U8J4SOWcXjjld1nuRZdVYiRasReNDE3eNOI6QBPQlmFXLzYRvOCNRzAwTH_PdqNQ_g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "link": {
+        "url": "https://tips.thaiware.com/1523.html",
+        "title": "Business Intelligence คืออะไร ? ต่างจากการใช้ Excel ทำ Dashboard อย่างไร ?",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://tips.thaiware.com/1523.html"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "64kBRyqJsMw",
+        "title": "สร้าง Dashboard โดยใช้ Microsoft Excel | We Mahidol",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d64kBRyqJsMw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/64kBRyqJsMw/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Business Intelligence"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:06:12.986Z",
+    "updateTime": "2023-10-16T12:06:15.890Z",
+    "publicationTime": "2023-10-16T12:06:15.738Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การใช้เครื่องมือวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence)"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "IUIfWf_YkZ0",
+        "title": "สอนใช้ สอนใช้ Power BI Visualize ข้อมูลการแต่งงาน vs หย่าร้าง",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dIUIfWf_YkZ0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IUIfWf_YkZ0/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ตัวอย่างการวิเคราะห์ข้อมูลด้วย Power BI"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:05:13.773Z",
+    "updateTime": "2023-10-16T12:05:17.261Z",
+    "publicationTime": "2023-10-16T12:05:17.229Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การใช้เครื่องมือวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence)"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://aka.ms/pbiSingleInstaller",
+        "title": "Download Microsoft Power BI Desktop from Official Microsoft Download Center",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://aka.ms/pbiSingleInstaller"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ดาวน์โหลดโปรแกรม Power BI"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:04:49.885Z",
+    "updateTime": "2023-10-16T12:04:55.116Z",
+    "publicationTime": "2023-10-16T12:04:55.086Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การใช้เครื่องมือวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence)"
+    }],
+    "materials": [{
+      "link": {
+        "url": "http://statbbi.nso.go.th/staticreport/page/sector/th/01.aspx",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttp://statbbi.nso.go.th/staticreport/page/sector/th/01.aspx"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "แหล่งข้อมูล (สำนักงานสถิติแห่งชาติ)"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:04:21.699Z",
+    "updateTime": "2023-10-16T12:04:25.621Z",
+    "publicationTime": "2023-10-16T12:04:25.592Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 การใช้เครื่องมือวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence)"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "IedcCByg3kU",
+        "title": "สร้างกราฟวิเคราะห์ข้อมูลเจ๋ง ๆ ด้วย Power BI - Dev ไปเรื่อย ! EP.3",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dIedcCByg3kU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IedcCByg3kU/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การวิเคราะห์ข้อมูลด้วย Power BI"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:03:29.072Z",
+    "updateTime": "2023-10-16T12:03:32.195Z",
+    "publicationTime": "2023-10-16T12:03:32.161Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การจัดการข้อมูลขนาดใหญ่ (Big Data)"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "z_xcb__IfY8",
+        "title": "Big Data คืออะไร? มีไว้แล้วใครได้ประโยชน์🤔 | LDA เฟื่องลดา",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dz_xcb__IfY8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/z_xcb__IfY8/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Big Data คืออะไร? มีไว้แล้วใครได้ประโยชน์"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:03:10.648Z",
+    "updateTime": "2023-10-16T12:03:12.869Z",
+    "publicationTime": "2023-10-16T12:03:12.833Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การจัดการข้อมูลขนาดใหญ่ (Big Data)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1hKUZ_ZryCTEay805ofi3BFv-3Qq9sVZ2",
+          "title": "วิชาญ 03 2560 Big Data ในภาครัฐ.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1hKUZ_ZryCTEay805ofi3BFv-3Qq9sVZ2/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMQk83bYhh-74TdxncYcNn_vuzsbOfBU9-ELA-Kyqij7PLqh6x6n8XjgC9kOjwGmtMpbgltVsLT_wjvpeOO_-hFPHR5NWd0TX86HDOn5Zl2mPQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Big Data ในภาครัฐ"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:02:50.467Z",
+    "updateTime": "2023-10-16T12:02:53.380Z",
+    "publicationTime": "2023-10-16T12:02:53.345Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การจัดการข้อมูลขนาดใหญ่ (Big Data)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1CFYR1VnSkpuJuDdxAoYZiY8hl05WvpP5",
+          "title": "ข้อมูลขนาดใหญ่.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1CFYR1VnSkpuJuDdxAoYZiY8hl05WvpP5/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOkVRgPXd6PduZQVr2OBnhXs55N2QHXtfhiNYmkxFYA_adphp-F8CEUcHgHgCrJNmIN-trMyloi_hyUhRpmEOBuM-mHLRRKQ84IKL6ud5ZYBvk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "สรุปยาว ๆ ข้อมูลขนาดใหญ่"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:02:35.609Z",
+    "updateTime": "2023-10-16T12:02:38.088Z",
+    "publicationTime": "2023-10-16T12:02:38.052Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การจัดการข้อมูลขนาดใหญ่ (Big Data)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1h4zpzEDe7ADRE_RPz4btwMXLQiuwZleh",
+          "title": "99711-1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1h4zpzEDe7ADRE_RPz4btwMXLQiuwZleh/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBODselOgwY4YESvSyqwpM21FWIpF1JHZyTyz6KykrZbkl2CGjSG4o_Z59zcgYF7G1FEqqFzpHyCV0ZKvEVNB3S2y0Iv6YXF3gpr_qBEE7aOi04\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "หลักการของข้อมูลขนาดใหญ่"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:02:23.549Z",
+    "updateTime": "2023-10-16T12:02:26.236Z",
+    "publicationTime": "2023-10-16T12:02:26.192Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การจัดการข้อมูลขนาดใหญ่ (Big Data)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1iUC9hRHu3-oQZUV3qgx1_lb5SEcxJ6o1",
+          "title": "big data.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1iUC9hRHu3-oQZUV3qgx1_lb5SEcxJ6o1/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM0zMOqIxvMEILwv-rdPDs8gpmVlCUIrTjK4JsiaCzAHXS8CTl6bPrzMec1O3kVYB8WG08EKSfk3Op6CJhxJrM2hs16qehtPqQdtr72aSSuF6Y\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "สรุปสั้น ๆ Big Data"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-16T12:02:01.079Z",
+    "updateTime": "2023-10-16T12:02:10.982Z",
+    "publicationTime": "2023-10-16T12:02:10.930Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การจัดการข้อมูลขนาดใหญ่ (Big Data)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1rlwWTzeBSLQSexEnDThgbVjbS1LVGvFlXUaSse5jhoo/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/fq0kY0pMiyFuGQmRx1Ds9fLKfeevqEygvv0XAgoqjA1-q4z5fNczONAnm0AP_hPpeum5kSC0Z1A\u003dw90-h90-p",
+        "editId": "1rlwWTzeBSLQSexEnDThgbVjbS1LVGvFlXUaSse5jhoo"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สาวิตรี โมดศิริ"
+            },
+            "emailAddress": "66302020061@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ณัฐพัชร อินทมาตย์"
+            },
+            "emailAddress": "66302020073@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "สุดารัตน์ ศรีระศาสตร์"
+            },
+            "emailAddress": "66302020062@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ธนธรณ์ ดรบุรมย์"
+            },
+            "emailAddress": "66302020065@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-10-15T14:11:45.638Z",
+    "updateTime": "2023-10-15T14:14:03.484Z",
+    "publicationTime": "2023-10-15T14:14:03.450Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตร"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ZuQPojsWXfwLLVshGc4EpfTOXxYuoXJG",
+          "title": "30000-2003.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ZuQPojsWXfwLLVshGc4EpfTOXxYuoXJG/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP1zz3VbcF9ZIGa90dsLMPZ9KSkIKfwE5eecFImVliboAzL_lik8rSoVbkPWByWy43MbQfMzG7FLdcxNhFdSalTt6YJSBELKWina3blgDPKyoE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "หลักสูตรรายวิชา"
+    }
+  }]
+}

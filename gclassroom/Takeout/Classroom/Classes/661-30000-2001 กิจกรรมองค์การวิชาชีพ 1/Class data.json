@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "name": "661-30000-2001 กิจกรรมองค์การวิชาชีพ 1",
+  "section": "สทส. 1/1 (กิจกรรมองค์การวิชาชีพ 1)",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroome5135128@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1jiGnfFW77dg3MAgK2w7Tze-rdVSfHSrhCfKoRyXIQwuf9Z_Fud1_OQI9jQdROXsVQRA8MvyR",
+    "name": "661-30000-2001 กิจกรรมองค์การวิชาชีพ 1 สทส. 1/1 (กิจกรรมองค์การวิชาชีพ 1)",
+    "openUrl": "https://drive.google.com/drive/folders/1jiGnfFW77dg3MAgK2w7Tze-rdVSfHSrhCfKoRyXIQwuf9Z_Fud1_OQI9jQdROXsVQRA8MvyR"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_breakfast.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "พีรพัฒน์ สอนลิลา"
+      },
+      "emailAddress": "66309010015@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อิศราพงษ์ ไชยสงคราม"
+      },
+      "emailAddress": "66309010014@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อิทธิพล เอกวงษา"
+      },
+      "emailAddress": "66309010013@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อัสนี วันชูเชิด"
+      },
+      "emailAddress": "66309010012@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อรรถวีร์ รุ่งเรืองเลิศสกุล"
+      },
+      "emailAddress": "66309010011@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "วุฒิสิทธิ์ คำภา"
+      },
+      "emailAddress": "66309010009@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ราชวัตร วิชัยคำจร"
+      },
+      "emailAddress": "66309010008@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นาวิน ศุภฤกษ์"
+      },
+      "emailAddress": "66309010007@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ธานัท อนุนิวัฒน์"
+      },
+      "emailAddress": "66309010006@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ถิรพุทธิ์ โลมะบรรณ์"
+      },
+      "emailAddress": "66309010005@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ณัฐภัทร กำแก้ว"
+      },
+      "emailAddress": "66309010004@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ณัฐนนท์ มาตขาว"
+      },
+      "emailAddress": "66309010003@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "จีรพันธ์ บุญอ่อน"
+      },
+      "emailAddress": "66309010002@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "เกษตรศาสตร์ ปริสุทธิ์"
+      },
+      "emailAddress": "66309010001@rvc.ac.th"
+    }
+  }],
+  "invitations": [{
+    "profile": {
+      "name": {
+        "fullName": "ศรันยา นนทบุตร"
+      },
+      "emailAddress": "66309010010@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }]
+}

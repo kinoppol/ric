@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "name": "คณิตศาสตร์ 101",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom2c3e098d@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1VhDjSWR3ch2MuJYrojT4n9GrympoqRIFr40QwVzX6lPPHpCYXC4CPu40A_K3tiX1hOsng3CP",
+    "name": "คณิตศาสตร์ 101",
+    "openUrl": "https://drive.google.com/drive/folders/1VhDjSWR3ch2MuJYrojT4n9GrympoqRIFr40QwVzX6lPPHpCYXC4CPu40A_K3tiX1hOsng3CP"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_backtoschool.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "หน่วยที่ 1"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T08:50:42.457Z",
+    "updateTime": "2023-05-19T08:51:16.844Z",
+    "publicationTime": "2023-05-19T08:51:16.813Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "17aNKBbhnYMcqu3DDlIkVZfxzy6deL-KI",
+          "title": "616ประชาสัมพันธ์การพัฒนาครูอาชีวศึกษาหลัก.pdf",
+          "alternateLink": "https://drive.google.com/file/d/17aNKBbhnYMcqu3DDlIkVZfxzy6deL-KI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPdVMIFGAfAMetKP_Ghfn0Z-4hqHuqIuKMwCytAodJZLbu-UsjWXEx1Pqrid2Zq1ruAZvdFGVBUp5APrEd4OumGF3SeDntqPxnl5-JhEGQf8w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "หน่วยที่ 1"
+    }
+  }]
+}

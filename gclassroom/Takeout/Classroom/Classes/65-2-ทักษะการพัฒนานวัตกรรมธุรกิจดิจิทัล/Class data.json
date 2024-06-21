@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "name": "65/2-ทักษะการพัฒนานวัตกรรมธุรกิจดิจิทัล",
+  "section": "ทักษะปีการศึกษา 65",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom54e09051@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1xSjmRutaFW_xgJF9Ult6BiT32RsbxmdHHVQyemPvuQqYkriNs1HiqrTn-I50xZ53UEe1YuGl",
+    "name": "65/2-ทักษะการพัฒนานวัตกรรมธุรกิจดิจิทัล ทักษะปีการศึกษา 65",
+    "openUrl": "https://drive.google.com/drive/folders/1xSjmRutaFW_xgJF9Ult6BiT32RsbxmdHHVQyemPvuQqYkriNs1HiqrTn-I50xZ53UEe1YuGl"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_graduation.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นายสุระชัย วิเศษโวหาร"
+    },
+    "emailAddress": "surachai@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นายสุระชัย วิเศษโวหาร"
+      },
+      "emailAddress": "surachai@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "wiparut homin"
+      },
+      "emailAddress": "k.wiparut88@gmail.com"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "วิภารัตน์ หอมอินทร์"
+      },
+      "emailAddress": "wiparut34501@gmail.com"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "Anucha Sripakdee"
+      },
+      "emailAddress": "Anuchasripakdee@gmail.com"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "บัณฑิตา ศรีชัย"
+      },
+      "emailAddress": "buntita252155@gmail.com"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "รพีพัฒน์ พุทธานี"
+      },
+      "emailAddress": "babyploy55@gmail.com"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "jalun jundachai"
+      },
+      "emailAddress": "bank089zx@gmail.com"
+    }
+  }],
+  "topics": [{
+    "name": "01-โจทย์"
+  }, {
+    "name": "02-เริ่มโครงการ"
+  }, {
+    "name": "ฐานข้อมูล"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-11-13T08:38:10.297Z",
+    "updateTime": "2022-11-13T08:39:25.465Z",
+    "publicationTime": "2022-11-13T08:38:53.428Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "ฐานข้อมูล"
+    }],
+    "materials": [{
+      "link": {
+        "url": "http://code-osiris.blogspot.com/p/blog-page_6.html",
+        "title": "O: เพิ่ม foreign key ของ table ใน phpmyadmin",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttp://code-osiris.blogspot.com/p/blog-page_6.html"
+      }
+    }, {
+      "link": {
+        "url": "https://www.goragod.com/knowledge/foreign_key_%E0%B9%83%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5_%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.html",
+        "title": "Foreign Key ในฐานข้อมูล คืออะไร",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.goragod.com/knowledge/foreign_key_%25E0%25B9%2583%25E0%25B8%2599%25E0%25B8%2590%25E0%25B8%25B2%25E0%25B8%2599%25E0%25B8%2582%25E0%25B9%2589%25E0%25B8%25AD%25E0%25B8%25A1%25E0%25B8%25B9%25E0%25B8%25A5_%25E0%25B8%2584%25E0%25B8%25B7%25E0%25B8%25AD%25E0%25B8%25AD%25E0%25B8%25B0%25E0%25B9%2584%25E0%25B8%25A3.html"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การสร้างความสัมพันธ์ระหว่างตาางด้วย PHPMyadmin"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นายสุระชัย วิเศษโวหาร"
+      },
+      "emailAddress": "surachai@rvc.ac.th"
+    },
+    "creationTime": "2022-10-31T08:44:45.052Z",
+    "updateTime": "2022-11-07T07:08:12.804Z",
+    "publicationTime": "2022-10-31T08:46:06.474Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "02-เริ่มโครงการ"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1cdeAtbBJcUOCE9x2cZEmOXp9SnuWEe6sKC0YyGLPHWE",
+          "title": "header",
+          "alternateLink": "https://docs.google.com/document/d/1cdeAtbBJcUOCE9x2cZEmOXp9SnuWEe6sKC0YyGLPHWE/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMCap-ElpHAXs8wLVNuj_ykJEZe4XWlDdRX4moBRMsS-R9cHD7ZfNlwKkbr7x07n_b2KA7qAKPvN1Y-KM1A9Z7U5YT7yFx8JVITTNJDbYLTZ-YXDYLAhH-GqVsgiTtCJcDy_c0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "เนื้อหา"
+    },
+    "comments": [{
+      "creator": {
+        "name": {
+          "fullName": "รพีพัฒน์ พุทธานี"
+        },
+        "emailAddress": "babyploy55@gmail.com"
+      },
+      "creationTime": "2022-11-01T02:09:59.052Z",
+      "updateTime": "2022-11-01T02:09:58.962Z",
+      "comment": "ครูคะมีวิดีโอต่อไหมคะ",
+      "commentHtml": "\u003cdiv\u003eครูคะมีวิดีโอต่อไหมคะ\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }]
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นายสุระชัย วิเศษโวหาร"
+      },
+      "emailAddress": "surachai@rvc.ac.th"
+    },
+    "creationTime": "2022-10-27T07:13:03.838Z",
+    "updateTime": "2022-10-27T07:14:49.728Z",
+    "publicationTime": "2022-10-27T07:14:49.683Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://www.youtube.com/playlist?list\u003dPLFQ-NfUJbeL6ceqdW00xMDMM0pIRYjW9m",
+        "title": "CSS Framework - YouTube",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.youtube.com/playlist?list%3DPLFQ-NfUJbeL6ceqdW00xMDMM0pIRYjW9m"
+      }
+    }, {
+      "link": {
+        "url": "https://www.youtube.com/playlist?list\u003dPLFQ-NfUJbeL76051lFtCoNyatTUvc1Ov8",
+        "title": "การพัฒนาเว็บร่วมกับฐานข้อมูล - YouTube",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.youtube.com/playlist?list%3DPLFQ-NfUJbeL76051lFtCoNyatTUvc1Ov8"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "สื่อ Youtube"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นายสุระชัย วิเศษโวหาร"
+      },
+      "emailAddress": "surachai@rvc.ac.th"
+    },
+    "creationTime": "2022-10-27T04:53:08.247Z",
+    "updateTime": "2022-11-07T06:03:40.457Z",
+    "publicationTime": "2022-10-27T04:53:20.965Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "01-โจทย์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1_U4VxQggEAViOK52JmqiuXglmcMF1DNj",
+          "title": "3.6.2 ทักษะการพัฒนานวัตกรรมธุรกิจดิจิทัล.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1_U4VxQggEAViOK52JmqiuXglmcMF1DNj/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNnBpGtKJOjhj6iE4f5rjWrWXuVyUUvrFukaXfDqYgMRoTDt19PS7gWL7rGtqXvK38NMjMB3Z0SlYNgFfuXY-Sq9aKfPrEMmwnzJtAGRH7nkEA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1E8wSWNW1SqO_FVd5urB6B0y2dlDQrz2kWMGw-9xonsc",
+          "title": "วิเคราะห์โจทย์",
+          "alternateLink": "https://docs.google.com/document/d/1E8wSWNW1SqO_FVd5urB6B0y2dlDQrz2kWMGw-9xonsc/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOxpfLHfMPjX725dnc6Af5OmsoIgOKLAN4hZJvpb8nvd8t682Hb43a0jL_aC5g_LLhAUWkpk13BGSEsPFRH3vB-RqK0ujgDSLn4i5u9tChUkMoJ2tEpKemqHq5a8TR1PGZ34_c\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "19wksj6ZzdN9asiMW7uC4SjX3iiJy3SuGZlAK4QEnbSE",
+          "title": "การใช้งาน Bootstrap",
+          "alternateLink": "https://docs.google.com/document/d/19wksj6ZzdN9asiMW7uC4SjX3iiJy3SuGZlAK4QEnbSE/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPr-k9XUUGOilr-vEyBWcC1K7HjF2wTxkicsm-QKyurV25hevGdg8FUPJ5IhCtharxaCfeV8iNU_xaj90wZXwJHmMMhs38gD5sahFau9wdf7JxJjCSEkew2d4n-tiBzUhyoo0E\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "โจทย์"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นายสุระชัย วิเศษโวหาร"
+      },
+      "emailAddress": "surachai@rvc.ac.th"
+    },
+    "creationTime": "2022-10-27T04:49:33.887Z",
+    "updateTime": "2022-10-31T06:32:34.085Z",
+    "publicationTime": "2022-10-27T04:50:47.897Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "link": {
+        "url": "https://www.apachefriends.org/download.html",
+        "title": "Download XAMPP",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.apachefriends.org/download.html"
+      }
+    }, {
+      "link": {
+        "url": "https://code.visualstudio.com/download",
+        "title": "Download Visual Studio Code - Mac, Linux, Windows",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://code.visualstudio.com/download"
+      }
+    }, {
+      "link": {
+        "url": "https://getbootstrap.com/docs/5.2/getting-started/download/",
+        "title": "Download · Bootstrap v5.2",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://getbootstrap.com/docs/5.2/getting-started/download/"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1_nLuEpuk4YvEsnPClB37tWln4LkP3Lo7",
+          "title": "taksa65.zip",
+          "alternateLink": "https://drive.google.com/file/d/1_nLuEpuk4YvEsnPClB37tWln4LkP3Lo7/view?usp\u003ddrive_web"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ซอฟต์แวร์ที่ต้องใช้"
+    }
+  }]
+}

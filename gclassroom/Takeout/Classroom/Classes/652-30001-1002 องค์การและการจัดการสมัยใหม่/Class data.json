@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "name": "652-30001-1002 องค์การและการจัดการสมัยใหม่",
+  "section": "สคพ. 1/4",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom031d7771@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1WxXpwz1yKBzHu5Cph-1aWyxiisl0NSCrFX7wkwoEdhqZw1QjIdCGW-9Itoi4BbMs6crepoKi",
+    "name": "652-30001-1002 องค์การและการจัดการสมัยใหม่ สคพ. 1/4",
+    "openUrl": "https://drive.google.com/drive/folders/1WxXpwz1yKBzHu5Cph-1aWyxiisl0NSCrFX7wkwoEdhqZw1QjIdCGW-9Itoi4BbMs6crepoKi"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/LanguageArts.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "sasithon thornaee"
+      },
+      "emailAddress": "sasithonthornaee@gmail.com"
+    }
+  }],
+  "invitations": [{
+    "profile": {
+      "name": {
+        "fullName": "ทิฆัมพร ชวนกระโทก"
+      },
+      "emailAddress": "65302040068@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "กมลสิริ ไทยนาทม"
+      },
+      "emailAddress": "65302040067@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "อนุวัฒน์ คำชัยภูมิ"
+      },
+      "emailAddress": "65302040066@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "สิริการณ์ หอมสนิท"
+      },
+      "emailAddress": "65302040065@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ศิริวรัส ทาคำมูล"
+      },
+      "emailAddress": "65302040064@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ศศิธร ธรณี"
+      },
+      "emailAddress": "65302040063@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "พิชามญชุ์ ศรีเฉลิม"
+      },
+      "emailAddress": "65302040062@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ธัญมน มหาพรม"
+      },
+      "emailAddress": "65302040061@rvc.ac.th"
+    },
+    "role": "STUDENT"
+  }],
+  "topics": [{
+    "name": "แนะนำรายวิชา"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2022-10-20T02:10:34.643Z",
+    "updateTime": "2022-10-20T02:10:56.937Z",
+    "publicationTime": "2022-10-20T02:10:56.901Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "แนะนำรายวิชา"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1nPjiiWUEuZ77rMUXP9rXJh6X6ksShV4Z",
+          "title": "ข้อมูลรายวิชา 30001-1002.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1nPjiiWUEuZ77rMUXP9rXJh6X6ksShV4Z/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNBsFsPTMgFOe8QIl6qZmAE5Cw3Yq_73h6xWmBk50_WJNyGfJHFiRaI2sLGHfu67fQyGsToEmgiG46PBwdyWRK1QFj-R5mHNZgrXvu8wieOfBA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ข้อมูลรายวิชา"
+    }
+  }]
+}

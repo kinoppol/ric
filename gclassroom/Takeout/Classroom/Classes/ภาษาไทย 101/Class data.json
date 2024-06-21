@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "name": "ภาษาไทย 101",
+  "courseFolder": {
+    "id": "17mhf55x8f08-GD3vYJr0JpmYYnH_BLQn0xKxkf7o-Cfy_NgkcnaRNaqyH9XBmhVwwMDX8U3H",
+    "name": "ภาษาไทย 101",
+    "openUrl": "https://drive.google.com/drive/folders/17mhf55x8f08-GD3vYJr0JpmYYnH_BLQn0xKxkf7o-Cfy_NgkcnaRNaqyH9XBmhVwwMDX8U3H"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "courseState": "ARCHIVED",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "หน่วยที่ 1"
+  }, {
+    "name": "หลักสูตร"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T03:44:13.745Z",
+    "updateTime": "2023-05-19T03:45:42.237Z",
+    "publicationTime": "2023-05-19T03:45:42.027Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1yiXxG0Jir1T18xDZoy-Q8_3OLyVyK7bZAKzLq3kS1V8/edit",
+        "title": "Blank Quiz",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/5LpLkhGwyLFSimaH8cQXilhYboAEM_NseioxdBJSwnG41tqf7KgqRWf_ih3SkcEd25nczdSpt1k\u003dw90-h90-p",
+        "editId": "1yiXxG0Jir1T18xDZoy-Q8_3OLyVyK7bZAKzLq3kS1V8"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "dueTime": "2023-05-23T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T03:11:47.187Z",
+    "updateTime": "2023-05-19T03:14:15.656Z",
+    "publicationTime": "2023-05-19T03:14:15.466Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1"
+    }],
+    "courseWork": {
+      "title": "รายงานประวัติภาษาไทย",
+      "dueTime": "2023-05-22T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2023-05-19T03:10:50.073Z",
+    "updateTime": "2023-05-19T03:11:31.808Z",
+    "publicationTime": "2023-05-19T03:11:31.594Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตร"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1NT5G_P7LoQtX3zsYj-RVT0QBv4ouG6pR",
+          "title": "IDC_Book.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1NT5G_P7LoQtX3zsYj-RVT0QBv4ouG6pR/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOFo8LcohVaJRehLIrLbPLDUfEUZp5MG3-c7Uq2m_mXPgSyqKqkSW6FVK4G7ZTCH1PwCNIovPimmr-KYqhHLEdNWEFpQevPn8dwFFVE_OkS8w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำอธิบายรายวิชา"
+    }
+  }]
+}

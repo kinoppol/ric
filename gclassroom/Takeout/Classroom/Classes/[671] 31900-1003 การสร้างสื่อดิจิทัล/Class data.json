@@ -1,0 +1,1812 @@
+{
+  "version": 1,
+  "name": "[671] 31900-1003 การสร้างสื่อดิจิทัล",
+  "section": "สทส. 1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom6019255c@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1BsyuiLCWI9uJfN8LUwckZPzhY205jiGIKl0TfsbE_Peo6Jj94YEq51KPa5LasoD6bnbtLUto",
+    "name": "[671] 31900-1003 การสร้างสื่อดิจิทัล สทส. 1",
+    "openUrl": "https://drive.google.com/drive/folders/1BsyuiLCWI9uJfN8LUwckZPzhY205jiGIKl0TfsbE_Peo6Jj94YEq51KPa5LasoD6bnbtLUto"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_bookclub.jpg",
+  "courseState": "ACTIVE",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+      },
+      "emailAddress": "67319010004@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ปาลิตา ปูลา"
+      },
+      "emailAddress": "67319010003@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "กนกพร ผลไม้"
+      },
+      "emailAddress": "67319010002@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "หน่วยที่ 1 การออกแบบสื่อดิจิทัล"
+  }, {
+    "name": "หน่วยที่ 2 สีในงานออกแบบสื่อดิจิทัล"
+  }, {
+    "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+  }, {
+    "name": "หน่วยที่ 4 การสร้างภาพเคลื่อนไหว"
+  }, {
+    "name": "หน่วยที่ 5 การสร้างแบนเนอร์"
+  }, {
+    "name": "หน่วยที่ 6 การสร้างจดหมายข่าวออนไลน์"
+  }, {
+    "name": "หน่วยที่ 7 งานกราฟิกส์ประเภท Vector based"
+  }, {
+    "name": "หน่วยที่ 8 การออกแบบสื่อสิ่งพิมพ์"
+  }, {
+    "name": "หน่วยที่ 9 การสร้างหนังสืออิเล็กทรอนิกส์"
+  }, {
+    "name": "หลักสูตรรายวิชา"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-18T03:39:38.843Z",
+    "updateTime": "2024-06-18T03:44:15.312Z",
+    "publicationTime": "2024-06-18T03:43:14.222Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การสร้างแบนเนอร์"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://sites.google.com/rvc.ac.th/somchai/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81",
+        "title": "Sign in - Google Accounts",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://sites.google.com/rvc.ac.th/somchai/%25E0%25B8%25AB%25E0%25B8%2599%25E0%25B8%25B2%25E0%25B9%2581%25E0%25B8%25A3%25E0%25B8%2581"
+      }
+    }, {
+      "link": {
+        "url": "https://sites.google.com/",
+        "title": "Google Sites: Sign-in",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://sites.google.com/"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้างเว็บไซต์ส่วนตัว",
+      "description": "สร้างเว็บไซต์ส่วนตัวด้วย Google Sites\n\n1. ต้องมีแบรนเนอร์อย่างน้อย 2 ตำแหน่ง\n2. เนื้อหาหน้าแรก แนะนำตัวเบื้องต้นประกอบด้วย ชื่อ-สกุล ชื่อเล่น สีที่ชอบ อาหารที่ชอบ กิจกรรมยามว่าง\nส่งเป็นลิงก์",
+      "descriptionHtml": "\u003cdiv\u003eสร้างเว็บไซต์ส่วนตัวด้วย Google Sites\u003cbr\u003e\u003cbr\u003e1. ต้องมีแบรนเนอร์อย่างน้อย 2 ตำแหน่ง\u003cbr\u003e2. เนื้อหาหน้าแรก แนะนำตัวเบื้องต้นประกอบด้วย ชื่อ-สกุล ชื่อเล่น สีที่ชอบ อาหารที่ชอบ กิจกรรมยามว่าง\u003cbr\u003eส่งเป็นลิงก์\u003c/div\u003e",
+      "dueTime": "2024-06-25T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-17T08:25:39.292Z",
+    "updateTime": "2024-06-18T03:27:09.682Z",
+    "publicationTime": "2024-06-18T03:27:09.535Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การสร้างแบนเนอร์"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1VigcU3HV_LcoHJtw9_calxKDlyhEMKVn2NwJ-YFUGgM/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/0b21N7hvonGO1oecFQ4s6KRR_mby3k3nDFT_IEwSsiRPvh2qVDEUk7TeeR1BbvzIhbaJTLIq3-s\u003dw90-h90-p",
+        "editId": "1VigcU3HV_LcoHJtw9_calxKDlyhEMKVn2NwJ-YFUGgM"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 5",
+      "dueTime": "2024-06-25T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-17T08:03:41.695Z",
+    "updateTime": "2024-06-17T10:00:54.016Z",
+    "scheduledTime": "2024-06-17T10:00:00Z",
+    "publicationTime": "2024-06-17T10:00:53.847Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การสร้างแบนเนอร์"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/10vjOtcwdjkl5h16pg5yPUjFPkWxA5vPdQd6tKlwPM40/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/uIQjzscoWz4MFO8oNN-7wCRr90-R1n3Dbv4odRFrwtdtXGlMvbqwjASKknVmSZAinClAzWUIg7o\u003dw90-h90-p",
+        "editId": "10vjOtcwdjkl5h16pg5yPUjFPkWxA5vPdQd6tKlwPM40"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 5",
+      "dueTime": "2024-06-24T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-12T03:19:55.164Z",
+    "updateTime": "2024-06-12T03:20:35.062Z",
+    "publicationTime": "2024-06-12T03:20:34.826Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การสร้างภาพเคลื่อนไหว"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/131dpGNwuXUVKRpMnk1VcW_1-JULLoI2JWT7Z-xC0dVc/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/ZjE0T83rS5IJOrAu0AyI-7nT92lucpPaUV-v6H6mw02jfEdf9Lm_JUC03LLwaNfJofDcSmVzydw\u003dw90-h90-p",
+        "editId": "131dpGNwuXUVKRpMnk1VcW_1-JULLoI2JWT7Z-xC0dVc"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 4",
+      "dueTime": "2024-06-19T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-05T04:30:35.395Z",
+    "updateTime": "2024-06-05T08:03:57.515Z",
+    "scheduledTime": "2024-06-05T08:00:00Z",
+    "publicationTime": "2024-06-05T08:03:57.159Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การสร้างภาพเคลื่อนไหว"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1ybLqeOSfCBGKXIxLuFMGu0ITy57CI3K1gpvvs6lj0nA/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/Zj0Xp1FJVG8SXb65dhMMSCsTkyTVrA-Fe07hbp4ccBeMhfdr0BoWJApnm1HOjopSa6S300jTEPM\u003dw90-h90-p",
+        "editId": "1ybLqeOSfCBGKXIxLuFMGu0ITy57CI3K1gpvvs6lj0nA"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 4",
+      "dueTime": "2024-06-06T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-05T04:22:55.439Z",
+    "updateTime": "2024-06-11T04:15:18.823Z",
+    "publicationTime": "2024-06-05T04:24:01.074Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การสร้างภาพเคลื่อนไหว"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16LYTTdZMdOUPOd_B-HeL3HxpxkW9LWDS",
+          "title": "dbscny-dbsbank.gif",
+          "alternateLink": "https://drive.google.com/file/d/16LYTTdZMdOUPOd_B-HeL3HxpxkW9LWDS/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMWyx3OfTeEw0L8zZ5MyLK8KwB_r79gwLiOUbDZVsL3SNH4syWQinIggSYXY1WdvS72ifk6ABHfFeu8Og_ZJLPhKASfvXM-Y_SbVDC74KwpNhM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "105J9z76OkKYKNKxgL-UFEI3152aR2IWQ",
+          "title": "dbscny-posbcny.gif",
+          "alternateLink": "https://drive.google.com/file/d/105J9z76OkKYKNKxgL-UFEI3152aR2IWQ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-AF3i9Uz1zaH_wCRGH_RZYYp_dEcWCQDh72bgDilkth6re2fRU2LIscyTd5GCiy5PTS-W6cDT7kzGDDymoBYNCr0Y9kcD0eNW7Ha3I5Pc0Cc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1od2Af17BZSzCN-MW9YViZAJZKxiNWlcC",
+          "title": "tenor.gif",
+          "alternateLink": "https://drive.google.com/file/d/1od2Af17BZSzCN-MW9YViZAJZKxiNWlcC/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOItp6qamdfBVX0X_P1NgwVKFSOfVjQHnfZ6jD0q6HmsucjOPmet2WjOWCIBoV-tbk05vY3VVYp9dGZ7ZysU5xpQRDWeb1SEf9M7IoydWoTPVw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1nDMm4QIgApmVWErrYbPcePwWCV5C-xxO",
+          "title": "pig.gif",
+          "alternateLink": "https://drive.google.com/file/d/1nDMm4QIgApmVWErrYbPcePwWCV5C-xxO/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPPFdo83obRfceoqVmHMyYdVWs77tEJgA6AmoFcMsZLBWPqf3X8i2RjN5_1Wb0of3HQ0Vhnt8Z5HYr5ZObvpSnhbs11hd1BJGqiMcKRY8bzyS0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1kJFPgQDUHU_c4sW4zk6RPo8xXnqrfAPV",
+          "title": "pig.png",
+          "alternateLink": "https://drive.google.com/file/d/1kJFPgQDUHU_c4sW4zk6RPo8xXnqrfAPV/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOvFIO8fxX7GiMfn1yht8aUpy6MkaUh8nLm4QkcGUdmCvE4ad2Ql_x7C5hJxkaRbgu7BCS9uuXefXPbbR9AlNkTihay-GyVdWJcRSKVnHXnSiA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1xsRCgt1-mXCjMrBEAeJt84XSEd8pnt-p",
+          "title": "hello.gif",
+          "alternateLink": "https://drive.google.com/file/d/1xsRCgt1-mXCjMrBEAeJt84XSEd8pnt-p/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNeNv1K8GcT4jtwWcTi-CJEPqaUOz2xhg-Jk3FSUPLk_3_o1mRg0zBnRI2O48Vfcsl3k9tsSsUg_zObGwbO8OwNiVVOoNlK_YN1goZ4jvSEEgo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1l1AHoJ2iCcToovA8LcFk-7k1hiAXxi7j",
+          "title": "hello.jpg",
+          "alternateLink": "https://drive.google.com/file/d/1l1AHoJ2iCcToovA8LcFk-7k1hiAXxi7j/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN5pUjCKrAO72Sx-7Qxxa2ahkl6WUIOvNQrMQXIFJAfhlYolPhoqSIuulFCHQrQ8Vi0UnSLUrh8UpOgBOBElwMUgR_1neKANx796PIoXLvjsHU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "สร้างภาพเคลื่อนไหวจากภาพนิ่ง",
+      "description": "สร้างภาพเคลื่อนไหวจากภาพนิ่งด้วยโปรแกรม Adobe Photoshop แล้วส่งมาเป็นไฟล์ .gif\nส่ง 2 รูป 1) ภาพนิ่งต้นฉบับ 2) ภาพเคลื่อนไหว .GIF",
+      "descriptionHtml": "\u003cdiv\u003eสร้างภาพเคลื่อนไหวจากภาพนิ่งด้วยโปรแกรม Adobe Photoshop แล้วส่งมาเป็นไฟล์ .gif\u003cbr\u003eส่ง 2 รูป 1) ภาพนิ่งต้นฉบับ 2) ภาพเคลื่อนไหว .GIF\u003c/div\u003e",
+      "dueTime": "2024-06-18T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xsLTqNGebuNOOWmogpf1fZv0tWDw688H",
+              "title": "S__2424836.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1xsLTqNGebuNOOWmogpf1fZv0tWDw688H/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPfc-a5KN3eAzQGbs518GgTkLz1lDMq_qcxjFYzhtfPY3rTVutp3jNMFSo3IwPDWyrIvoUl-fVBUrGe4V9qVwNnSj_lgrslaaOrmgFEXpI_-A\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "13Rb2zPieJ16mqpN4ack54Pzv-tM5Vaig",
+              "title": "ภาพเคลื่นไหว.gif",
+              "alternateLink": "https://drive.google.com/file/d/13Rb2zPieJ16mqpN4ack54Pzv-tM5Vaig/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNo5E0Y42YHbcjnpEcP5mL_gQGaxjZRdhD6h6uOBB0WjM6quvSD8BdfEzliGwtWq2dHL3BpPY5d_5eQZQx-BvkpO8MboagBUfhzMvmjtXdrBA\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1W6Gj60gSgiG1LvPuFi6ZiRpPSFKcOI0i",
+              "title": "การ์ตูน03.gif",
+              "alternateLink": "https://drive.google.com/file/d/1W6Gj60gSgiG1LvPuFi6ZiRpPSFKcOI0i/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOEDdnA71OooWXFXcy5gnLJFZpslQKOH7a3l7Wii-Rii3ohvdEHpMwqX78DlK66cXO_4EWMWnhqwpaRMn65BsbYnYMVq95944uzvYq5vbPr2g\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1jqh4EcwD1lL-GrZeLuEEOoPl1LErgUHv",
+              "title": "dkiN9^o02.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1jqh4EcwD1lL-GrZeLuEEOoPl1LErgUHv/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPvFNIEiM0BRUhoypVkiwYMqxNFC4PI-hxStBVVyqzLJERfWQJkzWBlfOjrbPiZLCKTBtjBqp5qEg2RsBNHyUcSCjTXrMXl-Q2HXiOL8fzC9Q\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1eCYbsF1lfbO24AP2Qb_kiIUaUIeY9J0B",
+              "title": "จับภาพ.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1eCYbsF1lfbO24AP2Qb_kiIUaUIeY9J0B/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMFKMqIMEkvX7MaflQQTsy2Bfpb4_JpZY1PXQa6jVAxI2eg3v9ei5D58FaTsCUlFY6S53_uML6iPuZXQ0ALMwuhk0g1cBnGlsYGAF5Q6l9kgw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1fj9Xi-IXOzheVclhAImNyogwvoLEkSVx",
+              "title": "3PNG.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1fj9Xi-IXOzheVclhAImNyogwvoLEkSVx/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO_AMmwajjShK-5O7do-6UEv064QB4Y37PwD9pYYM23ipl6idcaBNOKnDl6IC0gf9I2dfzsrwZf8p39y8XiVyiR07yLzTd7TRjYoV_yUI87Lw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "16HbOqhV4YqBVJg53b6CIvitSNMkyACDH",
+              "title": "4.PNG",
+              "alternateLink": "https://drive.google.com/file/d/16HbOqhV4YqBVJg53b6CIvitSNMkyACDH/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO6sU3RzREKTeW6jE7acoS5fYJxSBnCMmb1dPTyi2ZzBEyJtMdG_EHyl8dJ9rcfvzLAAJF7ckJbCp_Yk1QYbnHX2d5Bo5aB9QqKoP6WlDCUzw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Vc3gfm71Fm2ZliO2oyJHWxRzHR3ahwjn",
+              "title": "1.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1Vc3gfm71Fm2ZliO2oyJHWxRzHR3ahwjn/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOctRozYiz-SQOpcLYajI_3MwiThp0wbWq4IcbMWsy8lWso8V0OscvWKXfqUVdcTBHPHXfWboXIBW9DZS4QWdL0x2etfZrj6NKdE9n-PJ6fig\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1m5hMl69zBJ-GSCiFxlXNaD8F9Y2KPLHW",
+              "title": "2.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1m5hMl69zBJ-GSCiFxlXNaD8F9Y2KPLHW/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOqf-SkRG7deEpLFsBfUumHAxYyE4-9TaRTT79RcJbU1-09A819L9ATCpJbiRlW6aCiZe8SPhv2QStRNS2RlCLFO-xWZgShQNBbLrQPjFGWhQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1kQ9sFaKHhzdNQbLDs_ReXqmuuE8O4wfB",
+              "title": "ngan2.gif",
+              "alternateLink": "https://drive.google.com/file/d/1kQ9sFaKHhzdNQbLDs_ReXqmuuE8O4wfB/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNJjZG1weWyY-XjYvGZe5PSO69UTqTMhs8c5s6N5eNegUQ9dmaua3K-4H6VOXoZnEU_pfIemVITWnb4VqDtzUpZBbcFKTTPLYliBZEakZKj9w\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-05T04:16:05.191Z",
+    "updateTime": "2024-06-05T04:16:30.493Z",
+    "publicationTime": "2024-06-05T04:16:30.165Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การสร้างภาพเคลื่อนไหว"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "jgxg0C3F4sQ",
+        "title": "สร้างภาพเคลื่อนไหว กับ Photoshop CS6",
+        "alternateLink": "https://www.youtube.com/watch?v\u003djgxg0C3F4sQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jgxg0C3F4sQ/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การสร้างภาพเคลื่อนไหวด้วย Adobe Photoshop"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-04T01:41:16.871Z",
+    "updateTime": "2024-06-04T01:43:25.065Z",
+    "publicationTime": "2024-06-04T01:43:25.008Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1a31maLOim43OphC-KifyYsb-i-ce5iK3",
+          "title": "king.jpg",
+          "alternateLink": "https://drive.google.com/file/d/1a31maLOim43OphC-KifyYsb-i-ce5iK3/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPvT9BsueyqFkLT2bXRFiURwvYABKQHa9RVO9SXml2PADlRDVlh6BqcrRLiRlyAIevF6tnZVQ6r39IFo5izodmaMtWGXjpGH2rOOlkGOIY5v2s\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "18w2JUNPjzc2Ypuu19YQJT7RPQ5wA4uVq",
+          "title": "km_av.jpg",
+          "alternateLink": "https://drive.google.com/file/d/18w2JUNPjzc2Ypuu19YQJT7RPQ5wA4uVq/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOaUo_JzRc1VfmLUoc-3Qx31Xv6oQFRTX7OaV4ND7X0aOpE1FrN_UTqMxDbLCnbIrt0hzfGku-tCyFcH5bnlntytJOTuDF3uSRLmGrcPpTOL9o\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "13e5vAeGrjGaLSSeFpPqUBXldLocV85Qp",
+          "title": "q-Recovered.jpg",
+          "alternateLink": "https://drive.google.com/file/d/13e5vAeGrjGaLSSeFpPqUBXldLocV85Qp/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNJfv8TLwm8Sz86eRVk-jDucclrkYAMTcNR1p2O1mwdoGzJS78g3uhk1BlJPe69z6Te4zWvBfqh4u-KENHLuJLDpq98rUuVAuXXWU6wIpWsqJA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "ตัดต่อภาพวันสำคัญ",
+      "description": "ตัดต่อภาพวันสำคัญอย่างน้อย 2 รูป",
+      "descriptionHtml": "\u003cdiv\u003eตัดต่อภาพวันสำคัญอย่างน้อย 2 รูป\u003c/div\u003e",
+      "dueTime": "2024-06-11T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1DCY9_piqXY0wWxnIwCqCr-W1s66CfOj6",
+              "title": "งานตัดต่อ_กนกพร.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1DCY9_piqXY0wWxnIwCqCr-W1s66CfOj6/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMIV9PxvjrZbPharUOfysRUMRooK0A23gR54XjnhkIXixP8m0TcNsNfJCAeQBsylsev9jJu3IgRPKP__3bkPlcmeqbJ9GI_tcKx2XJwOJhT3A\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Pf0SGS-IybYQn2_8xylspT7tDF_sk2Hm",
+              "title": "งานตัดต่อ2.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1Pf0SGS-IybYQn2_8xylspT7tDF_sk2Hm/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNO2xZrz5OdcpWwWXDYVk8zk_ATQHe5vul3ViLKqIUA8_em95dJV3iLvBG8GmEb-ZooWEU7bkstlNADnsIr-1qKFRCBW6ppjV18Y35enP8lFQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1tfhc_6sssWN1vvUzDEdgtg-LzYutERfb",
+              "title": "ปาลิตา.psd",
+              "alternateLink": "https://drive.google.com/file/d/1tfhc_6sssWN1vvUzDEdgtg-LzYutERfb/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOCycGo5q1cXvT7bOpIXwXAb_KAquUvww7pZ8AQBs6EHgChmlFHxseiC8yWr2mce3Hs_ffQgV0naDT0g331oNKBVJ97BzwBUhlL8LHDS9eRYQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Vg3YfP4dnSUvTJcrZ-kmm6Bt4rBSsJTs",
+              "title": "ปาลิตา01.psd",
+              "alternateLink": "https://drive.google.com/file/d/1Vg3YfP4dnSUvTJcrZ-kmm6Bt4rBSsJTs/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMrvAW01VPlrpNRwDgh9ZApX4asmxkIM8xiqf06vZEDWnlDUCaHYNySgGy_7gFg2Q4LyYzpG6WYEGjPb6fEI-EdlBEMNaKEDzuT-vxzTyLRyg\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BIC04044BCpphsvxLIS_REKFe_QIotla",
+              "title": "suntornpu.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1BIC04044BCpphsvxLIS_REKFe_QIotla/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPZYhciqkbOdMIH6xAD0NmLbgkIlEt4qZD9DTCXkr9k4ztNg_yEdPWtcQ7vpjnsRvHSZcR31bR-Fcko_ScOOuuHL7ocR2_O_dLzzZHdrJ0kIg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1QUXo9HIXzWWawncnkgKZE02hFmtUKH01",
+              "title": "wanwoman.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1QUXo9HIXzWWawncnkgKZE02hFmtUKH01/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMySwgDHthRS03WnGyTSvc9pRuDJIAeqftSjjfuBBofgMo5021mpyUnkYMWpmqGS5UxfjlGyo4uhS5Eo1EhSOIAPkli_aethTAZyEviR0WTyg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-28T02:29:35.220Z",
+    "updateTime": "2024-05-29T09:15:44.977Z",
+    "publicationTime": "2024-05-29T09:15:44.768Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/19Y12vkHoqLpr5b_3lYxnDwjALg_pDO1F9En1TvEXges/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/PSpk3vz-_L_RF2dI0rsGHab9EGpP--4U3Gcq_YXhfPG3F9947hI13OByow8O4oDAt58BZgwOruA\u003dw90-h90-p",
+        "editId": "19Y12vkHoqLpr5b_3lYxnDwjALg_pDO1F9En1TvEXges"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+      "dueTime": "2024-06-05T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-28T05:07:14.374Z",
+    "updateTime": "2024-05-28T08:49:05.475Z",
+    "state": "DELETED",
+    "assigneeMode": "ALL_STUDENTS",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1uut_1rrARyRf0iZ16B0tbV-GmA9PyCEK",
+          "title": "sql_ebook_codingthailand.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1uut_1rrARyRf0iZ16B0tbV-GmA9PyCEK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMbbdh57VMSGs5YA2NODVkI8AG1aQ82d9yoG5VCTb6dpUGHTpEPdVLiTfuGaRGb691P9kSEvRkM0pt3LsfqWozUbFJXFZ3skQuRMn4QcfWWUog\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การจัดการฐานข้อมูลเบื้องต้นด้วย SQL"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-28T02:26:39.733Z",
+    "updateTime": "2024-05-28T04:54:21.267Z",
+    "publicationTime": "2024-05-28T02:28:54.402Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "wvyWRJDJMkA",
+        "title": "CHAjAMP How to: ทำรูปติดบัตร ด้วยโปรแกรม Photoshop",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dwvyWRJDJMkA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wvyWRJDJMkA/default.jpg"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1R4bPbPW4QjM5QP7idb51f0QqLfdxrmhP",
+          "title": "pee (1).jpg",
+          "alternateLink": "https://drive.google.com/file/d/1R4bPbPW4QjM5QP7idb51f0QqLfdxrmhP/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMTsQ03bxawxhAG4oHWxem0HMV0tv7jLzW6P0-VoDzhvDsihoXk4CtBzw5m5Q5I_4dpbpJtyeSBvZaSF8Hq8F9vpbR9DyTwBTCcPAGQRu3L8QE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "ทำรูปติดบัตรของตัวเอง",
+      "dueTime": "2024-06-04T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15MS4J1MEuuDOmAr2shYtQTG8m5fbs1bo",
+              "title": "kanokphon.jpg",
+              "alternateLink": "https://drive.google.com/file/d/15MS4J1MEuuDOmAr2shYtQTG8m5fbs1bo/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOzDh1Cz0vEyDu_miHaGoKyjlOLhigkJPSd-A0XvYgi3e0Vu5Ted8Yb4RQSPAYyjII3PCn52T_LMwF2mKXSn393D78MVGkkzOs3wxhdAIev6Q\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "183um7hxBeAOLfotlYjwwIu-2SdHAI7Gp",
+              "title": "Gam.jpg",
+              "alternateLink": "https://drive.google.com/file/d/183um7hxBeAOLfotlYjwwIu-2SdHAI7Gp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNiE5MN5B4c8ceAY1IunqlSmo24mFbbx2OHuyRF89C5c20pzV30Q7hOfztXB0VrSCURdF95T-XIqZ0XTQSGtklp7-Jz_6gKCJdyVtvq_Zo41Q\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1WXWp7au4ZNAJagOwnOrtBdnWp8S8Qi-T",
+              "title": "Untitled-2.png",
+              "alternateLink": "https://drive.google.com/file/d/1WXWp7au4ZNAJagOwnOrtBdnWp8S8Qi-T/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNRaSN9DGno8VsIxjogEdcTkPpfOrqmr9mTLzmBxO1-bjxnKksiGt6-ADn8D6wQJXxNLxf-fKT6whSttXzmpbMv0_z-IzGKJJMHPV41MS9CWQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1d6f4esUatBsQog9UN_oJskleM-HYzwcH",
+              "title": "Untitled-1.png",
+              "alternateLink": "https://drive.google.com/file/d/1d6f4esUatBsQog9UN_oJskleM-HYzwcH/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMnqACHMZo0Pv3ppgMZhsgbpwVXc77HneXDkmYJskgxuoFvXmN7qkZt4dgZB32u2vPeZ02ZtvMeQKlUMKP5yppHtNstzxcwRNngiOEoJTvzEA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-28T02:22:08.754Z",
+    "updateTime": "2024-05-28T02:25:54.486Z",
+    "publicationTime": "2024-05-28T02:25:54.290Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.mindonmap.com/th/blog/remove-background-in-photopea/#:~:text\u003d%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%99%20Photopea\u0026text\u003d%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%96%E0%B8%B6%E0%B8%87%20%E0%B9%82%E0%B8%9F%E0%B9%82%E0%B8%95%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%20%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A,%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E",
+        "title": "คำแนะนำที่มีประสิทธิภาพเกี่ยวกับวิธีลบพื้นหลังใน Photopea",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.mindonmap.com/th/blog/remove-background-in-photopea/%23:~:text%3D%25E0%25B8%25A7%25E0%25B8%25B4%25E0%25B8%2598%25E0%25B8%25B5%25E0%25B9%2580%25E0%25B8%259A%25E0%25B8%25A5%25E0%25B8%25AD%25E0%25B8%259E%25E0%25B8%25B7%25E0%25B9%2589%25E0%25B8%2599%25E0%25B8%25AB%25E0%25B8%25A5%25E0%25B8%25B1%25E0%25B8%2587%25E0%25B9%2583%25E0%25B8%2599%2520Photopea%26text%3D%25E0%25B9%2580%25E0%25B8%2582%25E0%25B9%2589%25E0%25B8%25B2%25E0%25B8%2596%25E0%25B8%25B6%25E0%25B8%2587%2520%25E0%25B9%2582%25E0%25B8%259F%25E0%25B9%2582%25E0%25B8%2595%25E0%25B9%2589%25E0%25B9%2580%25E0%25B8%259B%25E0%25B8%25B5%25E0%25B8%25A2%2520%25E0%25B8%259A%25E0%25B8%2599%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259A,%25E0%25B9%2580%25E0%25B8%259A%25E0%25B8%25A5%25E0%25B8%25AD%25E0%25B8%259E%25E0%25B8%25B7%25E0%25B9%2589%25E0%25B8%2599%25E0%25B8%25AB%25E0%25B8%25A5%25E0%25B8%25B1%25E0%25B8%2587%25E0%25B8%2582%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "zJlJA0g4PYc",
+        "title": "วิธีลบพื้นหลังรูปด้วย photoshop cs6 ง่ายๆทำตามได้ไม่ยาก บอกกันแบบจับมือทำเลยน่ะ",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dzJlJA0g4PYc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zJlJA0g4PYc/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ลบพื้นหลัง"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-28T02:20:03.658Z",
+    "updateTime": "2024-05-28T02:20:16.023Z",
+    "publicationTime": "2024-05-28T02:20:15.886Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1HOUk9aP3MQCk7URgdOLSX9A3JWNNr8v_",
+          "title": "เอกสารประกอบการสอนวิชาถ่ายภาพเบื้อต้น.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1HOUk9aP3MQCk7URgdOLSX9A3JWNNr8v_/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNSDWfc0wsp9x2WnMZNL1Uulz3_huwj663e3BwTUTWFyWvJQSnyQPpRd3lQ0FiPmkdVXxpPmblXkxLIfDVm_Ros3OQNv45xpzUZgw4xnjsoCys\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การถ่ายภาพด้วยกล้อง DSLR"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-27T05:03:25.385Z",
+    "updateTime": "2024-05-27T05:03:39.649Z",
+    "publicationTime": "2024-05-27T05:03:39.495Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://send.cm/d/aFV1",
+        "title": "ha24bhukbyoo",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://send.cm/d/aFV1"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ลิงก์ Photoshop Portable",
+      "description": "รหัสแตกไฟล์ mawto",
+      "descriptionHtml": "\u003cdiv\u003eรหัสแตกไฟล์ mawto\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-27T04:28:29.621Z",
+    "updateTime": "2024-05-27T05:03:05.505Z",
+    "scheduledTime": "2024-05-27T05:00:00Z",
+    "publicationTime": "2024-05-27T05:03:05.452Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1171MOyIIMtMQlSlKSE2or7U4aYRavQCB6bijteehwr8/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/YiSfKrFqfiOVeJFqRAkpsJfAKeWSvIHYeoVr-fT3yj6ziO-s3TLby12td4pPTmiogn6j0aW-oTs\u003dw90-h90-p",
+        "editId": "1171MOyIIMtMQlSlKSE2or7U4aYRavQCB6bijteehwr8"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+      "dueTime": "2024-05-28T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-27T05:01:03.819Z",
+    "updateTime": "2024-05-27T05:01:07.792Z",
+    "publicationTime": "2024-05-27T05:01:07.600Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.photopea.com/",
+        "title": "Photopea | Online Photo Editor",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.photopea.com/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "แต่งภาพออนไลน์"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-21T03:50:55.848Z",
+    "updateTime": "2024-05-21T03:51:20.708Z",
+    "publicationTime": "2024-05-21T03:51:20.552Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 สีในงานออกแบบสื่อดิจิทัล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1VEx-n-F1qRdQAYLiD23uT_NwS_asTdTVWdDzdxsRlXc/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/LJAFM-wWrAIvjqxTX9-Bsg4App6EOrH-ZrV8nSzyP9ySMFRq8lNEC8cSgIg4vGzxjIqMKbreMuI\u003dw90-h90-p",
+        "editId": "1VEx-n-F1qRdQAYLiD23uT_NwS_asTdTVWdDzdxsRlXc"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+      "dueTime": "2024-05-27T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T09:16:25.442Z",
+    "updateTime": "2024-05-20T09:16:28.397Z",
+    "publicationTime": "2024-05-20T09:16:28.207Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 สีในงานออกแบบสื่อดิจิทัล"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.w3schools.com/css/css_colors_hsl.asp#:~:text\u003dHue%20is%20a%20degree%20on,100%25%20is%20the%20full%20color.",
+        "title": "CSS HSL Colors",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.w3schools.com/css/css_colors_hsl.asp%23:~:text%3DHue%2520is%2520a%2520degree%2520on,100%2525%2520is%2520the%2520full%2520color."
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "hue saturation value"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T08:49:56.339Z",
+    "updateTime": "2024-05-20T08:50:11.526Z",
+    "publicationTime": "2024-05-20T08:50:11.327Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 สีในงานออกแบบสื่อดิจิทัล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/109TK6kfHRUiWTquR8WvSA82v8Cm4tqAVR4xgCrss7hM/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/JZkTcn0IbPwl8mwFAp-3tnTHpriMCrHNBPX0omUZDEx-tQEnIeCyIyzW4jSA6iDwhOl0fmhk-t0\u003dw90-h90-p",
+        "editId": "109TK6kfHRUiWTquR8WvSA82v8Cm4tqAVR4xgCrss7hM"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+      "dueTime": "2024-05-21T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T15:10:07.480Z",
+    "updateTime": "2024-05-14T04:30:19.221Z",
+    "publicationTime": "2024-05-14T04:30:19.151Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การออกแบบสื่อดิจิทัล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1anWaWFSWrkBGtBjiE-PEK4KoqIPtEKu_INKO1iaxICg/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/8ERlE7BNQMkJJYL4vxYH13ERgZMp5wcOhMWthg0b8Yf0M6w2gzyY9Ygp3rU3h-zx-6_wlul2T0A\u003dw90-h90-p",
+        "editId": "1anWaWFSWrkBGtBjiE-PEK4KoqIPtEKu_INKO1iaxICg"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+      "dueTime": "2024-05-15T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T14:39:18.007Z",
+    "updateTime": "2024-05-14T03:44:19.833Z",
+    "scheduledTime": "2024-05-14T01:00:00Z",
+    "publicationTime": "2024-05-14T01:01:48.957Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การออกแบบสื่อดิจิทัล"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1ksff_JHm1PuATWiQLm2h0zHq-PK1LxEyIeWHxIEqDdQ/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/TIEB0Y2SIJ9bwEJHGbYmsoFWoLOkrPzBPdrg8vG0Z00bygO98alCmtcaWFvJOvcCgZq6pXPR5BY\u003dw90-h90-p",
+        "editId": "1ksff_JHm1PuATWiQLm2h0zHq-PK1LxEyIeWHxIEqDdQ"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "dueTime": "2024-05-14T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "กนกพร ผลไม้"
+            },
+            "emailAddress": "67319010002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ปาลิตา ปูลา"
+            },
+            "emailAddress": "67319010003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "เมฆเริงฟ้า หมื่นหาวงค์"
+            },
+            "emailAddress": "67319010004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T07:24:55.645Z",
+    "updateTime": "2024-05-13T07:24:59.198Z",
+    "publicationTime": "2024-05-13T07:24:59.021Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 9 การสร้างหนังสืออิเล็กทรอนิกส์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1XOtQOCKsOzTJGu93EzruAknHP1-ktNIf",
+          "title": "9 E-Book.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1XOtQOCKsOzTJGu93EzruAknHP1-ktNIf/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM_JQ4c-lSdKjPxqLW2Yi4yCS3CiQ2fmI-KLp5mvITx0e_oaE-LTRpLbZZm3NRdKhNxJMqpEStZCht3Lzjhn2ZDFUjmp5MtaTaTVG1f5Csf9WM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "E-Book"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T07:23:20.783Z",
+    "updateTime": "2024-05-13T07:23:24.287Z",
+    "publicationTime": "2024-05-13T07:23:24.205Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 8 การออกแบบสื่อสิ่งพิมพ์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1owaN-AJ517bZX1PAixoKaQNqWFYUdYnI",
+          "title": "8 โปรแกรม Adobe Indesign เบื้องต้น.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1owaN-AJ517bZX1PAixoKaQNqWFYUdYnI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMaVJpmBqnR-F34cH9LJTmyyLZiYEv9JUTC4kgOcrfqWkzTuA-cPiiy2HqcCyOTOr9FKH8MDGjs-dd1VpE0N7Wch6ts_h0V0piUbodZ56fVkxo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "โปรแกรม Adobe Indesign เบื้องต้น "
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T07:22:10.711Z",
+    "updateTime": "2024-05-13T07:22:15.476Z",
+    "publicationTime": "2024-05-13T07:22:15.268Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 7 งานกราฟิกส์ประเภท Vector based"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1xkd2HJkXcmOBS758proUwCOTp59WNDVL",
+          "title": "7 โปรแกรม Illustrator เบื้องต้น.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1xkd2HJkXcmOBS758proUwCOTp59WNDVL/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOjd4SCgNALIXcsQYFTJG7sZqQnB3GWHVrtJLNzR6z5b9BQWNHI66S9Avz0OyXcQr4XdUPqzFeb906lxaBf3kpJRMdDBh-BYl7NgvWFrlEGUOs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "โปรแกรม Illustrator เบื้องต้น"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T07:21:10.986Z",
+    "updateTime": "2024-05-13T07:21:11.961Z",
+    "publicationTime": "2024-05-13T07:21:11.798Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 การสร้างแบนเนอร์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1EPBNJjPWeY_XQL1Iyc26QX44QAM5Gaxq",
+          "title": "5 Banner.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1EPBNJjPWeY_XQL1Iyc26QX44QAM5Gaxq/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMUGgPLk20k9EgGEImThmDKnDle0zeT7O0JUXBpYl8xqc9XzgSsAXCfnN4Xi2XeW51Egom7a3rKZtxlHI9o1UWNV3iWV8ggqFEgIlIEYF2rY4c\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Banner"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T07:20:01.942Z",
+    "updateTime": "2024-05-13T07:20:31.229Z",
+    "publicationTime": "2024-05-13T07:20:31.147Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 6 การสร้างจดหมายข่าวออนไลน์"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ZtkhGRB88ODRAKw-gL6HKw-_JFo6nBKh",
+          "title": "6 E-newsletter.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ZtkhGRB88ODRAKw-gL6HKw-_JFo6nBKh/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP1YQ-x1SU55BOCiJlJh0KsdAq8qs-yNPfdZWIabVNygFdx8djAYAHw9jds1teaDM19scjEJr3slg3NYxufFshiJ2AeyuEUACMfPgdVmzXc4qc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "E-newsletter"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T07:19:09.729Z",
+    "updateTime": "2024-06-05T04:22:02.875Z",
+    "publicationTime": "2024-05-13T07:19:20.150Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 การสร้างภาพเคลื่อนไหว"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ILThd7w-Lr4Y6KNeEN8_DOFdl1PeaCCC",
+          "title": "4 การสร้างภาพเคลือนไหว.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ILThd7w-Lr4Y6KNeEN8_DOFdl1PeaCCC/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM0Kv8Pu_XWs5hsM4YGwHNBoL-2yDJHuzQEzc9X_vGxOpPCZFkf0xyH24wIGucumpk3G_HXq8mHGtQqCVwM74MGp-kVBHvQTxxOsg82n1A6Bc0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1gFNCwzNcERbW7_iVllD5r3zWCTe0-yYS",
+          "title": "บทที่-2-กระบวนการและหลักการในการสร้างภาพเคลื่อนไหว.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1gFNCwzNcERbW7_iVllD5r3zWCTe0-yYS/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPYaT2AE7-q4D-W30tv4WiOiZHpHvbFL1e8P0APKrW7eptKEj6Feyh8_N624QRt7ZeESWricUnEXCktboGXMn-GjfVHwF885PJEhoH6q-lBptU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การสร้างภาพเคลื่อนไหว"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T07:17:59.142Z",
+    "updateTime": "2024-05-27T05:00:37.224Z",
+    "publicationTime": "2024-05-13T07:18:03.389Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 โปรแกรมการจัดการภาพ"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1CDoxkgiD8s7FP7Y54QJ5TCt_K_p3X0sU",
+          "title": "3 โปรแกรม Adobe Photoshop.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1CDoxkgiD8s7FP7Y54QJ5TCt_K_p3X0sU/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMQv24b3s1Sp-fdmgfDAkvrdh8zj4VF4PbGrvxAFFEbbCOsPzz-JT1ltCKuFKmqGT0W0hQpQrxuttYguhw7M0u6EoCEg9QUUsIhke0Av-jwbzU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1UmnYY1FwvO2YcLBBp3RKBK_uWlsL5-q7",
+          "title": "p3_p144209_4.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1UmnYY1FwvO2YcLBBp3RKBK_uWlsL5-q7/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNWw7oGJwvcxDPISuOJ5t1mMGCwsixmO1fp84gE5ttWyQeT2E4SGhIxmrrlR0eVzlcosaIbPrrQgbJMEBlATZyWov9YQshItYJwUJksq_YrGwU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1xFOb_Da3y8cc4osX1C9UWTr3-EfZZqEb",
+          "title": "p3.1_การใช้โปรแกรม Photoshop.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1xFOb_Da3y8cc4osX1C9UWTr3-EfZZqEb/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMVTU8NANqnmR-2Qg4Y3S2Azw6frsKT_khTAp9yb3dFSXXJUZr_7L7imNelwmbdKzLa7N8KQ6wJqjLk7DYbciPpLqUhk568SnNtkOuXnLWK5xo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "โปรแกรม Adobe Photoshop"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T07:16:04.577Z",
+    "updateTime": "2024-05-14T02:02:53.615Z",
+    "publicationTime": "2024-05-13T07:16:05.639Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การออกแบบสื่อดิจิทัล"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1tncZp_rYnffL_HEVogqojCtYMBI3NWKu",
+          "title": "1 การออกแบบสื่อดิจิทัล.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1tncZp_rYnffL_HEVogqojCtYMBI3NWKu/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMTivDa4YKspHE4W1dXcxRL1Jt0Z7sWQ4QXvuisYBh2vq84t4bjPQA5cRNtd7Stwik5G-DYTrla3dvPETID_RGRRU8SmZ5WFSQreIxuiugOVTw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "11OT-lvMh4fDKhlAjdgv2-peA3JVQD8Jx",
+          "title": "p1.1_p144209_2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/11OT-lvMh4fDKhlAjdgv2-peA3JVQD8Jx/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOlySswEyBukPIeKiysasZi9DSrYhvMxsGZEJGdFmwEC8v-Z13LxTXwdiaWYEsFmMOMM4fEOv-fyy9fqFYxBPwEKHcuDV4tV8cBIC3up5ubAAI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "การออกแบบสื่อดิจิทัล"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T07:15:06.990Z",
+    "updateTime": "2024-05-14T02:12:10.552Z",
+    "publicationTime": "2024-05-13T07:15:12.558Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 สีในงานออกแบบสื่อดิจิทัล"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1qCFqfr28U08knCTLEa_pb0dBdyVMoWfk",
+          "title": "สี.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1qCFqfr28U08knCTLEa_pb0dBdyVMoWfk/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNy6O4mEDdQJemTYA4Dxi8I1a29xI01Ea7roJ_KeR-L16GsGxWmw63jPy7BxqCpxgfJJdkRxhD5kxIPKZ0MMgvg-4vW7CFpZDWYEakebU_sQpM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "10Jca3dqG5oo19W_hcVfxbh4rN06b-ise",
+          "title": "p2_p144209_3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/10Jca3dqG5oo19W_hcVfxbh4rN06b-ise/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPg8vd3QbaGymRKhPNZMHcTWZORdx32MAu5H446-CJph1do-l7FrgL5mgfn-SvELjS7IVYZTM156CMTU9ekpmEhrTir6dVqj92cglHqIPWjUIM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "สีในการออกแบบสื่อ"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T01:20:43.838Z",
+    "updateTime": "2024-05-14T02:03:13.376Z",
+    "publicationTime": "2024-05-13T01:21:32.274Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตรรายวิชา"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1quWr0HYGWMP-JQvmj5QP-7Z-RG6aaPzE",
+          "title": "31900-1003.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1quWr0HYGWMP-JQvmj5QP-7Z-RG6aaPzE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOnjegzzCv02Mt2ZheT8_pyYJujlj6uinjo3eqbf3zNmefIYg5JIgaauuECqO1sPdjrng4fx9MKcKIYsCmZQUmnAnaTINvd_keRiimWhqQDMCk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1vpmeQObaKO9DvMSALY168ttCOg3QLUzZ",
+          "title": "p1_p144209_1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1vpmeQObaKO9DvMSALY168ttCOg3QLUzZ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPoLlcDn-CV7bcBF47QcY3b303uwmGE803QNZhn-jultkpaC8B5bUg7Sf17CyPKdcUJNQypbCt4VOC09CIpxuTNkTAPJ2iSZOhiS6xiBRexaac\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำอธิบายรายวิชา"
+    }
+  }]
+}

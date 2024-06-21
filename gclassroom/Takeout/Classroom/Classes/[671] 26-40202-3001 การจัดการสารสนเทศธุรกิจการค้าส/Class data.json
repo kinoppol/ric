@@ -1,0 +1,1427 @@
+{
+  "version": 1,
+  "name": "[671] 26-40202-3001 การจัดการสารสนเทศธุรกิจการค้าสมัยใหม่",
+  "section": "ทล.บ.กต.1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom9c106daf@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1fcnGI_aYDNgGvFZGHIc-540S8j-ZwI7D4Id9MqAnohHXM4uZEXiLQ-7FphvzqVQoG3fwkwXQ",
+    "name": "[671] 26-40202-3001 การจัดการสารสนเทศธุรกิจการค้าสมัยใหม่ ทล.บ.กต.1",
+    "openUrl": "https://drive.google.com/drive/folders/1fcnGI_aYDNgGvFZGHIc-540S8j-ZwI7D4Id9MqAnohHXM4uZEXiLQ-7FphvzqVQoG3fwkwXQ"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_bookclub.jpg",
+  "courseState": "ACTIVE",
+  "owner": {
+    "name": {
+      "fullName": "นพพล อินศร"
+    },
+    "emailAddress": "noppol@rvc.ac.th"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    }
+  }],
+  "students": [{
+    "profile": {
+      "name": {
+        "fullName": "นางสาวเทพนารี ศรีจันทร์"
+      },
+      "emailAddress": "6742020010@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "วัลลภา พลีศักดิ์"
+      },
+      "emailAddress": "6742020003@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "นิภาพร พิมพ์กลาง"
+      },
+      "emailAddress": "6742020002@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ชุติมา เกินจันทร์"
+      },
+      "emailAddress": "6742020008@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ลลิตา ไม่หวั่น"
+      },
+      "emailAddress": "6742020006@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ชลดา แก่นใจเด็ด"
+      },
+      "emailAddress": "6742020005@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "วีระชัย ตะริดโน"
+      },
+      "emailAddress": "6742020009@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ศศิกานต์ อนุไพร"
+      },
+      "emailAddress": "6742020004@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "จักรกฤษณ์ วรสิงห์"
+      },
+      "emailAddress": "6742020001@rvc.ac.th"
+    }
+  }, {
+    "profile": {
+      "name": {
+        "fullName": "ชลธิชา สวาดนา"
+      },
+      "emailAddress": "6742020007@rvc.ac.th"
+    }
+  }],
+  "topics": [{
+    "name": "หน่วยที่ 1 การค้าสมัยใหม่"
+  }, {
+    "name": "หน่วยที่ 2 ระบบสารสนเทศงานการค้าสมัยใหม่"
+  }, {
+    "name": "หน่วยที่ 3 ระบบขายหน้าร้าน Point of sale (POS)"
+  }, {
+    "name": "หน่วยที่ 4 ระบบลงเวลาปฏิบัติงาน Daily Attendance System (DAS)"
+  }, {
+    "name": "หน่วยที่ 5 โปรแกรมบัญชี (Accounting Software)"
+  }, {
+    "name": "หลักสูตรรายวิชา"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-17T04:13:04.582Z",
+    "updateTime": "2024-06-17T07:43:40.905Z",
+    "publicationTime": "2024-06-17T07:43:40.764Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 ระบบขายหน้าร้าน Point of sale (POS)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/168ln1mVQuQQUIodETCSqOyl3iGiEecWSyYCBxs8Gm14/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/oKs63ySIVeXfSilbHiYGDKxAdNxOO1wKZeVUP6f6wB0FghYJ6nacmQrYLyf6xh1LmZfOYQojH7E\u003dw90-h90-p",
+        "editId": "168ln1mVQuQQUIodETCSqOyl3iGiEecWSyYCBxs8Gm14"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 3",
+      "dueTime": "2024-06-24T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชลดา แก่นใจเด็ด"
+            },
+            "emailAddress": "6742020005@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-17T06:32:30.464Z",
+    "updateTime": "2024-06-17T07:46:28.893Z",
+    "publicationTime": "2024-06-17T06:32:59.571Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 ระบบขายหน้าร้าน Point of sale (POS)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1VWqNxYeirg3cuX9_RPTQOmf2D6hkug3e1ZbOaBugqrk/edit",
+        "title": "สมัครงานร้านสาธิตการเรียนรู้ธุรกิจการค้าสมัยใหม่ รายวิชาการจัดการสารสนเทศธุรกิจการค้าสมัยใหม่",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/on1lQ-HP8PyOyQCxY-K2Lb2KG7z1eoYqUroJ_E-Uwfj9Q0u_rBmsmXOPMEIBJO768-Fa8C0Lugk\u003dw90-h90-p",
+        "editId": "1VWqNxYeirg3cuX9_RPTQOmf2D6hkug3e1ZbOaBugqrk"
+      }
+    }, {
+      "link": {
+        "url": "https://c2m.edsup.org",
+        "title": "Staff Login",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://c2m.edsup.org"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1wvKc2YZS5GPKOZlAInrbOmYrWYbIcKbF",
+          "title": "ชื่อร้าน.docx",
+          "alternateLink": "https://drive.google.com/file/d/1wvKc2YZS5GPKOZlAInrbOmYrWYbIcKbF/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOwRmH7xZlqOXuTh5MbTJl31avnjwsL9eXPvS-OS7Y3qlYoigcNPX4IwkhD-B0mQ40kTr-3roRjOoUJzt6_69zQNaC4UIbUuwgnuSRVd0T3JwE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "กรอกข้อมูลพนักงาน"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-17T03:44:52.645Z",
+    "updateTime": "2024-06-17T06:34:45.204Z",
+    "scheduledTime": "2024-06-17T06:00:00Z",
+    "publicationTime": "2024-06-17T06:04:08.848Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 ระบบขายหน้าร้าน Point of sale (POS)"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1UM_20APylh-eFazevwoLtenHq23XbWnaM085xpB2UtA/edit",
+        "responseUrl": "https://docs.google.com/spreadsheets/d/10r15CzrePy6UqJ5iAjlh5uKeWA4B2rQ1PBT1APb5s1s?resourcekey\u003d\u0026usp\u003demb#gid\u003d1948961938",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/ceZCQnLsW0yYYV1pq8isO1-hpyBQl1RjKcvrdV9vzAnxO0bff_1YchEQmiEK_44gbIHz-Lg_64Q\u003dw90-h90-p",
+        "editId": "1UM_20APylh-eFazevwoLtenHq23XbWnaM085xpB2UtA"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชลธิชา สวาดนา"
+            },
+            "emailAddress": "6742020007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จักรกฤษณ์ วรสิงห์"
+            },
+            "emailAddress": "6742020001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 2.0,
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชลดา แก่นใจเด็ด"
+            },
+            "emailAddress": "6742020005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1t98qiMzCePBKSPwUDWE1kC0HOeQXp6KP",
+              "title": "แบบทดสอบก่อนเรียนหน่วยที่ 3 (17 มิ.ย. 2024 เวลา 16:12 น.).jpg",
+              "alternateLink": "https://drive.google.com/file/d/1t98qiMzCePBKSPwUDWE1kC0HOeQXp6KP/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMx134Bbo2VO5_eBwI5zX44GI5KaT-5X-nOnkM-SCedPQY5p4pGduDHBwPSG58Zgpx-nrFU6LrC4eTOsvSxcODIs6i-57AoVwOALdqfaV35joU\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศศิกานต์ อนุไพร"
+            },
+            "emailAddress": "6742020004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 10.0,
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชุติมา เกินจันทร์"
+            },
+            "emailAddress": "6742020008@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ลลิตา ไม่หวั่น"
+            },
+            "emailAddress": "6742020006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นิภาพร พิมพ์กลาง"
+            },
+            "emailAddress": "6742020002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วัลลภา พลีศักดิ์"
+            },
+            "emailAddress": "6742020003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวเทพนารี ศรีจันทร์"
+            },
+            "emailAddress": "6742020010@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    },
+    "comments": [{
+      "creator": {
+        "name": {
+          "fullName": "ชลดา แก่นใจเด็ด"
+        },
+        "emailAddress": "6742020005@rvc.ac.th"
+      },
+      "creationTime": "2024-06-17T09:13:17.148Z",
+      "updateTime": "2024-06-17T09:13:17.148Z",
+      "comment": "อาจารย์ลงคะแนนหนูผิดค่ะ",
+      "commentHtml": "\u003cdiv\u003eอาจารย์ลงคะแนนหนูผิดค่ะ\u003c/div\u003e",
+      "state": "PUBLISHED",
+      "commentVisibility": "COURSE"
+    }]
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-10T02:46:18.616Z",
+    "updateTime": "2024-06-10T07:24:09.168Z",
+    "publicationTime": "2024-06-10T07:24:09.021Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบสารสนเทศงานการค้าสมัยใหม่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1cpj7NV1aGfXRhibk9WCmOas0lQjxYz_uMGhyGrlzJN8/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/MdUrvf7wWUs9ago7TItFuhHjQXXvZ80ebZD00eZUlU7w7jjbzze5Tg4g2iV3RvqWFC_ZZhgv6sE\u003dw90-h90-p",
+        "editId": "1cpj7NV1aGfXRhibk9WCmOas0lQjxYz_uMGhyGrlzJN8"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 2",
+      "dueTime": "2024-06-17T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จักรกฤษณ์ วรสิงห์"
+            },
+            "emailAddress": "6742020001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วีระชัย ตะริดโน"
+            },
+            "emailAddress": "6742020009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศศิกานต์ อนุไพร"
+            },
+            "emailAddress": "6742020004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ลลิตา ไม่หวั่น"
+            },
+            "emailAddress": "6742020006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชลดา แก่นใจเด็ด"
+            },
+            "emailAddress": "6742020005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชุติมา เกินจันทร์"
+            },
+            "emailAddress": "6742020008@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นิภาพร พิมพ์กลาง"
+            },
+            "emailAddress": "6742020002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วัลลภา พลีศักดิ์"
+            },
+            "emailAddress": "6742020003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวเทพนารี ศรีจันทร์"
+            },
+            "emailAddress": "6742020010@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-06-10T06:33:28.325Z",
+    "updateTime": "2024-06-10T06:51:04.354Z",
+    "publicationTime": "2024-06-10T06:43:16.612Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบสารสนเทศงานการค้าสมัยใหม่"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1BBbjHDArPNyNpluOKkFL4VAE02tXtVUj",
+          "title": "ชื่อร้าน.docx",
+          "alternateLink": "https://drive.google.com/file/d/1BBbjHDArPNyNpluOKkFL4VAE02tXtVUj/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPslnX2YHsrq37qwh_hHDxqCNmw2Q2ePtBNRzVNEC2BYyI5V9a8g6uTuPdwjbBxBNkdTJ93jjV96UKtoZD_HQbuLs5PpjI23jmHVRAa47YoE4o\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "link": {
+        "url": "https://logo.com/",
+        "title": "Free Logo Maker - Over 20 Million Logos Made | LOGO.com | LOGO.com",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://logo.com/"
+      }
+    }],
+    "courseWork": {
+      "title": "ตั้งร้านค้า",
+      "description": "1 ให้นักศึกษาแบ่งกลุ่ม 3-4 คน (มี 1 กลุ่มที่มี 4 คน)\n2 ตั้งชื่อร้าน\n3 ออกแบบสัญลักษณ์ (Logo) ของร้าน (สีเดียว/ขาวดำ) ใช้ประกอบ Slip ใบเสร็จ",
+      "descriptionHtml": "\u003cdiv\u003e1 ให้นักศึกษาแบ่งกลุ่ม 3-4 คน (มี 1 กลุ่มที่มี 4 คน)\u003cbr\u003e2 ตั้งชื่อร้าน\u003cbr\u003e3 ออกแบบสัญลักษณ์ (Logo) ของร้าน (สีเดียว/ขาวดำ) ใช้ประกอบ Slip ใบเสร็จ\u003c/div\u003e",
+      "dueTime": "2024-06-17T16:59:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศศิกานต์ อนุไพร"
+            },
+            "emailAddress": "6742020004@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dmK5Oz_SfqmGA3LnEOih5F2lcZLpKggg",
+              "title": "ชื่อร้าน PLEARNCHA  COFFEE SHOP.docx",
+              "alternateLink": "https://drive.google.com/file/d/1dmK5Oz_SfqmGA3LnEOih5F2lcZLpKggg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO21_dYJgax6Hcscg5nxG-dpoB5COMhUysmYZly1XaFBVJ8t_ATW2mr0JwifrnOfUxifgQWEJiUSoXdbL4V0Cpz9SCw0XUb4Dd3xgJm5lWjs34\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จักรกฤษณ์ วรสิงห์"
+            },
+            "emailAddress": "6742020001@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BcbAkwMUKZHQ7pGlrJpu8qKLaxoS6GlGVFVF5Lfo2qM",
+              "title": "จักรกฤษณ์ วรสิงห์ - ตั้งร้านค้า",
+              "alternateLink": "https://docs.google.com/document/d/1BcbAkwMUKZHQ7pGlrJpu8qKLaxoS6GlGVFVF5Lfo2qM/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPk00jcHopYi6KDt6be0l8YsDvzzAIxVaOsWLcOeD2rtoqdWIezoL0kgSDLi6AtXfGNFO9oO5rp8g1fdfaftJStu-q397uk9Ep8FD2mnEtETpSD9ZLZUeh-CdeooUhRiUlChVE\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วีระชัย ตะริดโน"
+            },
+            "emailAddress": "6742020009@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18Ws2Bg3oGtywg87l2n2V9iP5wsuowbbhI94dy51wV_I",
+              "title": "วีระชัย ตะริดโน - ตั้งร้านค้า",
+              "alternateLink": "https://docs.google.com/document/d/18Ws2Bg3oGtywg87l2n2V9iP5wsuowbbhI94dy51wV_I/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNKEBTZ2FxE_VIeLBoPxS-R9Y513xVCNdKwzyUuEn4QApkvOWU4pW0Gpsgup0Se1dG3t-nkl5Av3p-Wy81N1ErjTNiGluNrXLHTcgbX-r1AFwsu4OQeyP6YiszT-bSxzPAvwLs\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ลลิตา ไม่หวั่น"
+            },
+            "emailAddress": "6742020006@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "122rJUJ4YVOIEoJu-k7n3-X9x7OtazM5VUjut9AcIvxY",
+              "title": "ชื่อร้าน",
+              "alternateLink": "https://docs.google.com/document/d/122rJUJ4YVOIEoJu-k7n3-X9x7OtazM5VUjut9AcIvxY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOGDCkoLQr_fRBf7uEN7_i3BoTzL4aWL5FZMOgnovr07kg0RA3SAHXDoTMoKGUfCFOsCOR5ICsiL_mmCmA9L6EJZDtfhP6qsUwjf37LaHA5Bs2R6yZomSS2nS09K_mDBpndfhQ\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชลดา แก่นใจเด็ด"
+            },
+            "emailAddress": "6742020005@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18TDItd7Z1R86oyJNRgSi-gAGzc35iLSx4u-VEHR8MJA",
+              "title": "ชื่อร้าน",
+              "alternateLink": "https://docs.google.com/document/d/18TDItd7Z1R86oyJNRgSi-gAGzc35iLSx4u-VEHR8MJA/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMIydzjchjYCjQA3KFr4r9VHkmpex85nogZ4e2fObRookDsIcrEH-lBsSk634c5pPu2rTnptfLVVBgtuvRdqwfPJInCgBBb19xQFfMCbOfDn0a4_KLuWFIgd_veNcRoeBpO-eM\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชุติมา เกินจันทร์"
+            },
+            "emailAddress": "6742020008@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19rWKQF0hj8kVaXzu881hsPjqLGRsYBQt9XwQE_UMcUI",
+              "title": "ชุติมา เกินจันทร์ - ตั้งร้านค้า",
+              "alternateLink": "https://docs.google.com/document/d/19rWKQF0hj8kVaXzu881hsPjqLGRsYBQt9XwQE_UMcUI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNUxGA0uQ318MiMDoChKAnXgy5pK9iKwZ4opcu-aafXA9R6-9f3qcukjmC9Ftl48rWSFEG0EmGCik0jUePaxYGWv0Na1dKW2of0Sv85FvNhdrhl8zecF2NvSGFnupKQ-iyssWg\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นิภาพร พิมพ์กลาง"
+            },
+            "emailAddress": "6742020002@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19STF_8jhPVy-gV7wDknHi31qyyA7o4mr7ucs0FWKFRI",
+              "title": "ชื่อร้าน",
+              "alternateLink": "https://docs.google.com/document/d/19STF_8jhPVy-gV7wDknHi31qyyA7o4mr7ucs0FWKFRI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPrIgFe2QhmXMa_gYzc4RxpFM1XX0S_xmYEuYH2sK82XJiqlkS_s9mE1LHVh_K5UdCUX42c-JDBZAEdsm4EO3xoKdWx7rZmbjczarN-nO38Xt337j8PeLGP1Zcm77AQvgS_0Ag\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วัลลภา พลีศักดิ์"
+            },
+            "emailAddress": "6742020003@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Y-BMfKlGLHrRiyFU5bWdXzHmOMZVJbJY6AulRdTMhpA",
+              "title": "ชื่อร้าน",
+              "alternateLink": "https://docs.google.com/document/d/1Y-BMfKlGLHrRiyFU5bWdXzHmOMZVJbJY6AulRdTMhpA/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNNkxZEn8iIFv-8v0FvSPtJIeGIq4RHd4amX5wVoLlNyH_UdPgSq-UJN5E7F4lPBNViUGyLpi4oP8BZT6zaW4hjMsaB4xtezKAtNX1GLtzHUIpGBkbi5qpitgk-BGnXglNiG1g\u003ds200"
+            }
+          }]
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวเทพนารี ศรีจันทร์"
+            },
+            "emailAddress": "6742020010@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1nwaRU-m5nQcI7IeJDYW4jeGQMsy8zZGOAPr3Zo3tupY",
+              "title": "ชื่อร้าน",
+              "alternateLink": "https://docs.google.com/document/d/1nwaRU-m5nQcI7IeJDYW4jeGQMsy8zZGOAPr3Zo3tupY/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOZljjaYztDLp4yN45ZtUP-5uWcRspNHp2BT9dJR_bNqjXRGztheYmaERzdLXphj2QU_XAk6p5eJzSepETLVP3caxPLjll4zwMqHlw5WXvmpLHIWKp6n7hdRSETq15RrnVWWGI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-27T04:03:29.824Z",
+    "updateTime": "2024-05-27T06:47:40.317Z",
+    "publicationTime": "2024-05-27T06:47:40.120Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบสารสนเทศงานการค้าสมัยใหม่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1qHINSCRqNPmMkMOKENC1E2Nwc7CMRsxUK3NfJ_mm0GI/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/WElWVZ482FmoBq2RDUNLkNLAjJx6MwT_HMkN8KHu9teAnWo6QdO5U9CUQNyB2D9Nfwkt3XgagTs\u003dw90-h90-p",
+        "editId": "1qHINSCRqNPmMkMOKENC1E2Nwc7CMRsxUK3NfJ_mm0GI"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 2",
+      "dueTime": "2024-06-10T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวเทพนารี ศรีจันทร์"
+            },
+            "emailAddress": "6742020010@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จักรกฤษณ์ วรสิงห์"
+            },
+            "emailAddress": "6742020001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วีระชัย ตะริดโน"
+            },
+            "emailAddress": "6742020009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศศิกานต์ อนุไพร"
+            },
+            "emailAddress": "6742020004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชุติมา เกินจันทร์"
+            },
+            "emailAddress": "6742020008@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชลดา แก่นใจเด็ด"
+            },
+            "emailAddress": "6742020005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วัลลภา พลีศักดิ์"
+            },
+            "emailAddress": "6742020003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T04:47:15.912Z",
+    "updateTime": "2024-06-10T01:15:47.073Z",
+    "publicationTime": "2024-05-27T06:46:51.087Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การค้าสมัยใหม่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1qNeShuQRHAwui-Lmz5Q3I_lDOFwz0CV5pdFSlaH0784/edit",
+        "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/oUC38XO-7WLJCwxpEMeRiRyXp8AfXrG1xcLgPqGOdN2-LluqIz0W11G3Mucf_Sl_-AICImq0aoE\u003dw90-h90-p",
+        "editId": "1qNeShuQRHAwui-Lmz5Q3I_lDOFwz0CV5pdFSlaH0784"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบหลังเรียนหน่วยที่ 1",
+      "dueTime": "2024-06-10T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวเทพนารี ศรีจันทร์"
+            },
+            "emailAddress": "6742020010@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จักรกฤษณ์ วรสิงห์"
+            },
+            "emailAddress": "6742020001@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศศิกานต์ อนุไพร"
+            },
+            "emailAddress": "6742020004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วีระชัย ตะริดโน"
+            },
+            "emailAddress": "6742020009@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชลดา แก่นใจเด็ด"
+            },
+            "emailAddress": "6742020005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชุติมา เกินจันทร์"
+            },
+            "emailAddress": "6742020008@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-27T04:01:00.424Z",
+    "updateTime": "2024-05-27T04:01:16.866Z",
+    "publicationTime": "2024-05-27T04:01:16.668Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบสารสนเทศงานการค้าสมัยใหม่"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1f86THHcLCWET-sXnxrdVmnIRVInDY2ZDHT_B-b6zzVw",
+          "title": "ระบบสารสนเทศ สำหรับร้านค้า",
+          "alternateLink": "https://docs.google.com/presentation/d/1f86THHcLCWET-sXnxrdVmnIRVInDY2ZDHT_B-b6zzVw/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNFZJNdki-9MeDu2lXNSXOqgP9WQzO3JxGgmmHtcQYPK-OhgjdXQbxE9SWXO7Uw17Flfw1udgNZ04LfbqReftTzGR4BMRVJyNfQzAz--13VzcBKcgEKyibv0wSiTtBc0UBopEY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ระบบสารสนเทศสำหรับร้านค้า"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T04:07:29.691Z",
+    "updateTime": "2024-06-10T06:31:32.432Z",
+    "publicationTime": "2024-05-20T07:17:26.622Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การค้าสมัยใหม่"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/1oXgO0DJssPXWmUqepOfuuZFNBM8trvAOtAtYhsGYrXc/edit",
+        "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/DP9pqyEwmXFSFOJmKhX5bdF960Uzd1ILAiLietqaZEgeiCvdwbh_varxQtMqPGXuyWDn_pJ-Q1U\u003dw90-h90-p",
+        "editId": "1oXgO0DJssPXWmUqepOfuuZFNBM8trvAOtAtYhsGYrXc"
+      }
+    }],
+    "courseWork": {
+      "title": "แบบทดสอบก่อนเรียนหน่วยที่ 1",
+      "dueTime": "2024-06-10T16:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นางสาวเทพนารี ศรีจันทร์"
+            },
+            "emailAddress": "6742020010@rvc.ac.th"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ศศิกานต์ อนุไพร"
+            },
+            "emailAddress": "6742020004@rvc.ac.th"
+          }
+        },
+        "draftGrade": 8.0,
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชลธิชา สวาดนา"
+            },
+            "emailAddress": "6742020007@rvc.ac.th"
+          }
+        },
+        "draftGrade": 4.0,
+        "assignedGrade": 4.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ลลิตา ไม่หวั่น"
+            },
+            "emailAddress": "6742020006@rvc.ac.th"
+          }
+        },
+        "draftGrade": 7.0,
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วีระชัย ตะริดโน"
+            },
+            "emailAddress": "6742020009@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชลดา แก่นใจเด็ด"
+            },
+            "emailAddress": "6742020005@rvc.ac.th"
+          }
+        },
+        "draftGrade": 9.0,
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "นิภาพร พิมพ์กลาง"
+            },
+            "emailAddress": "6742020002@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "ชุติมา เกินจันทร์"
+            },
+            "emailAddress": "6742020008@rvc.ac.th"
+          }
+        },
+        "draftGrade": 3.0,
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "จักรกฤษณ์ วรสิงห์"
+            },
+            "emailAddress": "6742020001@rvc.ac.th"
+          }
+        },
+        "draftGrade": 5.0,
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }, {
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "วัลลภา พลีศักดิ์"
+            },
+            "emailAddress": "6742020003@rvc.ac.th"
+          }
+        },
+        "draftGrade": 6.0,
+        "assignedGrade": 6.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T04:00:13.412Z",
+    "updateTime": "2024-05-20T04:00:17.294Z",
+    "publicationTime": "2024-05-20T04:00:17.131Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 2 ระบบสารสนเทศงานการค้าสมัยใหม่"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://misdotclass.wordpress.com/2016/11/14/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99-7-11/",
+        "title": "Week 3 : ระบบสารสนเทศในร้าน 7-11 | MIS CLASS ON 13/09/59",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://misdotclass.wordpress.com/2016/11/14/%25E0%25B8%25A3%25E0%25B8%25B0%25E0%25B8%259A%25E0%25B8%259A%25E0%25B8%25AA%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B8%25AA%25E0%25B8%2599%25E0%25B9%2580%25E0%25B8%2597%25E0%25B8%25A8%25E0%25B9%2583%25E0%25B8%2599%25E0%25B8%25A3%25E0%25B9%2589%25E0%25B8%25B2%25E0%25B8%2599-7-11/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "ระบบสารสนเทศในร้าน 7-11"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T03:56:17.118Z",
+    "updateTime": "2024-05-20T03:56:21.186Z",
+    "publicationTime": "2024-05-20T03:56:21.053Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การค้าสมัยใหม่"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1EpWqH882ZM9hgBcCebuTuTsjEvO90g57",
+          "title": "วิวัฒนาการและประเภทของธุรกิจค้าปลีก.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1EpWqH882ZM9hgBcCebuTuTsjEvO90g57/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPEMgjSYGTyAjJ4vPtqJsuuTGNzAVOCNuzGiEtggYf98MCt4uNSB-cNSoQtQ2b9iOXz7FiD344uKCrnUKqSp21mH1lj7YgFTLbunzwuKNMM6jM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "วิวัฒนาการและประเภทของธุรกิจค้าปลีก"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T03:50:40.306Z",
+    "updateTime": "2024-05-20T03:50:48.393Z",
+    "publicationTime": "2024-05-20T03:50:48.159Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 1 การค้าสมัยใหม่"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.charmace.com/article/5958.html",
+        "title": "ความแตกต่างระหว่าง Modern Trade กับ Traditional Trade เทรด",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.charmace.com/article/5958.html"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Modern trade"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T03:49:14.021Z",
+    "updateTime": "2024-06-16T15:35:37.355Z",
+    "publicationTime": "2024-05-20T03:49:20.738Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 3 ระบบขายหน้าร้าน Point of sale (POS)"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.rocket.in.th/blog/what-is-pos-system/#:~:text\u003dPOS%20%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%20Point,%E0%B8%88%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99",
+        "title": "ระบบ Pos คืออะไร? มีกี่ประเภท ทำไมถึงสำคัญกับร้านค้า | Rocket Digital",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.rocket.in.th/blog/what-is-pos-system/%23:~:text%3DPOS%2520%25E0%25B8%25A2%25E0%25B9%2588%25E0%25B8%25AD%25E0%25B8%25A1%25E0%25B8%25B2%25E0%25B8%2588%25E0%25B8%25B2%25E0%25B8%2581%2520Point,%25E0%25B8%2588%25E0%25B8%25B0%25E0%25B8%2584%25E0%25B8%25A3%25E0%25B8%259A%25E0%25B8%25A7%25E0%25B8%2587%25E0%25B8%2588%25E0%25B8%25A3%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%25A2%25E0%25B9%2583%25E0%25B8%2599%25E0%25B8%25A3%25E0%25B9%2589%25E0%25B8%25B2%25E0%25B8%2599"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1B_qnRX9vc3NFntEFpP559N2uZGy2lYU4je11fTT4r_8",
+          "title": "หน่วยที่ 3 ระบบขายหน้าร้าน Point of sale (POS)",
+          "alternateLink": "https://docs.google.com/presentation/d/1B_qnRX9vc3NFntEFpP559N2uZGy2lYU4je11fTT4r_8/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOZ1ObcyFl1LDGWQr5OeHzLv3el17por25N6IcHKyeiF9RXAU-JnTIpNWW5sJGSKg5N0AfQOKclV2J1Nbmyvw43vagIBVgfATsooB8AfnodtQ5n3e14btnqW-xpE1d5b1Jk020\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "เครื่อง POS คืออะไร"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T03:45:04.974Z",
+    "updateTime": "2024-05-20T03:45:20.066Z",
+    "publicationTime": "2024-05-20T03:45:20Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 4 ระบบลงเวลาปฏิบัติงาน Daily Attendance System (DAS)"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://forms-templates.com/technology/%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9A/",
+        "title": "วิวัฒนาการของ “เครื่องบันทึกเวลา” ที่เราอาจจะยังไม่รู้   - Forms Template",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://forms-templates.com/technology/%25E0%25B8%25A7%25E0%25B8%25B4%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%2592%25E0%25B8%2599%25E0%25B8%25B2%25E0%25B8%2581%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B8%2582%25E0%25B8%25AD%25E0%25B8%2587-%25E0%25B9%2580%25E0%25B8%2584%25E0%25B8%25A3%25E0%25B8%25B7%25E0%25B9%2588%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B8%259A/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "รูปแบบการบันทึกการลงเวลา"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-20T03:38:40.972Z",
+    "updateTime": "2024-05-20T03:38:45.110Z",
+    "publicationTime": "2024-05-20T03:38:44.955Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หน่วยที่ 5 โปรแกรมบัญชี (Accounting Software)"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.prosoftwinspeed.com/Article/Detail/128515/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5-(Accounting-Software)-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-",
+        "title": "โปรแกรมบัญชี (Accounting Software) คืออะไร? | Prosoft WINSpeed โปรแกรมบัญชีสำเร็จรูป",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.prosoftwinspeed.com/Article/Detail/128515/%25E0%25B9%2582%25E0%25B8%259B%25E0%25B8%25A3%25E0%25B9%2581%25E0%25B8%2581%25E0%25B8%25A3%25E0%25B8%25A1%25E0%25B8%259A%25E0%25B8%25B1%25E0%25B8%258D%25E0%25B8%258A%25E0%25B8%25B5-(Accounting-Software)-%25E0%25B8%2584%25E0%25B8%25B7%25E0%25B8%25AD%25E0%25B8%25AD%25E0%25B8%25B0%25E0%25B9%2584%25E0%25B8%25A3-"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "โปรแกรมบัญชีคืออะไร"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "นพพล อินศร"
+      },
+      "emailAddress": "noppol@rvc.ac.th"
+    },
+    "creationTime": "2024-05-13T01:41:32.778Z",
+    "updateTime": "2024-05-13T01:41:40.680Z",
+    "publicationTime": "2024-05-13T01:41:40.383Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "หลักสูตรรายวิชา"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1jcPlm56-Juek8uIz-AyOKfDjAd6PVjUB",
+          "title": "26-40202-3001.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1jcPlm56-Juek8uIz-AyOKfDjAd6PVjUB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMaY9Z1lm8_6vVp8CHbQhpI2xd5cQc6a2-IFJ1ArZx0KIzpddbBVJoh9eYh9Xad34j7lJuSsNpWEqkyM7iae5NarMH8m8SdioaQftj_lHtt8UA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "คำอธิบายรายวิชา"
+    }
+  }]
+}
