@@ -7,7 +7,7 @@ $template_path='template/courses/';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Courses | Education</title>
+    <title>RIC</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
@@ -61,8 +61,8 @@ $template_path='template/courses/';
                         <div class="row align-items-center">
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
-                                <div class="logo">
-                                    <a href="https://cvm.vec.go.th/" target="_blank"><img src="./images/cvm_logo.png" width="60" alt=""> คลังปัญญาอาชีวศึกษา</a>
+                                <div class="logo" align="center">
+                                    <a href="https://cvm.vec.go.th/" target="_blank"><img src="./images/cvm_logo.png" width="60" alt=""> <br>คลังปัญญาธุรกิจค้าปลีก</a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
@@ -104,8 +104,8 @@ $template_path='template/courses/';
                         <div class="row">
                             <div class="col-xl-6 col-lg-7 col-md-12">
                                 <div class="hero__caption">
-                                    <h1 data-animation="fadeInLeft" data-delay="0.2s">คลังปัญญา<br>อาชีวศึกษา</h1>
-                                    <p data-animation="fadeInLeft" data-delay="0.4s">สร้างหรือเลือกใช้หลักสูตรออนไลน์สำเร็จรูป สำหรับการเรียนการสอนในสาขาวิชาธุรกิจค้าปลีก</p>
+                                    <h1 data-animation="fadeInLeft" data-delay="0.2s">คลังปัญญา<br>ธุรกิจกิจค้าปลีก</h1>
+                                    <p data-animation="fadeInLeft" data-delay="0.4s">Retail business intelligence center.</p>
                                     <a href="?p=register" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.7s">ลงทะเบียนเรียนฟรี</a>
                                 </div>
                             </div>
@@ -114,53 +114,77 @@ $template_path='template/courses/';
                 </div>
             </div>
         </section>
-        <!-- ? services-area -->
-        <div class="services-area">
+        <!--? top subjects Area Start -->
+        <div class="topic-area section-padding40">
             <div class="container">
-                <div class="row justify-content-sm-center">
-                    <div class="col-lg-4 col-md-6 col-sm-8">
-                        <div class="single-services mb-30">
-                            <div class="features-icon">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/icon/icon1.svg" alt="">
-                            </div>
-                            <div class="features-caption">
-                                <h3>60+ UX courses</h3>
-                                <p>The automated process all your website tasks.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-8">
-                        <div class="single-services mb-30">
-                            <div class="features-icon">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/icon/icon2.svg" alt="">
-                            </div>
-                            <div class="features-caption">
-                                <h3>Expert instructors</h3>
-                                <p>The automated process all your website tasks.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-8">
-                        <div class="single-services mb-30">
-                            <div class="features-icon">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/icon/icon3.svg" alt="">
-                            </div>
-                            <div class="features-caption">
-                                <h3>Life time access</h3>
-                                <p>The automated process all your website tasks.</p>
-                            </div>
+                <div class="row justify-content-center">
+                    <div class="col-xl-7 col-lg-8">
+                        <div class="section-tittle text-center mb-55">
+                            <h2>กลุ่มเป้าหมาย</h2>
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="single-topic text-center mb-30">
+                            <div class="topic-img">
+                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic1.png" alt="">
+                                <div class="topic-content-box">
+                                    <div class="topic-content">
+                                        <h3><a href="#">นักเรียนนักศึกษา</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="single-topic text-center mb-30">
+                            <div class="topic-img">
+                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic2.png" alt="">
+                                <div class="topic-content-box">
+                                    <div class="topic-content">
+                                        <h3><a href="#">ครูผู้สอน</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="single-topic text-center mb-30">
+                            <div class="topic-img">
+                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic3.png" alt="">
+                                <div class="topic-content-box">
+                                    <div class="topic-content">
+                                        <h3><a href="#">สถานประกอบการ</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="single-topic text-center mb-30">
+                            <div class="topic-img">
+                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic4.png" alt="">
+                                <div class="topic-content-box">
+                                    <div class="topic-content">
+                                        <h3><a href="#">ประชาชนทั่วไป</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>                  
+                </div>
             </div>
         </div>
+        <!-- top subjects End -->
+        <!-- ? services-area -->
         <!-- Courses area start -->
         <div class="courses-area section-padding40 fix">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-7 col-lg-8">
                         <div class="section-tittle text-center mb-55">
-                            <h2>Our featured courses</h2>
+                            <h2>บริการของเรา</h2>
                         </div>
                     </div>
                 </div>
@@ -172,8 +196,7 @@ $template_path='template/courses/';
                                 <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured1.png" alt=""></a>
                             </div>
                             <div class="properties__caption">
-                                <p>User Experience</p>
-                                <h3><a href="#">Fundamental of UX for Application design</a></h3>
+                                <h3><a href="#">ศูนย์ข้อมูล</a></h3>
                                 <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
 
                                 </p>
@@ -205,8 +228,7 @@ $template_path='template/courses/';
                                 <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured2.png" alt=""></a>
                             </div>
                             <div class="properties__caption">
-                                <p>User Experience</p>
-                                <h3><a href="#">Fundamental of UX for Application design</a></h3>
+                                <h3><a href="#">ศูนย์การศึกษา</a></h3>
                                 <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
                                 </p>
                                 <div class="properties__footer d-flex justify-content-between align-items-center">
@@ -236,8 +258,7 @@ $template_path='template/courses/';
                                 <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured3.png" alt=""></a>
                             </div>
                             <div class="properties__caption">
-                                <p>User Experience</p>
-                                <h3><a href="#">Fundamental of UX for Application design</a></h3>
+                                <h3><a href="#">ศูนย์แหล่งเรียนรู้</a></h3>
                                 <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
 
                                 </p>
@@ -269,8 +290,39 @@ $template_path='template/courses/';
                                 <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured2.png" alt=""></a>
                             </div>
                             <div class="properties__caption">
-                                <p>User Experience</p>
-                                <h3><a href="#">Fundamental of UX for Application design</a></h3>
+                                <h3><a href="#">ศูนย์ทดสอบ</a></h3>
+                                <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
+
+                                </p>
+                                <div class="properties__footer d-flex justify-content-between align-items-center">
+                                    <div class="restaurant-name">
+                                        <div class="rating">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star-half"></i>
+                                        </div>
+                                        <p><span>(4.5)</span> based on 120</p>
+                                    </div>
+                                    <div class="price">
+                                        <span>$135</span>
+                                    </div>
+                                </div>
+                                <a href="#" class="border-btn border-btn2">Find out more</a>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- Single -->
+                     <!-- Single -->
+                    <div class="properties pb-20">
+                        <div class="properties__card">
+                            <div class="properties__img overlay1">
+                                <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured2.png" alt=""></a>
+                            </div>
+                            <div class="properties__caption">
+                                <h3><a href="#">ศูนย์บริการวิชาการวิชาชีพ</a></h3>
                                 <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
 
                                 </p>
@@ -354,124 +406,7 @@ $template_path='template/courses/';
             </div>
         </section>
         <!-- About Area End -->
-        <!--? top subjects Area Start -->
-        <div class="topic-area section-padding40">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-7 col-lg-8">
-                        <div class="section-tittle text-center mb-55">
-                            <h2>Explore top subjects</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div class="single-topic text-center mb-30">
-                            <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic1.png" alt="">
-                                <div class="topic-content-box">
-                                    <div class="topic-content">
-                                        <h3><a href="#">Programing</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div class="single-topic text-center mb-30">
-                            <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic2.png" alt="">
-                                <div class="topic-content-box">
-                                    <div class="topic-content">
-                                        <h3><a href="#">Programing</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div class="single-topic text-center mb-30">
-                            <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic3.png" alt="">
-                                <div class="topic-content-box">
-                                    <div class="topic-content">
-                                        <h3><a href="#">Programing</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div class="single-topic text-center mb-30">
-                            <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic4.png" alt="">
-                                <div class="topic-content-box">
-                                    <div class="topic-content">
-                                        <h3><a href="#">Programing</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div class="single-topic text-center mb-30">
-                            <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic5.png" alt="">
-                                <div class="topic-content-box">
-                                    <div class="topic-content">
-                                        <h3><a href="#">Programing</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div class="single-topic text-center mb-30">
-                            <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic6.png" alt="">
-                                <div class="topic-content-box">
-                                    <div class="topic-content">
-                                        <h3><a href="#">Programing</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div class="single-topic text-center mb-30">
-                            <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic7.png" alt="">
-                                <div class="topic-content-box">
-                                    <div class="topic-content">
-                                        <h3><a href="#">Programing</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div class="single-topic text-center mb-30">
-                            <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic8.png" alt="">
-                                <div class="topic-content-box">
-                                    <div class="topic-content">
-                                        <h3><a href="#">Programing</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-xl-12">
-                        <div class="section-tittle text-center mt-20">
-                            <a href="courses.html" class="border-btn">View More Subjects</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- top subjects End -->
+        
         <!--? About Area-3 Start -->
         <section class="about-area3 fix">
             <div class="support-wrapper align-items-center">
