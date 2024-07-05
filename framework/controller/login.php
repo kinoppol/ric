@@ -34,6 +34,8 @@ class login{
                 return redirect(site_url('login'));
             }else{
                 $_SESSION['user']=$u[0];
+                $t=$user->get_user_type(['id'=>$u[0]['user_type_id']]);
+                $_SESSION['user_type']=$t[0];
                 return redirect(site_url('main'));
             }
         }

@@ -179,7 +179,7 @@ foreach($active_menu as $m){
                 <li class="nav-item navbar-dropdown dropdown-user dropdown">
                   <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
                     <div class="avatar avatar-online">
-                      <img src="<?php print site_url('template/Sneat/sneat-bootstrap-html-admin-template/',true); ?>assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                      <img src="./images/robot-modern-style-vector.jpg" alt class="w-px-40 h-auto rounded-circle" />
                     </div>
                   </a>
                   <ul class="dropdown-menu dropdown-menu-end">
@@ -188,12 +188,12 @@ foreach($active_menu as $m){
                         <div class="d-flex">
                           <div class="flex-shrink-0 me-3">
                             <div class="avatar avatar-online">
-                              <img src="<?php print site_url('template/Sneat/sneat-bootstrap-html-admin-template/',true); ?>assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                              <img src="./images/robot-modern-style-vector.jpg" alt class="w-px-40 h-auto rounded-circle" />
                             </div>
                           </div>
                           <div class="flex-grow-1">
-                            <span class="fw-semibold d-block">John Doe</span>
-                            <small class="text-muted">Admin</small>
+                            <span class="fw-semibold d-block"><?php print $_SESSION['user']['username']; ?></span>
+                            <small class="text-muted"><?php print $_SESSION['user_type']['type_name']; ?></small>
                           </div>
                         </div>
                       </a>
