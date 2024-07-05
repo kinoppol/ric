@@ -8,12 +8,12 @@
                           type="text"
                           class="form-control"
                           id="floatingInput"
-                          placeholder="John Doe"
+                          placeholder="สมชาย"
                           aria-describedby="floatingInputHelp"
                         />
                         <label for="floatingInput">ชื่อ</label>
                         <div id="floatingInputHelp" class="form-text">
-                          We'll never share your details with anyone else.
+                          
                         </div>
                       </div>
                       <div class="form-floating">
@@ -21,12 +21,12 @@
                           type="text"
                           class="form-control"
                           id="floatingInput"
-                          placeholder="John Doe"
+                          placeholder="สบายดี"
                           aria-describedby="floatingInputHelp"
                         />
                         <label for="floatingInput">สกุล</label>
                         <div id="floatingInputHelp" class="form-text">
-                          We'll never share your details with anyone else.
+                          
                         </div>
                       </div>
                       <div class="form-floating">
@@ -34,12 +34,12 @@
                           type="text"
                           class="form-control"
                           id="floatingInput"
-                          placeholder="John Doe"
+                          placeholder="somchai@gmail.com"
                           aria-describedby="floatingInputHelp"
                         />
                         <label for="floatingInput">อีเมล</label>
                         <div id="floatingInputHelp" class="form-text">
-                          We'll never share your details with anyone else.
+                          
                         </div>
                       </div>
                     </div>
@@ -50,7 +50,22 @@
                     <h5 class="card-header">ภาพประจำตัว</h5>
                     <div class="card-body">
                     <div class="mb-3">
-                        <label for="formFile" class="form-label">Default file input example</label>
+                      <?php
+                      if(!empty($userdata['picture'])){
+                        ?>
+                        <img
+                          src="<?php print site_url('./writable/images/profile/'.$userdata['picture'],true); ?>"
+                          alt="user-avatar"
+                          class="d-block rounded"
+                          height="100"
+                          width="100"
+                          id="uploadedAvatar"
+                        />
+                        <?php
+                      }
+                      ?>
+                    
+                        <label for="formFile" class="form-label">เลือกไฟล์รูปภาพประจำตัว</label>
                         <input class="form-control" type="file" id="formFile" />
                       </div>
                     </div>

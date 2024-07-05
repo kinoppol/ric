@@ -31,6 +31,7 @@ function redirect($url,$delay=0){
 }
 
 function arr2and($data=array()){
+    if(!is_array($data)) return $data;
     $ret='';
     foreach($data as $k=>$v){
         if(!empty($ret))$ret.=' AND ';
