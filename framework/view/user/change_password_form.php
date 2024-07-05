@@ -13,7 +13,7 @@
                         />
                         <label for="floatingInput">รหัสผ่านปัจจุบัน</label>
                         <div id="floatingInputHelp" class="form-text">
-                          We'll never share your details with anyone else.
+                          
                         </div>
                       </div>
                       <div class="form-floating">
@@ -26,7 +26,7 @@
                         />
                         <label for="floatingInput">รหัสผ่านใหม่</label>
                         <div id="floatingInputHelp" class="form-text">
-                          
+
                         </div>
                       </div>
                       <div class="form-floating">
@@ -39,7 +39,7 @@
                         />
                         <label for="floatingInput">ยืนยันรหัสผ่านใหม่</label>
                         <div id="floatingInputHelp" class="form-text">
-                          
+
                         </div>
                       </div>
                     </div>
