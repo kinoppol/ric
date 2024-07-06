@@ -1,9 +1,11 @@
 <?php
 
-class user{
-    private $db;
+helper("model/dummy_model");
+class user_model extends dummy_model{
+    protected $table = 'user_data';
+    protected $primary_key = 'id';
     function __construct($db_ref){
-        $this->db=$db_ref;
+        parent::__construct($db_ref);
     }
     function get_user($data=array()){
         $sql='select * from user_data where '.arr2and($data);
