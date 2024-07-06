@@ -13,8 +13,8 @@ $template_path='template/courses/';
     <link rel="manifest" href="site.webmanifest">
     <!--<link rel="shortcut icon" type="image/x-icon" href="<?php print site_url($template_path,true); ?>assets/img/favicon.ico">-->
     
-  <link href="./images/cvm_logo.png" rel="cvm-2023-icon"> 
-  <link href="images/cvm_logo.png" rel="icon">
+  <link href="./images/ric_logo.png" rel="cvm-2023-icon"> 
+  <link href="./images/ric_logo.png" rel="icon">
     <link href='https://fonts.googleapis.com/css?family=Kanit:400,300&subset=thai,latin' rel='stylesheet' type='text/css'>	
 
     <!-- CSS here -->
@@ -46,7 +46,7 @@ $template_path='template/courses/';
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="<?php print site_url($template_path,true); ?>assets/img/logo/loder.png" alt="">
+                    <img src="./images/ric_logo.png" alt="">
                 </div>
             </div>
         </div>
@@ -62,7 +62,7 @@ $template_path='template/courses/';
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo" align="center">
-                                    <a href="https://cvm.vec.go.th/" target="_blank"><img src="./images/cvm_logo.png" width="60" alt=""> <br>คลังปัญญาธุรกิจค้าปลีก</a>
+                                    <a href="https://cvm.vec.go.th/" target="_blank"><img src="./images/ric_logo.png" width="60" alt=""> <br>คลังปัญญาธุรกิจค้าปลีก</a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
