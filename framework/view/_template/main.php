@@ -52,8 +52,8 @@ foreach($active_menu as $m){
     <link rel="stylesheet" href="<?php print site_url('template/Sneat/sneat-bootstrap-html-admin-template/',true); ?>assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
 
     <!-- Page CSS -->
-    <link href="./images/cvm_logo.png" rel="cvm-2023-icon"> 
-  <link href="images/cvm_logo.png" rel="icon">
+    <link href="./images/ric_logo.png" rel="cvm-2023-icon"> 
+  <link href="./images/ric_logo.png" rel="icon">
     <link href='https://fonts.googleapis.com/css?family=Kanit:400,300&subset=thai,latin' rel='stylesheet' type='text/css'>
     <style>
         button, a, li, p, h1, body {
@@ -115,7 +115,7 @@ foreach($active_menu as $m){
                   </g>
                 </svg>
               </span>
-              <span class="app-brand-text demo menu-text fw-bolder ms-2"><img src="./images/cvm_logo.png" width="40" alt=""> <?php print $system['systemName']; ?></span>
+              <span class="app-brand-text demo menu-text fw-bolder ms-2"><img src="./images/ric_logo.png" width="40" alt=""> <?php print $system['systemName']; ?></span>
             </a>
 
             <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
