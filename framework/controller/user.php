@@ -21,7 +21,7 @@ class user{
 
     
     function update_user_form(){
-        $data['content']=view('user/update_user_form');
+        $data['content']=view('user/update_user_form',["user" => $_SESSION["user"]]);
         $data['title']='แก้ไขข้อมูลส่วนตัว';
         return view('_template/main',$data);
     }

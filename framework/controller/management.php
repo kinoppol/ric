@@ -4,7 +4,7 @@ class management{
     }
 
     function list_user(){
-        $userModel=model('user');
+        $userModel=model('user_model');
         $ud=$userModel->get_user(1);
         $ut=$userModel->get_user_type(1);
         $user_type=array();

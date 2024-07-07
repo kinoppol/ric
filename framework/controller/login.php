@@ -22,7 +22,7 @@ class login{
             $_SESSION['err_message']='กรุณาระบุชื่อผู้ใช้และรหัสผ่าน';
             return redirect(site_url('login'));
         }else{
-            $user=model('user');
+            $user=model('user_model');
             $data=array(
                 //'store_id'=>$store_id,
                 'username'=>$username,

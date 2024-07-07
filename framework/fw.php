@@ -25,11 +25,14 @@ ob_start();
 session_start();
 
     
-    function fw_run($controller,$function=''){
+    function fw_run($controller_path,$function=''){
         
-    $inc_file='controller/'.$controller.'.php';
+    $inc_file='controller/'.$controller_path.'.php';
     
     require_once($inc_file);
+
+    $seg = explode('/', $controller_path);
+    $controller = array_pop($seg);
 
     $page=new $controller();
 

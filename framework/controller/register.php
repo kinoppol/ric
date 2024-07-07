@@ -14,7 +14,7 @@ class register{
                 'password'=>md5($password),
                 'email'=>$email,
             );
-        $userModel=model('user');
+        $userModel=model('user_model');
         $user_id=$userModel->add_user($data);
         //print_r($user_id);
         $u=$userModel->get_user(['id'=>$user_id]);

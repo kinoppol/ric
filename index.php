@@ -15,9 +15,12 @@ $controller='';
 $function='';
 if(!empty($_GET['p'])){
     $p=$_GET['p'];
-    $seg=explode('/',$p);
-    $controller=$seg[0];
-    if(!empty($seg[1]))$function=$seg[1];
+    $pv = strrev($p); 
+    $seg = explode('/', $pv, 2); 
+    $seg[1] = strrev($seg[1]);
+    $seg[0] = strrev($seg[0]);
+    $controller= $seg[1];
+    if(!empty($seg[1]))$function=$seg[0];
     }
 
     if(empty($controller)){
