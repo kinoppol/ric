@@ -11,16 +11,37 @@ $controller_guest_allowed=array(
     'showcase',
     'showcourses'
 );
-$controller='';
-$function='';
+
+$controller=null;
+$function=null;
+$param=array();
+
 if(!empty($_GET['p'])){
     $p=$_GET['p'];
     //$pv = strrev($p); 
     $seg = explode('/', $p); 
 
-    
-    if(!empty($seg[0]))$controller = $seg[0];
-    if(!empty($seg[1]))$function = $seg[1];
+    $param_pos = null;
+    foreach ($seg as $key => $value) {
+        if(is_dir($value)) {
+            $controller .= $value.'/';
+        } else {
+            $controller .= $value;
+            if(count($seg)>$key+1)$function=$seg[$key+1];
+            if(count($seg)>$key+2)$param_pos=$key+2;
+            break;
+        }
+    }
+    if(!empty($param_pos)){
+        $k=null;
+        foreach (array_slice($seg,$param_pos) as $key => $value) {
+            if($key%2==0){
+                $k = $value;
+            } else {
+                $param[$k] = $value;
+            }
+        }
+    }
 }
     if(empty($controller)){
         $controller='showcourses';
@@ -33,5 +54,5 @@ if(!empty($_GET['p'])){
         print redirect(site_url('login'),2);
         exit();
     }
-    fw_run($controller,$function);
+    fw_run($controller,$function,$param);
     define('EVERYTHING_WENT_OK', TRUE);

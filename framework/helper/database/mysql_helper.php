@@ -45,6 +45,7 @@ class mysql_helper {
     function insert($table,$data) {
         $this->sql = 'INSERT INTO '.$table.' SET ';
         foreach ($data as $key => $value) {
+            if(is_string($value)) $value='"'.$value.'"';
             $this->sql .= $key.'='.$value.', ';
         }
         $this->sql = rtrim($this->sql,", ");
@@ -55,6 +56,7 @@ class mysql_helper {
     function update($table,$data) {
         $this->sql = 'UPDATE '.$table.' SET ';
         foreach ($data as $key => $value) {
+            if(is_string($value)) $value='"'.$value.'"';
             $this->sql .= $key.'='.$value.', ';
         }
         $this->sql = rtrim($this->sql,", ");

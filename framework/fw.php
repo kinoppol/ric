@@ -25,8 +25,8 @@ ob_start();
 session_start();
 
     
-    function fw_run($controller_path,$function=''){
-        
+    function fw_run($controller_path,$function='',$param=array()){
+
     $inc_file='controller/'.$controller_path.'.php';
     
     require_once($inc_file);
@@ -39,7 +39,7 @@ session_start();
     if(empty($function)){
         print $page->index();
     }else{
-        print $page->$function();
+        print $page->$function($param);
     }
     }
 ?>
