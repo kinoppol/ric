@@ -13,6 +13,7 @@ class dummy_model
     }
     public function get($id=null)
     {
+        
         $ret = [];
         $helper = new mysql_helper();
         $helper->select("*")->from($this->table);
@@ -31,17 +32,20 @@ class dummy_model
     public function update($id,$data)
     {
         $helper = new mysql_helper();
-        $result = $helper->update($table,$data)->where([$this->primary_key => $id])->query_at($this->$db);
+        $result = $helper->update($this->table,$data)->where([$this->primary_key => $id])->query_at($this->db);
+        return $result;
     }
     public function delete($id)
     {
         $helper = new mysql_helper();
         $result = $helper->delete($table)->where([$this->primary_key => $id])->query_at($this->$db);
+        return $result;
     }
     public function insert($data)
     {
         $helper = new mysql_helper();
         $result = $helper->insert($table,$data)->query_at($this->$db);
+        return $result;
     }
 }
 
