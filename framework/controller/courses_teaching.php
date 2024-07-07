@@ -5,8 +5,14 @@ class courses_teaching{
        
     }
     function my_courses(){
-        $data['content']='ชั้นเรียนของฉัน';
-        $data['title']='ชั้นเรียนของฉัน';
+        $data['title']='ชั้นเรียนของฉัน';        
+        $data['modal']=view('courses/courses_form',$data);
+        $data['content']=view('courses/my_courses',$data);
+        return view('_template/main',$data);
+    }
+    function my_courses_create(){
+        $data['title']='สร้างชั้นเรียนใหม่';
+        $data['content']=view('courses/courses_form',$data);
         return view('_template/main',$data);
     }
     function courses_browser(){
