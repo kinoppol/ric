@@ -19,7 +19,7 @@ if(!empty($_GET['p'])){
     $seg = explode('/', $pv, 2); 
     if(!empty($seg[1]))$seg[1] = strrev($seg[1]);
     if(!empty($seg[0]))$seg[0] = strrev($seg[0]);
-    $controller= $seg[1];
+    if(!empty($seg[1]))$controller= $seg[1];
     if(!empty($seg[1]))$function=$seg[0];
     }
 
