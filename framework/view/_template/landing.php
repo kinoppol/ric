@@ -33,7 +33,7 @@ $template_path='template/courses/';
     <link rel="stylesheet" href="<?php print site_url($template_path,true); ?>assets/css/nice-select.css">
     <link rel="stylesheet" href="<?php print site_url($template_path,true); ?>assets/css/style.css">
     <style>
-        button, a, li, p, h1, body {
+        button, a, li, p, h1, h2, h4, body {
         font-family: "Kanit", sans-serif;
         }
     </style>
@@ -128,7 +128,7 @@ $template_path='template/courses/';
                     <div class="col-lg-3 col-md-4 col-sm-6">
                         <div class="single-topic text-center mb-30">
                             <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic1.png" alt="">
+                                <img src="./images/student.jpg" alt="">
                                 <div class="topic-content-box">
                                     <div class="topic-content">
                                         <h3><a href="#">นักเรียนนักศึกษา</a></h3>
@@ -140,7 +140,7 @@ $template_path='template/courses/';
                     <div class="col-lg-3 col-md-4 col-sm-6">
                         <div class="single-topic text-center mb-30">
                             <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic2.png" alt="">
+                            <img src="./images/teacher.jpg" alt="">
                                 <div class="topic-content-box">
                                     <div class="topic-content">
                                         <h3><a href="#">ครูผู้สอน</a></h3>
@@ -152,7 +152,7 @@ $template_path='template/courses/';
                     <div class="col-lg-3 col-md-4 col-sm-6">
                         <div class="single-topic text-center mb-30">
                             <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic3.png" alt="">
+                            <img src="./images/retail.jpg" alt="">
                                 <div class="topic-content-box">
                                     <div class="topic-content">
                                         <h3><a href="#">สถานประกอบการ</a></h3>
@@ -164,7 +164,7 @@ $template_path='template/courses/';
                     <div class="col-lg-3 col-md-4 col-sm-6">
                         <div class="single-topic text-center mb-30">
                             <div class="topic-img">
-                                <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/topic4.png" alt="">
+                            <img src="./images/people.jpg" alt="">
                                 <div class="topic-content-box">
                                     <div class="topic-content">
                                         <h3><a href="#">ประชาชนทั่วไป</a></h3>
@@ -193,29 +193,22 @@ $template_path='template/courses/';
                     <div class="properties pb-20">
                         <div class="properties__card">
                             <div class="properties__img overlay1">
-                                <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured1.png" alt=""></a>
+                                <a href="#"><img src="./images/data_center.png" alt=""></a>
                             </div>
                             <div class="properties__caption">
                                 <h3><a href="#">ศูนย์ข้อมูล</a></h3>
-                                <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
-
+                                <p>
+                                - แนะนำ CVM <br>
+                                - ข้อมูลสถานศึกษา  <br>
+                                - ข้อมูลสถานประกอบการ  <br>
+                                - ข้อมูลนักเรียน  <br>
+                                - ข้อมูลครูผู้สอน  <br>
+                                - ข้อมูลการเรียนระบบทวิภาคี  <br>
+                                - ข้อมูลตลาดแรงงาน  <br>
+                                - ข้อมูลข่าวสาร  <br>
+                                - ข้อมูลการแนะแนว  <br>
                                 </p>
-                                <div class="properties__footer d-flex justify-content-between align-items-center">
-                                    <div class="restaurant-name">
-                                        <div class="rating">
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star-half"></i>
-                                        </div>
-                                        <p><span>(4.5)</span> based on 120</p>
-                                    </div>
-                                    <div class="price">
-                                        <span>$135</span>
-                                    </div>
-                                </div>
-                                <a href="#" class="border-btn border-btn2">Find out more</a>
+                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
 
                         </div>
@@ -225,28 +218,19 @@ $template_path='template/courses/';
                     <div class="properties pb-20">
                         <div class="properties__card">
                             <div class="properties__img overlay1">
-                                <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured2.png" alt=""></a>
+                            <a href="#"><img src="./images/education_center.png" alt=""></a>
                             </div>
                             <div class="properties__caption">
                                 <h3><a href="#">ศูนย์การศึกษา</a></h3>
-                                <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
+                                <p>
+                                - หลักสูตร <br>
+                                - หลักสูตรระยะสั้น <br>
+                                - ความรู้ด้านธุรกิจค้าปลีก <br>
+                                - ต้นแบบผู้ประสบความสำเร็จ <br>
+                                - สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน)  <br>
+
                                 </p>
-                                <div class="properties__footer d-flex justify-content-between align-items-center">
-                                    <div class="restaurant-name">
-                                        <div class="rating">
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star-half"></i>
-                                        </div>
-                                        <p><span>(4.5)</span> based on 120</p>
-                                    </div>
-                                    <div class="price">
-                                        <span>$135</span>
-                                    </div>
-                                </div>
-                                <a href="#" class="border-btn border-btn2">Find out more</a>
+                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
                         </div>
                     </div>
@@ -255,29 +239,17 @@ $template_path='template/courses/';
                     <div class="properties pb-20">
                         <div class="properties__card">
                             <div class="properties__img overlay1">
-                                <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured3.png" alt=""></a>
+                            <a href="#"><img src="./images/modern_trade.jpg" alt=""></a>
                             </div>
                             <div class="properties__caption">
                                 <h3><a href="#">ศูนย์แหล่งเรียนรู้</a></h3>
-                                <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
-
+                                <p>
+                                - ห้องเรียนออนไลน์ <br>
+                                - สื่อการสอน <br>
+                                - นวัตกรรม <br>
+                                - งานวิจัย/บทความทางวิชาการ <br>
                                 </p>
-                                <div class="properties__footer d-flex justify-content-between align-items-center">
-                                    <div class="restaurant-name">
-                                        <div class="rating">
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star-half"></i>
-                                        </div>
-                                        <p><span>(4.5)</span> based on 120</p>
-                                    </div>
-                                    <div class="price">
-                                        <span>$135</span>
-                                    </div>
-                                </div>
-                                <a href="#" class="border-btn border-btn2">Find out more</a>
+                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
 
                         </div>
@@ -287,29 +259,14 @@ $template_path='template/courses/';
                     <div class="properties pb-20">
                         <div class="properties__card">
                             <div class="properties__img overlay1">
-                                <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured2.png" alt=""></a>
+                            <a href="#"><img src="./images/test_center.png" alt=""></a>
                             </div>
                             <div class="properties__caption">
                                 <h3><a href="#">ศูนย์ทดสอบ</a></h3>
-                                <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
-
+                                <p>
+                                - ทดสอบสมรรถนะมาตรฐานวิชาชีพ <br>
                                 </p>
-                                <div class="properties__footer d-flex justify-content-between align-items-center">
-                                    <div class="restaurant-name">
-                                        <div class="rating">
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star-half"></i>
-                                        </div>
-                                        <p><span>(4.5)</span> based on 120</p>
-                                    </div>
-                                    <div class="price">
-                                        <span>$135</span>
-                                    </div>
-                                </div>
-                                <a href="#" class="border-btn border-btn2">Find out more</a>
+                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
 
                         </div>
@@ -319,29 +276,16 @@ $template_path='template/courses/';
                     <div class="properties pb-20">
                         <div class="properties__card">
                             <div class="properties__img overlay1">
-                                <a href="#"><img src="<?php print site_url($template_path,true); ?>assets/img/gallery/featured2.png" alt=""></a>
+                            <a href="#"><img src="./images/vocational_center.jpg" alt=""></a>
                             </div>
                             <div class="properties__caption">
                                 <h3><a href="#">ศูนย์บริการวิชาการวิชาชีพ</a></h3>
-                                <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.
+                                <p>
+                                -  การบริการวิชาการ <br>
+                                -  การบริการวิชาชีพ
 
                                 </p>
-                                <div class="properties__footer d-flex justify-content-between align-items-center">
-                                    <div class="restaurant-name">
-                                        <div class="rating">
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star-half"></i>
-                                        </div>
-                                        <p><span>(4.5)</span> based on 120</p>
-                                    </div>
-                                    <div class="price">
-                                        <span>$135</span>
-                                    </div>
-                                </div>
-                                <a href="#" class="border-btn border-btn2">Find out more</a>
+                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
 
                         </div>
@@ -351,193 +295,6 @@ $template_path='template/courses/';
             </div>
         </div>
         <!-- Courses area End -->
-        <!--? About Area-1 Start -->
-        <section class="about-area1 fix pt-10">
-            <div class="support-wrapper align-items-center">
-                <div class="left-content1">
-                    <div class="about-icon">
-                        <img src="<?php print site_url($template_path,true); ?>assets/img/icon/about.svg" alt="">
-                    </div>
-                    <!-- section tittle -->
-                    <div class="section-tittle section-tittle2 mb-55">
-                        <div class="front-text">
-                            <h2 class="">Learn new skills online with top educators</h2>
-                            <p>The automated process all your website tasks. Discover tools and 
-                                techniques to engage effectively with vulnerable children and young 
-                            people.</p>
-                        </div>
-                    </div>
-                    <div class="single-features">
-                        <div class="features-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/icon/right-icon.svg" alt="">
-                        </div>
-                        <div class="features-caption">
-                            <p>Techniques to engage effectively with vulnerable children and young people.</p>
-                        </div>
-                    </div>
-                    <div class="single-features">
-                        <div class="features-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/icon/right-icon.svg" alt="">
-                        </div>
-                        <div class="features-caption">
-                            <p>Join millions of people from around the world  learning together.</p>
-                        </div>
-                    </div>
-
-                    <div class="single-features">
-                        <div class="features-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/icon/right-icon.svg" alt="">
-                        </div>
-                        <div class="features-caption">
-                            <p>Join millions of people from around the world learning together. Online learning is as easy and natural.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="right-content1">
-                    <!-- img -->
-                    <div class="right-img">
-                        <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/about.png" alt="">
-
-                        <div class="video-icon" >
-                            <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=up68UAfH0d0"><i class="fas fa-play"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- About Area End -->
-        
-        <!--? About Area-3 Start -->
-        <section class="about-area3 fix">
-            <div class="support-wrapper align-items-center">
-                <div class="right-content3">
-                    <!-- img -->
-                    <div class="right-img">
-                        <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/about3.png" alt="">
-                    </div>
-                </div>
-                <div class="left-content3">
-                    <!-- section tittle -->
-                    <div class="section-tittle section-tittle2 mb-20">
-                        <div class="front-text">
-                            <h2 class="">Learner outcomes on courses you will take</h2>
-                        </div>
-                    </div>
-                    <div class="single-features">
-                        <div class="features-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/icon/right-icon.svg" alt="">
-                        </div>
-                        <div class="features-caption">
-                            <p>Techniques to engage effectively with vulnerable children and young people.</p>
-                        </div>
-                    </div>
-                    <div class="single-features">
-                        <div class="features-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/icon/right-icon.svg" alt="">
-                        </div>
-                        <div class="features-caption">
-                            <p>Join millions of people from around the world
-                            learning together.</p>
-                        </div>
-                    </div>
-                    <div class="single-features">
-                        <div class="features-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/icon/right-icon.svg" alt="">
-                        </div>
-                        <div class="features-caption">
-                            <p>Join millions of people from around the world learning together.
-                            Online learning is as easy and natural.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- About Area End -->
-        <!--? Team -->
-        <section class="team-area section-padding40 fix">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-7 col-lg-8">
-                        <div class="section-tittle text-center mb-55">
-                            <h2>Community experts</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="team-active">
-                    <div class="single-cat text-center">
-                        <div class="cat-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/team1.png" alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Mr. Urela</a></h5>
-                            <p>The automated process all your website tasks.</p>
-                        </div>
-                    </div>
-                    <div class="single-cat text-center">
-                        <div class="cat-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/team2.png" alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Mr. Uttom</a></h5>
-                            <p>The automated process all your website tasks.</p>
-                        </div>
-                    </div>
-                    <div class="single-cat text-center">
-                        <div class="cat-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/team3.png" alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Mr. Shakil</a></h5>
-                            <p>The automated process all your website tasks.</p>
-                        </div>
-                    </div>
-                    <div class="single-cat text-center">
-                        <div class="cat-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/team4.png" alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Mr. Arafat</a></h5>
-                            <p>The automated process all your website tasks.</p>
-                        </div>
-                    </div>
-                    <div class="single-cat text-center">
-                        <div class="cat-icon">
-                            <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/team3.png" alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Mr. saiful</a></h5>
-                            <p>The automated process all your website tasks.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Services End -->
-        <!--? About Area-2 Start -->
-        <section class="about-area2 fix pb-padding">
-            <div class="support-wrapper align-items-center">
-                <div class="right-content2">
-                    <!-- img -->
-                    <div class="right-img">
-                        <img src="<?php print site_url($template_path,true); ?>assets/img/gallery/about2.png" alt="">
-                    </div>
-                </div>
-                <div class="left-content2">
-                    <!-- section tittle -->
-                    <div class="section-tittle section-tittle2 mb-20">
-                        <div class="front-text">
-                            <h2 class="">Take the next step
-                                toward your personal
-                                and professional goals
-                            with us.</h2>
-                            <p>The automated process all your website tasks. Discover tools and techniques to engage effectively with vulnerable children and young people.</p>
-                            <a href="#" class="btn">Join now for Free</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- About Area End -->
     </main>
     <footer>
      <div class="footer-wrappper footer-bg">
@@ -550,11 +307,11 @@ $template_path='template/courses/';
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo mb-25">
-                                    <a href="index.html"><img src="<?php print site_url($template_path,true); ?>assets/img/logo/logo2_footer.png" alt=""></a>
+                                    <a href="index.html"><img src="./images/ric_logo.png" width="60" alt=""></a>
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
-                                        <p>The automated process starts as soon as your clothes go into the machine.</p>
+                                        <p>คลังปัญญาธุรกิจค้าปลีก <br> Retail business intelligence.</p>
                                     </div>
                                 </div>
                                 <!-- social -->
@@ -566,30 +323,16 @@ $template_path='template/courses/';
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-5">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Our solutions</h4>
-                                <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Architecture</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>Support</h4>
+                                <h4>บริการของเรา</h4>
                                 <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Architecture</a></li>
+                                    <li><a href="#">ศูนย์ข้อมูล</a></li>
+                                    <li><a href="#">ศูนย์การศึกษา</a></li>
+                                    <li><a href="#">ศูนย์แหล่งศึกษา</a></li>
+                                    <li><a href="#">ศูนย์ทดสอบ</a></li>
+                                    <li><a href="#">ศูนย์บริการวิชาการวิชาชีพ</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -597,13 +340,12 @@ $template_path='template/courses/';
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>Company</h4>
+                                <h4>ติดต่อเรา</h4>
                                 <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Architecture</a></li>
+                                    <li><a href="https://cvm.vec.go.th/" target="_blank">ศูนย์ CVM</a></li>
+                                    <li><a href="#">ศูนย์ CVM ธุรกิจค้าปลีก</a></li>
+                                    <li><a href="#">ส่งข้อเสนอแนะ</a></li>
+                                    <li><a href="#">ผู้เรียนปรึกษาปัญหา</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -619,7 +361,7 @@ $template_path='template/courses/';
                         <div class="col-xl-12 ">
                             <div class="footer-copy-right text-center">
                                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                                  สงวนลิขสิทธิ์ &copy;<script>document.write(new Date().getFullYear()+543);</script> <a href="https://cvm.vec.go.th/" target="_blank">ศูนย์บริหารเครือข่ายการผลิตและพัฒนากำลังคนอาชีวศึกษา (CVM)</a> | แม่แบบโดย <i class="fa fa-heart" aria-hidden="true"></i> <a href="https://colorlib.com" target="_blank">Colorlib</a>
                                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                               </div>
                           </div>

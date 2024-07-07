@@ -1,4 +1,6 @@
-<div class="row">
+<div class="card mb-4">
+<div class="card-body">
+    <div class="row">
     <div class="col-md-6 col-xl-4">
         <div class="card shadow-none bg-transparent border border-secondary mb-3">
             <div class="card-body">
@@ -49,6 +51,8 @@
             </div>
         </div>
     </div>
+</div>
+</div>
 </div>
 
 <!-- Modal -->
