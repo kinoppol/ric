@@ -22,7 +22,7 @@ imagecopyresampled($tmp, $src, 0, 0, 0, 0, $width, $height, $width, $height);
         $dst_name=$dst."jpg";
 imagejpeg($tmp, $dst_name);
 if($delete_org){
-  //unlink($filepath);
+  unlink($filepath);
 }
 return $dst_name;
 }
