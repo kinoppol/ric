@@ -115,7 +115,9 @@ foreach($active_menu as $m){
                   </g>
                 </svg>
               </span>
-              <span class="app-brand-text demo menu-text fw-bolder ms-2"><img src="./images/ric_logo.png" width="40" alt=""> <?php print $system['systemName']; ?></span>
+              <span class="app-brand-text demo menu-text fw-bolder ms-2"><img src="./images/ric_logo.png" width="80" alt=""> <?php 
+              //print $system['systemName']; 
+              ?></span>
             </a>
 
             <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
