@@ -48,6 +48,16 @@ function arr2set($data=array()){
     return $ret;
 }
 
+function var2arr(...$var) {
+    foreach ($var as $key => $value) {
+        if(!is_array($value)) $var[$key] = array($value);
+    }
+    if(count($var)==1){
+        return $var[0];
+    }
+    return $var;
+}
+
 function model($file){
     global $db;
     require_once('model/'.$file.'.php');
