@@ -1,6 +1,5 @@
 <?php
 
-helper('database/mysql_helper');
 class user
 {
     public function index()
@@ -38,9 +37,36 @@ class user
 
     public function update_user()
     {
-        if(empty($_POST['email'])) {
-            return redirect(site_url('user/change_password_form'));
+        $model = model('user_model');
+
+        $data = [
+            "name" => ($_POST['name'] ?? ''),
+            "surname" => ($_POST['surname'] ?? ''),
+            "email" => ($_POST['email'] ?? '')
+        ];
+
+        if($_FILES["fileToUpload"]['size'] > 0){
+            if(!$model->update_avatar($_SESSION['user']['id'],$_FILES["fileToUpload"])){
+                $_SESSION['response']['alert']['type'] = 'danger';
+                $_SESSION['response']['alert']['message'] = $model->error();
+                return redirect(site_url('user/update_user_form'));
+            }
         }
+
+        if(!$model->update_user($_SESSION['user']['id'],$data))
+        {
+            $_SESSION['response']['alert']['type'] = 'danger';
+            $_SESSION['response']['alert']['message'] = $model->error();
+            return redirect(site_url('user/update_user_form'));
+        }
+
+        $_SESSION['response']['alert']['type'] = 'success';
+        $_SESSION['response']['alert']['message'] = 'บันทึกข้อมูลเสร็จสิ้น!';
+
+        $_SESSION['user'] = $model->get($_SESSION['user']['id']);
+
+        return redirect(site_url('user/update_user_form'));
+
     }
 
 
@@ -88,5 +114,6 @@ class user
         return redirect(site_url('user/change_password_form'));
 
     }
+
 
 }
