@@ -7,20 +7,24 @@ class dummy_model
     protected $db;
     protected $table;
     protected $primary_key;
+    protected $error;
+    protected $helper;
+
     public function __construct($db_ref)
     {
         $this->db = $db_ref;
+        $this->helper = new mysql_helper();
     }
+
     public function get($id=null)
     {
         
         $ret = [];
-        $helper = new mysql_helper();
-        $helper->select("*")->from($this->table);
+        $this->helper->select("*")->from($this->table);
         if(isset($id)){
-            $helper->where([$this->primary_key => $id]);
+            $this->helper->where([$this->primary_key => $id]);
         }
-        $result = $helper->query_at($this->db);
+        $result = $this->helper->query_at($this->db);
         if($result->num_rows  == 1){
             return $result->fetch_assoc();
         }
@@ -29,23 +33,29 @@ class dummy_model
         }
         return $ret;
     }
+
     public function update($id,$data)
     {
-        $helper = new mysql_helper();
-        $result = $helper->update($this->table,$data)->where([$this->primary_key => $id])->query_at($this->db);
+        $result = $this->helper->update($this->table,$data)->where([$this->primary_key => $id])->query_at($this->db);
         return $result;
     }
+
     public function delete($id)
     {
-        $helper = new mysql_helper();
-        $result = $helper->delete($table)->where([$this->primary_key => $id])->query_at($this->$db);
+        $result = $this->helper->delete($table)->where([$this->primary_key => $id])->query_at($this->$db);
         return $result;
     }
+
     public function insert($data)
     {
-        $helper = new mysql_helper();
-        $result = $helper->insert($table,$data)->query_at($this->$db);
+        $result = $this->helper->insert($table,$data)->query_at($this->$db);
         return $result;
+    }
+
+    function error(){
+        $error = $this->error;
+        $this->error = null;
+        return $error;
     }
 }
 
