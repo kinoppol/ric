@@ -36,4 +36,124 @@ class user_model extends dummy_model{
             return $res;
         
     }
+
+    function update_avatar($id=null,$picture=null){
+        
+        helper('upload/file');
+        helper("image");
+
+        $target_dir = "writable/images/profile/";
+        $imageFileType = strtolower(pathinfo($picture["name"], PATHINFO_EXTENSION));
+        $file_name = basename(base64_encode($_SESSION['user']['username'])) . '.' . $imageFileType;
+        $uploadOk = 1;
+        
+        $check = getimagesize($picture["tmp_name"]);
+        if($check !== false) {
+            $uploadOk = 1;
+        } else {
+            $uploadOk = 0;
+        }
+
+        // Check file size
+        if ($picture["size"] > 5000000) {
+            $this->error = "ไฟล์รูปมีขนาดเกิน 5 MB กรุณาเปลี่ยนรูปภาพแล้วลองใหม่อีกครั้ง";
+            return false;
+        }
+
+        // Allow certain file formats
+        if($imageFileType != "jpg" && $imageFileType != "png" && $imageFileType != "jpeg"
+        && $imageFileType != "gif") {
+            $this->error = "ผิดรูปแบบประเภทไฟล์ที่อนุญาต กรุณาตรวจสอบแล้วลองใหม่อีกครั้ง";
+            return false;
+        }
+
+        // Check if $uploadOk is set to 0 by an error
+        if ($uploadOk == 0) {
+            $this->error = "ไฟล์รูปภาพมีปัญหา กรุณาเปลี่ยนรูปภาพแล้วลองใหม่อีกครั้ง";
+            return false;
+
+        // if everything is ok, try to upload file
+        }
+
+        $uploaded_file = upload_file($picture, $target_dir, $file_name);
+        if (empty($uploaded_file)) {
+            $this->error = "เกิดข้อผิดพลาดบนเซิฟเวอร์ กรุณาลองใหม่อีกครั้งในภายหลัง";
+            return false;
+        }
+
+        if($imageFileType != "jpg"){
+            $avatar_path = converttojpg($uploaded_file,true);
+        } else {
+            $avatar_path = $uploaded_file;
+        }
+
+        # Resize Image
+        list($width, $height) = getimagesize($avatar_path);
+        $image_p = imagecreatetruecolor(100, 100);
+        $image = imagecreatefromjpeg($avatar_path);
+        imagecopyresampled($image_p, $image, 0, 0, 0, 0, 100, 100, $width, $height);
+        imagejpeg($image_p, $avatar_path);
+
+        $update_data['picture'] = basename(base64_encode($_SESSION['user']['username'])).'.jpg';
+        if(!$this->update($_SESSION['user']['id'], $update_data)) {
+            $this->error = "เกิดข้อผิดพลาดบนเซิฟเวอร์ กรุณาลองใหม่อีกครั้งในภายหลัง";
+            return false;
+        }
+        return true;
+            
+
+    }
+    function update_user($id=null,$data=null){
+
+        $data_struct = [
+            "name" => "",
+            "surname" => "",
+            "email" => "",
+        ];
+
+        helper('validation/email');
+
+        $acl = ['1'];
+        if($id != $_SESSION['user']['id']){
+            if(!in_array($_SESSION['user_type']['id'],$acl)){
+                $this->error = "บัญชีผู้ใช้งานนี้ไม่มีมีสิทธิ์ในการเปลี่ยนข้อมูล";
+                return false;
+            }
+        }
+
+        $update_data = array();
+
+        if(empty($data['email'])) {
+            $this->error = "อีเมลล์ไม่ถูกต้อง กรุณาตรวจสอบและลองอีกครั้ง";
+            return false;
+        }
+
+        if($data['name'] != $_SESSION['user']['name']) {
+            $update_data['name'] = $this->helper->esc($data['name']);
+        }
+
+        if($data['surname'] != $_SESSION['user']['surname']) {
+            $update_data['surname'] = $this->helper->esc($_POST['surname']);
+        }
+
+        if($data['email'] != $_SESSION['user']['email']) {
+            if(!is_validated_email($data['email'])) {
+                $this->error = "อีเมลไม่ถูกต้อง กรุณาตรวจสอบและลองอีกครั้ง!";
+                return false;
+            }
+            $update_data['email'] = $data['email'];
+        }
+
+        if(count($update_data) < 1) {
+            return true;
+        }
+
+        if(!$this->update($_SESSION['user']['id'], $update_data)) {
+            $this->error = "เกิดปัญหาระหว่างเซิฟเวอร์ กรุณาลองอีกครั้งในภายหลัง";
+            return false;
+        }
+
+        return true;
+
+    }
 }
