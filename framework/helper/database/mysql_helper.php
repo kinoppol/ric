@@ -3,7 +3,12 @@
 class mysql_helper {
 
     private $sql;
+    private $db;
     private $cur;
+
+    function __construct($db_ref=null) {
+        $this->db = $db_ref;
+    }
 
     function select(...$fields) {
         $this->sql = 'SELECT ';
@@ -86,6 +91,13 @@ class mysql_helper {
         return $this;
     }
 
+    function esc($string,$db=null) {
+        $db = ($db ?? $this->db);
+        if(empty($db)){
+            return $string;
+        }
+        return $db->escape_string($string);
+    }
 
 }
 
