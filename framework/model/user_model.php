@@ -38,13 +38,25 @@ class user_model extends dummy_model{
     }
 
     function update_avatar($id=null,$picture=null){
+
+        $acl = ['1'];
+
+        if($id != $_SESSION['user']['id']){
+            if(!in_array($_SESSION['user_type']['id'],$acl)){
+                $this->error = "บัญชีผู้ใช้งานนี้ไม่มีมีสิทธิ์ในการเปลี่ยนข้อมูล";
+                return false;
+            }
+            $user = $this->get($id);
+        } else {
+            $user = $_SESSION['user'];
+        }
         
         helper('upload/file');
         helper("image");
 
         $target_dir = "writable/images/profile/";
         $imageFileType = strtolower(pathinfo($picture["name"], PATHINFO_EXTENSION));
-        $file_name = basename(base64_encode($_SESSION['user']['username'])) . '.' . $imageFileType;
+        $file_name = basename(base64_encode($user['username'])) . '.' . $imageFileType;
         $uploadOk = 1;
         
         $check = getimagesize($picture["tmp_name"]);
@@ -94,8 +106,8 @@ class user_model extends dummy_model{
         imagecopyresampled($image_p, $image, 0, 0, 0, 0, 100, 100, $width, $height);
         imagejpeg($image_p, $avatar_path);
 
-        $update_data['picture'] = basename(base64_encode($_SESSION['user']['username'])).'.jpg';
-        if(!$this->update($_SESSION['user']['id'], $update_data)) {
+        $update_data['picture'] = basename(base64_encode($user['username'])).'.jpg';
+        if(!$this->update($user['id'], $update_data)) {
             $this->error = "เกิดข้อผิดพลาดบนเซิฟเวอร์ กรุณาลองใหม่อีกครั้งในภายหลัง";
             return false;
         }
