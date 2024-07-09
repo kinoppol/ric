@@ -34,7 +34,7 @@
                                               <i class="bx bx-dots-vertical-rounded"></i>
                                           </button>
                                           <div class="dropdown-menu">
-                                              <a class="dropdown-item" href="<?php print site_url('management/edit_user/id'.$user['id']); ?>"><i
+                                              <a class="dropdown-item" href="<?php print site_url('management/edit_user/id/'.$user['id']); ?>"><i
                                                       class="bx bx-edit-alt me-1"></i> Edit</a>
                                               <a class="dropdown-item" href="<?php print site_url('management/delete_user/id/'.$user['id']); ?>"><i
                                                       class="bx bx-trash me-1"></i> Delete</a>
