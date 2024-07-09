@@ -114,11 +114,15 @@ class user_model extends dummy_model{
         helper('validation/email');
 
         $acl = ['1'];
+
         if($id != $_SESSION['user']['id']){
             if(!in_array($_SESSION['user_type']['id'],$acl)){
                 $this->error = "บัญชีผู้ใช้งานนี้ไม่มีมีสิทธิ์ในการเปลี่ยนข้อมูล";
                 return false;
             }
+            $user = $this->get($id);
+        } else {
+            $user = $_SESSION['user'];
         }
 
         $update_data = array();
@@ -128,15 +132,15 @@ class user_model extends dummy_model{
             return false;
         }
 
-        if($data['name'] != $_SESSION['user']['name']) {
+        if($data['name'] != $user['name']) {
             $update_data['name'] = $this->helper->esc($data['name']);
         }
 
-        if($data['surname'] != $_SESSION['user']['surname']) {
+        if($data['surname'] != $user['surname']) {
             $update_data['surname'] = $this->helper->esc($_POST['surname']);
         }
 
-        if($data['email'] != $_SESSION['user']['email']) {
+        if($data['email'] != $user['email']) {
             if(!is_validated_email($data['email'])) {
                 $this->error = "อีเมลไม่ถูกต้อง กรุณาตรวจสอบและลองอีกครั้ง!";
                 return false;
@@ -148,7 +152,7 @@ class user_model extends dummy_model{
             return true;
         }
 
-        if(!$this->update($_SESSION['user']['id'], $update_data)) {
+        if(!$this->update($user['id'], $update_data)) {
             $this->error = "เกิดปัญหาระหว่างเซิฟเวอร์ กรุณาลองอีกครั้งในภายหลัง";
             return false;
         }
