@@ -121,6 +121,7 @@ class user_model extends dummy_model{
             "name" => "",
             "surname" => "",
             "email" => "",
+            "user_type_id"
         ];
 
         helper('validation/email');
@@ -150,6 +151,10 @@ class user_model extends dummy_model{
 
         if($data['surname'] != $user['surname']) {
             $update_data['surname'] = $this->helper->esc($_POST['surname']);
+        }
+
+        if($data['user_type_id'] != $user['user_type_id']) {
+            $update_data['user_type_id'] = $this->helper->esc($_POST['user_type_id']);
         }
 
         if($data['email'] != $user['email']) {
