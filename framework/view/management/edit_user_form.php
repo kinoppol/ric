@@ -1,6 +1,7 @@
 <?php
 
 helper('view/alert');
+helper('view/form');
 
 ?>
 
@@ -50,6 +51,9 @@ helper('view/alert');
 
               </div>
             </div>
+          </div>
+          <div class="mb-3 col-12">
+            <?php gen_select('user_type_id','user_type_id',$user_types,$user_types[$user['user_type_id']]) ?>
           </div>
           <input type="hidden" name="id" value="<?= $user['id'] ?>">
 
