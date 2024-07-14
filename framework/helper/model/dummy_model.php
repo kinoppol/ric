@@ -9,6 +9,7 @@ class dummy_model
     protected $primary_key;
     protected $error;
     protected $helper;
+    public $insert_id;
 
     public function __construct($db_ref)
     {
@@ -42,13 +43,14 @@ class dummy_model
 
     public function delete($id)
     {
-        $result = $this->helper->delete($table)->where([$this->primary_key => $id])->query_at($this->$db);
+        $result = $this->helper->delete($this->table)->where([$this->primary_key => $id])->query_at($this->db);
         return $result;
     }
 
     public function insert($data)
     {
-        $result = $this->helper->insert($table,$data)->query_at($this->$db);
+        $result = $this->helper->insert($this->table,$data)->query_at($this->db);
+        $this->insert_id = $this->db->insert_id;
         return $result;
     }
 
