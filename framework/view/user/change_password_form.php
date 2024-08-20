@@ -21,7 +21,7 @@ helper('view/alert');
                 name="current_password"
                 class="form-control"
                 id="floatingInput"
-                placeholder="John Doe"
+                placeholder="ป้อนรหัสผ่านปัจจุบัน"
                 aria-describedby="floatingInputHelp"
                 minlength=8
                 required
@@ -37,7 +37,7 @@ helper('view/alert');
                 name="new_password"
                 class="form-control"
                 id="floatingInput"
-                placeholder="John Doe"
+                placeholder="กำหนดรหัสผ่านใหม่ไม่น้อยกว่า 8 ตัวอักษร"
                 aria-describedby="floatingInputHelp"
                 minlength=8
                 required
@@ -53,7 +53,7 @@ helper('view/alert');
                 name="confirm_password"
                 class="form-control"
                 id="floatingInput"
-                placeholder="John Doe"
+                placeholder="กรอกรหัสผ่านใหม่อีกครั้งให้ตรงกัน"
                 aria-describedby="floatingInputHelp"
                 minlength=8
                 required

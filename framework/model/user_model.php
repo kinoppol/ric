@@ -153,7 +153,7 @@ class user_model extends dummy_model{
             $update_data['surname'] = $this->helper->esc($_POST['surname']);
         }
 
-        if($data['user_type_id'] != $user['user_type_id']) {
+        if(!empty($data['user_type_id']) && $data['user_type_id'] != $user['user_type_id']) {
             $update_data['user_type_id'] = $this->helper->esc($_POST['user_type_id']);
         }
 
