@@ -97,7 +97,7 @@ helper('view/form');
           <div class="mb-3 col-12">
             <div class="form-floating">
               <input type="password" name="new_password" class="form-control" id="floatingInput"
-                placeholder="John Doe" aria-describedby="floatingInputHelp"/>
+                placeholder="กำหนดรหัสผ่านใหม่" aria-describedby="floatingInputHelp"/>
               <label for="floatingInput">รหัสผ่านใหม่ที่ต้องการเปลี่ยน</label>
               <div id="floatingInputHelp" class="form-text">
 
