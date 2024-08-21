@@ -11,7 +11,7 @@ class courses_teaching{
         $id=to10($param['c']);
         $courses_data=$courses->get_courses(['id'=>$id]);
         //$data['content']=$courses_data[0]['name'];
-        $data['title']=$courses_data[0]['name'];
+        $data['title']="ข้อมูลชั้นเรียน : ".$courses_data[0]['name'];
         $data['courses']=$courses_data[0];
         $data['content']=view('courses/forum',$data);
         return view('_template/main',$data);
