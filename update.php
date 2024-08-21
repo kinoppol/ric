@@ -48,4 +48,4 @@ if($zip->open($zip_file) != "true")
 $zip->extractSubdirTo($extractPath,$in_zip_dirname);
 $zip->close();
 
-print '<a href="./index">กลับหน้าหลัก</a>';
+print '<a href="./index.php">กลับหน้าหลัก</a>';
