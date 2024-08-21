@@ -1,6 +1,11 @@
 <?php
     helper('base');
 ?>
+<ul class="nav nav-pills flex-column flex-md-row mb-3">
+                    <li class="nav-item">
+                      <a class="nav-link active" href="#" data-bs-toggle="modal" data-bs-target="#backDropModal"><i class="bx bx-plus me-1"></i> สร้างชั้นเรียนใหม่</a>
+                    </li>
+                  </ul>
 <div class="card mb-4">
 <div class="card-body">
     <div class="row">

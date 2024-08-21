@@ -88,6 +88,10 @@ class user_model extends dummy_model{
         }
 
         $uploaded_file = upload_file($picture, $target_dir, $file_name);
+
+        helper('avatar');
+        square_thumbnail_with_proportion($uploaded_file,$uploaded_file,$square_side=200,$quality=90);
+        //exit();
         if (empty($uploaded_file)) {
             $this->error = "เกิดข้อผิดพลาดบนเซิฟเวอร์ กรุณาลองใหม่อีกครั้งในภายหลัง";
             return false;
