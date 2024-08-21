@@ -1,6 +1,10 @@
+<?php
+    helper('base');
+?>
 <div class="card mb-4">
 <div class="card-body">
     <div class="row">
+<?php if(count($courses)==0) { ?>
     <div class="col-md-6 col-xl-4">
         <div class="card shadow-none bg-transparent border border-secondary mb-3">
             <div class="card-body">
@@ -11,46 +15,24 @@
             </div>
         </div>
     </div>
+<?php }else{ 
+    foreach($courses as $c){
+    ?>
+
     <div class="col-md-6 col-xl-4">
         <div class="card shadow-none bg-transparent border border-primary mb-3">
             <div class="card-body">
-                <a href="#">
-                    <h5 class="card-title"><i class="bx bx-book mb-2"></i> [671] 31901-2003 การสร้างสื่อดิจิทัล</h5>
+                <a href="<?php print site_url('courses_teaching/forum/c/'.toBase($c['id'])); ?>">
+                    <h5 class="card-title"><i class="bx bx-book mb-2"></i> <?php print $c['name']; ?></h5>
                 </a>
-                <p class="card-text">สทส. 1/1</p>
+                <p class="card-text"><?php print $c['section']; ?></p>
             </div>
         </div>
     </div>
-    <div class="col-md-6 col-xl-4">
-        <div class="card shadow-none bg-transparent border border-success mb-3">
-            <div class="card-body">
-                <a href="#">
-                    <h5 class="card-title"><i class="bx bx-book mb-2"></i> [671] 31901-2003 การสร้างสื่อดิจิทัล</h5>
-                </a>
-                <p class="card-text">สทส. 1/1</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-6 col-xl-4">
-        <div class="card shadow-none bg-transparent border border-danger mb-3">
-            <div class="card-body">
-                <a href="#">
-                    <h5 class="card-title"><i class="bx bx-book mb-2"></i> [671] 31901-2003 การสร้างสื่อดิจิทัล</h5>
-                </a>
-                <p class="card-text">สทส. 1/1</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-6 col-xl-4">
-        <div class="card shadow-none bg-transparent border border-warning mb-3">
-            <div class="card-body">
-                <a href="#">
-                    <h5 class="card-title"><i class="bx bx-book mb-2"></i> [671] 31901-2003 การสร้างสื่อดิจิทัล</h5>
-                </a>
-                <p class="card-text">สทส. 1/1</p>
-            </div>
-        </div>
-    </div>
+<?php
+    }
+    }
+?>
 </div>
 </div>
 </div>
