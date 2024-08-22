@@ -23,4 +23,9 @@ class courses extends dummy_model{
         $result=$this->db->query($sql);
         return $this->db->insert_id;
     }
+    function update($data=array(),$where=array()){
+        $sql='update courses set '.arr2set($data).' where '.arr2and($where);
+        $result=$this->db->query($sql);
+        return $result;
+    }
 }

@@ -11,12 +11,12 @@ $menu['ชั้นเรียน']=array(
                 'url'=>site_url('courses_teaching/my_courses'),
             ),
                 'courses_browser'=>array(
-                'label'=>'ค้นหาชั้นเรียนต้นแบบ',
+                'label'=>'ชั้นเรียนต้นแบบ',
                 'url'=>site_url('courses_teaching/courses_browser'),
             ),
-                'courses_achive'=>array(
+                'courses_archived'=>array(
                 'label'=>'ชั้นเรียนที่เก็บ',
-                'url'=>site_url('courses_teaching/courses_achive'),
+                'url'=>site_url('courses_teaching/courses_archived'),
         ),
         ),
     ),

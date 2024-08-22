@@ -186,7 +186,7 @@ foreach($active_menu as $m){
                   </a>
                   <ul class="dropdown-menu dropdown-menu-end">
                     <li>
-                      <a class="dropdown-item" href="#">
+                      <a href="<?php print site_url('user/update_user_form'); ?>" class="dropdown-item" href="#">
                         <div class="d-flex">
                           <div class="flex-shrink-0 me-3">
                             <div class="avatar avatar-online">
@@ -202,14 +202,14 @@ foreach($active_menu as $m){
                     </li>
                     <li>
                       <div class="dropdown-divider"></div>
-                    </li>
+                    </li><!--
                     <li>
                       <a class="dropdown-item" href="#">
                         <i class="bx bx-user me-2"></i>
                         <span class="align-middle">My Profile</span>
                       </a>
                     </li>
-                    <li>
+                    <li> 
                       <a class="dropdown-item" href="#">
                         <i class="bx bx-cog me-2"></i>
                         <span class="align-middle">Settings</span>
@@ -226,9 +226,9 @@ foreach($active_menu as $m){
                     </li>
                     <li>
                       <div class="dropdown-divider"></div>
-                    </li>
+                    </li> -->
                     <li>
-                      <a class="dropdown-item" href="<?php print site_url('logout'); ?>">
+                      <a class="dropdown-item" href="<?php print 'javascript:if(confirm(\'ยืนยันออกจากระบบ\'))window.location.href=\''.site_url('logout').'\''; ?>">
                         <i class="bx bx-power-off me-2"></i>
                         <span class="align-middle">Log Out</span>
                       </a>
