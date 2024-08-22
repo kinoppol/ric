@@ -78,7 +78,7 @@ $system=$systemModel->get_config();
                         <div class="mb-3">
                             <label for="email" class="form-label">อีเมลหรือชื่อผู้ใช้</label>
                             <input type="text" class="form-control" id="email" name="email-username"
-                                placeholder="Enter your email or username" autofocus />
+                                placeholder="Enter your email or username" autofocus tabindex="1"/>
                         </div>
                         <div class="mb-3 form-password-toggle">
                             <div class="d-flex justify-content-between">
@@ -90,7 +90,7 @@ $system=$systemModel->get_config();
                             <div class="input-group input-group-merge">
                                 <input type="password" id="password" class="form-control" name="password"
                                     placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;"
-                                    aria-describedby="password" />
+                                    aria-describedby="password" tabindex="2" />
                                 <span class="input-group-text cursor-pointer"><i class="bx bx-hide"></i></span>
                             </div>
                         </div>
@@ -101,7 +101,7 @@ $system=$systemModel->get_config();
                             </div>
                         </div>
                         <div class="mb-3">
-                            <button class="btn btn-primary d-grid w-100" type="submit">ลงชื่อเข้าใช้</button>
+                            <button class="btn btn-primary d-grid w-100" type="submit" tabindex="3">ลงชื่อเข้าใช้</button>
                         </div>
                     </form>
 
