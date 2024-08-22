@@ -53,7 +53,14 @@ helper('view/form');
             </div>
           </div>
           <div class="mb-3 col-12">
-            <?php gen_select('user_type_id','user_type_id',$user_types,$user_types[$user['user_type_id']]) ?>
+          <div class="form-floating">
+              <?php form_gen_select('user_type_id','user_type_id',$user_types,$user_types[$user['user_type_id']]) ?>
+              <label for="user_type_id">ประเภทผู้ใช้งาน</label>
+              <div id="floatingInputHelp" class="form-text">
+
+              </div>
+            </div>
+            
           </div>
           <input type="hidden" name="id" value="<?= $user['id'] ?>">
 
