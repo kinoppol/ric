@@ -194,7 +194,7 @@ foreach($active_menu as $m){
                             </div>
                           </div>
                           <div class="flex-grow-1">
-                            <span class="fw-semibold d-block"><?php print $_SESSION['user']['username']; ?></span>
+                            <span class="fw-semibold d-block"><?php print $_SESSION['user']['name']." ".$_SESSION['user']['surname'] ?></span>
                             <small class="text-muted"><?php print $_SESSION['user_type']['type_name']; ?></small>
                           </div>
                         </div>

@@ -59,6 +59,8 @@ class user
             $_SESSION['response']['alert']['message'] = $model->error();
             return redirect(site_url('user/update_user_form'));
         }
+        $new_data=$model->get_user(['id'=>$_SESSION['user']['id']]);
+        $_SESSION['user']=$new_data[0];
 
         $_SESSION['response']['alert']['type'] = 'success';
         $_SESSION['response']['alert']['message'] = 'บันทึกข้อมูลเสร็จสิ้น!';
