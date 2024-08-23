@@ -7,15 +7,78 @@ class courses_teaching{
     
     function forum($param){
         $courses=model('courses');
+        $forum=model('forum');
         helper('base');
         $id=to10($param['c']);
         $courses_data=$courses->get_courses(['id'=>$id]);
         //$data['content']=$courses_data[0]['name'];
         $data['title']="ข้อมูลชั้นเรียน : ".$courses_data[0]['name'];
         $data['courses']=$courses_data[0];
-        $data['content']=view('courses/forum',$data);
+        $data['cover']=view('courses/cover',$data);
+        $topics=$forum->get(['courses_id'=>$id]);
+        usort($topics, function ($a, $b) {
+            return $a['createTime'] <=> $b['createTime'];
+        });
+        $topics=array_reverse($topics);
+
+        $topic_data=array(
+            'courses_id'=>$id,
+            'topics'=>$topics,
+        );
+        $data['topic']=view('courses/forum',$topic_data);
+        $data['navigator']='forum';
+        $data['content']=view('courses/courses_layout',$data);
         return view('_template/main',$data);
     }
+
+    
+    function work($param){
+        $courses=model('courses');
+        $topic=model('topic');
+        helper('base');
+        $id=to10($param['c']);
+        $courses_data=$courses->get_courses(['id'=>$id]);
+        //$data['content']=$courses_data[0]['name'];
+        $data['title']="บทเรียน : ".$courses_data[0]['name'];
+        $data['courses']=$courses_data[0];
+        $data['cover']=view('courses/cover',$data);
+
+        $data['modal']=view('courses/lesson_form',$data);
+
+        
+        $topics=$topic->get(['courses_id'=>$id]);
+        /*
+        usort($topics, function ($a, $b) {
+            return $a['createTime'] <=> $b['createTime'];
+        });
+        */
+        //$topics=array_reverse($topics);
+
+        $topic_data=array(
+            'courses_id'=>$id,
+            'topics'=>$topics,
+        );
+
+        $data['topic']=view('courses/lesson',$topic_data);
+        $data['navigator']='work';
+        $data['content']=view('courses/courses_layout',$data);
+        return view('_template/main',$data);
+    }
+
+    function person($param){
+        $courses=model('courses');
+        helper('base');
+        $id=to10($param['c']);
+        $courses_data=$courses->get_courses(['id'=>$id]);
+        //$data['content']=$courses_data[0]['name'];
+        $data['title']="ผู้คนในชั้นเรียน : ".$courses_data[0]['name'];
+        $data['courses']=$courses_data[0];
+        $data['cover']=view('courses/cover',$data);
+        $data['navigator']='person';
+        $data['content']=view('courses/courses_layout',$data);
+        return view('_template/main',$data);
+    }
+
     function edit($param){
         $courses=model('courses');
         helper('base');
@@ -112,6 +175,54 @@ class courses_teaching{
         return redirect(site_url('courses_teaching/forum/c/'.toBase($param['c'])));
     }
 
+    function create_courses_topic(){
+        helper('base');
+        $topic=model('topic');
+        $data=array(
+            'courses_id'=>$_POST['courses_id'],
+            'name'=>$_POST['topic_name'],
+        );
+        $id=$topic->create($data);
+        //exit();
+        return redirect(site_url('courses_teaching/work/c/'.toBase($_POST['courses_id'])));
+    }
 
     
+    function edit_courses_topic($param){
+        $topic=model('topic');
+        helper('base');
+        $id=$param['id'];
+        $courses_topic=$topic->get(['id'=>$id]);
+        //$data['content']=$courses_data[0]['name'];
+        $data['title']="แก้ไขบทเรียน : ".$courses_topic[0]['name'];
+        $data['courses_topic']=$courses_topic[0];
+        $data['content']=view('courses/courses_topic_edit',$data);
+        return view('_template/main',$data);
+    }
+
+    function create_forum_topic(){
+        helper('base');
+        $forum=model('forum');
+        $data=array(
+            'courses_id'=>$_POST['courses_id'],
+            'subject'=>$_POST['topic_subject'],
+            'owner'=>$_SESSION['user']['id'],
+            'createTime'=>date('Y-m-d H:i:s'),
+        );
+        $id=$forum->create($data);
+        //exit();
+        return redirect(site_url('courses_teaching/forum/c/'.toBase($_POST['courses_id'])));
+    }
+    
+    
+    function delete_topic($param){
+        helper('base');
+        $forum=model('forum');
+        $data=array(
+            'id'=>$param['id'],
+        );
+        $id=$forum->delete($data);
+        //exit();
+        return redirect(site_url('courses_teaching/forum/c/'.toBase($param['c'])));
+    }
 }
