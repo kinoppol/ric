@@ -28,7 +28,18 @@ class login{
                 'username'=>$username,
                 'password'=>md5($password),
             );
-            $u=$user->get_user($data);
+            $u1=$user->get_user($data);
+
+            $data=array(
+                //'store_id'=>$store_id,
+                'email'=>$username,
+                'password'=>md5($password),
+            );
+            $u2=$user->get_user($data);
+            $u=$u1;
+            if(count($u1)<1){
+                $u=$u2;
+            }
             if(count($u)<1){
                 $_SESSION['err_message']='ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง';
                 return redirect(site_url('login'));
