@@ -9,7 +9,7 @@
               <?php print $courses['section']; ?>
             </p>
 
-            <a href="<?php print site_url('courses_teaching/edit/c/'.$courses_id); ?>"
+            <a href="<?php print site_url('courses_teaching/edit/c/'.$courses['id']); ?>"
               class="btn btn-sm btn-outline-primary">แก้ไขชั้นเรียน</a>
           </div>
         </div>
