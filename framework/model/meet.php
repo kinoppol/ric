@@ -1,8 +1,8 @@
 <?php
 
 helper("model/dummy_model");
-class topic extends dummy_model{
-    protected $table = 'courses_topics';
+class meet extends dummy_model{
+    protected $table = 'courses_meet';
     protected $primary_key = 'id';
     function __construct($db_ref){
         parent::__construct($db_ref);
@@ -26,15 +26,16 @@ class topic extends dummy_model{
         return $this->db->insert_id;
     }
     function update($data=array(),$where=array()){
-        $sql='update '.$this->table.' set '.arr2set($data).' where '.arr2and($where);
-        //print $sql;
+        $sql='update '.$this->table.' set '.arr2set($data).' where '.arr2and($where).' limit 1';
         $result=$this->db->query($sql);
-        return $result;
+        $row=$this->db->affected_rows;
+        //print $sql;
+        return $row;
     }
 
     function delete($where=array()){
         $sql='delete from '.$this->table.' where '.arr2and($where);
-        print $sql;
+        //print $sql;
         $result=$this->db->query($sql);
         return $result;
     }

@@ -41,7 +41,7 @@ foreach($topics as $topic){
                                 <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt3">
                                     
                                     <a class="dropdown-item" href="<?php print site_url('courses_teaching/edit_courses_topic/id/'.$topic['id'].'/c/'.$topic['courses_id']).'\''; ?>">แก้ไข</a>
-                                    <a class="dropdown-item" href="<?php print 'javascript:if(confirm(\'ยืนยันการลบบทเรียน\'))window.location.href=\''.site_url('courses_teaching/delete_topic/id/'.$topic['id'].'/c/'.$topic['courses_id']).'\''; ?>">ลบ</a>
+                                    <a class="dropdown-item" href="<?php print 'javascript:if(confirm(\'ยืนยันการลบบทเรียน\'))window.location.href=\''.site_url('courses_teaching/delete_courses_topic/id/'.$topic['id'].'/c/'.$topic['courses_id']).'\''; ?>">ลบ</a>
                                 </div>
                             </div>
                     </li>

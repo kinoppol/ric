@@ -8,8 +8,10 @@ class courses_teaching{
     function forum($param){
         $courses=model('courses');
         $forum=model('forum');
+        $meet=model('meet');
         helper('base');
         $id=to10($param['c']);
+        $meet_link=$meet->get(array('courses_id'=>$id));
         $courses_data=$courses->get_courses(['id'=>$id]);
         //$data['content']=$courses_data[0]['name'];
         $data['title']="ข้อมูลชั้นเรียน : ".$courses_data[0]['name'];
@@ -27,6 +29,7 @@ class courses_teaching{
         );
         $data['topic']=view('courses/forum',$topic_data);
         $data['navigator']='forum';
+        $data['meet_url']=count($meet_link)>0?$meet_link[0]['url']:'';
         $data['content']=view('courses/courses_layout',$data);
         return view('_template/main',$data);
     }
@@ -35,8 +38,10 @@ class courses_teaching{
     function work($param){
         $courses=model('courses');
         $topic=model('topic');
+        $meet=model('meet');
         helper('base');
         $id=to10($param['c']);
+        $meet_link=$meet->get(array('courses_id'=>$id));
         $courses_data=$courses->get_courses(['id'=>$id]);
         //$data['content']=$courses_data[0]['name'];
         $data['title']="บทเรียน : ".$courses_data[0]['name'];
@@ -61,6 +66,7 @@ class courses_teaching{
 
         $data['topic']=view('courses/lesson',$topic_data);
         $data['navigator']='work';
+        $data['meet_url']=count($meet_link)>0?$meet_link[0]['url']:'';
         $data['content']=view('courses/courses_layout',$data);
         return view('_template/main',$data);
     }
@@ -199,6 +205,31 @@ class courses_teaching{
         $data['content']=view('courses/courses_topic_edit',$data);
         return view('_template/main',$data);
     }
+    
+    function update_courses_topic(){
+        $data['name']=$_POST['topic_name'];
+        $data['pretest']=$_POST['pretest'];
+        $data['media']=$_POST['media'];
+        $data['posttest']=$_POST['posttest'];
+        helper('base');
+        $topic=model('topic');
+        $topic->update($data,array('id'=>$_POST['topic_id']));
+        $id=toBase($_POST['courses_id']);
+        //exit();
+        return redirect(site_url('courses_teaching/work/c/'.$id));
+
+    }
+
+    function delete_courses_topic($param){
+        helper('base');
+        $topic=model('topic');
+        $data=array(
+            'id'=>$param['id'],
+        );
+        $id=$topic->delete($data);
+        //exit();
+        return redirect(site_url('courses_teaching/work/c/'.toBase($param['c'])));
+    }
 
     function create_forum_topic(){
         helper('base');
@@ -213,6 +244,29 @@ class courses_teaching{
         //exit();
         return redirect(site_url('courses_teaching/forum/c/'.toBase($_POST['courses_id'])));
     }
+
+    function edit_forum_topic($param){
+        $forum=model('forum');
+        helper('base');
+        $id=$param['id'];
+        $topic_data=$forum->get(['id'=>$id]);
+        //$data['content']=$courses_data[0]['name'];
+        $data['title']="แก้ไขประกาศ : ".$topic_data[0]['subject'];
+        $data['topic_data']=$topic_data[0];
+        $data['content']=view('courses/forum_topic_edit',$data);
+        return view('_template/main',$data);
+    }
+    
+    function update_forum_topic(){
+        $data['subject']=$_POST['subject'];
+        helper('base');
+        $forum=model('forum');
+        $forum->update($data,array('id'=>$_POST['topic_id']));
+        $id=toBase($_POST['courses_id']);
+        //exit();
+        return redirect(site_url('courses_teaching/forum/c/'.$id));
+
+    }
     
     
     function delete_topic($param){
@@ -222,6 +276,21 @@ class courses_teaching{
             'id'=>$param['id'],
         );
         $id=$forum->delete($data);
+        //exit();
+        return redirect(site_url('courses_teaching/forum/c/'.toBase($param['c'])));
+    }
+
+    function create_meet_link($param){
+        helper('base');
+        $meet=model('meet');
+        $data=array(
+            'courses_id'=>$param['c'],
+        );
+        $where=array('courses_id'=>0);
+        $row=$meet->update($data,$where);
+        if($row==0){
+            print '<script> alert("ไม่สามารถสร้างลิงก์ได้ เนื่องจากการสร้างลิงก์ Meet ถึงระดับที่จำกัดแล้ว โปรดติดต่อผู้ดูแลระบบ"); </script>';
+        }
         //exit();
         return redirect(site_url('courses_teaching/forum/c/'.toBase($param['c'])));
     }

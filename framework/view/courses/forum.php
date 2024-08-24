@@ -48,6 +48,7 @@ foreach($topics as $topic){
                                     <i class="bx bx-dots-vertical-rounded"></i>
                                 </button>
                                 <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt3">
+                                    <a class="dropdown-item" href="<?php print  site_url('courses_teaching/edit_forum_topic/id/'.$topic['id'].'/c/'.$topic['courses_id']); ?>">แก้ไข</a>
                                     <a class="dropdown-item" href="<?php print 'javascript:if(confirm(\'ยืนยันการลบประกาศ\'))window.location.href=\''.site_url('courses_teaching/delete_topic/id/'.$topic['id'].'/c/'.$topic['courses_id']).'\''; ?>">ลบ</a>
                                 </div>
                             </div>

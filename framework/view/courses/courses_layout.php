@@ -47,14 +47,41 @@ $id=toBase($courses['id']);
                   <i class="bx bx-dots-vertical-rounded"></i>
                 </button>
                 <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt3">
-                  <a class="dropdown-item" href="javascript:void(0);">คัดลอกลิงก์</a>
+                  <a class="dropdown-item" href="javascript:copyMeetLink();">คัดลอกลิงก์</a>
+                  <!--
                   <a class="dropdown-item" href="javascript:void(0);">จัดการ</a>
+                  -->
                 </div>
               </div>
           </li>
 
           <div class="d-grid gap-12 col-lg-12 mx-auto">
-            <a href="#" class="btn btn-primary">เข้าร่วม</a>
+            <?php
+              if(empty($meet_url)){
+            ?>
+            <script>
+        function copyMeetLink() {
+
+            alert("กรุณาสร้างลิงก์ก่อน");
+        }
+    </script>         
+            <a href="<?php print site_url('courses_teaching/create_meet_link/c/'.$courses['id']); ?>" class="btn btn-primary">สร้างลิงก์</a>
+            <?php
+              }else{
+                ?>       
+                 <script>
+        function copyMeetLink() {
+
+            /* Copy text into clipboard */
+            navigator.clipboard.writeText
+                ("<?php print $meet_url; ?>");
+        }
+    </script>         
+                <h5><a href="<?php print $meet_url; ?>" target="_blank"><?php print $meet_url; ?></a></h5>
+                <a href="<?php print $meet_url; ?>" target="_blank" class="btn btn-primary">เข้าร่วม</a>
+                <?php
+                  }
+            ?>
           </div>
         </div>
       </div>
