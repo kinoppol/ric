@@ -208,9 +208,9 @@ class courses_teaching{
     
     function update_courses_topic(){
         $data['name']=$_POST['topic_name'];
-        if(!empty($_POST['pretest']))$data['pretest']=$_POST['pretest'];
-        if(!empty($_POST['media']))$data['media']=$_POST['media'];
-        if(!empty($_POST['posttest']))$data['posttest']=$_POST['posttest'];
+        $data['pretest']=$_POST['pretest'];
+        $data['media']=$_POST['media'];
+        $data['posttest']=$_POST['posttest'];
         helper('base');
         $topic=model('topic');
         $topic->update($data,array('id'=>$_POST['topic_id']));

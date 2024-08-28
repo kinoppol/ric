@@ -35,7 +35,7 @@ function arr2and($data=array()){
     $ret='';
     foreach($data as $k=>$v){
         if(!empty($ret))$ret.=' AND ';
-        $ret.=$k.'='.pq($v);
+        $ret.=$k.'='.pq($v,$foreceQuote=true);
     }
     return $ret;
 }
@@ -43,7 +43,7 @@ function arr2set($data=array()){
     $ret='';
     foreach($data as $k=>$v){
         if(!empty($ret))$ret.=',';
-        $ret.=$k.'='.pq($v);
+        $ret.=$k.'='.pq($v,$foreceQuote=true);
     }
     return $ret;
 }
