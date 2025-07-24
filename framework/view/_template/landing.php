@@ -62,7 +62,7 @@ $template_path='template/courses/';
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo" align="center">
-                                    <a href="https://cvm.vec.go.th/" target="_blank"><img src="./images/ric_logo.png" width="60" alt=""> <br>แพลตฟอร์มการจัดการเรียนการสอนของครู สาขาวิชาการจัดการธุรกิจค้าปลีก</a>
+                                    <a href="https://cvm.vec.go.th/" target="_blank"><img src="./images/ric_logo.png" width="60" alt=""> <br>แพลตฟอร์มการจัดการเรียนการสอน<br>สาขาวิชาการจัดการธุรกิจค้าปลีก</a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
@@ -104,8 +104,8 @@ $template_path='template/courses/';
                         <div class="row">
                             <div class="col-xl-6 col-lg-7 col-md-12">
                                 <div class="hero__caption">
-                                    <h1 data-animation="fadeInLeft" data-delay="0.2s">แพลตฟอร์มการจัดการเรียนการสอน<br>สาขาวิชาการจัดการธุรกิจค้าปลีก</h1>
-                                    <p data-animation="fadeInLeft" data-delay="0.4s">Retail business intelligence learning center.</p>
+                                    <h1 data-animation="fadeInLeft" data-delay="0.2s">แพลตฟอร์มการจัดการเรียนการสอน<br></h1>
+                                    <p data-animation="fadeInLeft" data-delay="0.4s">สาขาวิชาการจัดการธุรกิจค้าปลีก</p>
                                     <a href="?p=register" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.7s">ลงทะเบียนเรียนฟรี</a>
                                 </div>
                             </div>
@@ -311,7 +311,7 @@ $template_path='template/courses/';
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
-                                        <p>แพลตฟอร์มการจัดการเรียนการสอนของครู สาขาวิชาการจัดการธุรกิจค้าปลีก <br> Retail business intelligence learning center.</p>
+                                        <p>แพลตฟอร์มการจัดการเรียนการสอนของครู<br>สาขาวิชาการจัดการธุรกิจค้าปลีก <br> Retail business intelligence learning center.</p>
                                     </div>
                                 </div>
                                 <!-- social -->
