@@ -89,9 +89,16 @@ $system=$systemModel->get_config();
                             </div>
                         </div>
                         <div class="mb-3">
+                            <label for="email" class="form-label">บทบาท</label>
+                                <input class="form-check-input" type="checkbox" name="role" value="student"/>
+                                <label class="form-check-label" for="defaultCheck1"> ผู้เรียน </label>
+                                <input class="form-check-input" type="checkbox" name="role" value="instructor"/>
+                                <label class="form-check-label" for="defaultCheck1"> ผู้สอน </label>
+                        </div>
+                        <div class="mb-3">
                             <div class="form-check">
                                 <input class="form-check-input" type="checkbox" id="agree" required />
-                                <label class="form-check-label" for="agree"> ยอมรับข้อตกลงการใช้งาน </label>
+                                <label class="form-check-label" for="agree"> ยืนยันข้อมูลถูกต้องครบถ้วน </label>
                             </div>
                         </div>
                         <div class="mb-3">
