@@ -15,9 +15,9 @@ class register{
                 'email'=>$email,
             );
             if($_POSR['role']=='student'){
-                $data['user_type_id']=='4';
+                $data['user_type_id']='4';
             }else if($_POSR['role']=='instructor'){
-                $data['user_type_id']=='3';
+                $data['user_type_id']='3';
             }
         $userModel=model('user_model');
         $user_id=$userModel->add_user($data);
