@@ -47,10 +47,18 @@ $id=toBase($courses['id']);
                   <i class="bx bx-dots-vertical-rounded"></i>
                 </button>
                 <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt3">
-                  <a class="dropdown-item" href="javascript:copyMeetLink();">คัดลอกลิงก์</a>
-                  <!--
-                  <a class="dropdown-item" href="javascript:void(0);">จัดการ</a>
-                  -->
+                  <?php
+                  if(!empty($meet_url)){
+                  ?>
+                    <a class="dropdown-item" href="javascript:copyMeetLink();">คัดลอกลิงก์</a>
+                    <a class="dropdown-item" href="<?php print site_url('courses_teaching/delete_meet_link/c/'.$courses['id']); ?>" onClick="return confirm('ยืนยันยกเลิกการประชุม')">ยกเลิกลิงก์</a>
+                  <?php
+                  }else{
+                    ?>
+                    <a class="dropdown-item" href="<?php print site_url('courses_teaching/create_meet_link/c/'.$courses['id']); ?>">สร้างลิงก์</a>
+                    <?php
+                  }
+                  ?>
                 </div>
               </div>
           </li>

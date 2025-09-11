@@ -283,6 +283,13 @@ class courses_teaching{
     function create_meet_link($param){
         helper('base');
         $meet=model('meet');
+        
+        $data=array(
+            'courses_id'=>$param['c'],
+            'meet_link'=>'https://meet.google.com/lookup/'.generateRandomString(10),
+        );
+        $meet->create($data);
+        /*
         $data=array(
             'courses_id'=>$param['c'],
         );
@@ -290,8 +297,19 @@ class courses_teaching{
         $row=$meet->update($data,$where);
         if($row==0){
             print '<script> alert("ไม่สามารถสร้างลิงก์ได้ เนื่องจากการสร้างลิงก์ Meet ถึงระดับที่จำกัดแล้ว โปรดติดต่อผู้ดูแลระบบ"); </script>';
-        }
+        }*/
         //exit();
+        return redirect(site_url('courses_teaching/forum/c/'.toBase($param['c'])));
+    }
+
+    function delete_meet_link($param){
+        helper('base');
+        $meet=model('meet');
+        
+        $data=array(
+            'courses_id'=>$param['c'],
+        );
+        $meet->delete($data);
         return redirect(site_url('courses_teaching/forum/c/'.toBase($param['c'])));
     }
 }
