@@ -90,9 +90,9 @@ $system=$systemModel->get_config();
                         </div>
                         <div class="mb-3">
                             <label for="email" class="form-label">บทบาท</label>
-                                <input class="form-check-input" type="checkbox" name="role" value="student"/>
+                                <input class="form-check-input" type="radio" name="role" value="student" checked/>
                                 <label class="form-check-label" for="defaultCheck1"> ผู้เรียน </label>
-                                <input class="form-check-input" type="checkbox" name="role" value="instructor"/>
+                                <input class="form-check-input" type="radio" name="role" value="instructor"/>
                                 <label class="form-check-label" for="defaultCheck1"> ผู้สอน </label>
                         </div>
                         <div class="mb-3">
