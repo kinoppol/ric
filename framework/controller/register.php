@@ -14,9 +14,9 @@ class register{
                 'password'=>md5($password),
                 'email'=>$email,
             );
-            if($_POSR['role']=='student'){
+            if($_POST['role']=='student'){
                 $data['user_type_id']='4';
-            }else if($_POSR['role']=='instructor'){
+            }else if($_POST['role']=='instructor'){
                 $data['user_type_id']='3';
             }
         $userModel=model('user_model');
