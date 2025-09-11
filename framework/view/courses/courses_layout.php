@@ -55,7 +55,7 @@ $id=toBase($courses['id']);
               </div>
           </li>
 
-          <div class="d-grid gap-12 col-lg-12 mx-auto">
+          <div class="d-grid gap-12 col-lg-12 mx-auto" style="text-align:center">
             <?php
               if(empty($meet_url)){
             ?>
@@ -77,7 +77,9 @@ $id=toBase($courses['id']);
                 ("<?php print $meet_url; ?>");
         }
     </script>         
-                <h5><a href="<?php print $meet_url; ?>" target="_blank"><?php print $meet_url; ?></a></h5>
+                <h5><a href="<?php print $meet_url; ?>" target="_blank"><?php 
+                $meet_code=mb_substr($meet_url,mb_strlen("https://meet.google.com/lookup/"),mb_strlen($meet_url)-mb_strlen("https://meet.google.com/lookup/"));
+                print $meet_code; ?></a></h5>
                 <a href="<?php print $meet_url; ?>" target="_blank" class="btn btn-primary">เข้าร่วม</a>
                 <?php
                   }

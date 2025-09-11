@@ -29,7 +29,7 @@ class courses_teaching{
         );
         $data['topic']=view('courses/forum',$topic_data);
         $data['navigator']='forum';
-        $data['meet_url']=count($meet_link)>0?$meet_link[0]['url']:'';
+        $data['meet_url']=count($meet_link)>0?$meet_link[0]['meet_link']:'';
         $data['content']=view('courses/courses_layout',$data);
         return view('_template/main',$data);
     }
@@ -66,7 +66,7 @@ class courses_teaching{
 
         $data['topic']=view('courses/lesson',$topic_data);
         $data['navigator']='work';
-        $data['meet_url']=count($meet_link)>0?$meet_link[0]['url']:'';
+        $data['meet_url']=count($meet_link)>0?$meet_link[0]['meet_link']:'';
         $data['content']=view('courses/courses_layout',$data);
         return view('_template/main',$data);
     }
