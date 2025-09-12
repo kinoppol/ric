@@ -22,7 +22,7 @@ helper('view/alert');
               if(!empty($user['picture'])) {
             ?>
             <img
-              src="<?php print site_url('./writable/images/profile/'.$user['picture'], true); ?>"
+              src="<?php print site_url('./writable/images/profile/'.$user['picture'], true)."?=".rand(0,999); ?>"
               alt="user-avatar" class="d-block rounded" height="100" width="100" id="uploadedAvatar" />
             <?php
               } else {
