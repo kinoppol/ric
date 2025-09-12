@@ -16,11 +16,16 @@ $menu['เมนูผู้ใช้']=array(
             ),
         ),
     ),
+    'manual'=>array(
+        'label'=>'คู่มือการใช้งานระบบ',
+        'bullet'=>'tf-icons bx bx-book',
+        'url'=>'https://drive.google.com/drive/folders/1zRGllI0VZOFgTA6oNz6OLV81_as41nrG?usp=sharing
+',
+    ),
     'logout'=>array(
         'label'=>'ออกจากระบบ',
         'bullet'=>'tf-icons bx bx-exit',
         'url'=>'javascript:if(confirm(\'ยืนยันออกจากระบบ\'))window.location.href=\''.site_url('logout').'\'; ',
     ),
 );
-
 print gen_menu($menu);
