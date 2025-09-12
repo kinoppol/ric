@@ -3,8 +3,8 @@ function square_thumbnail_with_proportion($src_file,$destination_file,$square_di
 {
     // Step one: Rezise with proportion the src_file *** I found this in many places.
 
-    $src_img=imagecreatefromjpeg($src_file);
-
+    //$src_img=imagecreatefromjpeg($src_file);
+    $src_img=imagecreatefromstring(file_get_contents($src_file));
     $old_x=imageSX($src_img);
     $old_y=imageSY($src_img);
 
