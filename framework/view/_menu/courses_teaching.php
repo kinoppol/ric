@@ -1,5 +1,5 @@
 <?php
-
+/*
 $menu['ห้องเรียนออนไลน์']=array(
     'courses_teaching'=>array(
         'label'=>'ชั้นเรียน',
@@ -22,4 +22,4 @@ $menu['ห้องเรียนออนไลน์']=array(
     ),
 );
 
-print gen_menu($menu);
+print gen_menu($menu);*/
