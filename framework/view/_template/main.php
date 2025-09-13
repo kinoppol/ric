@@ -61,12 +61,10 @@ foreach($active_menu as $m){
         }
         .content_div{
         background-image: url('./images/flower_blur.png');
-        background-size: cover; /* Stretches the image to cover the entire div */
-  background-position: center; /* Centers the image within the div */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-attachment: fixed; /* Makes the background image fixed relative to the viewport */
-  width: 100%; /* Ensures the div takes full width */
-  height: 100vh; /* Ensures the div takes full viewport height */
+        
+  background-attachment: fixed;
+        background-size: 100% 100%; /* Stretches to 100% width and 100% height of the div */
+        background-repeat: no-repeat;
         }
     </style>
     <!-- Helpers -->
