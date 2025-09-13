@@ -12,8 +12,17 @@ class forum extends dummy_model{
         //print $sql;
         $result=$this->db->query($sql);
 
+        
+        $sql='select id,name,surname,picture from user_data';
+        $user_data=$this->db->query($sql);
+        $users=array();
+        while($u=$user_data->fetch_assoc()){
+            $users[$u['id']]=$u;
+        }
+
             $res=array();
             while($row=$result->fetch_assoc()){
+                $row['owner_data']=$users[$row['owner']];
                 $res[]=$row;
             }
             return $res;

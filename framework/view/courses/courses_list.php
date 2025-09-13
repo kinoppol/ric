@@ -26,13 +26,18 @@
     </div>
 <?php }else{ 
     foreach($courses as $c){
+        //print_r($c);
     ?>
 
     <div class="col-md-6 col-xl-4">
-        <div class="card bg-<?php print $c['cover_color']; ?> text-white mb-3">
+        <div class="card bg-<?php print !empty($c['cover_color'])?$c['cover_color']:'primary'; ?> text-white mb-3">
             <div class="card-body">
                 <a href="<?php print site_url('courses_teaching/forum/c/'.toBase($c['id'])); ?>">
-                    <h5 class="card-title text-white"><i class="bx bx-book mb-2"></i> <?php print $c['name']; ?></h5>
+                    <h5 class="card-title text-white"><div class="mb-3">
+                    <img src="<?php
+                              print show_avatar($c['owner']['picture']);
+                              ?>" alt
+                        class="w-px-40 h-auto rounded-circle" /> <?php print $c['name']; ?></h5>
                 </a>
                 <p class="card-text"><?php print $c['section']; ?></p>
             </div>

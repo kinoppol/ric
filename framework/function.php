@@ -99,3 +99,12 @@ function generateRandomString($length = 10) {
     }
     return $randomString;
 }
+
+function show_avatar($pic_uri){
+    if(!empty($pic_uri)){
+                                $user_pic='./writable/images/profile/'.$pic_uri;
+                              }else{
+                                $user_pic=site_url('./images/robot-modern-style-vector.jpg', true);
+                              }
+                              return $user_pic;
+}

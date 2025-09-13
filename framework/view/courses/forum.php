@@ -3,7 +3,9 @@
         <div class="card">
             <div class="card-body">
                 <div class="mb-3">
-                    <img src="./writable/images/profile/<?= $_SESSION['user']['picture'] ?>" alt
+                    <img src="<?php
+                              print show_avatar($_SESSION['user']['picture']);
+                              ?>" alt
                         class="w-px-40 h-auto rounded-circle" />
                     <?php print $_SESSION['user']['name']." ".$_SESSION['user']['surname'] ?>
                 </div>
@@ -33,9 +35,11 @@ foreach($topics as $topic){
                     <li class="d-flex mb-4 pb-1">
                         <div class="avatar flex-shrink-0 me-3">
                             <a href="#"
-                                title=" <?php print $_SESSION['user']['name']." ".$_SESSION['user']['surname'] ?>">
-                                <img src="./writable/images/profile/<?= $_SESSION['user']['picture'] ?>"
-                                    alt=" <?php print $_SESSION['user']['name']." ".$_SESSION['user']['surname'] ?>"
+                                title=" <?php print $topic['owner_data']['name']." ".$topic['owner_data']['surname']; ?>">
+                                <img src="<?php
+                              print show_avatar($topic['owner_data']['picture']);
+                              ?>"
+                                    alt=" <?php print $topic['owner_data']['name']." ".$topic['owner_data']['surname']; ?>"
                                     class="w-px-40 h-auto rounded-circle" /></a>
                         </div>
                         <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">

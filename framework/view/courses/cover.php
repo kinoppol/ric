@@ -8,9 +8,24 @@
             <p class="mb-4">
               <?php print $courses['section']; ?>
             </p>
-
+            <?php
+              if($_SESSION['user']['id']==$courses['owner']){
+            ?>
             <a href="<?php print site_url('courses_teaching/edit/c/'.$courses['id']); ?>"
               class="btn btn-sm btn-outline-primary">แก้ไขชั้นเรียน</a>
+              <?php
+              }else{
+              ?>
+              <div class="mb-3">
+                    <img src="<?php
+                              print show_avatar($owner['picture']);
+                              ?>" alt
+                        class="w-px-40 h-auto rounded-circle" />
+                    <?php print $owner['name']." ".$owner['surname'] ?>
+                </div>
+                <?php
+              }
+                ?>
           </div>
         </div>
         <div class="col-sm-5 text-center text-sm-left">

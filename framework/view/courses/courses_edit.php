@@ -48,6 +48,15 @@
                           >ตั้งเป็นชั้นเรียนต้นแบบ (เผยแพร่สาธารณะ)</label
                         >
                       </div>
+                      
+                    <div class="form-check form-switch mb-2">
+                        <input name="state" value="ARCHIVED" class="form-check-input" type="checkbox" id="flexSwitchCheckDefault"
+                        <?php print $courses['state']=='ARCHIVED'?' checked':''; ?>
+                         />
+                        <label class="form-check-label" for="flexSwitchCheckDefault"
+                          >เก็บ (ปิดการใช้งาน)</label
+                        >
+                      </div>
                 </div>
             </div>
 

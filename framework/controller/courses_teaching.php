@@ -9,13 +9,16 @@ class courses_teaching{
         $courses=model('courses');
         $forum=model('forum');
         $meet=model('meet');
+        $user_model=model('user_model');
         helper('base');
         $id=to10($param['c']);
         $meet_link=$meet->get(array('courses_id'=>$id));
         $courses_data=$courses->get_courses(['id'=>$id]);
         //$data['content']=$courses_data[0]['name'];
+        $owner_data=$user_model->get_user(array('id'=>$courses_data[0]['owner']));
         $data['title']="ข้อมูลชั้นเรียน : ".$courses_data[0]['name'];
         $data['courses']=$courses_data[0];
+        $data['owner']=$owner_data[0];
         $data['cover']=view('courses/cover',$data);
         $topics=$forum->get(['courses_id'=>$id]);
         usort($topics, function ($a, $b) {
@@ -27,7 +30,7 @@ class courses_teaching{
             'courses_id'=>$id,
             'topics'=>$topics,
         );
-        $data['topic']=view('courses/forum',$topic_data);
+        $data['topic']=$data['courses']['state']=='ACTIVE'?view('courses/forum',$topic_data):'ชั้นเรียนถูกปิดการใช้งาน โปรดแก้ไขชั้นเรียนเพื่อใช้งาน';
         $data['navigator']='forum';
         $data['meet_url']=count($meet_link)>0?$meet_link[0]['meet_link']:'';
         $data['content']=view('courses/courses_layout',$data);
@@ -39,13 +42,16 @@ class courses_teaching{
         $courses=model('courses');
         $topic=model('topic');
         $meet=model('meet');
+        $user_model=model('user_model');
         helper('base');
         $id=to10($param['c']);
         $meet_link=$meet->get(array('courses_id'=>$id));
         $courses_data=$courses->get_courses(['id'=>$id]);
         //$data['content']=$courses_data[0]['name'];
+        $owner_data=$user_model->get_user(array('id'=>$courses_data[0]['owner']));
         $data['title']="บทเรียน : ".$courses_data[0]['name'];
         $data['courses']=$courses_data[0];
+        $data['owner']=$owner_data[0];
         $data['cover']=view('courses/cover',$data);
 
         $data['modal']=view('courses/lesson_form',$data);
@@ -99,11 +105,22 @@ class courses_teaching{
     function my_courses(){
         $data['title']='ชั้นเรียนของฉัน';        
         $courses=model('courses');
+        $user_model=model('user_model');
+        $owner_data=$user_model->get_user(array('id'=>$_SESSION['user']['id']));
         $cond=array('owner'=>$_SESSION['user']['id'],'state'=>'ACTIVE');
         $courses_data=$courses->get_courses($cond);
-
+        //$courses_data['owner']=$owner_data[0];
+        
+        $c_data=array();
+        foreach($courses_data as $c){
+            //print_r($c);
+            $owner_data=$user_model->get_user(array('id'=>$c['owner']));
+            $c['owner']=$owner_data[0];
+            $c_data[]=$c;
+        }
         $data['modal']=view('courses/courses_form',$data);
-        $data['courses']=$courses_data;
+        //print_r($c_data);
+        $data['courses']=$c_data;
         $data['createLink']=true;
         $data['content']=view('courses/courses_list',$data);
         return view('_template/main',$data);
@@ -123,9 +140,19 @@ class courses_teaching{
     function courses_browser(){
         $data['title']='ชั้นเรียนต้นแบบ';     
         $courses=model('courses');
+        $user_model=model('user_model');
         $cond=array('visibility'=>'PUBLIC','state'=>'ACTIVE');
         $courses_data=$courses->get_courses($cond);
-        $data['courses']=$courses_data;
+
+        $c_data=array();
+        foreach($courses_data as $c){
+            //print_r($c);
+            $owner_data=$user_model->get_user(array('id'=>$c['owner']));
+            $c['owner']=$owner_data[0];
+            $c_data[]=$c;
+        }
+
+        $data['courses']=$c_data;
         $data['createLink']=false;
         $data['content']=view('courses/courses_list',$data);
         return view('_template/main',$data);
@@ -157,6 +184,12 @@ class courses_teaching{
             $data['visibility']='PUBLIC';
         }else{
             $data['visibility']='PRIVATE';            
+        }
+
+        if(!empty($_POST['state'])&&$_POST['state']=='ARCHIVED'){
+            $data['state']='ARCHIVED';
+        }else{
+            $data['state']='ACTIVE';            
         }
         helper('base');
         $courses=model('courses');
