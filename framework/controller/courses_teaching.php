@@ -97,6 +97,7 @@ class courses_teaching{
         $id=to10($param['c']);
         $courses_data=$courses->get_courses(['id'=>$id]);
         //$data['content']=$courses_data[0]['name'];
+        //print_r($courses_data);
         $data['title']="แก้ไขชั้นเรียน : ".$courses_data[0]['name'];
         $data['courses']=$courses_data[0];
         $data['content']=view('courses/courses_edit',$data);

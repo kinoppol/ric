@@ -11,7 +11,7 @@
             <?php
               if($_SESSION['user']['id']==$courses['owner']){
             ?>
-            <a href="<?php print site_url('courses_teaching/edit/c/'.$courses['id']); ?>"
+            <a href="<?php print site_url('courses_teaching/edit/c/'.toBase($courses['id'])); ?>"
               class="btn btn-sm btn-outline-primary">แก้ไขชั้นเรียน</a>
               <?php
               }else{
