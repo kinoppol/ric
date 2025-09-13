@@ -9,13 +9,13 @@
         <div class="card bg-<?php print !empty($c['cover_color'])?$c['cover_color']:'primary'; ?> text-white mb-3">
             <div class="card-body">
                 <a href="<?php print site_url('media/list/c/'.toBase($c['id'])); ?>">
-                    <h5 class="card-title text-white"><div class="mb-3">
+                    <h5 class="card-title text-white"><div class="mb-3">สื่อการสอนรายวิชา<br>
                     <?php print $c['name']; ?></h5>
                 </a>
-                <p class="card-text"><img src="<?php
+                <p class="card-text">โดย <img src="<?php
                               print show_avatar($c['owner']['picture']);
                               ?>" alt
-                        class="w-px-40 h-auto rounded-circle" /><?php print $c['owner']['name'].' '.$c['owner']['surname']; ?></p>
+                        class="w-px-40 h-auto rounded-circle" /> <?php print $c['owner']['name'].' '.$c['owner']['surname']; ?></p>
             </div>
         </div>
         </div>
