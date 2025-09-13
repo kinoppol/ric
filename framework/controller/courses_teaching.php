@@ -98,13 +98,13 @@ class courses_teaching{
         $courses_data=$courses->get_courses(['id'=>$id]);
         //$data['content']=$courses_data[0]['name'];
         //print_r($courses_data);
-        $data['title']="แก้ไขชั้นเรียน : ".$courses_data[0]['name'];
+        $data['title']="แก้ไขห้องเรียน : ".$courses_data[0]['name'];
         $data['courses']=$courses_data[0];
         $data['content']=view('courses/courses_edit',$data);
         return view('_template/main',$data);
     }
     function my_courses(){
-        $data['title']='ชั้นเรียนของฉัน : Online Learning Classroom';        
+        $data['title']='ห้องเรียนของฉัน : Online Learning Classroom';        
         $courses=model('courses');
         $user_model=model('user_model');
         $owner_data=$user_model->get_user(array('id'=>$_SESSION['user']['id']));
@@ -127,7 +127,7 @@ class courses_teaching{
         return view('_template/main',$data);
     }
     function courses_archived(){
-        $data['title']='ชั้นเรียนที่เก็บ';     
+        $data['title']='ห้องเรียนที่เก็บ';     
         $courses=model('courses');
         $cond=array('owner'=>$_SESSION['user']['id'],'state'=>'ARCHIVED');
         $courses_data=$courses->get_courses($cond);
@@ -139,7 +139,7 @@ class courses_teaching{
         return view('_template/main',$data);
     }
     function courses_browser(){
-        $data['title']='ชั้นเรียนต้นแบบ';     
+        $data['title']='ห้องเรียนต้นแบบ';     
         $courses=model('courses');
         $user_model=model('user_model');
         $cond=array('visibility'=>'PUBLIC','state'=>'ACTIVE');
