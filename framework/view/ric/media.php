@@ -9,7 +9,7 @@
         <div class="card bg-<?php print !empty($c['cover_color'])?$c['cover_color']:'primary'; ?> text-white mb-3">
             <div class="card-body">
                 <a href="<?php print site_url('media/list/c/'.toBase($c['id'])); ?>">
-                    <p>สื่อการสอนรายวิชา</p><h5 class="card-title text-white"><div class="mb-3">
+                    <p class="card-text">สื่อการสอนรายวิชา</p><h5 class="card-title text-white"><div class="mb-3">
                     <?php print $c['name']; ?></h5>
                 </a>
                 <p class="card-text"><img src="<?php
