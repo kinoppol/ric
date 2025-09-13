@@ -66,6 +66,10 @@ foreach($active_menu as $m){
         background-size: 100% 100%; /* Stretches to 100% width and 100% height of the div */
         background-repeat: no-repeat;
         }
+
+        .menu_bg{
+          background-color:blue;
+        }
     </style>
     <!-- Helpers -->
     <script src="<?php print site_url('template/Sneat/sneat-bootstrap-html-admin-template/',true); ?>assets/vendor/js/helpers.js"></script>
@@ -142,7 +146,7 @@ foreach($active_menu as $m){
         <!-- / Menu -->
 
         <!-- Layout container -->
-        <div class="layout-page">
+        <div class="layout-page  content_div">
           <!-- Navbar -->
 
           <nav
@@ -263,7 +267,7 @@ foreach($active_menu as $m){
           <div class="content-wrapper">
             <!-- Content -->
 
-            <div class="container-xxl flex-grow-1 container-p-y content_div">
+            <div class="container-xxl flex-grow-1 container-p-y">
             <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light"></span> <?php print $title; ?></h4>
               <?php
               print $content;
