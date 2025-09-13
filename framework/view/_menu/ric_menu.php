@@ -4,22 +4,22 @@ $menu['แพลฟอร์มการเรียนการสอน']=arra
     'datacenter'=>array(
         'label'=>'ศูนย์ข้อมูล',
         'bullet'=>'tf-icons bx bx-data',
-        'url'=>'#',
+        'url'=>site_url('datacenter'),
     ),
     'media'=>array(
         'label'=>'สื่อการสอน',
         'bullet'=>'tf-icons bx bx-image',
-        'url'=>'#',
+        'url'=>site_url('media'),
     ),
     'testingroom'=>array(
         'label'=>'ห้องทดสอบ',
         'bullet'=>'tf-icons bx bx-edit',
-        'url'=>'#',
+        'url'=>site_url('testingroom'),
     ),
     'misc'=>array(
         'label'=>'องค์ประกอบเสริม',
         'bullet'=>'tf-icons bx bx-extension',
-        'url'=>'#',
+        'url'=>site_url('misc'),
     ),
 );
 
