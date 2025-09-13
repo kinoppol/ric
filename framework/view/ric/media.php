@@ -12,10 +12,10 @@
                     <p>สื่อการสอนรายวิชา</p><h5 class="card-title text-white"><div class="mb-3">
                     <?php print $c['name']; ?></h5>
                 </a>
-                <p class="card-text">โดย <img src="<?php
+                <p class="card-text"><img src="<?php
                               print show_avatar($c['owner']['picture']);
                               ?>" alt
-                        class="w-px-40 h-auto rounded-circle" /> <?php print $c['owner']['name'].' '.$c['owner']['surname']; ?></p>
+                        class="w-px-40 h-auto rounded-circle" /> โดย <?php print $c['owner']['name'].' '.$c['owner']['surname']; ?></p>
             </div>
         </div>
         </div>
