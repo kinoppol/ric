@@ -157,7 +157,7 @@ foreach($active_menu as $m){
             <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
               <!-- Search -->
               <div class="navbar-nav align-items-center">
-                <div class="nav-item d-flex align-items-center">
+                <div class="nav-item d-flex align-items-center" style="padding-top: 20px;">
                   <h4 style="color:white;"><b>แพลตฟอร์มการจัดการเรียนการสอนของครูสาขาวิชาการจัดการธุรกิจค้าปลีก</b></h4><!--
                   <i class="bx bx-search fs-4 lh-0"></i>
                   <input
