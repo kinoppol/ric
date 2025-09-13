@@ -158,6 +158,7 @@ foreach($active_menu as $m){
               <!-- Search -->
               <div class="navbar-nav align-items-center">
                 <div class="nav-item d-flex align-items-center">
+                  แพลตฟอร์มการจัดการเรียนการสอนของครูสาขาวิชาการจัดการธุรกิจค้าปลีก<!--
                   <i class="bx bx-search fs-4 lh-0"></i>
                   <input
                     type="text"
@@ -165,6 +166,7 @@ foreach($active_menu as $m){
                     placeholder="Search..."
                     aria-label="Search..."
                   />
+      -->
                 </div>
               </div>
               <!-- /Search -->

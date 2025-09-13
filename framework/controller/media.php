@@ -3,7 +3,7 @@
 class media{
     function index(){
         helper('base');
-        $data['title']='สื่อการสอน';
+        $data['title']='สื่อการสอน : Learning Resources';
 
         $courses=model('courses');
         $user_model=model('user_model');
