@@ -17,7 +17,7 @@ class media{
             $c['owner']=$owner_data[0];
             $c_data[]=$c;
         }
-        print_r($c_data);
+        //print_r($c_data);
         $data['courses']=$c_data;
         $data['content']=view('ric/media',$data);
         return view('_template/main',$data);
