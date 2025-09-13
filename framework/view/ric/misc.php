@@ -7,7 +7,7 @@
           <h5 class="card-title">โครงการอบรมสัมมนา Upskill Reskill</h5>
           <p class="card-text">
 </p>
-<a href="https://training.r-hrd.net/Account/Login?ReturnUrl=%2fe-learning%2fEnroll2%2fTrainingWatch2" target="_blank" class="btn btn-primary">รับการอบรม</a>
+<a href="https://e-training.tpqi.go.th/courses/338/info" target="_blank" class="btn btn-primary">รับการอบรม</a>
         </div>
       </div>
     </div>
