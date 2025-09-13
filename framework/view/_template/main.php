@@ -60,7 +60,7 @@ foreach($active_menu as $m){
         font-family: "Kanit", sans-serif;
         }
         .content_div{
-        background-image: url('./images/flower_blur.png');
+        background-image: url('./images/ric_bg.jpg');
         
   background-attachment: fixed;
         background-size: 100% 100%; /* Stretches to 100% width and 100% height of the div */
