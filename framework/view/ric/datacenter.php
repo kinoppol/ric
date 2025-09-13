@@ -4,10 +4,10 @@
       <div class="card text-left">
         <div class="card-header">ข้อมูลหลักสูตร</div>
         <div class="card-body">
-          <h5 class="card-title">หลักสูตรระดับ ปวช./ ปวส. 2567</h5>
+          <h5 class="card-title">หลักสูตรระดับ ปวช./ ปวส. <br>พุทธศักราช 2567</h5>
           <p class="card-text">
         <a href="https://bsq.vec.go.th/Portals/9/Course/20/2567/20200/20211v9.pdf" target="_blank">สาขาวิชาธุรกิจค้าปลีก (ปวช.)</a>
-</p>    <a href="https://bsq.vec.go.th/Portals/9/Course/30/2567/30200/30211v3.pdf" target="_blank">สาขาวิชาการจัดการธุรกิจค้าปลีก (ปวส.)</a>
+   <a href="https://bsq.vec.go.th/Portals/9/Course/30/2567/30200/30211v3.pdf" target="_blank">สาขาวิชาการจัดการธุรกิจค้าปลีก (ปวส.)</a>
         </div>
       </div>
     </div>
@@ -18,6 +18,7 @@
         <div class="card-body">
           <h5 class="card-title">สถานศึกษาในสังกัด สอศ.</h5>
           <p class="card-text">
+            รายชื่อสถานศึกษา<br>
         <a href="https://vec.go.th/th-th/หน่วยงานในสังกัด/สถานศึกษาในสังกัดสอศ/สถานศึกษาอาชีวศึกษารัฐบาล.aspx" target="_blank">สถานศึกษาอาชีวศึกษาภาครัฐ</a>
         <a href="https://vecp.vec.go.th/Portals/68/Doc/School/Private%20Vocational%20School%202567.pdf?ver=2568-06-10-133001-283" target="_blank">สถานศึกษาอาชีวศึกษาภาคเอกชน</a>
         </div>
@@ -29,12 +30,10 @@
         <div class="card-header">ข้อมูลสถานประกอบการ</div>
         <div class="card-body">
           <h5 class="card-title">สภานประกอบการกลุ่มค้าปลีก</h5>
-          <p class="card-text">บริษัท ที่ทำธุรกิจด้านค้าปลีก ทั่วประเทศ<br>
-          บริษัทจำกัด มหาชน
-               <a href="https://www.set.or.th/th/market/index/set/consump" target="_blank" class="btn btn-success">รายชื่อบริษัทค้าปลีกชั้นนำ</a>
-        </div>
+          <p class="card-text">บริษัท ที่ทำธุรกิจด้านค้าปลีก ทั่วประเทศ
 
-</p>
+               <a href="https://www.set.or.th/th/market/index/set/consump" target="_blank" class="btn btn-success">รายชื่อบริษัทค้าปลีกชั้นนำ</a>
+        </p></div>
       </div>
     </div>
     
@@ -62,7 +61,6 @@
         <div class="card-body">
           <h5 class="card-title">สถานการณ์ตลาดแรงงานรายปีทั่วประเทศ</h5>
           <p class="card-text">กรมการจัดหางาน<br>
-          วารสารสถานการณ์ตลาดแรงงานรายปี (ทั่วประเทศ)
 </p>
           <a href="https://catalog.doe.go.th/dataset/dataset13_14" target="_blank" class="btn btn-success">ดูเพิ่มเติม</a>
         </div>
