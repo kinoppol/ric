@@ -1,4 +1,5 @@
 <?php
+class courses_learning{
     function my_courses(){
         $data['title']='ชั้นเรียนของฉัน';        
         $courses=model('courses');
@@ -11,3 +12,4 @@
         $data['content']=view('courses/courses_list',$data);
         return view('_template/main',$data);
     }
+}
