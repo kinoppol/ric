@@ -13,9 +13,9 @@
                     <img src="<?php
                               print show_avatar($c['owner']['picture']);
                               ?>" alt
-                        class="w-px-40 h-auto rounded-circle" /> <?php print $c['name']; ?></h5>
+                        class="w-px-40 h-auto rounded-circle" /> <?php print $c['owner']['name'].' '.$c['owner']['surname']; ?></h5>
                 </a>
-                <p class="card-text"><?php print $c['section']; ?></p>
+                <p class="card-text"><?php print $c['name']; ?></p>
             </div>
         </div>
         </div>
