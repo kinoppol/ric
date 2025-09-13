@@ -104,7 +104,7 @@ class courses_teaching{
         return view('_template/main',$data);
     }
     function my_courses(){
-        $data['title']='ชั้นเรียนของฉัน';        
+        $data['title']='ชั้นเรียนของฉัน : Online Learning Classroom';        
         $courses=model('courses');
         $user_model=model('user_model');
         $owner_data=$user_model->get_user(array('id'=>$_SESSION['user']['id']));
