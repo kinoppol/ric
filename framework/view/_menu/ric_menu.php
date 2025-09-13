@@ -7,20 +7,20 @@ $menu['แพลฟอร์มการเรียนการสอน']=arra
         'url'=>site_url('datacenter'),
     ),
     'courses_teaching'=>array(
-        'label'=>'ชั้นเรียน',
+        'label'=>'ห้องเรียนออนไลน์',
         'bullet'=>'tf-icons bx bx-book',
         'url'=>site_url('courses_teaching'),
         'item'=>array(
                 'my_courses'=>array(
-                'label'=>'ชั้นเรียนของฉัน',
+                'label'=>'ห้องเรียนของฉัน',
                 'url'=>site_url('courses_teaching/my_courses'),
             ),
                 'courses_browser'=>array(
-                'label'=>'ชั้นเรียนต้นแบบ',
+                'label'=>'ห้องเรียนต้นแบบ',
                 'url'=>site_url('courses_teaching/courses_browser'),
             ),
                 'courses_archived'=>array(
-                'label'=>'ชั้นเรียนที่เก็บ',
+                'label'=>'ห้องเรียนที่เก็บ',
                 'url'=>site_url('courses_teaching/courses_archived'),
         ),
         ),
