@@ -66,10 +66,6 @@ foreach($active_menu as $m){
         background-size: 100% 100%; /* Stretches to 100% width and 100% height of the div */
         background-repeat: no-repeat;
         }
-
-        .menu_bg{
-          background-color:blue;
-        }
     </style>
     <!-- Helpers -->
     <script src="<?php print site_url('template/Sneat/sneat-bootstrap-html-admin-template/',true); ?>assets/vendor/js/helpers.js"></script>
@@ -136,7 +132,6 @@ foreach($active_menu as $m){
             </a>
           </div>
 
-          <div class="menu-inner-shadow"></div>
           <ul class="menu-inner py-1">
   <?php
     print $menu;
