@@ -59,6 +59,11 @@ foreach($active_menu as $m){
         button, a, li, p, h1, body {
         font-family: "Kanit", sans-serif;
         }
+        .content_div{
+        background-image: url('./images/flower_blur.png');
+        background-size: 100% 100%; /* Stretches to 100% width and 100% height of the div */
+        background-repeat: no-repeat;
+        }
     </style>
     <!-- Helpers -->
     <script src="<?php print site_url('template/Sneat/sneat-bootstrap-html-admin-template/',true); ?>assets/vendor/js/helpers.js"></script>
@@ -256,7 +261,7 @@ foreach($active_menu as $m){
           <div class="content-wrapper">
             <!-- Content -->
 
-            <div class="container-xxl flex-grow-1 container-p-y">
+            <div class="container-xxl flex-grow-1 container-p-y content_div">
             <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light"></span> <?php print $title; ?></h4>
               <?php
               print $content;

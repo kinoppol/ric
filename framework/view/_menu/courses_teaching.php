@@ -1,6 +1,6 @@
 <?php
 
-$menu['ชั้นเรียน']=array(
+$menu['ห้องเรียนออนไลน์']=array(
     'courses_teaching'=>array(
         'label'=>'ชั้นเรียน',
         'bullet'=>'tf-icons bx bx-book',
