@@ -4,7 +4,7 @@
       <div class="card text-center">
         <div class="card-header">ประมวลความรู้</div>
         <div class="card-body">
-          <h5 class="card-title">การทดสอบประมวลความรู้รายวิชา</h5>
+          <h5 class="card-title">ทดสอบประมวลความรู้รายวิชา</h5>
           <p class="card-text">
 </p>
 <a href="<?php print site_url('testingroom/compilation'); ?>" class="btn btn-primary">เข้ารับการทดสอบ</a>
