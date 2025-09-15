@@ -2,36 +2,24 @@
 
 <div class="col-md-6 col-lg-4">
       <div class="card text-center">
-        <div class="card-header">V-NET</div>
+        <div class="card-header">ประมวลความรู้</div>
         <div class="card-body">
-          <h5 class="card-title">การทดสอบทางการศึกษาระดับชาติด้านอาชีวศึกษา</h5>
+          <h5 class="card-title">การทดสอบประมวลความรู้รายวิชา</h5>
           <p class="card-text">
 </p>
-<a href="https://www.niets.or.th/th/catalog/view/242" target="_blank" class="btn btn-primary">การสอบ V-NET</a>
+<a href="<?php print site_url('testingroom/compilation'); ?>" class="btn btn-primary">เข้ารับการทดสอบ</a>
         </div>
       </div>
     </div>
 
 <div class="col-md-6 col-lg-4">
       <div class="card text-center">
-        <div class="card-header">N-NET</div>
+        <div class="card-header">ประเมินสมรรถนะ</div>
         <div class="card-body">
-          <h5 class="card-title">การทดสอบทางการศึกษาระดับชาติ</h5>
+          <h5 class="card-title">ทดสอบประเมินสมรรถนะวิชาชีพธุรกิจค้าปลีก</h5>
           <p class="card-text">
 </p>
-<a href="https://www.niets.or.th/th/catalog/view/245" target="_blank" class="btn btn-primary">การรสอบ N-NET</a>
-        </div>
-      </div>
-    </div>
-
-<div class="col-md-6 col-lg-4">
-      <div class="card text-center">
-        <div class="card-header">โครงการอื่น ๆ</div>
-        <div class="card-body">
-          <h5 class="card-title">การทดสอบโครงการอื่น ๆ</h5>
-          <p class="card-text">
-</p>
-<a href="https://www.niets.or.th/th/catalog/view/4077" target="_blank" class="btn btn-primary">การรสอบโครงการอื่น ๆ</a>
+<a href="<?php print site_url('testingroom/performance'); ?>" class="btn btn-primary">เข้ารับการประเมิน</a>
         </div>
       </div>
     </div>
