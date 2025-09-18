@@ -22,8 +22,8 @@ class afa extends dummy_model{
         
     }
     
-    function get_available($data=array()){
-        $sql='select * from '.$this->table.' where '.arr2and($data).' and book_time>"'.date('Y-m-d H:i:s').' limit 1"';
+    function get_available($user_id){
+        $sql='select * from '.$this->table.' where (ask_id='.$user_id.' or teacher_id='.$user_id.') and book_time>"'.date('Y-m-d H:i:s',time()-300).' limit 1"';
         //print $sql;
         $result=$this->db->query($sql);
 

@@ -4,7 +4,7 @@ class misc{
     function index(){
         $user_model=model('user_model');
         $ask_for_advice=model('afa');
-        $afa_data=$ask_for_advice->get_available(['ask_id'=>$_SESSION['user']['id']]);
+        $afa_data=$ask_for_advice->get_available($_SESSION['user']['id']);
         $teacher_data=$user_model->get_user(array('user_type_id'=>3));
 
         $teachers=array();
